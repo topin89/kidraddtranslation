@@ -8,3 +8,6 @@
 \bCool Ragnarok\b	Отпадн\w+ Коллапс	Cool Ragnarok -> Отпадный Коллапс
 \bC\.R\.	О\.Ко	C.R. -> О.Ко
 \bSeer\b	Ок[оа]	Seer -> Око
+\bKobayashi\b	Кобаяси	Kobayashi -> Кобаяси (indeclinable)
+(?i)\bdiscount ninja\b	[Вв]торосортн\w* ниндзя	Discount Ninja -> второсортный ниндзя (Кобаяси — второсортный ниндзя)
+\bKielbasa\b	Кулебяси	Kielbasa (Radd's nickname) -> Кулебяси

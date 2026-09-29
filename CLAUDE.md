@@ -15,7 +15,8 @@ See README.md for layout and workflow. Key rules:
 ## Translation style
 
 - Names (fixed, in glossary.tsv): Radd → Улёт, Sheena → Шина, Bogey → Бяка, Gnarl → Отпад,
-  Cool Ragnarok / C.R. / Seer → Отпадный Коллапс / О.Ко / Око. Use ё in Улёт.
+  Cool Ragnarok / C.R. / Seer → Отпадный Коллапс / О.Ко / Око, Kobayashi the Discount Ninja →
+  Кобаяси — второсортный ниндзя, Kielbasa (Radd's nickname) → Кулебяси. Use ё in Улёт.
 - Tone: 90s cool-speak, but per character and context-dependent. When unsure, go neutral;
   the user polishes later.
 - Russian typography: «ёлочки» for quotes, em dash — for dialogue breaks, … for ellipsis.
