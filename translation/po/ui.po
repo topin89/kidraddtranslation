@@ -1,0 +1,48 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kid Radd RU — UI\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: kidradd tools/extract.py\n"
+
+#. Browser tab title.
+#: kidradd/comic1.htm:3 kidradd/comic1.htm:244 kidradd/comic2.htm:3
+msgid "Kid Radd &copy;2002 by Dan Miller"
+msgstr ""
+
+#: kidradd/comic1.htm:39 kidradd/comic1.htm:75 kidradd/comic1.htm:133
+msgid "zoom"
+msgstr ""
+
+#: kidradd/comic1.htm:41 kidradd/comic1.htm:77 kidradd/comic1.htm:135
+msgid "list"
+msgstr ""
+
+#: kidradd/comic1.htm:260
+msgid "Tip: Use the Left/Right arrow keys to navigate."
+msgstr ""
+
+#: kidradd/comic163.htm:312 kidradd/comic169.htm:311 kidradd/comic170.htm:258
+msgid "Kid Radd &copy;2003 by Dan Miller"
+msgstr ""
+
+#. Browser tab title.
+#: kidradd/comic429.htm:3 kidradd/comic430.htm:3 kidradd/comic431.htm:3
+msgid "Kid Radd &copy;2004 by Dan Miller"
+msgstr ""
+
+#. Label of the Translator Notes button (fits in a 39px box, like "zoom"/"list").
+msgid "notes"
+msgstr ""
+
+#. Heading of the notes popup.
+msgid "Translator notes"
+msgstr ""
+
+#. Close button of the notes popup.
+msgid "close"
+msgstr ""

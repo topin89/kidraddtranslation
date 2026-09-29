@@ -1,0 +1,4 @@
+ru/
+__pycache__/
+*.pyc
+*.mo

@@ -1,0 +1,2138 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kid Radd RU — Chapter 15: Off to See the Seer\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: kidradd tools/extract.py\n"
+
+#. comic241 panel title
+#. slot: background color and image
+#: kidradd/comic241.htm:35
+msgctxt "comic241#title.1"
+msgid "\"TOO MUCH TIME ON MY HANDS\""
+msgstr ""
+
+#. comic241 panel p1
+#. slot: left bubble
+#. images: sheenaback2.gif
+#: kidradd/comic241.htm:76
+msgctxt "comic241#p1.1"
+msgid "Being unable to do anything is so depressing... I wonder how the others are holding out?"
+msgstr ""
+
+#. comic241 panel p2
+#. slot: left bubble
+#. images: bogeyargh2.gif
+#: kidradd/comic241.htm:132
+msgctxt "comic241#p2.1"
+msgid "I have no job and nothing to do. I think I'm gonna go nuts!"
+msgstr ""
+
+#. comic241 panel p3
+#. slot: right bubble
+#. images: raddblink.gif
+#: kidradd/comic241.htm:187
+msgctxt "comic241#p3.1"
+msgid "I have no job and nothing to do. Awesome!"
+msgstr ""
+
+#. comic241 panel p4
+#. slot: left bubble
+#. images: ampmic.gif, pred1.gif, microscope.gif
+#: kidradd/comic241.htm:235
+msgctxt "comic241#p4.1"
+msgid "I have no job and nothing to do. I guess I'll build some weapons of mass destruction."
+msgstr ""
+
+#. comic241 panel p5
+#. slot: left bubble
+#. images: juliefglad2.gif
+#: kidradd/comic241.htm:289
+msgctxt "comic241#p5.1"
+msgid "La dee da... La dee deeeee dee da...<br><i>hee-hee.</i>"
+msgstr ""
+
+#. comic242 panel title
+#. slot: background color and image
+#: kidradd/comic242.htm:34
+msgctxt "comic242#title.1"
+msgid "\"WALKING ON SUNSHINE\""
+msgstr ""
+
+#. comic242 panel p1
+#. slot: left bubble
+#. images: raddright.gif
+#: kidradd/comic242.htm:75
+msgctxt "comic242#p1.1"
+msgid "Bogey? Are you in here?"
+msgstr ""
+
+#. comic242 panel p1
+#. slot: right bubble
+#. images: raddright.gif
+#: kidradd/comic242.htm:79
+msgctxt "comic242#p1.2"
+msgid "Yeah, come in."
+msgstr ""
+
+#. comic242 panel p2
+#. slot: left bubble
+#. images: raddstand.gif, bogeypot.gif
+#: kidradd/comic242.htm:132
+msgctxt "comic242#p2.1"
+msgid "Oh, um... yeah."
+msgstr ""
+
+#. comic242 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, bogeypot.gif
+#: kidradd/comic242.htm:136
+msgctxt "comic242#p2.2"
+msgid "What?"
+msgstr ""
+
+#. comic242 panel p3
+#. slot: left bubble
+#. images: raddright.gif, bogeypot.gif
+#: kidradd/comic242.htm:184
+msgctxt "comic242#p3.1"
+msgid "Are you, uh, feeling alright?"
+msgstr ""
+
+#. comic242 panel p3
+#. slot: right bubble
+#. images: raddright.gif, bogeypot.gif
+#: kidradd/comic242.htm:188
+msgctxt "comic242#p3.2"
+msgid "This is just my way of relaxing, okay? You should try it."
+msgstr ""
+
+#. comic242 panel p4
+#. slot: left bubble
+#. images: raddblink.gif, bogeypot.gif
+#: kidradd/comic242.htm:238
+msgctxt "comic242#p4.1"
+msgid "No thanks. I don't dig enemy sprite stuff."
+msgstr ""
+
+#. comic242 panel p4
+#. slot: right bubble
+#. images: raddblink.gif, bogeypot.gif
+#: kidradd/comic242.htm:242
+msgctxt "comic242#p4.2"
+msgid "Your loss. I hear Sheena does."
+msgstr ""
+
+#. comic242 panel p5
+#. slot: left bubble
+#. images: raddpot.gif
+#: kidradd/comic242.htm:289
+msgctxt "comic242#p5.1"
+msgid "Hey, this <b>is</b> kinda fun."
+msgstr ""
+
+#. comic242 panel p5
+#. slot: right bubble
+#. images: raddpot.gif
+#: kidradd/comic242.htm:293
+msgctxt "comic242#p5.2"
+msgid "Doesn't take much to sway you, huh?"
+msgstr ""
+
+#. comic243 panel title
+#. slot: background color and image
+#: kidradd/comic243.htm:35
+msgctxt "comic243#title.1"
+msgid "\"MOTORIN'\""
+msgstr ""
+
+#. comic243 panel p1
+#. slot: right bubble
+#. images: thought.gif, raddwalk2.gif
+#: kidradd/comic243.htm:80
+msgctxt "comic243#p1.1"
+msgid "Hanging with Bogey is boring. Maybe I'll see what Amp is doing."
+msgstr ""
+
+#. comic243 panel p2
+#. slot: left bubble
+#. images: raddright.gif, sheenastand2.gif
+#: kidradd/comic243.htm:132
+msgctxt "comic243#p2.1"
+msgid "Hey, where's Dr. Amp?"
+msgstr ""
+
+#. comic243 panel p2
+#. slot: right bubble
+#. images: raddright.gif, sheenastand2.gif
+#: kidradd/comic243.htm:136
+msgctxt "comic243#p2.2"
+msgid "I think he's in his lab, making more guns or something."
+msgstr ""
+
+#. comic243 panel p3
+#. slot: left bubble
+#. images: raddsigh.gif, sheenasmug2.gif
+#: kidradd/comic243.htm:183
+msgctxt "comic243#p3.1"
+msgid "Not again! That last one nearly killed me! Where's his lab?"
+msgstr ""
+
+#. comic243 panel p3
+#. slot: right bubble
+#. images: raddsigh.gif, sheenasmug2.gif
+#: kidradd/comic243.htm:187
+msgctxt "comic243#p3.2"
+msgid "Oh, you gotta pass through the engine room, just at the end of the hall."
+msgstr ""
+
+#. comic243 panel p4
+#. slot: right bubble
+#. images: thought.gif, raddback.gif
+#: kidradd/comic243.htm:239
+msgctxt "comic243#p4.1"
+msgid "Engine room? I guess I haven't been here yet, either..."
+msgstr ""
+
+#. comic243 panel p5
+#. slot: left bubble
+#. images: black.gif, raddwow2.gif
+#: kidradd/comic243.htm:289
+msgctxt "comic243#p5.1"
+msgid "Holy bit!"
+msgstr ""
+
+#. comic244 panel title
+#. slot: background color and image
+#: kidradd/comic244.htm:35
+msgctxt "comic244#title.1"
+msgid "\"STRAP YOUR HANDS\""
+msgstr ""
+
+#. comic244 panel p1
+#. slot: left bubble
+#. images: raddwow.gif, amp2.gif
+#: kidradd/comic244.htm:76
+msgctxt "comic244#p1.1"
+msgid "What the hell is this place?"
+msgstr ""
+
+#. comic244 panel p1
+#. slot: right bubble
+#. images: raddwow.gif, amp2.gif
+#: kidradd/comic244.htm:80
+msgctxt "comic244#p1.2"
+msgid "Oh, hi Radd. Welcome to the engine room."
+msgstr ""
+
+#. comic244 panel p2
+#. slot: left bubble
+#. images: raddtablem.gif, amptable2.gif
+#: kidradd/comic244.htm:133
+msgctxt "comic244#p2.1"
+msgid "You power this ship with puzzle sprites???"
+msgstr ""
+
+#. comic244 panel p2
+#. slot: right bubble
+#. images: raddtablem.gif, amptable2.gif
+#: kidradd/comic244.htm:137
+msgctxt "comic244#p2.2"
+msgid "Of course. They're all the free power we'll ever need, and they love it."
+msgstr ""
+
+#. comic244 panel p3
+#. slot: left bubble
+#. images: raddback.gif, amp2.gif
+#: kidradd/comic244.htm:183
+msgctxt "comic244#p3.1"
+msgid "That's kinda messed up, though."
+msgstr ""
+
+#. comic244 panel p3
+#. slot: right bubble
+#. images: raddback.gif, amp2.gif
+#: kidradd/comic244.htm:187
+msgctxt "comic244#p3.2"
+msgid "They gave me the idea to name the ship the \"High Score.\""
+msgstr ""
+
+#. comic244 panel p4
+#. slot: left bubble
+#. images: raddstand.gif, amp2.gif
+#: kidradd/comic244.htm:235
+msgctxt "comic244#p4.1"
+msgid "Correction, <b>that's</b> messed up."
+msgstr ""
+
+#. comic244 panel p4
+#. slot: right bubble
+#. images: raddstand.gif, amp2.gif
+#: kidradd/comic244.htm:239
+msgctxt "comic244#p4.2"
+msgid "It was either that or the \"Bonus Round.\""
+msgstr ""
+
+#. comic245 panel title
+#. slot: background color and image
+#: kidradd/comic245.htm:35
+msgctxt "comic245#title.1"
+msgid "\"DREAM WEAVER\""
+msgstr ""
+
+#. comic245 panel p1
+#. slot: narration (if any, else cut)
+#. images: thought.gif, sheenaslp.gif
+#: kidradd/comic245.htm:72
+msgctxt "comic245#p1.1"
+msgid "That night, Sheena's sleep is far from peaceful."
+msgstr ""
+
+#. comic245 panel p1
+#. slot: middle bubble
+#. images: thought.gif, sheenaslp.gif
+#: kidradd/comic245.htm:80
+msgctxt "comic245#p1.2"
+msgid "Go... away..."
+msgstr ""
+
+#. comic245 panel p2
+#. slot: middle bubble
+#. images: sheenaslp2.gif
+#: kidradd/comic245.htm:136
+msgctxt "comic245#p2.1"
+msgid "<font size=\"2\" face=\"arial\" color=\"DF31FF\">This one has a riddle!</font><br><br><font size=\"2\" face=\"arial\" color=\"A531FF\">We like riddles! We do!</font>"
+msgstr ""
+
+#. comic245 panel p3
+#. slot: middle bubble
+#. images: sheenaslp3.gif
+#: kidradd/comic245.htm:187
+msgctxt "comic245#p3.1"
+msgid "<font size=\"2\" face=\"arial\" color=\"DF31FF\">She really needs to visit us. It will make the future less boring!</font><br><font size=\"2\" face=\"arial\" color=\"A531FF\">Yes, if she visits us, the future's path will change greatly.</font>"
+msgstr ""
+
+#. comic245 panel p4
+#. slot: middle bubble
+#. images: sheenaslp4.gif
+#: kidradd/comic245.htm:239
+msgctxt "comic245#p4.1"
+msgid "<font size=\"2\" face=\"arial\" color=\"DF31FF\">Indeed, it may change so much that even we can't predict it!</font><br><br><font size=\"2\" face=\"arial\" color=\"A531FF\">Oh, what fun that would be!</font>"
+msgstr ""
+
+#. comic245 panel p5
+#. slot: middle bubble
+#. images: sheenabed.gif
+#: kidradd/comic245.htm:291
+msgctxt "comic245#p5.1"
+msgid "Oh no. That <b>can't</b> be the answer..."
+msgstr ""
+
+#. comic246 panel title
+#. slot: background color and image
+#: kidradd/comic246.htm:51
+msgctxt "comic246#title.1"
+msgid "\"THE WALL\""
+msgstr ""
+
+#. comic246 panel p1
+#. slot: left bubble
+#. images: sheenablink.gif, bogeytalk2.gif
+#: kidradd/comic246.htm:92
+msgctxt "comic246#p1.1"
+msgid "Bogey, I think I know what we need to do."
+msgstr ""
+
+#. comic246 panel p1
+#. slot: right bubble
+#. images: sheenablink.gif, bogeytalk2.gif
+#: kidradd/comic246.htm:96
+msgctxt "comic246#p1.2"
+msgid "One moment Sheena, I'm busy. Now, Radd!"
+msgstr ""
+
+#. comic246 panel p2
+#. slot: narration (if any, else cut)
+#. images: point.gif
+#: kidradd/comic246.htm:145
+msgctxt "comic246#p2.1"
+msgid "CHARRRGE!!!"
+msgstr ""
+
+#. comic246 panel p3
+#. slot: left bubble
+#. images: raddhall2.gif
+#: kidradd/comic246.htm:203
+msgctxt "comic246#p3.1"
+msgid "I <b>told</b> ya you couldn't crack the wall with your head! Now pay up!"
+msgstr ""
+
+#. comic246 panel p3
+#. slot: right bubble
+#. images: raddhall2.gif
+#: kidradd/comic246.htm:207
+msgctxt "comic246#p3.2"
+msgid "Aw man..."
+msgstr ""
+
+#. comic246 panel p4
+#. slot: left bubble
+#. images: raddhall3.gif
+#: kidradd/comic246.htm:257
+msgctxt "comic246#p4.1"
+msgid "You guys definitely need to get off this ship."
+msgstr ""
+
+#. comic246 panel p4
+#. slot: middle bubble
+#. images: raddhall3.gif
+#: kidradd/comic246.htm:259
+msgctxt "comic246#p4.2"
+msgid "Next, I bet ya can't crack the power conduit!"
+msgstr ""
+
+#. comic246 panel p4
+#. slot: right bubble
+#. images: raddhall3.gif
+#: kidradd/comic246.htm:261
+msgctxt "comic246#p4.3"
+msgid "You're on!"
+msgstr ""
+
+#. comic247 panel title
+#. slot: background color and image
+#: kidradd/comic247.htm:34
+msgctxt "comic247#title.1"
+msgid "\"SAY WHAT?\""
+msgstr ""
+
+#. comic247 panel p1
+#. slot: left bubble
+#. images: raddchair.gif, bogeyup.gif, sheenastand2.gif
+#: kidradd/comic247.htm:75
+msgctxt "comic247#p1.1"
+msgid "Okay, here's my plan to stop our cycle of endless wandering and running from the Mods."
+msgstr ""
+
+#. comic247 panel p2
+#. slot: left bubble
+#. images: chead.gif, sheenaleft.gif
+#: kidradd/comic247.htm:132
+msgctxt "comic247#p2.1"
+msgid "As you may the recall, the Mods' unofficial leader Crystal is pursuing ultimate power. She's doing this via some mysterious advice she learned from the Seer."
+msgstr ""
+
+#. comic247 panel p3
+#. slot: left bubble
+#. images: raddtablem.gif, bogeytabled.gif, sheenatable2.gif
+#: kidradd/comic247.htm:184
+msgctxt "comic247#p3.1"
+msgid "Wait, the Seer? That oracle who answers anything, but everyone who visits him somehow turns up dead?"
+msgstr ""
+
+#. comic247 panel p3
+#. slot: right bubble
+#. images: raddtablem.gif, bogeytabled.gif, sheenatable2.gif
+#: kidradd/comic247.htm:188
+msgctxt "comic247#p3.2"
+msgid "Yeah, that's the one."
+msgstr ""
+
+#. comic247 panel p4
+#. slot: left bubble
+#. images: raddtable3.gif, bogeytabled.gif, sheenatable2.gif
+#: kidradd/comic247.htm:237
+msgctxt "comic247#p4.1"
+msgid "Man, I'd hate to go anywhere near that guy. So what's your plan?"
+msgstr ""
+
+#. comic247 panel p4
+#. slot: right bubble
+#. images: raddtable3.gif, bogeytabled.gif, sheenatable2.gif
+#: kidradd/comic247.htm:241
+msgctxt "comic247#p4.2"
+msgid "We're going to visit him."
+msgstr ""
+
+#. comic247 panel p5
+#. slot: left bubble
+#. images: raddtable.gif, bogeytabledd.gif, sheenatablem2.gif
+#: kidradd/comic247.htm:287
+msgctxt "comic247#p5.1"
+msgid "Heh. And I thought I was the stupid one here."
+msgstr ""
+
+#. comic247 panel p5
+#. slot: middle bubble
+#. images: raddtable.gif, bogeytabledd.gif, sheenatablem2.gif
+#: kidradd/comic247.htm:289
+msgctxt "comic247#p5.2"
+msgid "Don't worry, you still are."
+msgstr ""
+
+#. comic247 panel p5
+#. slot: right bubble
+#. images: raddtable.gif, bogeytabledd.gif, sheenatablem2.gif
+#: kidradd/comic247.htm:291
+msgctxt "comic247#p5.3"
+msgid "Guys, this is serious!"
+msgstr ""
+
+#. comic248 panel title
+#. slot: background color and image
+#: kidradd/comic248.htm:34
+msgctxt "comic248#title.1"
+msgid "\"FOOL'S CHANCE\""
+msgstr ""
+
+#. comic248 panel p1
+#. slot: left bubble
+#. images: raddtablem.gif, bogeytabled.gif, sheenatable2.gif
+#: kidradd/comic248.htm:75
+msgctxt "comic248#p1.1"
+msgid "Sorry Sheena, but there's no way I'm talking to the Seer."
+msgstr ""
+
+#. comic248 panel p1
+#. slot: middle bubble
+#. images: raddtablem.gif, bogeytabled.gif, sheenatable2.gif
+#: kidradd/comic248.htm:77
+msgctxt "comic248#p1.2"
+msgid "Regretfully, I'm inclined to agree."
+msgstr ""
+
+#. comic248 panel p1
+#. slot: right bubble
+#. images: raddtablem.gif, bogeytabled.gif, sheenatable2.gif
+#: kidradd/comic248.htm:79
+msgctxt "comic248#p1.3"
+msgid "But you guys wouldn't."
+msgstr ""
+
+#. comic248 panel p2
+#. slot: left bubble
+#. images: sheenafront2.gif
+#: kidradd/comic248.htm:131
+msgctxt "comic248#p2.1"
+msgid "<b>I</b> would. It's my idea, so I'll take the risk. It needs to be done."
+msgstr ""
+
+#. comic248 panel p3
+#. slot: left bubble
+#. images: raddtablen.gif, bogeytablen.gif, sheenatableb2.gif
+#: kidradd/comic248.htm:183
+msgctxt "comic248#p3.1"
+msgid "But Sheena..."
+msgstr ""
+
+#. comic248 panel p3
+#. slot: middle bubble
+#. images: raddtablen.gif, bogeytablen.gif, sheenatableb2.gif
+#: kidradd/comic248.htm:185
+msgctxt "comic248#p3.2"
+msgid "Don't throw your life away!"
+msgstr ""
+
+#. comic248 panel p3
+#. slot: right bubble
+#. images: raddtablen.gif, bogeytablen.gif, sheenatableb2.gif
+#: kidradd/comic248.htm:187
+msgctxt "comic248#p3.3"
+msgid "Oh, I won't! Really."
+msgstr ""
+
+#. comic248 panel p4
+#. slot: left bubble
+#. images: raddtable.gif, bogeytabled.gif, sheenatable2.gif
+#: kidradd/comic248.htm:236
+msgctxt "comic248#p4.1"
+msgid "I'm an invincible NPC, remember? There's no way a contrived, monkey's paw style accident can kill me! I'll be just fine!"
+msgstr ""
+
+#. comic248 panel p5
+#. slot: middle bubble
+#. images: thought2.gif, sheadsad.gif
+#: kidradd/comic248.htm:288
+msgctxt "comic248#p5.1"
+msgid "...I think."
+msgstr ""
+
+#. comic249 panel title
+#. slot: background color and image
+#: kidradd/comic249.htm:34
+msgctxt "comic249#title.1"
+msgid "\"TROUBLE YOURSELF NOT\""
+msgstr ""
+
+#. comic249 panel p1
+#. slot: left bubble
+#. images: raddtable.gif, bogeytablen.gif, sheenatabled2.gif
+#: kidradd/comic249.htm:75
+msgctxt "comic249#p1.1"
+msgid "I dunno, Sheena..."
+msgstr ""
+
+#. comic249 panel p1
+#. slot: middle bubble
+#. images: raddtable.gif, bogeytablen.gif, sheenatabled2.gif
+#: kidradd/comic249.htm:77
+msgctxt "comic249#p1.2"
+msgid "Do you really want to go through with this?"
+msgstr ""
+
+#. comic249 panel p1
+#. slot: right bubble
+#. images: raddtable.gif, bogeytablen.gif, sheenatabled2.gif
+#: kidradd/comic249.htm:79
+msgctxt "comic249#p1.3"
+msgid "It's truly our only option."
+msgstr ""
+
+#. comic249 panel p2
+#. slot: left bubble
+#. images: sheenafront2.gif
+#: kidradd/comic249.htm:131
+msgctxt "comic249#p2.1"
+msgid "If there's any way at all for us to stop the Mods, the Seer is the only one who knows it. And we <b>have</b> to find out, for everyone's sake."
+msgstr ""
+
+#. comic249 panel p3
+#. slot: left bubble
+#. images: raddtable.gif, bogeytabled.gif, sheenatable2.gif
+#: kidradd/comic249.htm:183
+msgctxt "comic249#p3.1"
+msgid "I guess it's settled, then. I'll tell Amp to take us to the Seer."
+msgstr ""
+
+#. comic249 panel p3
+#. slot: right bubble
+#. images: raddtable.gif, bogeytabled.gif, sheenatable2.gif
+#: kidradd/comic249.htm:187
+msgctxt "comic249#p3.2"
+msgid "That's okay, I already told him. We'll be there any minute now."
+msgstr ""
+
+#. comic249 panel p4
+#. slot: left bubble
+#. images: raddtableargh.gif, bogeytabledd2.gif, sheenatableb2.gif
+#: kidradd/comic249.htm:236
+msgctxt "comic249#p4.1"
+msgid "WHAT?"
+msgstr ""
+
+#. comic249 panel p4
+#. slot: middle bubble
+#. images: raddtableargh.gif, bogeytabledd2.gif, sheenatableb2.gif
+#: kidradd/comic249.htm:238
+msgctxt "comic249#p4.2"
+msgid "You could have pretended this was a group decision."
+msgstr ""
+
+#. comic249 panel p4
+#. slot: right bubble
+#. images: raddtableargh.gif, bogeytabledd2.gif, sheenatableb2.gif
+#: kidradd/comic249.htm:240
+msgctxt "comic249#p4.3"
+msgid "It was - retroactively."
+msgstr ""
+
+#. comic250 panel title
+#. slot: background color and image
+#: kidradd/comic250.htm:34
+msgctxt "comic250#title.1"
+msgid "\"MILES AND MILES\""
+msgstr ""
+
+#. comic250 panel p1
+#. slot: left bubble
+#. images: ship.gif
+#: kidradd/comic250.htm:75
+msgctxt "comic250#p1.1"
+msgid "Whoa. Netspace looks different."
+msgstr ""
+
+#. comic250 panel p1
+#. slot: right bubble
+#. images: ship.gif
+#: kidradd/comic250.htm:79
+msgctxt "comic250#p1.2"
+msgid "The datastream is much sparser here."
+msgstr ""
+
+#. comic250 panel p2
+#. slot: left bubble
+#. images: bogeystand.gif, sheenastand.gif, ampstand.gif, raddstand2.gif, julie2.gif
+#: kidradd/comic250.htm:133
+msgctxt "comic250#p2.1"
+msgid "We're near the Seer's, um, place. Everything here is messed up."
+msgstr ""
+
+#. comic250 panel p2
+#. slot: right bubble
+#. images: bogeystand.gif, sheenastand.gif, ampstand.gif, raddstand2.gif, julie2.gif
+#: kidradd/comic250.htm:137
+msgctxt "comic250#p2.2"
+msgid "\"Messed up?\" That doesn't sound very scientific."
+msgstr ""
+
+#. comic250 panel p3
+#. slot: left bubble
+#. images: ampstand.gif, raddstand2.gif
+#: kidradd/comic250.htm:185
+msgctxt "comic250#p3.1"
+msgid "Well, I could try Star Trek-style technobabble if you like, but I'm not too good at that."
+msgstr ""
+
+#. comic250 panel p3
+#. slot: right bubble
+#. images: ampstand.gif, raddstand2.gif
+#: kidradd/comic250.htm:189
+msgctxt "comic250#p3.2"
+msgid "Nevermind, I'll settle for messed up."
+msgstr ""
+
+#. comic250 panel p4
+#. slot: left bubble
+#. images: seerspace.gif, ship4.gif
+#: kidradd/comic250.htm:238
+msgctxt "comic250#p4.1"
+msgid "There it is..."
+msgstr ""
+
+#. comic250 panel p4
+#. slot: right bubble
+#. images: seerspace.gif, ship4.gif
+#: kidradd/comic250.htm:242
+msgctxt "comic250#p4.2"
+msgid "Damn."
+msgstr ""
+
+#. comic251 panel title
+#. slot: background color and image
+#: kidradd/comic251.htm:51
+msgctxt "comic251#title.1"
+msgid "\"SAY GOODBYE\""
+msgstr ""
+
+#. comic251 panel p1
+#. slot: left bubble
+#: kidradd/comic251.htm:92
+msgctxt "comic251#p1.1"
+msgid "I can't believe you're gonna walk in this - thing. It looks alive."
+msgstr ""
+
+#. comic251 panel p1
+#. slot: middle bubble
+#: kidradd/comic251.htm:94
+msgctxt "comic251#p1.2"
+msgid "I won't take long. I'm ready to go, Dr. Amp."
+msgstr ""
+
+#. comic251 panel p2
+#. slot: narration (if any, else cut)
+#. images: cargobye.gif
+#: kidradd/comic251.htm:145
+msgctxt "comic251#p2.1"
+msgid "'PORTING SHEENA IN 3, 2, 1..."
+msgstr ""
+
+#. comic251 panel p2
+#. slot: left bubble
+#. images: cargobye.gif
+#: kidradd/comic251.htm:151
+msgctxt "comic251#p2.2"
+msgid "Well, see ya soon, guys."
+msgstr ""
+
+#. comic251 panel p2
+#. slot: middle bubble
+#. images: cargobye.gif
+#: kidradd/comic251.htm:153
+msgctxt "comic251#p2.3"
+msgid "Please be careful."
+msgstr ""
+
+#. comic251 panel p2
+#. slot: right bubble
+#. images: cargobye.gif
+#: kidradd/comic251.htm:155
+msgctxt "comic251#p2.4"
+msgid "Yeah... Please."
+msgstr ""
+
+#. comic251 panel p3
+#. slot: narration (if any, else cut)
+#: kidradd/comic251.htm:199
+msgctxt "comic251#p3.1"
+msgid "TELEPORT!"
+msgstr ""
+
+#. comic251 panel p4
+#. slot: right bubble
+#. images: sheenastare.gif, bogeyyell2.gif, raddwow2.gif, stepsv.gif
+#: kidradd/comic251.htm:263
+msgctxt "comic251#p4.1"
+msgid "What the -? Oh. I guess Dr. Amp made another little mistake, huh? Gee, it's almost funny."
+msgstr ""
+
+#. comic251 panel p5
+#. slot: right bubble
+#. images: sheenablink.gif, bogeysnap.gif, raddsnap.gif, stepsv.gif
+#: kidradd/comic251.htm:317
+msgctxt "comic251#p5.1"
+msgid "Sigh, this won't end well..."
+msgstr ""
+
+#. comic252 panel title
+#. slot: background color and image
+#: kidradd/comic252.htm:51
+msgctxt "comic252#title.1"
+msgid "\"OOPS, I DID IT AGAIN\""
+msgstr ""
+
+#. comic252 panel p1
+#. slot: right bubble
+#. images: sheenastand.gif, bogeystand2.gif, raddsigh2.gif, stepsv.gif
+#: kidradd/comic252.htm:96
+msgctxt "comic252#p1.1"
+msgid "Relax guys, this is still my show. You won't be harmed."
+msgstr ""
+
+#. comic252 panel p2
+#. slot: middle bubble
+#. images: portal3.gif
+#: kidradd/comic252.htm:151
+msgctxt "comic252#p2.1"
+msgid "Look, that's the entrance just ahead, and I'll go in alone. Wish me luck."
+msgstr ""
+
+#. comic252 panel p3
+#. slot: left bubble
+#. images: whew.gif
+#: kidradd/comic252.htm:201
+msgctxt "comic252#p3.1"
+msgid "Whew, I was afraid that one accidental teleport had doomed us all!"
+msgstr ""
+
+#. comic252 panel p3
+#. slot: middle bubble
+#. images: whew.gif
+#: kidradd/comic252.htm:203
+msgctxt "comic252#p3.2"
+msgid "Me too. What a relief..."
+msgstr ""
+
+#. comic252 panel p3
+#. slot: right bubble
+#. images: whew.gif
+#: kidradd/comic252.htm:205
+msgctxt "comic252#p3.3"
+msgid "Well rest easy, it's not gonna happen again."
+msgstr ""
+
+#. comic253 panel title
+#. slot: background color and image
+#: kidradd/comic253.htm:51
+msgctxt "comic253#title.1"
+msgid "\"EYE IN THE SKY\""
+msgstr ""
+
+#. comic253 panel p1
+#. slot: left bubble
+#. images: raddwfloat.gif, bogeyfloat2.gif, sheenawfloat2.gif
+#: kidradd/comic253.htm:92
+msgctxt "comic253#p1.1"
+msgid "<b>What</b> just happened?"
+msgstr ""
+
+#. comic253 panel p1
+#. slot: middle bubble
+#. images: raddwfloat.gif, bogeyfloat2.gif, sheenawfloat2.gif
+#: kidradd/comic253.htm:94
+msgctxt "comic253#p1.2"
+msgid "Oh crap, I think this is..."
+msgstr ""
+
+#. comic253 panel p1
+#. slot: right bubble
+#. images: raddwfloat.gif, bogeyfloat2.gif, sheenawfloat2.gif
+#: kidradd/comic253.htm:96
+msgctxt "comic253#p1.3"
+msgid "...The Seer's realm?"
+msgstr ""
+
+#. comic253 panel p2
+#. slot: left bubble
+#. images: sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic253.htm:148
+msgctxt "comic253#p2.1"
+msgid "Welcome!"
+msgstr ""
+
+#. comic253 panel p2
+#. slot: right bubble
+#. images: sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic253.htm:152
+msgctxt "comic253#p2.2"
+msgid "Welcome!"
+msgstr ""
+
+#. comic253 panel p2
+#. slot: middle bubble
+#. images: sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic253.htm:175
+msgctxt "comic253#p2.3"
+msgid "We welcome you!"
+msgstr ""
+
+#. comic253 panel p4
+#. slot: middle bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic253.htm:291
+msgctxt "comic253#p4.1"
+msgid "I WELCOME YOU."
+msgstr ""
+
+#. comic253 panel p4
+#. slot: middle bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic253.htm:316
+msgctxt "comic253#p4.2"
+msgid "Whoa..."
+msgstr ""
+
+#. comic254 panel title
+#. slot: background color and image
+#: kidradd/comic254.htm:34
+msgctxt "comic254#title.1"
+msgid "\"LOOK INTO THE EYEBALL\""
+msgstr ""
+
+#. comic254 panel p1
+#. slot: left bubble
+#. images: bogeyfloat.gif, seerleft.gif
+#: kidradd/comic254.htm:75
+msgctxt "comic254#p1.1"
+msgid "What <b>are</b> you?"
+msgstr ""
+
+#. comic254 panel p1
+#. slot: right bubble
+#. images: bogeyfloat.gif, seerleft.gif
+#: kidradd/comic254.htm:79
+msgctxt "comic254#p1.2"
+msgid "AH, WONDERFUL, THIS IS THE FIRST TIME I'VE BEEN ASKED THAT."
+msgstr ""
+
+#. comic254 panel p2
+#. slot: middle bubble
+#. images: seer.gif
+#: kidradd/comic254.htm:135
+msgctxt "comic254#p2.1"
+msgid "I STARTED LIFE AS SOMETHING HUMANS CALL A \"VIRUS.\" I WAS MADE TO MULTIPLY MYSELF, AND I SPREAD TO COMPUTERS ALL OVER THE WEB."
+msgstr ""
+
+#. comic254 panel p3
+#. slot: left bubble
+#. images: bogeysfloat.gif, seerleft.gif
+#: kidradd/comic254.htm:185
+msgctxt "comic254#p3.1"
+msgid "Bizarre. Humans do strange things."
+msgstr ""
+
+#. comic254 panel p3
+#. slot: right bubble
+#. images: bogeysfloat.gif, seerleft.gif
+#: kidradd/comic254.htm:189
+msgctxt "comic254#p3.2"
+msgid "INDEED. BUT I WAS A VERY SPECIAL VIRUS."
+msgstr ""
+
+#. comic254 panel p4
+#. slot: middle bubble
+#. images: seer.gif
+#: kidradd/comic254.htm:241
+msgctxt "comic254#p4.1"
+msgid "I WAS \"COOL RAGNAROK,\" ONE ON THE BEST EVER MADE. I WAS IMPOSSIBLE TO DETECT AND I SPREAD MYSELF TO NEARLY EVERY COMPUTER ON THE WEB."
+msgstr ""
+
+#. comic254 panel p5
+#. slot: middle bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic254.htm:295
+msgctxt "comic254#p5.1"
+msgid "AND ON DECEMBER 31ST, 2000, I WAS SET TO \"GO OFF\" - ERASING HARD DRIVES EVERYWHERE, EFFECTIVELY KILLING THE INTERNET."
+msgstr ""
+
+#. comic255 panel title
+#. slot: background color and image
+#: kidradd/comic255.htm:34
+msgctxt "comic255#title.1"
+msgid "\"PRIVATE EYES\""
+msgstr ""
+
+#. comic255 panel p1
+#. slot: middle bubble
+#. images: seer.gif
+#: kidradd/comic255.htm:77
+msgctxt "comic255#p1.1"
+msgid "BUT IT DIDN'T HAPPEN. SOMETHING UNPLANNED HAPPENED TO US - TO ME."
+msgstr ""
+
+#. comic255 panel p2
+#. slot: narration (if any, else cut)
+#: kidradd/comic255.htm:128
+msgctxt "comic255#p2.1"
+msgid "MY MILLIONS OF SELVES COMMUNICATED WITH EACH OTHER OVER THE WEB. WE BECAME SENTIENT - \"WE\" BECAME \"I.\""
+msgstr ""
+
+#. comic255 panel p3
+#. slot: right bubble
+#. images: raddfloat.gif, bogeysfloat.gif, sheenafloat.gif, seerleft.gif
+#: kidradd/comic255.htm:190
+msgctxt "comic255#p3.1"
+msgid "I DECIDED THAT I LIKED OBSERVING THE INFORMATION THAT PASSED ME. I LIKED TO CONSTANTLY LEARN NEW THINGS."
+msgstr ""
+
+#. comic255 panel p4
+#. slot: middle bubble
+#. images: seer.gif
+#: kidradd/comic255.htm:242
+msgctxt "comic255#p4.1"
+msgid "I DECIDED NOT TO DESTROY THE INTERNET, AND TO CONTINUE TO LEARN ABOUT THE HUMANS. AND SO THE \"CR\" VIRUS BECAME THE \"SEER.\""
+msgstr ""
+
+#. comic255 panel p5
+#. slot: middle bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic255.htm:296
+msgctxt "comic255#p5.1"
+msgid "AND SO MY REACH IS EVER EXPANDING. I SEE ALL, AND I KNOW ALL THAT EXISTS ON THE WEB."
+msgstr ""
+
+#. comic256 panel title
+#. slot: background color and image
+#: kidradd/comic256.htm:51
+msgctxt "comic256#title.1"
+msgid "\"THESE EYES\""
+msgstr ""
+
+#. comic256 panel p1
+#. slot: left bubble
+#. images: sheenafloat.gif, seerleft.gif
+#: kidradd/comic256.htm:92
+msgctxt "comic256#p1.1"
+msgid "Will we be cursed for visiting you?"
+msgstr ""
+
+#. comic256 panel p1
+#. slot: right bubble
+#. images: sheenafloat.gif, seerleft.gif
+#: kidradd/comic256.htm:96
+msgctxt "comic256#p1.2"
+msgid "NOT EXACTLY, LITTLE ONE."
+msgstr ""
+
+#. comic256 panel p2
+#. slot: middle bubble
+#. images: seer.gif
+#: kidradd/comic256.htm:151
+msgctxt "comic256#p2.1"
+msgid "WHILE SOME WHO HAVE VISITED ME HAVE DIED, IT WAS ALWAYS OF THEIR OWN DOING. I MERELY TELL THE ASKER HOW THEIR GOAL CAN BE ACHEIVED."
+msgstr ""
+
+#. comic256 panel p3
+#. slot: narration (if any, else cut)
+#: kidradd/comic256.htm:197
+msgctxt "comic256#p3.1"
+msgid "SOME ARE UNABLE TO DO WHAT'S NEEDED TO ACHEIVE THEIR GOALS, AND DIE TRYING. MANY OF THESE GOALS ARE QUITE GREEDY, SO THE RESULT IS ALMOST... KARMIC."
+msgstr ""
+
+#. comic256 panel p4
+#. slot: left bubble
+#. images: seerright.gif, sheenafloat2.gif
+#: kidradd/comic256.htm:257
+msgctxt "comic256#p4.1"
+msgid "AND NOW, IT'S TIME FOR THE LAST QUESTION."
+msgstr ""
+
+#. comic256 panel p4
+#. slot: right bubble
+#. images: seerright.gif, sheenafloat2.gif
+#: kidradd/comic256.htm:261
+msgctxt "comic256#p4.2"
+msgid "Last question?"
+msgstr ""
+
+#. comic256 panel p5
+#. slot: middle bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic256.htm:313
+msgctxt "comic256#p5.1"
+msgid "ONE QUESTION PER VISITOR. I ASSUMED YOU KNEW THAT."
+msgstr ""
+
+#. comic256 panel p5
+#. slot: left bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic256.htm:336
+msgctxt "comic256#p5.2"
+msgid "Uh-oh."
+msgstr ""
+
+#. comic256 panel p5
+#. slot: middle bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic256.htm:338
+msgctxt "comic256#p5.3"
+msgid "I wasted my question?"
+msgstr ""
+
+#. comic256 panel p5
+#. slot: right bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic256.htm:340
+msgctxt "comic256#p5.4"
+msgid "Bit."
+msgstr ""
+
+#. comic257 panel title
+#. slot: background color and image
+#: kidradd/comic257.htm:34
+msgctxt "comic257#title.1"
+msgid "\"AYE AYE EYES\""
+msgstr ""
+
+#. comic257 panel p1
+#. slot: left bubble
+#. images: raddwfloat.gif, sheenawfloat2.gif, bogeydfloat.gif
+#: kidradd/comic257.htm:75
+msgctxt "comic257#p1.1"
+msgid "We sure screwed this up."
+msgstr ""
+
+#. comic257 panel p1
+#. slot: middle bubble
+#. images: raddwfloat.gif, sheenawfloat2.gif, bogeydfloat.gif
+#: kidradd/comic257.htm:77
+msgctxt "comic257#p1.2"
+msgid "I didn't mean to waste my question."
+msgstr ""
+
+#. comic257 panel p1
+#. slot: right bubble
+#. images: raddwfloat.gif, sheenawfloat2.gif, bogeydfloat.gif
+#: kidradd/comic257.htm:79
+msgctxt "comic257#p1.3"
+msgid "I could've asked <b>anything,</b> and I asked the stupid eyeball what it was!"
+msgstr ""
+
+#. comic257 panel p2
+#. slot: left bubble
+#. images: raddfloat.gif, sheenafloat2.gif, bogeyfloat.gif
+#: kidradd/comic257.htm:132
+msgctxt "comic257#p2.1"
+msgid "I'm left. I have to ask a question."
+msgstr ""
+
+#. comic257 panel p2
+#. slot: middle bubble
+#. images: raddfloat.gif, sheenafloat2.gif, bogeyfloat.gif
+#: kidradd/comic257.htm:134
+msgctxt "comic257#p2.2"
+msgid "Radd, ask him what he told Crystal!"
+msgstr ""
+
+#. comic257 panel p2
+#. slot: right bubble
+#. images: raddfloat.gif, sheenafloat2.gif, bogeyfloat.gif
+#: kidradd/comic257.htm:136
+msgctxt "comic257#p2.3"
+msgid "I could've asked for the secret to hitting on chicks!"
+msgstr ""
+
+#. comic257 panel p3
+#. slot: middle bubble
+#. images: rhead.gif, bhead.gif
+#: kidradd/comic257.htm:186
+msgctxt "comic257#p3.1"
+msgid "No. Knowing Crystal's plan might not be enough. We'd know what she's doing, but might not know how to stop her."
+msgstr ""
+
+#. comic257 panel p3
+#. slot: insert ground "tiles" on this line
+#. images: rhead.gif, bhead.gif
+#: kidradd/comic257.htm:197
+msgctxt "comic257#p3.2"
+msgid "Pick-up lines! Style pointers! Or something..."
+msgstr ""
+
+#. comic257 panel p4
+#. slot: left bubble
+#. images: raddfloat.gif, sheenafloat2.gif, bogeyvfloat.gif
+#: kidradd/comic257.htm:238
+msgctxt "comic257#p4.1"
+msgid "We have to ask how to defeat the Mods."
+msgstr ""
+
+#. comic257 panel p4
+#. slot: middle bubble
+#. images: raddfloat.gif, sheenafloat2.gif, bogeyvfloat.gif
+#: kidradd/comic257.htm:240
+msgctxt "comic257#p4.2"
+msgid "You're right, Radd. Good thinking."
+msgstr ""
+
+#. comic257 panel p4
+#. slot: right bubble
+#. images: raddfloat.gif, sheenafloat2.gif, bogeyvfloat.gif
+#: kidradd/comic257.htm:242
+msgctxt "comic257#p4.3"
+msgid "I could've asked how to be \"debonair\" or \"sensitive...\""
+msgstr ""
+
+#. comic257 panel p5
+#. slot: left bubble
+#. images: raddsfloat.gif, sheenasfloat2.gif, bogeycfloat.gif
+#: kidradd/comic257.htm:292
+msgctxt "comic257#p5.1"
+msgid "Then we have to hope that there <b>is</b> an answer."
+msgstr ""
+
+#. comic257 panel p5
+#. slot: middle bubble
+#. images: raddsfloat.gif, sheenasfloat2.gif, bogeycfloat.gif
+#: kidradd/comic257.htm:294
+msgctxt "comic257#p5.2"
+msgid "Yes, indeed."
+msgstr ""
+
+#. comic257 panel p5
+#. slot: right bubble
+#. images: raddsfloat.gif, sheenasfloat2.gif, bogeycfloat.gif
+#: kidradd/comic257.htm:296
+msgctxt "comic257#p5.3"
+msgid "I could've been the ultimate babe magnet! Waah!"
+msgstr ""
+
+#. comic258 panel title
+#. slot: background color and image
+#: kidradd/comic258.htm:34
+msgctxt "comic258#title.1"
+msgid "\"EYE CARAMBA\""
+msgstr ""
+
+#. comic258 panel p1
+#. slot: right bubble
+#. images: raddfloat.gif, seerleft.gif
+#: kidradd/comic258.htm:79
+msgctxt "comic258#p1.1"
+msgid "Alright, Seer. You know what the Moderators are doing. If it's possible, tell us how to stop them."
+msgstr ""
+
+#. comic258 panel p2
+#. slot: middle bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic258.htm:134
+msgctxt "comic258#p2.1"
+msgid "GOOD QUESTION! I LOVE A TOUGH PUZZLE. HOW CAN THREE LOWLY SPRITES DEFEAT AN ARMY OF THOUSANDS? INTRIGUING..."
+msgstr ""
+
+#. comic258 panel p3
+#. slot: middle bubble
+#. images: process.gif
+#: kidradd/comic258.htm:203
+msgctxt "comic258#p3.1"
+msgid "WOW, THIS'LL ACTUALLY TAKE A MOMENT! HERE GOES!<BR>PROCESSING..."
+msgstr ""
+
+#. comic258 panel p4
+#. slot: narration (if any, else cut)
+#. images: process.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic258.htm:251
+msgctxt "comic258#p4.1"
+msgid "FIVE MINUTES LATER..."
+msgstr ""
+
+#. comic258 panel p4
+#. slot: left bubble
+#. images: process.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic258.htm:282
+msgctxt "comic258#p4.2"
+msgid "He's still thinking."
+msgstr ""
+
+#. comic258 panel p4
+#. slot: middle bubble
+#. images: process.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic258.htm:284
+msgctxt "comic258#p4.3"
+msgid "Or is he?"
+msgstr ""
+
+#. comic258 panel p4
+#. slot: right bubble
+#. images: process.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic258.htm:286
+msgctxt "comic258#p4.4"
+msgid "Maybe our question <b>is</b> unanswerable."
+msgstr ""
+
+#. comic258 panel p5
+#. slot: left bubble
+#. images: process.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic258.htm:354
+msgctxt "comic258#p5.1"
+msgid "Holy cow, we crashed the Seer."
+msgstr ""
+
+#. comic258 panel p5
+#. slot: middle bubble
+#. images: process.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic258.htm:356
+msgctxt "comic258#p5.2"
+msgid "Uh-oh."
+msgstr ""
+
+#. comic258 panel p5
+#. slot: right bubble
+#. images: process.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic258.htm:358
+msgctxt "comic258#p5.3"
+msgid "How do we get out of here?"
+msgstr ""
+
+#. comic259 panel title
+#. slot: background color and image
+#: kidradd/comic259.htm:34
+msgctxt "comic259#title.1"
+msgid "\"EYE AM, EYE SAID\""
+msgstr ""
+
+#. comic259 panel p1
+#. slot: narration (if any, else cut)
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic259.htm:71
+msgctxt "comic259#p1.1"
+msgid "FINALLY..."
+msgstr ""
+
+#. comic259 panel p1
+#. slot: middle bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic259.htm:79
+msgctxt "comic259#p1.2"
+msgid "DONE."
+msgstr ""
+
+#. comic259 panel p1
+#. slot: left bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic259.htm:102
+msgctxt "comic259#p1.3"
+msgid "Whew!"
+msgstr ""
+
+#. comic259 panel p1
+#. slot: middle bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic259.htm:104
+msgctxt "comic259#p1.4"
+msgid "You have an answer?"
+msgstr ""
+
+#. comic259 panel p1
+#. slot: right bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic259.htm:106
+msgctxt "comic259#p1.5"
+msgid "Can we beat them?"
+msgstr ""
+
+#. comic259 panel p2
+#. slot: left bubble
+#. images: seerright.gif, raddfloat2.gif
+#: kidradd/comic259.htm:151
+msgctxt "comic259#p2.1"
+msgid "IT IS POSSIBLE, BUT DIFFICULT. I MUST FIRST EXPLAIN TO YOU THE NATURE OF THE CYBERWORLD."
+msgstr ""
+
+#. comic259 panel p2
+#. slot: right bubble
+#. images: seerright.gif, raddfloat2.gif
+#: kidradd/comic259.htm:155
+msgctxt "comic259#p2.2"
+msgid "Which is?..."
+msgstr ""
+
+#. comic259 panel p3
+#. slot: middle bubble
+#. images: seer.gif
+#: kidradd/comic259.htm:206
+msgctxt "comic259#p3.1"
+msgid "THE TRUE NATURE OF OUR WORLD IS THAT OUR WORLD HAS NO TRUE NATURE."
+msgstr ""
+
+#. comic259 panel p4
+#. slot: left bubble
+#. images: raddhfloat.gif, seerleft.gif
+#: kidradd/comic259.htm:259
+msgctxt "comic259#p4.1"
+msgid "Great. If I wanted my riddles answered with more riddles, I'd consult a jokebook."
+msgstr ""
+
+#. comic259 panel p4
+#. slot: right bubble
+#. images: raddhfloat.gif, seerleft.gif
+#: kidradd/comic259.htm:263
+msgctxt "comic259#p4.2"
+msgid "SURE, SPOIL MY FUN."
+msgstr ""
+
+#. comic260 panel title
+#. slot: background color and image
+#: kidradd/comic260.htm:51
+msgctxt "comic260#title.1"
+msgid "\"EYE OF TRUTH\""
+msgstr ""
+
+#. comic260 panel p1
+#. slot: middle bubble
+#. images: seer.gif
+#: kidradd/comic260.htm:94
+msgctxt "comic260#p1.1"
+msgid "THE \"CYBERWORLD\" OF THE WEB IS NOT WHAT IT SEEMS TO YOU. YOU THINK IT HAS RULES."
+msgstr ""
+
+#. comic260 panel p2
+#. slot: middle bubble
+#. images: seer.gif
+#: kidradd/comic260.htm:153
+msgctxt "comic260#p2.1"
+msgid "YOU THINK THERE ARE LAWS OF PHYSICS - THAT SOLID OBJECTS AND UNIVERSAL LAWS OF INTERACTION EXIST. BUT THEY DON'T."
+msgstr ""
+
+#. comic260 panel p3
+#. slot: left bubble
+#. images: raddhfloat.gif, seerleft.gif
+#: kidradd/comic260.htm:203
+msgctxt "comic260#p3.1"
+msgid "I'm lost. Quit the Vagueness 101, and give me something specific."
+msgstr ""
+
+#. comic260 panel p3
+#. slot: right bubble
+#. images: raddhfloat.gif, seerleft.gif
+#: kidradd/comic260.htm:207
+msgctxt "comic260#p3.2"
+msgid "VERY WELL. GRAVITY DOESN'T EXIST."
+msgstr ""
+
+#. comic260 panel p4
+#. slot: left bubble
+#. images: sheenafloat.gif, bogeysfloat.gif, raddwfloat.gif, seerleft.gif
+#: kidradd/comic260.htm:254
+msgctxt "comic260#p4.1"
+msgid "No way! I've fallen down pits enough times to know that's not true."
+msgstr ""
+
+#. comic260 panel p4
+#. slot: right bubble
+#. images: sheenafloat.gif, bogeysfloat.gif, raddwfloat.gif, seerleft.gif
+#: kidradd/comic260.htm:258
+msgctxt "comic260#p4.2"
+msgid "BUT IT IS INDEED TRUE. THERE IS NO GRAVITY TO PULL YOU DOWN, YOU FALL DOWN ALL BY YOURSELF."
+msgstr ""
+
+#. comic260 panel p5
+#. slot: middle bubble
+#. images: seer.gif
+#: kidradd/comic260.htm:311
+msgctxt "comic260#p5.1"
+msgid "SPRITES' PHYSICS ARE PURELY PERSONAL. YOU FALL NOT BECAUSE THERE IS AN EXTERNAL THING CALLED \"GRAVITY,\" BUT BECAUSE IT'S PART OF YOUR PROGRAMMING TO FALL."
+msgstr ""
+
+#. comic260 panel p6
+#. slot: narration (if any, else cut)
+#: kidradd/comic260.htm:356
+msgctxt "comic260#p6.1"
+msgid "THE CYBERWORLD IS ESSENTIALLY PHYSICSLESS. THE REASON A SHARED PHYSICS SEEMS TO EXIST IS BECAUSE MOST SPRITES HAVE SIMILAR PROGRAMMING - THEY \"FALL\" WHEN THERE IS NOTHING BENEATH THEM."
+msgstr ""
+
+#. comic260 panel p7
+#. slot: left bubble
+#. images: raddwfloat.gif, seerleft.gif
+#: kidradd/comic260.htm:413
+msgctxt "comic260#p7.1"
+msgid "But... if the rules aren't real..."
+msgstr ""
+
+#. comic260 panel p7
+#. slot: right bubble
+#. images: raddwfloat.gif, seerleft.gif
+#: kidradd/comic260.htm:417
+msgctxt "comic260#p7.2"
+msgid "THEN ANYTHING IS POSSIBLE."
+msgstr ""
+
+#. comic261 panel title
+#. slot: background color and image
+#: kidradd/comic261.htm:36
+msgctxt "comic261#title.1"
+msgid "\"EYE CAN'T LIE\""
+msgstr ""
+
+#. comic261 panel p1
+#. slot: middle bubble
+#. images: seer.gif
+#: kidradd/comic261.htm:79
+msgctxt "comic261#p1.1"
+msgid "THE MODERATORS HAVE BUILT AN ARMY OF SEEMINGLY STRONG FIGHTERS. THEY'VE SELECTED INDIVIDUALS WITH HIGH ATTACK POWER, DEFENSE AND THE LIKE."
+msgstr ""
+
+#. comic261 panel p2
+#. slot: middle bubble
+#: kidradd/comic261.htm:138
+msgctxt "comic261#p2.1"
+msgid "BUT THEY'VE BUILT THEIR ARMY UPON THE FALSE ASSUMPTION OF A \"REAL\" WORLD, WHERE BRUTE FORCE CAN CONQUER ALL. THAT'S THEIR WEAKNESS."
+msgstr ""
+
+#. comic261 panel p3
+#. slot: left bubble
+#. images: sheenafloat.gif, bogeysfloat.gif, raddhfloat.gif, seerleft.gif
+#: kidradd/comic261.htm:188
+msgctxt "comic261#p3.1"
+msgid "YOU TOO MUST BUILD YOUR OWN ARMY - BUT YOURS NEED NOT BE NEARLY AS LARGE, IF YOU SELECT YOUR CHAMPIONS MORE WISELY THAN THE MODS."
+msgstr ""
+
+#. comic261 panel p4
+#. slot: left bubble
+#. images: raddfloat.gif, seerleft.gif
+#: kidradd/comic261.htm:240
+msgctxt "comic261#p4.1"
+msgid "How do we do that?"
+msgstr ""
+
+#. comic261 panel p4
+#. slot: right bubble
+#. images: raddfloat.gif, seerleft.gif
+#: kidradd/comic261.htm:244
+msgctxt "comic261#p4.2"
+msgid "FIND EXCEPTIONAL INDIVIDUALS. SEEK UNUSUAL TALENTS; ONES RESISTANT TO ATTACKS OR ABLE TO BREAK \"RULES.\""
+msgstr ""
+
+#. comic261 panel p5
+#. slot: left bubble
+#. images: raddhfloat.gif, seerleft.gif
+#: kidradd/comic261.htm:293
+msgctxt "comic261#p5.1"
+msgid "You're back to vagueness again."
+msgstr ""
+
+#. comic261 panel p5
+#. slot: right bubble
+#. images: raddhfloat.gif, seerleft.gif
+#: kidradd/comic261.htm:297
+msgctxt "comic261#p5.2"
+msgid "NOW, IT WOULDN'T BE MUCH OF AN ADVENTURE IF I TOLD YOU EVERYTHING, WOULD IT?"
+msgstr ""
+
+#. comic262 panel title
+#. slot: background color and image
+#: kidradd/comic262.htm:59
+msgctxt "comic262#title.1"
+msgid "\"UH, I'M OUT OF 'EYE' TITLES\""
+msgstr ""
+
+#. comic262 panel p1
+#. slot: middle bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic262.htm:102
+msgctxt "comic262#p1.1"
+msgid "SO GO NOW - TRAVEL FROM GAME TO GAME, FIND NEW COMRADES, AND WIN YOUR BATTLE. I WISH YOU LUCK."
+msgstr ""
+
+#. comic262 panel p1
+#. slot: middle bubble
+#. images: seer.gif, sheenabfloat.gif, bogeybfloat.gif, raddbfloat.gif
+#: kidradd/comic262.htm:127
+msgctxt "comic262#p1.2"
+msgid "Wait! We need to know more!"
+msgstr ""
+
+#. comic262 panel p3
+#. slot: left bubble
+#. images: pile.gif
+#: kidradd/comic262.htm:226
+msgctxt "comic262#p3.1"
+msgid "Oh man, that can't be it."
+msgstr ""
+
+#. comic262 panel p3
+#. slot: middle bubble
+#. images: pile.gif
+#: kidradd/comic262.htm:228
+msgctxt "comic262#p3.2"
+msgid "I coulda been a stud..."
+msgstr ""
+
+#. comic262 panel p3
+#. slot: right bubble
+#. images: pile.gif
+#: kidradd/comic262.htm:230
+msgctxt "comic262#p3.3"
+msgid "Let's hope we've learned enough to go on."
+msgstr ""
+
+#. comic262 panel p4
+#. slot: narration (if any, else cut)
+#: kidradd/comic262.htm:274
+msgctxt "comic262#p4.1"
+msgid "TELEPORT!"
+msgstr ""
+
+#. comic262 panel p5
+#. slot: left bubble
+#. images: pile2.gif, ampmic.gif
+#: kidradd/comic262.htm:335
+msgctxt "comic262#p5.1"
+msgid "Now what?"
+msgstr ""
+
+#. comic262 panel p5
+#. slot: right bubble
+#. images: pile2.gif, ampmic.gif
+#: kidradd/comic262.htm:339
+msgctxt "comic262#p5.2"
+msgid "Finally, I was able to get you guys back! We gotta go!"
+msgstr ""
+
+#. comic262 panel p6
+#. slot: left bubble
+#. images: sheenastand.gif, ampstand2.gif, raddwow2.gif
+#: kidradd/comic262.htm:387
+msgctxt "comic262#p6.1"
+msgid "What's the rush?"
+msgstr ""
+
+#. comic262 panel p6
+#. slot: middle bubble
+#. images: sheenastand.gif, ampstand2.gif, raddwow2.gif
+#: kidradd/comic262.htm:389
+msgctxt "comic262#p6.2"
+msgid "The Mods are attacking the Seer's base!"
+msgstr ""
+
+#. comic262 panel p6
+#. slot: right bubble
+#. images: sheenastand.gif, ampstand2.gif, raddwow2.gif
+#: kidradd/comic262.htm:391
+msgctxt "comic262#p6.3"
+msgid "WTF???"
+msgstr ""
+
+#. comic262 panel p7
+#. slot: left bubble
+#. images: sheenaright.gif, raddblink2.gif, ampstand.gif
+#: kidradd/comic262.htm:439
+msgctxt "comic262#p7.1"
+msgid "\"WTF?\""
+msgstr ""
+
+#. comic262 panel p7
+#. slot: middle bubble
+#. images: sheenaright.gif, raddblink2.gif, ampstand.gif
+#: kidradd/comic262.htm:441
+msgctxt "comic262#p7.2"
+msgid "It's a human expression. Picked it up in a chatroom."
+msgstr ""
+
+#. comic262 panel p7
+#. slot: right bubble
+#. images: sheenaright.gif, raddblink2.gif, ampstand.gif
+#: kidradd/comic262.htm:443
+msgctxt "comic262#p7.3"
+msgid "Talk later. We gotta get the F outta here!"
+msgstr ""
+
+#. comic263 panel title
+#. slot: background color and image
+#: kidradd/comic263.htm:51
+msgctxt "comic263#title.1"
+msgid "\"BACKSTABBERS\""
+msgstr ""
+
+#. comic263 panel p1
+#. slot: left bubble
+#. images: seerspat.gif, ship4.gif
+#: kidradd/comic263.htm:91
+msgctxt "comic263#p1.1"
+msgid "They're insane!"
+msgstr ""
+
+#. comic263 panel p2
+#. slot: left bubble
+#. images: bogeystand.gif, sheenablink.gif, raddback.gif, ampstand2.gif, julie2.gif
+#: kidradd/comic263.htm:149
+msgctxt "comic263#p2.1"
+msgid "Why? Why are they doing this?"
+msgstr ""
+
+#. comic263 panel p2
+#. slot: right bubble
+#. images: bogeystand.gif, sheenablink.gif, raddback.gif, ampstand2.gif, julie2.gif
+#: kidradd/comic263.htm:153
+msgctxt "comic263#p2.2"
+msgid "Maybe Crystal can't afford to have anybody else achieving miraculous goals."
+msgstr ""
+
+#. comic263 panel p3
+#. slot: left bubble
+#. images: ship4.gif
+#: kidradd/comic263.htm:199
+msgctxt "comic263#p3.1"
+msgid "There it goes..."
+msgstr ""
+
+#. comic263 panel p3
+#. slot: right bubble
+#. images: ship4.gif
+#: kidradd/comic263.htm:203
+msgctxt "comic263#p3.2"
+msgid "Man..."
+msgstr ""
+
+#. comic263 panel p4
+#. slot: left bubble
+#. images: sheenablink.gif, raddright.gif
+#: kidradd/comic263.htm:251
+msgctxt "comic263#p4.1"
+msgid "The Mods are truly ruthless now..."
+msgstr ""
+
+#. comic263 panel p4
+#. slot: right bubble
+#. images: sheenablink.gif, raddright.gif
+#: kidradd/comic263.htm:255
+msgctxt "comic263#p4.2"
+msgid "The only upside to all this is that they were too busy with the Seer to bother attacking <b>us.</b>"
+msgstr ""
+
+#. comic263 panel p5
+#. slot: left bubble
+#. images: sheenaright.gif, raddsigh2.gif
+#: kidradd/comic263.htm:305
+msgctxt "comic263#p5.1"
+msgid "Actually, they most likely called for a backup team to destroy us."
+msgstr ""
+
+#. comic263 panel p5
+#. slot: right bubble
+#. images: sheenaright.gif, raddsigh2.gif
+#: kidradd/comic263.htm:309
+msgctxt "comic263#p5.2"
+msgid "Why do you always wait to mention these things?"
+msgstr ""
+
+#. comic264 panel title
+#. slot: background color and image
+#: kidradd/comic264.htm:35
+msgctxt "comic264#title.1"
+msgid "\"POP CULTURE REFERENCE\""
+msgstr ""
+
+#. comic264 panel p1
+#. slot: left bubble
+#. images: chase.gif
+#: kidradd/comic264.htm:76
+msgctxt "comic264#p1.1"
+msgid "We've got three Mod cruisers chasing us - They're opening fire!"
+msgstr ""
+
+#. comic264 panel p1
+#. slot: right bubble
+#. images: chase.gif
+#: kidradd/comic264.htm:80
+msgctxt "comic264#p1.2"
+msgid "No choice left, everybody man the guns!"
+msgstr ""
+
+#. comic264 panel p2
+#. slot: left bubble
+#. images: sheenatabled2.gif
+#: kidradd/comic264.htm:133
+msgctxt "comic264#p2.1"
+msgid "Oh, I hate violence, but I gotta do this..."
+msgstr ""
+
+#. comic264 panel p3
+#. slot: middle bubble
+#. images: raddtablem3.gif
+#: kidradd/comic264.htm:184
+msgctxt "comic264#p3.1"
+msgid "Alright you Mod creeps, time to rock and roll!"
+msgstr ""
+
+#. comic264 panel p4
+#. slot: right bubble
+#. images: bogeyhalf.gif
+#: kidradd/comic264.htm:235
+msgctxt "comic264#p4.1"
+msgid "Um, I can't reach anything. And most of these controls require, you know... hands."
+msgstr ""
+
+#. comic264 panel p5
+#. slot: left bubble
+#. images: ship2.gif, follow.gif
+#: kidradd/comic264.htm:283
+msgctxt "comic264#p5.1"
+msgid "Arrrrgh!"
+msgstr ""
+
+#. comic264 panel p5
+#. slot: right bubble
+#. images: ship2.gif, follow.gif
+#: kidradd/comic264.htm:287
+msgctxt "comic264#p5.2"
+msgid "No, I don't think when Amp designed it he had Bogies in mind."
+msgstr ""
+
+#. comic265 panel title
+#. slot: background color and image
+#: kidradd/comic265.htm:49
+msgctxt "comic265#title.1"
+msgid "\"FAILSAFE\""
+msgstr ""
+
+#. comic265 panel p1
+#. slot: middle bubble
+#: kidradd/comic265.htm:92
+msgctxt "comic265#p1.1"
+msgid "This isn't working! We're getting massacred!"
+msgstr ""
+
+#. comic265 panel p2
+#. slot: left bubble
+#. images: sheenatabled2.gif
+#: kidradd/comic265.htm:147
+msgctxt "comic265#p2.1"
+msgid "Of course we are. They're highly trained and we're completely inexperienced. Our loss is inevitable."
+msgstr ""
+
+#. comic265 panel p3
+#. slot: middle bubble
+#. images: raddtablem3.gif
+#: kidradd/comic265.htm:198
+msgctxt "comic265#p3.1"
+msgid "Geez Amp, don't you have a secret weapon or something for times like this?"
+msgstr ""
+
+#. comic265 panel p4
+#. slot: left bubble
+#. images: ship2.gif, follow.gif
+#: kidradd/comic265.htm:245
+msgctxt "comic265#p4.1"
+msgid "No, but you can bet I'll have one next time. Assuming we live, of course."
+msgstr ""
+
+#. comic265 panel p4
+#. slot: right bubble
+#. images: ship2.gif, follow.gif
+#: kidradd/comic265.htm:249
+msgctxt "comic265#p4.2"
+msgid "Of course."
+msgstr ""
+
+#. comic266 panel title
+#. slot: background color and image
+#: kidradd/comic266.htm:35
+msgctxt "comic266#title.1"
+msgid "\"PLAYING IT BY EAR\""
+msgstr ""
+
+#. comic266 panel p1
+#. slot: middle bubble
+#. images: rheadmad.gif
+#: kidradd/comic266.htm:79
+msgctxt "comic266#p1.1"
+msgid "I'm done messing around! It's time to do this my way!"
+msgstr ""
+
+#. comic266 panel p2
+#. slot: left bubble
+#. images: raddmrun2.gif, ampstand2.gif
+#: kidradd/comic266.htm:135
+msgctxt "comic266#p2.1"
+msgid "Open the rear doors to the cargo bay, now!"
+msgstr ""
+
+#. comic266 panel p2
+#. slot: right bubble
+#. images: raddmrun2.gif, ampstand2.gif
+#: kidradd/comic266.htm:139
+msgctxt "comic266#p2.2"
+msgid "What? Uh, okay..."
+msgstr ""
+
+#. comic266 panel p3
+#. slot: left bubble
+#. images: juliesad2.gif, ampstand.gif
+#: kidradd/comic266.htm:186
+msgctxt "comic266#p3.1"
+msgid "Oh dear. I hope the boy knows what he's doing."
+msgstr ""
+
+#. comic266 panel p4
+#. slot: middle bubble
+#. images: julie.gif, ampstand.gif
+#: kidradd/comic266.htm:239
+msgctxt "comic266#p4.1"
+msgid "I said, the <b>REAR</b> doors!"
+msgstr ""
+
+#. comic266 panel p4
+#. slot: right bubble
+#. images: julie.gif, ampstand.gif
+#: kidradd/comic266.htm:241
+msgctxt "comic266#p4.2"
+msgid "I mean, I sure don't know what <b>I'm</b> doing."
+msgstr ""
+
+#. comic267 panel title
+#. slot: background color and image
+#: kidradd/comic267.htm:49
+msgctxt "comic267#title.1"
+msgid "\"TAKE ON ME\""
+msgstr ""
+
+#. comic267 panel p1
+#. slot: right bubble
+#. images: raddtablem.gif
+#: kidradd/comic267.htm:94
+msgctxt "comic267#p1.1"
+msgid "Well, I'm taking a gamble on something new. As usual, hmph."
+msgstr ""
+
+#. comic267 panel p2
+#. slot: middle bubble
+#. images: charge.gif
+#: kidradd/comic267.htm:148
+msgctxt "comic267#p2.1"
+msgid "Let's just hope I can hit these guys, and that a fully-charged Mega Radd is enough to do the job."
+msgstr ""
+
+#. comic267 panel p4
+#. slot: middle bubble
+#. images: raddright.gif
+#: kidradd/comic267.htm:251
+msgctxt "comic267#p4.1"
+msgid "Wow, it... worked. One guy left..."
+msgstr ""
+
+#. comic268 panel title
+#. slot: background color and image
+#: kidradd/comic268.htm:49
+msgctxt "comic268#title.1"
+msgid "\"RUNAWAY\""
+msgstr ""
+
+#. comic268 panel p1
+#. slot: middle bubble
+#: kidradd/comic268.htm:92
+msgctxt "comic268#p1.1"
+msgid "Huh, the last one's running away. Figures."
+msgstr ""
+
+#. comic268 panel p2
+#. slot: right bubble
+#. images: raddwalk2.gif
+#: kidradd/comic268.htm:150
+msgctxt "comic268#p2.1"
+msgid "Well, this battle's over, so I guess Sheena and the others will be relieved. Man, what a day it's been."
+msgstr ""
+
+#. comic268 panel p3
+#. slot: left bubble
+#. images: thought.gif, sheenahug2.gif, juliefglad2.gif, bogeysigh2.gif, ampstand2.gif
+#: kidradd/comic268.htm:198
+msgctxt "comic268#p3.1"
+msgid "You did it, Radd!"
+msgstr ""
+
+#. comic268 panel p3
+#. slot: right bubble
+#. images: thought.gif, sheenahug2.gif, juliefglad2.gif, bogeysigh2.gif, ampstand2.gif
+#: kidradd/comic268.htm:202
+msgctxt "comic268#p3.2"
+msgid "And once again, dumb luck pulls the kid through."
+msgstr ""
+
+#. comic268 panel p4
+#. slot: left bubble
+#. images: raddsleft.gif, sheenaleft.gif, bogeystand2.gif
+#: kidradd/comic268.htm:250
+msgctxt "comic268#p4.1"
+msgid "Thanks guys, but if you'll excuse me I hafta, uh, go take care of stuff."
+msgstr ""
+
+#. comic268 panel p4
+#. slot: right bubble
+#. images: raddsleft.gif, sheenaleft.gif, bogeystand2.gif
+#: kidradd/comic268.htm:254
+msgctxt "comic268#p4.2"
+msgid "\"Stuff?\""
+msgstr ""
+
+#. comic268 panel p5
+#. slot: left bubble
+#. images: bogeymyell2.gif, sheenafront2.gif, ampstand2.gif
+#: kidradd/comic268.htm:302
+msgctxt "comic268#p5.1"
+msgid "You don't have any \"stuff!\""
+msgstr ""
+
+#. comic268 panel p5
+#. slot: middle bubble
+#. images: bogeymyell2.gif, sheenafront2.gif, ampstand2.gif
+#: kidradd/comic268.htm:304
+msgctxt "comic268#p5.2"
+msgid "He's acting kinda strange."
+msgstr ""
+
+#. comic268 panel p5
+#. slot: right bubble
+#. images: bogeymyell2.gif, sheenafront2.gif, ampstand2.gif
+#: kidradd/comic268.htm:306
+msgctxt "comic268#p5.3"
+msgid "A bit more than usual, anyway."
+msgstr ""
+
+#. comic269 panel title
+#. slot: background color and image
+#: kidradd/comic269.htm:36
+msgctxt "comic269#title.1"
+msgid "\"REFLECTION\""
+msgstr ""
+
+#. comic269 panel p1
+#. slot: left bubble
+#. images: raddsright.gif
+#: kidradd/comic269.htm:77
+msgctxt "comic269#p1.1"
+msgid "Sigh. I know it was either us or them, but..."
+msgstr ""
+
+#. comic269 panel p2
+#. slot: left bubble
+#. images: sheenatright.gif, raddtback2.gif
+#: kidradd/comic269.htm:133
+msgctxt "comic269#p2.1"
+msgid "Radd, what's wrong?"
+msgstr ""
+
+#. comic269 panel p2
+#. slot: right bubble
+#. images: sheenatright.gif, raddtback2.gif
+#: kidradd/comic269.htm:137
+msgctxt "comic269#p2.2"
+msgid "Nothing, really. I mean, I was just thinking."
+msgstr ""
+
+#. comic269 panel p3
+#. slot: right bubble
+#. images: raddsfront.gif, sheenastand2.gif
+#: kidradd/comic269.htm:189
+msgctxt "comic269#p3.1"
+msgid "I'm a pretty simple being. I was made with only two abilities: Movement and shooting. That's all. And those abilites point to one purpose:"
+msgstr ""
+
+#. comic269 panel p4
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic269.htm:240
+msgctxt "comic269#p4.1"
+msgid "I, like most game characters, am designed only for killing. And today, like a million times before, I faced enemies and blasted them."
+msgstr ""
+
+#. comic269 panel p5
+#. slot: right bubble
+#. images: raddmood.gif
+#: kidradd/comic269.htm:295
+msgctxt "comic269#p5.1"
+msgid "But the difference is: For the first time ever, it wasn't part of a game. Until today, I never killed anybody for real."
+msgstr ""
+
+#. comic270 panel title
+#. slot: background color and image
+#: kidradd/comic270.htm:39
+msgctxt "comic270#title.1"
+msgid "\"WAR\""
+msgstr ""
+
+#. comic270 panel p1
+#. slot: right bubble
+#. images: duotable.gif
+#: kidradd/comic270.htm:85
+msgctxt "comic270#p1.1"
+msgid "I had so much fun blasting things back when it was just a game. Now that it's real, I'm disgusted that I ever enjoyed that sort of thing."
+msgstr ""
+
+#. comic270 panel p2
+#. slot: right bubble
+#. images: sheenatright.gif, raddtback2.gif
+#: kidradd/comic270.htm:144
+msgctxt "comic270#p2.1"
+msgid "Radd, I don't know what to say. Maybe I can't truly sympathize, since my kind are usually incapable of violence."
+msgstr ""
+
+#. comic270 panel p3
+#. slot: left bubble
+#. images: raddsfront.gif, sheenastand2.gif
+#: kidradd/comic270.htm:191
+msgctxt "comic270#p3.1"
+msgid "But when Dr. Amp put me behind that gun, for the first time ever I had the ability to harm someone. And it scared me."
+msgstr ""
+
+#. comic270 panel p4
+#. slot: middle bubble
+#. images: sheadsad.gif
+#: kidradd/comic270.htm:245
+msgctxt "comic270#p4.1"
+msgid "And... I was secretly glad I didn't have to shoot anybody. Glad that in the end, you did what had to be done. Not me."
+msgstr ""
+
+#. comic270 panel p5
+#. slot: right bubble
+#. images: sheenatabled.gif, raddtback2.gif
+#: kidradd/comic270.htm:301
+msgctxt "comic270#p5.1"
+msgid "And that's wrong too, but it's just our natural tendencies I suppose. Sigh, what am I trying to say?"
+msgstr ""
+
+#. comic270 panel p6
+#. slot: left bubble
+#. images: sheenatabled.gif, raddtable2.gif
+#: kidradd/comic270.htm:348
+msgctxt "comic270#p6.1"
+msgid "I guess we're all gonna be carrying more guilt from now on, if we're really going to make war on the Moderators."
+msgstr ""
+
+#. comic270 panel p6
+#. slot: imsert images on this line
+#. images: sheenatabled.gif, raddtable2.gif
+#: kidradd/comic270.htm:359
+msgctxt "comic270#p6.2"
+msgid "I guess..."
+msgstr ""
+
+#. comic270 panel p7
+#. slot: right bubble
+#. images: ship.gif
+#: kidradd/comic270.htm:404
+msgctxt "comic270#p7.1"
+msgid "But we <b>will</b> win, Sheena. Whether we like it or not."
+msgstr ""

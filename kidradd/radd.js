@@ -20,19 +20,7 @@ $(document).ready(function() {
 	}
 	hashchange();
 	overrideSwapOut();
-	if(shouldUsePrescaled())
-		showPrescaled();
-	overrideSwapOut();
 });
-
-// Should we use the prescaled images?
-// Only if we're Webkit, and we don't support image-rendering: pixelated.
-function shouldUsePrescaled() {
-	return $.browser.webkit
-	    && typeof CSS != 'undefined'
-	    && typeof CSS.supports != 'undefined'
-	    && !CSS.supports('image-rendering', 'pixelated')
-}
 
 // Autoplay entrie comic - for broken image checking
 /*$(window).load(function() {
@@ -142,51 +130,5 @@ function overrideSwapOut() {
 	if(window.SwapOute) {
 		SwapOute();
 		window.SwapOute = function() { return true; };
-	}
-}
-
-// Show pre-scaled images in Webkit
-// because it is terrible and provides no way to scale images without blurring them.
-// If they ever fix this (ha!) this function can be deleted, along with the
-// endire prescaled/ directory.
-function showPrescaled() {
-	$('img:not(.preload)').each(function() {
-		var w = $(this).attr('width');
-		var h = $(this).attr('height');
-		var src = $(this).attr('src').replace(/^http.*kidradd\//, '');
-		if(w && h && src) {
-			if(src == 'next.gif' || src == 'prev.gif' || src == 'spacer.gif' || src == 'raddlogo.gif')
-				return;
-			var newsrc = 'prescaled/' + w + 'x' + h + '_' + src;
-			$(this).attr('src', newsrc);
-		}
-	});
-
-	// Super ugly replacement of pre-loadable images
-	// Preload images are created with inline Javascript.
-	// Loop through every variable attached to the document and look at the Images.
-	for(v in this) {
-		if(this[v] instanceof Image) {
-			var img = this[v];
-			var src = img.getAttribute('src');
-			if(src == 'spacer.gif')
-				continue;
-
-			// Dan sometimes got width and height confused in his Image constructors!
-			// On the server side, we've generated pre-scaled images using the declared
-			// width and height, as well as images with the dimensions reversed.
-			// To try to figure out which one to load, look at every 'imageflip*' image
-			// on the page and look for one with either the correct dimensions, or one
-			// with the dimensions reversed.
-			var claimed_w = img.width;
-			var claimed_h = img.height;
-			$('[name*="imageflip"]').each(function() {
-				if($(this).attr('width') == claimed_w && $(this).attr('height') == claimed_h) {
-					img.src = 'prescaled/' + img.width + 'x' + img.height + '_' + src;
-				} else if($(this).attr('width') == claimed_h && $(this).attr('height') == claimed_w) {
-					img.src = 'prescaled/' + img.height + 'x' + img.width + '_' + src;
-				}
-			});
-		}
 	}
 }

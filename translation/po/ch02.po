@@ -1,0 +1,1332 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kid Radd RU — Chapter 2: The Web World\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: kidradd tools/extract.py\n"
+
+#. comic32 panel title
+#. slot: background color and image
+#: kidradd/comic32.htm:34
+msgctxt "comic32#title.1"
+msgid "\"BACK IN THE SADDLE AGAIN\""
+msgstr ""
+
+#. comic32 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic32.htm:71
+msgctxt "comic32#p1.1"
+msgid "Then one day, something different happens."
+msgstr ""
+
+#. comic32 panel p1
+#. slot: middle bubble
+#: kidradd/comic32.htm:79
+msgctxt "comic32#p1.2"
+msgid "Finally, I'm back! That last void seemed to last forever!"
+msgstr ""
+
+#. comic32 panel p2
+#. slot: middle bubble
+#. images: raddready.gif, floor2.gif
+#: kidradd/comic32.htm:134
+msgctxt "comic32#p2.1"
+msgid "Man, I'm psyched! Time to rock!"
+msgstr ""
+
+#. comic32 panel p4
+#. slot: middle bubble
+#. images: raddstare.gif, floor2.gif
+#: kidradd/comic32.htm:238
+msgctxt "comic32#p4.1"
+msgid "Um, player? Any day now?..."
+msgstr ""
+
+#. comic33 panel title
+#. slot: background color and image
+#: kidradd/comic33.htm:51
+msgctxt "comic33#title.1"
+msgid "\"ROOM TO MOVE\""
+msgstr ""
+
+#. comic33 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic33.htm:88
+msgctxt "comic33#p1.1"
+msgid "Radd finds himself unguided."
+msgstr ""
+
+#. comic33 panel p1
+#. slot: middle bubble
+#: kidradd/comic33.htm:96
+msgctxt "comic33#p1.2"
+msgid "What's going on? Why aren't I moving?"
+msgstr ""
+
+#. comic33 panel p2
+#. slot: middle bubble
+#. images: raddwow.gif, bogeywalk2.gif
+#: kidradd/comic33.htm:153
+msgctxt "comic33#p2.1"
+msgid "Oh no, a stray Bogey! C'mon player, aren't you gonna make me shoot or jump or something?"
+msgstr ""
+
+#. comic33 panel p3
+#. slot: middle bubble
+#. images: raddblink.gif, bogeystand2.gif, floor2.gif
+#: kidradd/comic33.htm:206
+msgctxt "comic33#p3.1"
+msgid "How humiliating! I'm gonna lose a life to such a low level enemy."
+msgstr ""
+
+#. comic33 panel p4
+#. slot: middle bubble
+#. images: bogeytalk2.gif, floor2.gif
+#: kidradd/comic33.htm:258
+msgctxt "comic33#p4.1"
+msgid "You know, you could just move by yourself."
+msgstr ""
+
+#. comic33 panel p5
+#. slot: left bubble
+#. images: raddwow.gif, bogeysigh.gif, floor2.gif
+#: kidradd/comic33.htm:310
+msgctxt "comic33#p5.1"
+msgid "I can MOVE!!!"
+msgstr ""
+
+#. comic33 panel p5
+#. slot: right bubble
+#. images: raddwow.gif, bogeysigh.gif, floor2.gif
+#: kidradd/comic33.htm:314
+msgctxt "comic33#p5.2"
+msgid "Hero sprites are so friggin' helpless without their players..."
+msgstr ""
+
+#. comic34 panel title
+#. slot: background color and image
+#: kidradd/comic34.htm:34
+msgctxt "comic34#title.1"
+msgid "\"SHATTERED DREAMS\""
+msgstr ""
+
+#. comic34 panel p1
+#. slot: left bubble
+#. images: raddsit.gif, bogeystand2.gif, floor2.gif
+#: kidradd/comic34.htm:75
+msgctxt "comic34#p1.1"
+msgid "Okay, so I can move on my own, but do you think I should?"
+msgstr ""
+
+#. comic34 panel p1
+#. slot: right bubble
+#. images: raddsit.gif, bogeystand2.gif, floor2.gif
+#: kidradd/comic34.htm:79
+msgctxt "comic34#p1.2"
+msgid "Huh?"
+msgstr ""
+
+#. comic34 panel p2
+#. slot: left bubble
+#. images: raddsit.gif, bogeytalk2.gif, floor2.gif
+#: kidradd/comic34.htm:130
+msgctxt "comic34#p2.1"
+msgid "I mean, isn't it against the rules? The player's always directed my actions."
+msgstr ""
+
+#. comic34 panel p2
+#. slot: right bubble
+#. images: raddsit.gif, bogeytalk2.gif, floor2.gif
+#: kidradd/comic34.htm:134
+msgctxt "comic34#p2.2"
+msgid "The player? I hate to break it to you, but your player split ages ago."
+msgstr ""
+
+#. comic34 panel p3
+#. slot: middle bubble
+#. images: rheadwow.gif
+#: kidradd/comic34.htm:184
+msgctxt "comic34#p3.1"
+msgid "The player's g, g - -<br></font><font size=\"5\" face=\"arial\"><b>GONE???</b></font>"
+msgstr ""
+
+#. comic34 panel p4
+#. slot: left bubble
+#. images: raddsits.gif, bogeysigh2.gif, floor2.gif
+#: kidradd/comic34.htm:235
+msgctxt "comic34#p4.1"
+msgid "You realize that you just destroyed my entire sense of purpose in life, right?"
+msgstr ""
+
+#. comic34 panel p4
+#. slot: right bubble
+#. images: raddsits.gif, bogeysigh2.gif, floor2.gif
+#: kidradd/comic34.htm:239
+msgctxt "comic34#p4.2"
+msgid "I'm a bad guy. It comes naturally."
+msgstr ""
+
+#. comic35 panel title
+#. slot: background color and image
+#: kidradd/comic35.htm:34
+msgctxt "comic35#title.1"
+msgid "\"BRAIN DAMAGE\""
+msgstr ""
+
+#. comic35 panel p1
+#. slot: left bubble
+#. images: raddstand.gif, bogeytalk2.gif, floor2.gif
+#: kidradd/comic35.htm:75
+msgctxt "comic35#p1.1"
+msgid "How do you know the player's gone?"
+msgstr ""
+
+#. comic35 panel p1
+#. slot: right bubble
+#. images: raddstand.gif, bogeytalk2.gif, floor2.gif
+#: kidradd/comic35.htm:79
+msgctxt "comic35#p1.2"
+msgid "Technically I don't, but clues suggest that a different entity has seized control of our fate."
+msgstr ""
+
+#. comic35 panel p2
+#. slot: right bubble
+#. images: raddwalk.gif, bogeywalk.gif, floor2walk.gif
+#: kidradd/comic35.htm:134
+msgctxt "comic35#p2.1"
+msgid "The startup was instant rather than an uneven power surge, plus our processing speed is subtly different. We're not in our original system."
+msgstr ""
+
+#. comic35 panel p3
+#. slot: left bubble
+#. images: raddwalk.gif, bogeywalk.gif, floor2walk.gif
+#: kidradd/comic35.htm:182
+msgctxt "comic35#p3.1"
+msgid "Wow, I had no idea you Bogies were so smart."
+msgstr ""
+
+#. comic35 panel p3
+#. slot: right bubble
+#. images: raddwalk.gif, bogeywalk.gif, floor2walk.gif
+#: kidradd/comic35.htm:186
+msgctxt "comic35#p3.2"
+msgid "What, did you think we're stupid because we're drawn this way?"
+msgstr ""
+
+#. comic35 panel p4
+#. slot: left bubble
+#. images: raddstand.gif, bogeymad2.gif, floor2.gif
+#: kidradd/comic35.htm:235
+msgctxt "comic35#p4.1"
+msgid "No, I got that impression from the way you walk aimlessly into pits."
+msgstr ""
+
+#. comic35 panel p4
+#. slot: right bubble
+#. images: raddstand.gif, bogeymad2.gif, floor2.gif
+#: kidradd/comic35.htm:239
+msgctxt "comic35#p4.2"
+msgid "We're programmed to do that!"
+msgstr ""
+
+#. comic36 panel title
+#. slot: background color and image
+#: kidradd/comic36.htm:34
+msgctxt "comic36#title.1"
+msgid "\"THE REFLEX\""
+msgstr ""
+
+#. comic36 panel p1
+#. slot: right bubble
+#. images: raddwalk.gif, bogeywalk.gif, floor2walk.gif
+#: kidradd/comic36.htm:79
+msgctxt "comic36#p1.1"
+msgid "We Bogeys aren't really evil, or even unfriendly. We're just another set of platform game drones programmed to do nothing but walk in straight lines."
+msgstr ""
+
+#. comic36 panel p2
+#. slot: right bubble
+#. images: raddwalk.gif, bogeywalk.gif, floor2walk.gif
+#: kidradd/comic36.htm:134
+msgctxt "comic36#p2.1"
+msgid "We don't \"attack\" the hero, we're just placed in inconvenient spots for the player. If we didn't have the \"touch of death,\" we'd be harmless."
+msgstr ""
+
+#. comic36 panel p3
+#. slot: left bubble
+#. images: raddstand.gif, bogeystand.gif, bump.gif, floor2.gif
+#: kidradd/comic36.htm:182
+msgctxt "comic36#p3.1"
+msgid "But if you guys aren't stupid...<br>why do you...<br>well..."
+msgstr ""
+
+#. comic36 panel p4
+#. slot: left bubble
+#. images: raddstand.gif, bogeysigh2.gif, bump.gif, floor2.gif
+#: kidradd/comic36.htm:235
+msgctxt "comic36#p4.1"
+msgid "Um, that's just a habit."
+msgstr ""
+
+#. comic36 panel p4
+#. slot: right bubble
+#. images: raddstand.gif, bogeysigh2.gif, bump.gif, floor2.gif
+#: kidradd/comic36.htm:239
+msgctxt "comic36#p4.2"
+msgid "It's fun."
+msgstr ""
+
+#. comic37 panel title
+#. slot: background color and image
+#: kidradd/comic37.htm:34
+msgctxt "comic37#title.1"
+msgid "\"I HAVE THE TOUCH\""
+msgstr ""
+
+#. comic37 panel p1
+#. slot: left bubble
+#. images: bogeysigh.gif, raddstand.gif, bump.gif, floor2.gif
+#: kidradd/comic37.htm:75
+msgctxt "comic37#p1.1"
+msgid "So, can I help you guys outta there?"
+msgstr ""
+
+#. comic37 panel p1
+#. slot: right bubble
+#. images: bogeysigh.gif, raddstand.gif, bump.gif, floor2.gif
+#: kidradd/comic37.htm:79
+msgctxt "comic37#p1.2"
+msgid "Thanks, but you can't."
+msgstr ""
+
+#. comic37 panel p2
+#. slot: left bubble
+#. images: raddstand.gif, bump.gif, floor2.gif
+#: kidradd/comic37.htm:130
+msgctxt "comic37#p2.1"
+msgid "Why not?"
+msgstr ""
+
+#. comic37 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, bump.gif, floor2.gif
+#: kidradd/comic37.htm:134
+msgctxt "comic37#p2.2"
+msgid "Cuz you're the game's hero, and we're enemy sprites. Touching us hurts you."
+msgstr ""
+
+#. comic37 panel p3
+#. slot: left bubble
+#. images: raddstand.gif, bump.gif, floor2.gif
+#: kidradd/comic37.htm:182
+msgctxt "comic37#p3.1"
+msgid "But it's not like you're attacking me - -"
+msgstr ""
+
+#. comic37 panel p3
+#. slot: right bubble
+#. images: raddstand.gif, bump.gif, floor2.gif
+#: kidradd/comic37.htm:186
+msgctxt "comic37#p3.2"
+msgid "Doesn't matter. You can't touch us without hurting yourself."
+msgstr ""
+
+#. comic37 panel p4
+#. slot: left bubble
+#. images: bogeymad2.gif, raddblink.gif, bump.gif, floor2.gif
+#: kidradd/comic37.htm:235
+msgctxt "comic37#p4.1"
+msgid "But... <b>WHY?</b>"
+msgstr ""
+
+#. comic37 panel p4
+#. slot: middle bubble
+#. images: bogeymad2.gif, raddblink.gif, bump.gif, floor2.gif
+#: kidradd/comic37.htm:237
+msgctxt "comic37#p4.2"
+msgid "Touch of death, man. Touch of death."
+msgstr ""
+
+#. comic37 panel p4
+#. slot: right bubble
+#. images: bogeymad2.gif, raddblink.gif, bump.gif, floor2.gif
+#: kidradd/comic37.htm:239
+msgctxt "comic37#p4.3"
+msgid "We bad."
+msgstr ""
+
+#. comic38 panel title
+#. slot: background color and image
+#: kidradd/comic38.htm:51
+msgctxt "comic38#title.1"
+msgid "\"STARTING OVER\""
+msgstr ""
+
+#. comic38 panel p1
+#. slot: left bubble
+#. images: raddsit2.gif, bogeystand.gif, floor2.gif
+#: kidradd/comic38.htm:92
+msgctxt "comic38#p1.1"
+msgid "Do you think the player's gone for good?"
+msgstr ""
+
+#. comic38 panel p1
+#. slot: right bubble
+#. images: raddsit2.gif, bogeystand.gif, floor2.gif
+#: kidradd/comic38.htm:96
+msgctxt "comic38#p1.2"
+msgid "Couldn't say."
+msgstr ""
+
+#. comic38 panel p2
+#. slot: left bubble
+#. images: raddsit2.gif, bogeymad.gif, floor2.gif
+#: kidradd/comic38.htm:149
+msgctxt "comic38#p2.1"
+msgid "So what happens now? Do we keep playing the game?"
+msgstr ""
+
+#. comic38 panel p2
+#. slot: right bubble
+#. images: raddsit2.gif, bogeymad.gif, floor2.gif
+#: kidradd/comic38.htm:153
+msgctxt "comic38#p2.2"
+msgid "Hmph. I'd prefer not to."
+msgstr ""
+
+#. comic38 panel p3
+#. slot: left bubble
+#. images: raddsit2.gif, bogeystand.gif, floor2.gif
+#: kidradd/comic38.htm:202
+msgctxt "comic38#p3.1"
+msgid "I guess life's gonna be a lot simpler from now on."
+msgstr ""
+
+#. comic38 panel p4
+#. slot: right bubble
+#. images: raddsit2.gif, bogeystand.gif, floor2.gif
+#: kidradd/comic38.htm:258
+msgctxt "comic38#p4.1"
+msgid "Ta-daaaaa!!!"
+msgstr ""
+
+#. comic38 panel p5
+#. slot: left bubble
+#. images: raddsit2.gif, bogeystand.gif, qbtalk2.gif, floor2.gif
+#: kidradd/comic38.htm:308
+msgctxt "comic38#p5.1"
+msgid "Spoke too soon, huh?"
+msgstr ""
+
+#. comic38 panel p5
+#. slot: middle bubble
+#. images: raddsit2.gif, bogeystand.gif, qbtalk2.gif, floor2.gif
+#: kidradd/comic38.htm:310
+msgctxt "comic38#p5.2"
+msgid "Yep."
+msgstr ""
+
+#. comic38 panel p5
+#. slot: right bubble
+#. images: raddsit2.gif, bogeystand.gif, qbtalk2.gif, floor2.gif
+#: kidradd/comic38.htm:312
+msgctxt "comic38#p5.3"
+msgid "I'm here! You're saved!"
+msgstr ""
+
+#. comic39 panel title
+#. slot: background color and image
+#: kidradd/comic39.htm:36
+msgctxt "comic39#title.1"
+msgid "\"BREAKING UP IS HARD TO DO\""
+msgstr ""
+
+#. comic39 panel p1
+#. slot: left bubble
+#. images: raddstand.gif, bogeystand.gif, qbtalk2.gif, floor2.gif
+#: kidradd/comic39.htm:77
+msgctxt "comic39#p1.1"
+msgid "Who are you?"
+msgstr ""
+
+#. comic39 panel p1
+#. slot: right bubble
+#. images: raddstand.gif, bogeystand.gif, qbtalk2.gif, floor2.gif
+#: kidradd/comic39.htm:81
+msgctxt "comic39#p1.2"
+msgid "I'm Captain QB, of the Moderators. I'm here to set you free!"
+msgstr ""
+
+#. comic39 panel p2
+#. slot: left bubble
+#. images: raddstand.gif, bogeystand.gif, qbtalk2.gif, floor2.gif
+#: kidradd/comic39.htm:134
+msgctxt "comic39#p2.1"
+msgid "Uh, free from what?"
+msgstr ""
+
+#. comic39 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, bogeystand.gif, qbtalk2.gif, floor2.gif
+#: kidradd/comic39.htm:138
+msgctxt "comic39#p2.2"
+msgid "This game, of course."
+msgstr ""
+
+#. comic39 panel p3
+#. slot: left bubble
+#. images: raddstand.gif, bogeystand.gif, qbstand2.gif, floor2.gif
+#: kidradd/comic39.htm:186
+msgctxt "comic39#p3.1"
+msgid "Did the player send you?"
+msgstr ""
+
+#. comic39 panel p3
+#. slot: right bubble
+#. images: raddstand.gif, bogeystand.gif, qbstand2.gif, floor2.gif
+#: kidradd/comic39.htm:190
+msgctxt "comic39#p3.2"
+msgid "The what? Geez, no. Your player's long gone."
+msgstr ""
+
+#. comic39 panel p4
+#. slot: middle bubble
+#. images: rheadwow.gif
+#: kidradd/comic39.htm:240
+msgctxt "comic39#p4.1"
+msgid "NOOOOOOO!!!!!"
+msgstr ""
+
+#. comic39 panel p5
+#. slot: left bubble
+#. images: raddsits2.gif, bogeysigh.gif, qbstand2.gif, floor2.gif
+#: kidradd/comic39.htm:290
+msgctxt "comic39#p5.1"
+msgid "Why, oh why?..."
+msgstr ""
+
+#. comic39 panel p5
+#. slot: middle bubble
+#. images: raddsits2.gif, bogeysigh.gif, qbstand2.gif, floor2.gif
+#: kidradd/comic39.htm:292
+msgctxt "comic39#p5.2"
+msgid "He's a little codependent."
+msgstr ""
+
+#. comic39 panel p5
+#. slot: right bubble
+#. images: raddsits2.gif, bogeysigh.gif, qbstand2.gif, floor2.gif
+#: kidradd/comic39.htm:294
+msgctxt "comic39#p5.3"
+msgid "I hate it when they're like that."
+msgstr ""
+
+#. comic40 panel title
+#. slot: background color and image
+#: kidradd/comic40.htm:36
+msgctxt "comic40#title.1"
+msgid "\"TIME AFTER TIME\""
+msgstr ""
+
+#. comic40 panel p1
+#. slot: left bubble
+#. images: raddstand.gif, qbtalk2.gif, bogeystand2.gif, floor2.gif
+#: kidradd/comic40.htm:77
+msgctxt "comic40#p1.1"
+msgid "But, where did my player go?"
+msgstr ""
+
+#. comic40 panel p1
+#. slot: right bubble
+#. images: raddstand.gif, qbtalk2.gif, bogeystand2.gif, floor2.gif
+#: kidradd/comic40.htm:81
+msgctxt "comic40#p1.2"
+msgid "Who knows? He got bored with you and left you out of play for years."
+msgstr ""
+
+#. comic40 panel p2
+#. slot: left bubble
+#. images: raddstand.gif, qbtalk2.gif, bogeystand2.gif, floor2.gif
+#: kidradd/comic40.htm:134
+msgctxt "comic40#p2.1"
+msgid "But, why are we here? Doesn't that mean the player's back if we're here?"
+msgstr ""
+
+#. comic40 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, qbtalk2.gif, bogeystand2.gif, floor2.gif
+#: kidradd/comic40.htm:138
+msgctxt "comic40#p2.2"
+msgid "Not exactly..."
+msgstr ""
+
+#. comic40 panel p3
+#. slot: middle bubble
+#. images: qbhead.gif
+#: kidradd/comic40.htm:188
+msgctxt "comic40#p3.1"
+msgid "We're not in your original game cartridge. This is what's called a \"ROM.\" In simplest terms, someone copied your game into a file and put it on the web."
+msgstr ""
+
+#. comic40 panel p4
+#. slot: left bubble
+#. images: raddstand.gif, qbtalk.gif, bogeysigh2.gif, floor2.gif
+#: kidradd/comic40.htm:238
+msgctxt "comic40#p4.1"
+msgid "What's the web?"
+msgstr ""
+
+#. comic40 panel p4
+#. slot: middle bubble
+#. images: raddstand.gif, qbtalk.gif, bogeysigh2.gif, floor2.gif
+#: kidradd/comic40.htm:240
+msgctxt "comic40#p4.2"
+msgid "This is a pretty old game, huh?"
+msgstr ""
+
+#. comic40 panel p4
+#. slot: right bubble
+#. images: raddstand.gif, qbtalk.gif, bogeysigh2.gif, floor2.gif
+#: kidradd/comic40.htm:242
+msgctxt "comic40#p4.3"
+msgid "Circa 1987."
+msgstr ""
+
+#. comic41 panel title
+#. slot: background color and image
+#: kidradd/comic41.htm:36
+msgctxt "comic41#title.1"
+msgid "\"GOTTA BE ME\""
+msgstr ""
+
+#. comic41 panel p1
+#. slot: middle bubble
+#. images: qbhead.gif
+#: kidradd/comic41.htm:79
+msgctxt "comic41#p1.1"
+msgid "So anyways, the Moderators detected a new ROM on the web, and sent me to free you guys before other players start downloading you."
+msgstr ""
+
+#. comic41 panel p2
+#. slot: left bubble
+#. images: raddstand.gif, qbtalk2.gif, bogeystand2.gif, floor2.gif
+#: kidradd/comic41.htm:134
+msgctxt "comic41#p2.1"
+msgid "Is that painful?"
+msgstr ""
+
+#. comic41 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, qbtalk2.gif, bogeystand2.gif, floor2.gif
+#: kidradd/comic41.htm:138
+msgctxt "comic41#p2.2"
+msgid "For you, no. But each download creates a new copy of you that will be subjected to the tortures of the game by another player."
+msgstr ""
+
+#. comic41 panel p3
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic41.htm:188
+msgctxt "comic41#p3.1"
+msgid "Bogus! Can you imagine? I don't want there to be thousands of identical copies of me!"
+msgstr ""
+
+#. comic41 panel p4
+#. slot: left bubble
+#. images: raddwow.gif, qbtalk2.gif, bogeysigh2.gif, floor2.gif
+#: kidradd/comic41.htm:238
+msgctxt "comic41#p4.1"
+msgid "Actually, you're a video game character, so there's already tons of copies of..."
+msgstr ""
+
+#. comic41 panel p4
+#. slot: right bubble
+#. images: raddwow.gif, qbtalk2.gif, bogeysigh2.gif, floor2.gif
+#: kidradd/comic41.htm:242
+msgctxt "comic41#p4.2"
+msgid "No, better not shock him anymore today."
+msgstr ""
+
+#. comic42 panel title
+#. slot: background color and image
+#: kidradd/comic42.htm:52
+msgctxt "comic42#title.1"
+msgid "\"FREEZEFRAME\""
+msgstr ""
+
+#. comic42 panel p1
+#. slot: left bubble
+#. images: qbstand2.gif, bogeytalk2.gif, raddblink.gif, floor2.gif
+#: kidradd/comic42.htm:93
+msgctxt "comic42#p1.1"
+msgid "So, are you ready to leave?"
+msgstr ""
+
+#. comic42 panel p1
+#. slot: middle bubble
+#. images: qbstand2.gif, bogeytalk2.gif, raddblink.gif, floor2.gif
+#: kidradd/comic42.htm:95
+msgctxt "comic42#p1.2"
+msgid "Sure, let's go."
+msgstr ""
+
+#. comic42 panel p1
+#. slot: right bubble
+#. images: qbstand2.gif, bogeytalk2.gif, raddblink.gif, floor2.gif
+#: kidradd/comic42.htm:97
+msgctxt "comic42#p1.3"
+msgid "W - wait..."
+msgstr ""
+
+#. comic42 panel p2
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic42.htm:152
+msgctxt "comic42#p2.1"
+msgid "I've spent my whole life here... and the outside world, whatever that's like, sounds rather frightening. I need to think this over."
+msgstr ""
+
+#. comic42 panel p3
+#. slot: left bubble
+#. images: bogeystand.gif, qbstand.gif, raddstand2.gif, floor2.gif
+#: kidradd/comic42.htm:203
+msgctxt "comic42#p3.1"
+msgid "Truthfully, you don't have a choice in the matter."
+msgstr ""
+
+#. comic42 panel p3
+#. slot: right bubble
+#. images: bogeystand.gif, qbstand.gif, raddstand2.gif, floor2.gif
+#: kidradd/comic42.htm:207
+msgctxt "comic42#p3.2"
+msgid "Huh?"
+msgstr ""
+
+#. comic42 panel p4
+#. slot: left bubble
+#. images: bogeystand.gif, floor2.gif
+#: kidradd/comic42.htm:255
+msgctxt "comic42#p4.1"
+msgid "Super Freezeplay DX!"
+msgstr ""
+
+#. comic42 panel p5
+#. slot: left bubble
+#. images: bogeytalk.gif, qbstand2.gif, rblue.gif, floor2.gif
+#: kidradd/comic42.htm:309
+msgctxt "comic42#p5.1"
+msgid "Cool, do it again!"
+msgstr ""
+
+#. comic42 panel p5
+#. slot: right bubble
+#. images: bogeytalk.gif, qbstand2.gif, rblue.gif, floor2.gif
+#: kidradd/comic42.htm:313
+msgctxt "comic42#p5.2"
+msgid "Don't worry, I'm sure I will..."
+msgstr ""
+
+#. comic43 panel title
+#. slot: background color and image
+#: kidradd/comic43.htm:36
+msgctxt "comic43#title.1"
+msgid "\"THE DAY AFTER\""
+msgstr ""
+
+#. comic43 panel p1
+#. slot: middle bubble
+#. images: rheadack.gif
+#: kidradd/comic43.htm:79
+msgctxt "comic43#p1.1"
+msgid "Oogh... Where am I?"
+msgstr ""
+
+#. comic43 panel p2
+#. slot: right bubble
+#. images: raddsits.gif, qbtalk2.gif, bogeystand2.gif
+#: kidradd/comic43.htm:138
+msgctxt "comic43#p2.1"
+msgid "Sorry, we had to forcefully detain those who wouldn't leave willfully."
+msgstr ""
+
+#. comic43 panel p3
+#. slot: left bubble
+#. images: raddmad.gif, qbstand2.gif, bogeystand2.gif
+#: kidradd/comic43.htm:186
+msgctxt "comic43#p3.1"
+msgid "You didn't hafta do that!"
+msgstr ""
+
+#. comic43 panel p3
+#. slot: right bubble
+#. images: raddmad.gif, qbstand2.gif, bogeystand2.gif
+#: kidradd/comic43.htm:190
+msgctxt "comic43#p3.2"
+msgid "Actually, we did."
+msgstr ""
+
+#. comic43 panel p4
+#. slot: middle bubble
+#. images: qbhead.gif
+#: kidradd/comic43.htm:240
+msgctxt "comic43#p4.1"
+msgid "Opening a portal into a game damages its source code. When the portal closes, the game collapses and self-destructs."
+msgstr ""
+
+#. comic43 panel p5
+#. slot: left bubble
+#. images: raddwow.gif, qbstand2.gif, bogeytalk2.gif
+#: kidradd/comic43.htm:290
+msgctxt "comic43#p5.1"
+msgid "You destroyed my world???"
+msgstr ""
+
+#. comic43 panel p5
+#. slot: middle bubble
+#. images: raddwow.gif, qbstand2.gif, bogeytalk2.gif
+#: kidradd/comic43.htm:292
+msgctxt "comic43#p5.2"
+msgid "Well yeah, but now you're <i>free.</i>"
+msgstr ""
+
+#. comic43 panel p5
+#. slot: right bubble
+#. images: raddwow.gif, qbstand2.gif, bogeytalk2.gif
+#: kidradd/comic43.htm:294
+msgctxt "comic43#p5.3"
+msgid "Show some gratitude."
+msgstr ""
+
+#. comic44 panel title
+#. slot: background color and image
+#: kidradd/comic44.htm:36
+msgctxt "comic44#title.1"
+msgid "\"DON'T LOOK BACK\""
+msgstr ""
+
+#. comic44 panel p1
+#. slot: left bubble
+#. images: raddwow.gif, qbstand2.gif, bogeystand2.gif
+#: kidradd/comic44.htm:77
+msgctxt "comic44#p1.1"
+msgid "You destroyed my world..."
+msgstr ""
+
+#. comic44 panel p1
+#. slot: right bubble
+#. images: raddwow.gif, qbstand2.gif, bogeystand2.gif
+#: kidradd/comic44.htm:81
+msgctxt "comic44#p1.2"
+msgid "Don't worry, we got all the game's sprites out first."
+msgstr ""
+
+#. comic44 panel p2
+#. slot: left bubble
+#. images: raddstand.gif, qbtalk.gif, bogeystand2.gif
+#: kidradd/comic44.htm:134
+msgctxt "comic44#p2.1"
+msgid "You destroyed my world."
+msgstr ""
+
+#. comic44 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, qbtalk.gif, bogeystand2.gif
+#: kidradd/comic44.htm:138
+msgctxt "comic44#p2.2"
+msgid "Yeah, there's really no way to free sprites from a game without wrecking it."
+msgstr ""
+
+#. comic44 panel p3
+#. slot: left bubble
+#. images: raddmad.gif, qbtalk2.gif, bogeystand2.gif
+#: kidradd/comic44.htm:186
+msgctxt "comic44#p3.1"
+msgid "YOU DESTROYED MY WORLD!"
+msgstr ""
+
+#. comic44 panel p3
+#. slot: right bubble
+#. images: raddmad.gif, qbtalk2.gif, bogeystand2.gif
+#: kidradd/comic44.htm:190
+msgctxt "comic44#p3.2"
+msgid "Even if the portal didn't damage it, removing all the sprites and their contingent variables would probably crash the game."
+msgstr ""
+
+#. comic44 panel p4
+#. slot: left bubble
+#. images: raddargh.gif, qbstand2.gif, bogeysigh2.gif
+#: kidradd/comic44.htm:238
+msgctxt "comic44#p4.1"
+msgid "YOU DESTROYED MY WORLD!!!"
+msgstr ""
+
+#. comic44 panel p4
+#. slot: middle bubble
+#. images: raddargh.gif, qbstand2.gif, bogeysigh2.gif
+#: kidradd/comic44.htm:240
+msgctxt "comic44#p4.2"
+msgid "Man, you're whiney."
+msgstr ""
+
+#. comic44 panel p4
+#. slot: right bubble
+#. images: raddargh.gif, qbstand2.gif, bogeysigh2.gif
+#: kidradd/comic44.htm:242
+msgctxt "comic44#p4.3"
+msgid "He gets that way after the apocalypse."
+msgstr ""
+
+#. comic45 panel title
+#. slot: background color and image
+#: kidradd/comic45.htm:36
+msgctxt "comic45#title.1"
+msgid "\"DRIVE\""
+msgstr ""
+
+#. comic45 panel p1
+#. slot: left bubble
+#. images: raddback2.gif, qbstand2.gif, bogeystand2.gif
+#: kidradd/comic45.htm:77
+msgctxt "comic45#p1.1"
+msgid "My world... go boom..."
+msgstr ""
+
+#. comic45 panel p1
+#. slot: right bubble
+#. images: raddback2.gif, qbstand2.gif, bogeystand2.gif
+#: kidradd/comic45.htm:81
+msgctxt "comic45#p1.2"
+msgid "Look kid, I know you didn't expect the destruction of your game, but trust me, you're better off without it."
+msgstr ""
+
+#. comic45 panel p2
+#. slot: left bubble
+#. images: raddback2.gif, qbstand2.gif, bogeystand2.gif
+#: kidradd/comic45.htm:134
+msgctxt "comic45#p2.1"
+msgid "Why... why did you do all this?"
+msgstr ""
+
+#. comic45 panel p2
+#. slot: right bubble
+#. images: raddback2.gif, qbstand2.gif, bogeystand2.gif
+#: kidradd/comic45.htm:138
+msgctxt "comic45#p2.2"
+msgid "Cuz it's my job. That's what the Moderators do."
+msgstr ""
+
+#. comic45 panel p3
+#. slot: left bubble
+#. images: raddright.gif, qbtalk2.gif, bogeystand2.gif
+#: kidradd/comic45.htm:186
+msgctxt "comic45#p3.1"
+msgid "...Moderators?"
+msgstr ""
+
+#. comic45 panel p3
+#. slot: right bubble
+#. images: raddright.gif, qbtalk2.gif, bogeystand2.gif
+#: kidradd/comic45.htm:190
+msgctxt "comic45#p3.2"
+msgid "Our organization. This is our headquarters."
+msgstr ""
+
+#. comic45 panel p4
+#. slot: left bubble
+#. images: raddright.gif, qbtalk2.gif, bogeystand2.gif
+#: kidradd/comic45.htm:238
+msgctxt "comic45#p4.1"
+msgid "I'm so confused..."
+msgstr ""
+
+#. comic45 panel p4
+#. slot: right bubble
+#. images: raddright.gif, qbtalk2.gif, bogeystand2.gif
+#: kidradd/comic45.htm:242
+msgctxt "comic45#p4.2"
+msgid "Don't worry. I'll explain it all. It'll be fun."
+msgstr ""
+
+#. comic45 panel p5
+#. slot: narration (if any, else cut)
+#. images: ridecar.gif, floor6walk.gif
+#: kidradd/comic45.htm:286
+msgctxt "comic45#p5.1"
+msgid "MODERATORS TOUR RIDE"
+msgstr ""
+
+#. comic45 panel p5
+#. slot: left bubble
+#. images: ridecar.gif, floor6walk.gif
+#: kidradd/comic45.htm:292
+msgctxt "comic45#p5.2"
+msgid "I love rides!"
+msgstr ""
+
+#. comic45 panel p5
+#. slot: right bubble
+#. images: ridecar.gif, floor6walk.gif
+#: kidradd/comic45.htm:296
+msgctxt "comic45#p5.3"
+msgid "Just keep your arms and legs... uh, your legs inside the vehicle."
+msgstr ""
+
+#. comic46 panel title
+#. slot: background color and image
+#: kidradd/comic46.htm:36
+msgctxt "comic46#title.1"
+msgid "\"DEEP 13\""
+msgstr ""
+
+#. comic46 panel p1
+#. slot: narration (if any, else cut)
+#. images: giguy.gif, theatre.gif
+#: kidradd/comic46.htm:73
+msgctxt "comic46#p1.1"
+msgid "\"The Moderators organization was founded on bitdate 050499, by the heroic GI Guy.\""
+msgstr ""
+
+#. comic46 panel p1
+#. slot: left bubble
+#. images: giguy.gif, theatre.gif
+#: kidradd/comic46.htm:79
+msgctxt "comic46#p1.2"
+msgid "No relation to Bionic Commando."
+msgstr ""
+
+#. comic46 panel p1
+#. slot: right bubble
+#. images: giguy.gif, theatre.gif
+#: kidradd/comic46.htm:83
+msgctxt "comic46#p1.3"
+msgid "Any resemblance to certain toys is purely coincidental."
+msgstr ""
+
+#. comic46 panel p2
+#. slot: narration (if any, else cut)
+#. images: giguy.gif, gigirl2.gif, theatre.gif
+#: kidradd/comic46.htm:134
+msgctxt "comic46#p2.1"
+msgid "\"GI Guy came from a horrible game called 'Doom Platoon,' in which he constantly fought. He longed to escape this captivity.\""
+msgstr ""
+
+#. comic46 panel p2
+#. slot: left bubble
+#. images: giguy.gif, gigirl2.gif, theatre.gif
+#: kidradd/comic46.htm:140
+msgctxt "comic46#p2.2"
+msgid "Those babes can hold me captive anytime."
+msgstr ""
+
+#. comic46 panel p2
+#. slot: right bubble
+#. images: giguy.gif, gigirl2.gif, theatre.gif
+#: kidradd/comic46.htm:144
+msgctxt "comic46#p2.3"
+msgid "You said it! Mrrrowr!"
+msgstr ""
+
+#. comic46 panel p3
+#. slot: narration (if any, else cut)
+#. images: giguy.gif, portal.gif, theatre.gif
+#: kidradd/comic46.htm:190
+msgctxt "comic46#p3.1"
+msgid "\"Then one day, a faulty emulator set off a glitch in the ROM. Thus GI Guy found a portal that let him escape his game.\""
+msgstr ""
+
+#. comic46 panel p3
+#. slot: left bubble
+#. images: giguy.gif, portal.gif, theatre.gif
+#: kidradd/comic46.htm:196
+msgctxt "comic46#p3.2"
+msgid "That's pretty convenient."
+msgstr ""
+
+#. comic46 panel p3
+#. slot: right bubble
+#. images: giguy.gif, portal.gif, theatre.gif
+#: kidradd/comic46.htm:200
+msgctxt "comic46#p3.3"
+msgid "It's called \"Deus ex Machina.\""
+msgstr ""
+
+#. comic46 panel p4
+#. slot: narration (if any, else cut)
+#. images: portal.gif, giguy2.gif, theatre.gif
+#: kidradd/comic46.htm:246
+msgctxt "comic46#p4.1"
+msgid "\"Suddenly, GI Guy found himself alone and defenseless in the outside cyberworld.\""
+msgstr ""
+
+#. comic46 panel p4
+#. slot: left bubble
+#. images: portal.gif, giguy2.gif, theatre.gif
+#: kidradd/comic46.htm:252
+msgctxt "comic46#p4.2"
+msgid "\"YOU HAVE NO CHANCE TO SURVIVE MAKE YOUR TIME.\""
+msgstr ""
+
+#. comic46 panel p4
+#. slot: right bubble
+#. images: portal.gif, giguy2.gif, theatre.gif
+#: kidradd/comic46.htm:256
+msgctxt "comic46#p4.3"
+msgid "\"HA HA HA HA!\""
+msgstr ""
+
+#. comic46 panel p5
+#. slot: left bubble
+#. images: qbhead2.gif, rhead.gif, bhead.gif
+#: kidradd/comic46.htm:307
+msgctxt "comic46#p5.1"
+msgid "Guys, talking during a movie is NOT funny."
+msgstr ""
+
+#. comic46 panel p5
+#. slot: middle bubble
+#. images: qbhead2.gif, rhead.gif, bhead.gif
+#: kidradd/comic46.htm:309
+msgctxt "comic46#p5.2"
+msgid "It's not?"
+msgstr ""
+
+#. comic46 panel p5
+#. slot: right bubble
+#. images: qbhead2.gif, rhead.gif, bhead.gif
+#: kidradd/comic46.htm:311
+msgctxt "comic46#p5.3"
+msgid "\"WHAT YOU SAY!!\""
+msgstr ""
+
+#. comic47 panel title
+#. slot: background color and image
+#: kidradd/comic47.htm:36
+msgctxt "comic47#title.1"
+msgid "\"CRUISING\""
+msgstr ""
+
+#. comic47 panel p1
+#. slot: narration (if any, else cut)
+#. images: gilab.gif, theatre.gif
+#: kidradd/comic47.htm:73
+msgctxt "comic47#p1.1"
+msgid "\"Using the original glitch that freed them from Doom Platoon, the escapees created portal technology to break into other ROMs on the web.\""
+msgstr ""
+
+#. comic47 panel p2
+#. slot: narration (if any, else cut)
+#. images: theatre.gif
+#: kidradd/comic47.htm:134
+msgctxt "comic47#p2.1"
+msgid "\"Pledging themselves to freeing every captive sprite, the Moderators were founded.\""
+msgstr ""
+
+#. comic47 panel p2
+#. slot: imsert images on this line
+#. images: theatre.gif
+#: kidradd/comic47.htm:152
+msgctxt "comic47#p2.2"
+msgid "THE END"
+msgstr ""
+
+#. comic47 panel p3
+#. slot: left bubble
+#. images: ridecar2.gif, floor6.gif
+#: kidradd/comic47.htm:193
+msgctxt "comic47#p3.1"
+msgid "So, any questions?"
+msgstr ""
+
+#. comic47 panel p3
+#. slot: right bubble
+#. images: ridecar2.gif, floor6.gif
+#: kidradd/comic47.htm:197
+msgctxt "comic47#p3.2"
+msgid "Yeah, why are we in a ride car? That was just a movie."
+msgstr ""
+
+#. comic47 panel p4
+#. slot: left bubble
+#. images: ridecar2.gif, floor6.gif
+#: kidradd/comic47.htm:245
+msgctxt "comic47#p4.1"
+msgid "Oh, that's for the unnecessary-but-cool waterslide at the end of the show."
+msgstr ""
+
+#. comic47 panel p5
+#. slot: right bubble
+#. images: whee.gif
+#: kidradd/comic47.htm:302
+msgctxt "comic47#p5.1"
+msgid "WHEEE!!!"
+msgstr ""
+
+#. comic48 panel title
+#. slot: background color and image
+#: kidradd/comic48.htm:36
+msgctxt "comic48#title.1"
+msgid "\"THAT'S JUST THE WAY IT IS\""
+msgstr ""
+
+#. comic48 panel p1
+#. slot: narration (if any, else cut)
+#. images: ridecar.gif, floor6walk.gif
+#: kidradd/comic48.htm:73
+msgctxt "comic48#p1.1"
+msgid "\"Thank you for taking the Moderators Tour Ride; please remain seated until the vehicle comes to a complete stop and have a nice day.\""
+msgstr ""
+
+#. comic48 panel p1
+#. slot: right bubble
+#. images: ridecar.gif, floor6walk.gif
+#: kidradd/comic48.htm:83
+msgctxt "comic48#p1.2"
+msgid "Well folks, that's our story."
+msgstr ""
+
+#. comic48 panel p2
+#. slot: left bubble
+#. images: raddstand.gif, qbstand2.gif, bogeystand2.gif
+#: kidradd/comic48.htm:136
+msgctxt "comic48#p2.1"
+msgid "So, what happens to us next?"
+msgstr ""
+
+#. comic48 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, qbstand2.gif, bogeystand2.gif
+#: kidradd/comic48.htm:140
+msgctxt "comic48#p2.2"
+msgid "Oh, you're free to go now."
+msgstr ""
+
+#. comic48 panel p3
+#. slot: left bubble
+#. images: raddstand.gif, qbstand2.gif, bogeystand2.gif
+#: kidradd/comic48.htm:188
+msgctxt "comic48#p3.1"
+msgid "...And do what?"
+msgstr ""
+
+#. comic48 panel p3
+#. slot: right bubble
+#. images: raddstand.gif, qbstand2.gif, bogeystand2.gif
+#: kidradd/comic48.htm:192
+msgctxt "comic48#p3.2"
+msgid "The usual. Become a productive member of society, forge your own destiny, chase your dreams, etc."
+msgstr ""
+
+#. comic48 panel p4
+#. slot: left bubble
+#. images: raddstand.gif, qbtalk2.gif, bogeystand2.gif
+#: kidradd/comic48.htm:240
+msgctxt "comic48#p4.1"
+msgid "But how do I do that?"
+msgstr ""
+
+#. comic48 panel p4
+#. slot: right bubble
+#. images: raddstand.gif, qbtalk2.gif, bogeystand2.gif
+#: kidradd/comic48.htm:244
+msgctxt "comic48#p4.2"
+msgid "Generally, you start by finding a job."
+msgstr ""
+
+#. comic48 panel p5
+#. slot: left bubble
+#. images: raddstand2.gif, qbstand2.gif, bogeytalk2.gif
+#: kidradd/comic48.htm:292
+msgctxt "comic48#p5.1"
+msgid "I have this sudden feeling of impending doom..."
+msgstr ""
+
+#. comic48 panel p5
+#. slot: middle bubble
+#. images: raddstand2.gif, qbstand2.gif, bogeytalk2.gif
+#: kidradd/comic48.htm:294
+msgctxt "comic48#p5.2"
+msgid "It'll wear off with your first paycheck."
+msgstr ""
+
+#. comic48 panel p5
+#. slot: right bubble
+#. images: raddstand2.gif, qbstand2.gif, bogeytalk2.gif
+#: kidradd/comic48.htm:296
+msgctxt "comic48#p5.3"
+msgid "This conformist is raring to go!"
+msgstr ""
+
+#. comic49 panel title
+#. slot: background color and image
+#: kidradd/comic49.htm:36
+msgctxt "comic49#title.1"
+msgid "\"THE FIRST STEP\""
+msgstr ""
+
+#. comic49 panel p1
+#. slot: left bubble
+#. images: bogeystand.gif, raddstand.gif, qbstand2.gif
+#: kidradd/comic49.htm:77
+msgctxt "comic49#p1.1"
+msgid "So... um..."
+msgstr ""
+
+#. comic49 panel p1
+#. slot: right bubble
+#. images: bogeystand.gif, raddstand.gif, qbstand2.gif
+#: kidradd/comic49.htm:81
+msgctxt "comic49#p1.2"
+msgid "Just next door you can fill out all your paperwork to register as a new citizen."
+msgstr ""
+
+#. comic49 panel p2
+#. slot: left bubble
+#. images: bogeystand.gif, raddstand.gif, qbstand2.gif
+#: kidradd/comic49.htm:135
+msgctxt "comic49#p2.1"
+msgid "Paperwork. Right..."
+msgstr ""
+
+#. comic49 panel p2
+#. slot: right bubble
+#. images: bogeystand.gif, raddstand.gif, qbstand2.gif
+#: kidradd/comic49.htm:139
+msgctxt "comic49#p2.2"
+msgid "They'll direct you to the employment office, where you can see what jobs are open."
+msgstr ""
+
+#. comic49 panel p3
+#. slot: left bubble
+#. images: raddleft.gif, bogeystand2.gif, qbtalk2.gif
+#: kidradd/comic49.htm:187
+msgctxt "comic49#p3.1"
+msgid "Thanks. I guess..."
+msgstr ""
+
+#. comic49 panel p3
+#. slot: right bubble
+#. images: raddleft.gif, bogeystand2.gif, qbtalk2.gif
+#: kidradd/comic49.htm:191
+msgctxt "comic49#p3.2"
+msgid "And if you've got any questions or problems, we at the Moderators will always be here to help you!"
+msgstr ""
+
+#. comic49 panel p4
+#. slot: left bubble
+#. images: bogeytalk.gif, qbstand2.gif
+#: kidradd/comic49.htm:239
+msgctxt "comic49#p4.1"
+msgid "Really?"
+msgstr ""
+
+#. comic49 panel p4
+#. slot: right bubble
+#. images: bogeytalk.gif, qbstand2.gif
+#: kidradd/comic49.htm:243
+msgctxt "comic49#p4.2"
+msgid "No, not really."
+msgstr ""
