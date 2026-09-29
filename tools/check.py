@@ -49,7 +49,8 @@ def check_entry(e, glossary):
     if re.search(r'<|&(?![A-Za-z]+;|#\d+;)', body):
         errors.append('bare "<" or "&" (use &lt; / &amp;)')
     for en, ru, note in glossary:
-        if en.search(e.msgid) and not ru.search(e.msgstr):
+        # A term kept verbatim in the translation (e.g. "Kid Radd" in credits) is deliberate.
+        if en.search(e.msgid) and not ru.search(e.msgstr) and not en.search(e.msgstr):
             warnings.append(f'glossary: {note or en.pattern}')
     if re.search(r'[A-Za-z]{3,}(?:\s+[A-Za-z]{2,}){2,}', K.plain_text(e.msgstr)):
         warnings.append('latin: looks like untranslated English')

@@ -11,38 +11,47 @@ msgstr ""
 
 #. Browser tab title.
 #: kidradd/comic1.htm:3 kidradd/comic1.htm:244 kidradd/comic2.htm:3
+#, fuzzy
 msgid "Kid Radd &copy;2002 by Dan Miller"
-msgstr ""
+msgstr "Kid Radd &copy;2002, Дэн Миллер"
 
 #: kidradd/comic1.htm:39 kidradd/comic1.htm:75 kidradd/comic1.htm:133
+#, fuzzy
 msgid "zoom"
-msgstr ""
+msgstr "зум"
 
 #: kidradd/comic1.htm:41 kidradd/comic1.htm:77 kidradd/comic1.htm:135
+#, fuzzy
 msgid "list"
-msgstr ""
+msgstr "список"
 
 #: kidradd/comic1.htm:260
+#, fuzzy
 msgid "Tip: Use the Left/Right arrow keys to navigate."
-msgstr ""
+msgstr "Совет: листайте стрелками ← и → на клавиатуре."
 
 #: kidradd/comic163.htm:312 kidradd/comic169.htm:311 kidradd/comic170.htm:258
+#, fuzzy
 msgid "Kid Radd &copy;2003 by Dan Miller"
-msgstr ""
+msgstr "Kid Radd &copy;2003, Дэн Миллер"
 
 #. Browser tab title.
 #: kidradd/comic429.htm:3 kidradd/comic430.htm:3 kidradd/comic431.htm:3
+#, fuzzy
 msgid "Kid Radd &copy;2004 by Dan Miller"
-msgstr ""
+msgstr "Kid Radd &copy;2004, Дэн Миллер"
 
 #. Label of the Translator Notes button (fits in a 39px box, like "zoom"/"list").
+#, fuzzy
 msgid "notes"
-msgstr ""
+msgstr "прим."
 
 #. Heading of the notes popup.
+#, fuzzy
 msgid "Translator notes"
-msgstr ""
+msgstr "Примечания переводчика"
 
 #. Close button of the notes popup.
+#, fuzzy
 msgid "close"
-msgstr ""
+msgstr "закрыть"

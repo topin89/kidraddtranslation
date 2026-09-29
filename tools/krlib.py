@@ -192,6 +192,8 @@ def segment(s, page):
         raw = s[a:b]
         if not LETTERS.search(plain_text(raw)):
             return
+        if re.fullmatch(r'<\s*/?[A-Za-z]+[^>]*', raw):
+            return  # unterminated tag at end of file, e.g. comic5's trailing "<br"
         n = counters.get(panel, 0) + 1
         counters[panel] = n
         units.append(Unit(page=page, panel=panel, index=n, start=a, end=b,
