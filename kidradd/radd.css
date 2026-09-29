@@ -1,0 +1,31 @@
+/* Prevent blurry images in IE, Firefox
+   Brad Greco, 2010 */
+* { image-rendering: -moz-crisp-edges; image-rendering: pixelated; -ms-interpolation-mode: nearest-neighbor; }
+
+/* This is really goofy!
+   In Firefox (maybe others? haven't tested), the GIF animation reset won't work unless the GIFs are
+   actaully on-screen, so shoving them off the page completely doesn't work. Instead, position them
+   so the bottom of each panel is visible on the page, and cover them up with a blue div. */
+#cover { background-color: #000033; position: absolute; top: -200px; bottom: 0px; left: 0px; right: 0px; z-index: -1; }
+.panel { margin-top: 100px; display: block; position: absolute; z-index: -2; top: -100px; }
+.visible { position: static; }
+img.preload { position: absolute; top: -100px; }
+
+@font-face {
+    font-family: VAGRundschriftD;
+    src: url('vag_rundschrift.ttf');
+}
+
+.rundschrift {
+	font-family: VAGRundschriftD !important;
+}
+
+body.zoom {
+   transform: scale(2);
+   transform-origin: 0 0;
+   max-width: 49vw;
+}
+
+body.zoom .panel {
+   margin-top: 50px;
+}
