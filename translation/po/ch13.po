@@ -24,7 +24,7 @@ msgstr "«ПОКАЖИ МНЕ СНОВА ЭТУ УЛЫБКУ»"
 #, fuzzy
 msgctxt "comic216#p1.1"
 msgid "Greetings everyone. The story's been kinda heavy lately, so we're taking another break from the plot this week. For the next five days, it's just humor and pandering to the audience."
-msgstr "Всем привет. В последнее время история стала мрачноватой, так что на этой неделе мы снова берём перерыв от сюжета. Следующие пять дней — только юмор и заигрывание с публикой."
+msgstr "Всем привет. История в последнее время была мрачноватой, так что на этой неделе мы снова отдыхаем от сюжета. Пять дней — только юмор и заигрывание с публикой."
 
 #. comic216 panel p2
 #. slot: middle bubble
@@ -185,7 +185,7 @@ msgstr "ЭЙ! ПРЕКРАТИТЕ!"
 #, fuzzy
 msgctxt "comic217#p5.2"
 msgid "I needed<br>a break."
-msgstr "Мне нужен<br>был перерыв."
+msgstr "Надо было<br>отдохнуть."
 
 #. comic218 panel title
 #. slot: background color and image
@@ -202,7 +202,7 @@ msgstr "«ИГРЫ, В КОТОРЫЕ ИГРАЮТ ЛЮДИ»"
 #, fuzzy
 msgctxt "comic218#p1.1"
 msgid "Today's comic attempts to appeal to a younger demographic, and maybe spin off some merchandising opportunities. We not-so-proudly present: Bogeymon! Er, Bo-Gi-Oh? Bogey Doo? Whatever, just watch this crap."
-msgstr "Сегодняшний комикс пытается понравиться аудитории помладше и, может, принести пару возможностей для мерча. Мы не слишком гордо представляем: Бякемон! Э-э, Бя-Ги-О? Бяка-Ду? Неважно, просто смотрите эту ерунду."
+msgstr "Сегодняшний комикс метит в аудиторию помладше и, может, в мерч. Мы не слишком гордо представляем: Бякемон! Э-э, Бя-Ги-О? Бяка-Ду? Неважно, смотрите эту ерунду."
 
 #. comic218 panel p2
 #. slot: right bubble
@@ -238,7 +238,7 @@ msgstr "Эм, мы вообще ничего не делаем."
 #, fuzzy
 msgctxt "comic218#p4.1"
 msgid "Fool! You forgot that undead creatures like my <b>Skull Guy</b> have reverse status ailments, and thus, he gains super speed! He gets 3 moves per turn from now on, so now he'll cure his teammates AND attack yours!"
-msgstr "Глупец! Ты забыл, что у нежити вроде моего <b>Черепушки</b> статусные эффекты работают наоборот, и потому он получает суперскорость! Теперь у него 3 хода за раунд, так что он вылечит своих И атакует твоих!"
+msgstr "Глупец! Ты забыл, что у нежити вроде моего <b>Черепушки</b> статусы работают наоборот, и он получает суперскорость! Теперь у него 3 хода за раунд: он вылечит своих И атакует твоих!"
 
 #. comic218 panel p4
 #. slot: imsert images on this line
@@ -247,7 +247,7 @@ msgstr "Глупец! Ты забыл, что у нежити вроде мое�
 #, fuzzy
 msgctxt "comic218#p4.2"
 msgid "This isn't \"action,\" just talk."
-msgstr "Это не «экшен», а сплошная болтовня."
+msgstr "Это не «экшен», а болтовня."
 
 #. comic218 panel p6
 #. slot: middle bubble
@@ -282,7 +282,7 @@ msgstr "После вчерашней катастрофы мы решили о�
 #, fuzzy
 msgctxt "comic219#p2.1"
 msgid "I never got a good look at the perp, he ran off after killing the guy."
-msgstr "Я толком не разглядел преступника, он убил парня и сбежал."
+msgstr "Я толком не разглядел убийцу, он сразу сбежал."
 
 #. comic219 panel p2
 #. slot: right bubble
@@ -291,7 +291,7 @@ msgstr "Я толком не разглядел преступника, он у�
 #, fuzzy
 msgctxt "comic219#p2.2"
 msgid "Most egregious. So, where's the vic's body?"
-msgstr "Жесть. Так, где тело жертвы?"
+msgstr "Жесть. Где тело жертвы?"
 
 #. comic219 panel p3
 #. slot: left bubble
@@ -327,7 +327,7 @@ msgstr "Взгляните-ка..."
 #, fuzzy
 msgctxt "comic219#p4.1"
 msgid "Alright, time to cleverly collect some trace evidence! Whadda we got, fingerprints? Hair strands? Epitheleal cells?"
-msgstr "Так, пора хитроумно собрать улики! Что у нас, отпечатки пальцев? Волоски? Эпителиальные клетки?"
+msgstr "Так, пора хитро собрать улики! Что у нас? Отпечатки? Волоски? Эпителий?"
 
 #. comic219 panel p4
 #. slot: right bubble
@@ -354,7 +354,7 @@ msgstr "Пиксель?"
 #, fuzzy
 msgctxt "comic219#p5.2"
 msgid "Look, we're sprites. We don't have anything smaller than a pixel.</font> <font size=\"1\" face=\"arial\">Epitheleal cells, my ass."
-msgstr "Слушай, мы спрайты. У нас нет ничего меньше пикселя.</font> <font size=\"1\" face=\"arial\">Эпителиальные клетки, ага, щас."
+msgstr "Слушай, мы спрайты. У нас нет ничего меньше пикселя.</font> <font size=\"1\" face=\"arial\">Эпителий, ага, щас."
 
 #. comic219 panel p6
 #. slot: left bubble
@@ -397,7 +397,7 @@ msgstr "Ты сдурел, мальчик? Это долбаный <b>пиксе
 #, fuzzy
 msgctxt "comic219#p8.1"
 msgid "Wow. Sprite forensics isn't very advanced, huh?"
-msgstr "Ничего себе. Спрайтовая криминалистика не очень-то развита, а?"
+msgstr "Ого. Спрайтовая криминалистика так себе, а?"
 
 #. comic219 panel p8
 #. slot: middle bubble
@@ -406,7 +406,7 @@ msgstr "Ничего себе. Спрайтовая криминалистика
 #, fuzzy
 msgctxt "comic219#p8.2"
 msgid "We have no shot at solving this unless the perp turns himself in."
-msgstr "У нас ни шанса раскрыть дело, если только преступник сам не явится с повинной."
+msgstr "Без явки с повинной нам не раскрыть дело."
 
 #. comic219 panel p8
 #. slot: right bubble
@@ -441,7 +441,7 @@ msgstr "Фу, я от вас заражаюсь лузерством."
 #, fuzzy
 msgctxt "comic219#p10.1"
 msgid "I... <i>sniff!</i> ...I never meant to hurt anyone. I just bumped into him and... <i>he died!</i>"
-msgstr "Я... <i>хнык!</i> ...Я не хотел никому навредить. Я просто на него наткнулся, и... <i>он умер!</i>"
+msgstr "Я... <i>хнык!</i> ...Я не хотел зла. Я просто его задел, и... <i>он умер!</i>"
 
 #. comic219 panel p10
 #. slot: right bubble
@@ -449,7 +449,7 @@ msgstr "Я... <i>хнык!</i> ...Я не хотел никому навреди
 #, fuzzy
 msgctxt "comic219#p10.2"
 msgid "Another needless tragedy. When will we learn?"
-msgstr "Ещё одна бессмысленная трагедия. Когда же мы научимся?"
+msgstr "Ещё одна напрасная трагедия. Когда мы научимся?"
 
 #. comic219 panel p11
 #. slot: middle bubble
@@ -580,7 +580,7 @@ msgstr "Выбрать что?"
 #, fuzzy
 msgctxt "comic220#p6.2"
 msgid "Epiphany. After the hero gets his ass kicked, he or she has a defining moment, which somehow makes them a bajillion times stronger."
-msgstr "Прозрение. Когда герою надрали зад, у него или у неё случается переломный момент, от которого он каким-то образом становится в мильярд раз сильнее."
+msgstr "Прозрение. Получив по заду, герой переживает переломный момент и становится в мильярд раз сильнее."
 
 #. comic220 panel p7
 #. slot: left bubble
@@ -705,7 +705,7 @@ msgstr "И надевайте резинку."
 #, fuzzy
 msgctxt "comic220#p16.1"
 msgid "Guess I went a little overboard."
-msgstr "Кажется, я слегка перестарался."
+msgstr "Я, кажется, перестарался."
 
 #. comic220 panel p16
 #. slot: middle bubble
@@ -714,7 +714,7 @@ msgstr "Кажется, я слегка перестарался."
 #, fuzzy
 msgctxt "comic220#p16.2"
 msgid "No biggie, that's what Dragon Balls are for."
-msgstr "Ерунда, для того и нужны Жемчужины дракона."
+msgstr "Ерунда, на то есть шары дракона."
 
 #. comic220 panel p16
 #. slot: right bubble
@@ -723,4 +723,4 @@ msgstr "Ерунда, для того и нужны Жемчужины драк�
 #, fuzzy
 msgctxt "comic220#p16.3"
 msgid "Finally, this crazy week is over! See you back in the story!"
-msgstr "Наконец-то эта безумная неделя закончилась! Увидимся в сюжете!"
+msgstr "Безумной неделе конец! До встречи в сюжете!"

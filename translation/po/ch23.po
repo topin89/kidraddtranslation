@@ -15,7 +15,7 @@ msgstr ""
 #, fuzzy
 msgctxt "comic421#title.1"
 msgid "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">\"DIZZY\"</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Warning: Midi music ahead)<br><br></font>"
-msgstr "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">«ГОЛОВА КРУГОМ»</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Внимание: дальше MIDI-музыка)<br><br></font>"
+msgstr "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">«ГОЛОВА КРУГОМ»</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Внимание: впереди MIDI-музыка)<br><br></font>"
 
 #. comic421 panel p1
 #. slot: left bubble
@@ -230,7 +230,7 @@ msgstr "Прям хлопья. «Нолики — часть полноценн�
 #, fuzzy
 msgctxt "comic422#p4.1"
 msgid "Man Radd, your <b>CD</b> collection is awesome, <b>ai'ight!</b>"
-msgstr "Слышь, Улёт, у тебя зачётная коллекция <b>CD</b>, <b>респект!</b>"
+msgstr "Улёт, у тебя крутые <b>CD</b>, <b>респект!</b>"
 
 #. comic422 panel p4
 #. slot: right bubble
@@ -239,7 +239,7 @@ msgstr "Слышь, Улёт, у тебя зачётная коллекция <b
 #, fuzzy
 msgctxt "comic422#p4.2"
 msgid "Yeah, am I a modern guy or what? Ha ha!"
-msgstr "Ага, я ж современный парень! Ха-ха!"
+msgstr "Ага, я ж современный! Ха-ха!"
 
 #. comic422 panel p4
 #. slot: left bubble
@@ -257,7 +257,7 @@ msgstr "Мне почему-то обидно…"
 #, fuzzy
 msgctxt "comic422#p4.4"
 msgid "Did he just put that disc in upside-down?"
-msgstr "Он что, вставил диск вверх ногами?"
+msgstr "Он вставил диск вверх ногами?"
 
 #. comic422 panel p5
 #. slot: left bubble
@@ -496,7 +496,7 @@ msgstr "Вот этим!"
 #, fuzzy
 msgctxt "comic425#title.1"
 msgid "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">\"MAN OF GENIUS\"</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Warning: Midi music ahead)<br><br></font>"
-msgstr "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">«ГЕНИАЛЬНЫЙ ЧЕЛОВЕК»</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Внимание: дальше MIDI-музыка)<br><br></font>"
+msgstr "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">«ГЕНИАЛЬНЫЙ ЧЕЛОВЕК»</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Внимание: впереди MIDI-музыка)<br><br></font>"
 
 #. comic425 panel p1
 #. slot: left bubble

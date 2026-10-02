@@ -291,7 +291,7 @@ msgstr "Прикинь, Амп! Бяка держал меня в шкафу, ч
 #, fuzzy
 msgctxt "comic224#p5.1"
 msgid "It's times like this I'm glad to have but one expression."
-msgstr "В такие моменты я рад, что у меня всего одно выражение лица."
+msgstr "Хорошо, что у меня всего одно выражение лица."
 
 #. comic224 panel p5
 #. slot: middle bubble
@@ -300,7 +300,7 @@ msgstr "В такие моменты я рад, что у меня всего о
 #, fuzzy
 msgctxt "comic224#p5.2"
 msgid "But I'm totally out of the closet now!"
-msgstr "Зато теперь я окончательно вышел из шкафа!"
+msgstr "Зато теперь я вышел из шкафа!"
 
 #. comic224 panel p5
 #. slot: right bubble
@@ -309,7 +309,7 @@ msgstr "Зато теперь я окончательно вышел из шка
 #, fuzzy
 msgctxt "comic224#p5.3"
 msgid "Totally."
-msgstr "Окончательно."
+msgstr "Ещё как."
 
 #. comic225 panel title
 #. slot: background color and image
@@ -361,7 +361,7 @@ msgstr "Ну, ещё есть вот эта записка, которую я н
 #, fuzzy
 msgctxt "comic225#p3.1"
 msgid "IF YOU WANT THE BEE-GIRL BACK ALIVE, COME TO THE CARGO BAY WITH RADD ASAP."
-msgstr "ЕСЛИ ХОТИТЕ ВЕРНУТЬ ДЕВОЧКУ-ПЧЕЛУ ЖИВОЙ, ПРИХОДИТЕ В ГРУЗОВОЙ ОТСЕК С УЛЁТОМ. И БЕЗ ДУРАКОВ."
+msgstr "ХОТИТЕ ПЧЁЛКУ ЖИВОЙ — ПРИХОДИТЕ С УЛЁТОМ В ГРУЗОВОЙ ОТСЕК. БЕЗ ДУРАКОВ."
 
 #. comic225 panel p4
 #. slot: left bubble
@@ -512,7 +512,7 @@ msgstr "«ДОЛГ ГЕРОЯ»"
 #, fuzzy
 msgctxt "comic227#p1.1"
 msgid "There's a kidnapper on the ship? How did this happen?"
-msgstr "На корабле похититель? Как такое случилось?"
+msgstr "На корабле похититель? Как так?"
 
 #. comic227 panel p1
 #. slot: right bubble
@@ -521,7 +521,7 @@ msgstr "На корабле похититель? Как такое случил
 #, fuzzy
 msgctxt "comic227#p1.2"
 msgid "We were clean when we left Mod HQ, and we've only stopped to pick up Radd."
-msgstr "Когда мы улетали из штаба Модеров, всё было чисто, а остановились мы только чтобы забрать Улёта."
+msgstr "Из штаба Модеров мы улетели чистыми и останавливались только за Улётом."
 
 #. comic227 panel p2
 #. slot: left bubble
@@ -566,7 +566,7 @@ msgstr "Ну, как-то так его звали. Он пытался меня
 #, fuzzy
 msgctxt "comic227#p4.1"
 msgid "Of course! That must be QB's hired goon! I guess he snuck onboard."
-msgstr "Ну конечно! Это, должно быть, громила, которого нанял Кьюби! Наверное, пробрался на борт."
+msgstr "Ну конечно! Это громила, нанятый Кьюби! Видно, пробрался на борт."
 
 #. comic227 panel p4
 #. slot: right bubble
@@ -575,7 +575,7 @@ msgstr "Ну конечно! Это, должно быть, громила, ко
 #, fuzzy
 msgctxt "comic227#p4.2"
 msgid "I'll go get him. I'm the only one of us who can fight, so it's my job."
-msgstr "Я с ним разберусь. Драться из нас умею только я, так что это моя работа."
+msgstr "Я с ним разберусь. Драться у нас умею только я, это моя работа."
 
 #. comic227 panel p5
 #. slot: left bubble
@@ -610,7 +610,7 @@ msgstr "Улёт, возьми меня с собой. Более того, пе
 #, fuzzy
 msgctxt "comic228#p2.1"
 msgid "Sheena, I don't think we can negotiate with this guy."
-msgstr "Шина, вряд ли с этим типом можно договориться."
+msgstr "Шина, с этим типом не договоришься."
 
 #. comic228 panel p2
 #. slot: right bubble
@@ -619,7 +619,7 @@ msgstr "Шина, вряд ли с этим типом можно договор
 #, fuzzy
 msgctxt "comic228#p2.2"
 msgid "We won't. We'll just make him think we want to, and while I'm talking to him you can try a surprise attack."
-msgstr "А мы и не будем. Пусть только думает, что мы хотим, а пока я с ним говорю, ты попробуешь напасть внезапно."
+msgstr "Мы и не будем. Сделаем вид, а пока я говорю, ты нападёшь внезапно."
 
 #. comic228 panel p3
 #. slot: left bubble
@@ -815,7 +815,7 @@ msgstr "щёлк! -"
 #, fuzzy
 msgctxt "comic230#p4.1"
 msgid "Oh, bit.<br><b>RUN!!!!!</b>"
-msgstr "Вот бит.<br><b>БЕЖИМ!!!!!</b>"
+msgstr "Ой, бит.<br><b>БЕЖИМ!!!!!</b>"
 
 #. comic230 panel p4
 #. slot: middle bubble
@@ -824,7 +824,7 @@ msgstr "Вот бит.<br><b>БЕЖИМ!!!!!</b>"
 #, fuzzy
 msgctxt "comic230#p4.2"
 msgid "SPRITE-SEEKING MISSILES, BABY!"
-msgstr "РАКЕТЫ С НАВЕДЕНИЕМ НА СПРАЙТЫ, ДЕТКА!"
+msgstr "РАКЕТЫ ИЩУТ СПРАЙТЫ, ДЕТКА!"
 
 #. comic230 panel p5
 #. slot: left bubble
@@ -1028,7 +1028,7 @@ msgstr "«ПРОТИВОСТОЯНИЕ»"
 #, fuzzy
 msgctxt "comic233#p1.1"
 msgid "So Ms. Bulletproof, I guess you're an NPC, huh? Quit hiding behind her, Radd. Face me like a man."
-msgstr "Так, мисс Пуленепробиваемая, ты, похоже, НПС? Хватит за ней прятаться, Улёт. Сразись со мной как мужчина."
+msgstr "Так, мисс Броня, ты, видать, НПС? Хватит за ней прятаться, Улёт. Дерись как мужчина."
 
 #. comic233 panel p2
 #. slot: left bubble
@@ -1153,7 +1153,7 @@ msgstr "Муа-ха и ха!"
 #, fuzzy
 msgctxt "comic234#p5.2"
 msgid "Note to self: Learn to think and dodge at the same time."
-msgstr "Заметка на будущее: научиться думать и уворачиваться одновременно."
+msgstr "На заметку: учиться думать и уклоняться разом."
 
 #. comic235 panel title
 #. slot: background color and image
@@ -1170,7 +1170,7 @@ msgstr "«МЕДЛЕННАЯ СМЕРТЬ»"
 #, fuzzy
 msgctxt "comic235#p1.1"
 msgid "\"Damn, the irony! Now I can't hit this guy, and I'm running for my life!\""
-msgstr "«Чёрт, вот ирония! Теперь это я не могу в него попасть и спасаюсь бегством!»"
+msgstr "«Вот ирония! Теперь я в него не попадаю и спасаюсь бегством!»"
 
 #. comic235 panel p2
 #. slot: middle bubble
@@ -1214,7 +1214,7 @@ msgstr "«ПОСЛЕДНИЙ ЧАС»"
 #, fuzzy
 msgctxt "comic236#p1.1"
 msgid "It's over. The instant my invulnerabilty ends, I'm dead."
-msgstr "Всё кончено. Как только неуязвимость пройдёт, я труп."
+msgstr "Всё. Кончится неуязвимость — и я труп."
 
 #. comic236 panel p2
 #. slot: middle bubble

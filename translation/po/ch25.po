@@ -60,7 +60,7 @@ msgstr "Правда? А как тогда игроку победить?"
 #, fuzzy
 msgctxt "comic460#p3.1"
 msgid "By using his head. It's basically a scripted battle, where all attempts to use force fail. The player will lose unless he figures out to use the often-overlooked \"Meditate\" move."
-msgstr "Головой. По сути, это бой по сценарию, где любые попытки применить силу проваливаются. Игрок проиграет, если не догадается использовать приём «Медитация», о котором часто забывают."
+msgstr "Головой. По сути, это бой по сценарию, где сила бесполезна. Игрок проиграет, если не догадается применить приём «Медитация», о котором часто забывают."
 
 #. comic460 panel p4
 #. slot: left bubble
@@ -148,7 +148,7 @@ msgstr "Ну, по крайней мере не там."
 #, fuzzy
 msgctxt "comic461#p3.1"
 msgid "\"I can't attack directly, but in the outside world I can cheat a little. But in an RPG battle that won't work.\""
-msgstr "«Атаковать напрямую я не могу, но во внешнем мире могу немного сжульничать. А в РПГ-битве это не сработает»."
+msgstr "«Атаковать напрямую я не могу, но снаружи могу слегка жульничать. А в РПГ-бою это не пройдёт»."
 
 #. comic461 panel p3
 #. slot: narration (if any, else cut)
@@ -156,7 +156,7 @@ msgstr "«Атаковать напрямую я не могу, но во вне
 #, fuzzy
 msgctxt "comic461#p3.2"
 msgid "\"Still, we need you to go in. Your cures will keep the party alive.\""
-msgstr "«И всё же нам нужно, чтобы ты пошёл. Твоё лечение не даст отряду погибнуть»."
+msgstr "«И всё же иди. Твоё лечение спасёт отряд»."
 
 #. comic461 panel p4
 #. slot: left bubble
@@ -788,7 +788,7 @@ msgstr "Это экран битвы или дискотека?"
 #, fuzzy
 msgctxt "comic468#p3.1"
 msgid "Uh, where are you guys? I can't see you. ...Or me!"
-msgstr "Э-э, где вы? Я вас не вижу. …И себя тоже!"
+msgstr "Э-э, где вы? Не вижу вас. …И себя!"
 
 #. comic468 panel p3
 #. slot: middle bubble
@@ -797,7 +797,7 @@ msgstr "Э-э, где вы? Я вас не вижу. …И себя тоже!"
 #, fuzzy
 msgctxt "comic468#p3.2"
 msgid "Trippy."
-msgstr "Психоделика."
+msgstr "Глюки."
 
 #. comic468 panel p3
 #. slot: right bubble
@@ -824,7 +824,7 @@ msgstr "Ой! Оно так умеет?"
 #, fuzzy
 msgctxt "comic468#p4.2"
 msgid "What's weirder is that it does it <i>alone.</i>"
-msgstr "Ещё страннее, что оно делает это <i>в одиночку.</i>"
+msgstr "Страннее, что оно делает это <i>в одиночку.</i>"
 
 #. comic468 panel p4
 #. slot: right bubble
@@ -833,7 +833,7 @@ msgstr "Ещё страннее, что оно делает это <i>в оди�
 #, fuzzy
 msgctxt "comic468#p4.3"
 msgid "Must be unicellular."
-msgstr "Наверное, одноклеточное."
+msgstr "Амёба, наверное."
 
 #. comic469 panel title
 #. slot: background color and image
@@ -851,7 +851,7 @@ msgstr "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SO
 #, fuzzy
 msgctxt "comic469#p1.1"
 msgid "Despite its flashiness, it appears this is a standard turn-based system."
-msgstr "Несмотря на всю эту пестроту, похоже, это обычная пошаговая система."
+msgstr "Несмотря на блеск, это, похоже, обычная пошаговая система."
 
 #. comic469 panel p1
 #. slot: right bubble
@@ -860,7 +860,7 @@ msgstr "Несмотря на всю эту пестроту, похоже, эт
 #, fuzzy
 msgctxt "comic469#p1.2"
 msgid "Meaning I always have time to charge up a perfect shot!"
-msgstr "Значит, у меня всегда есть время зарядить идеальный выстрел!"
+msgstr "Значит, я всегда успею зарядить идеальный выстрел!"
 
 #. comic469 panel p2
 #. slot: left bubble
@@ -948,7 +948,7 @@ msgstr "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SO
 #, fuzzy
 msgctxt "comic470#p1.1"
 msgid "If these things keep multiplying, this battle will take <i>forever!</i>"
-msgstr "Если эти штуки будут и дальше размножаться, бой затянется <i>навечно!</i>"
+msgstr "Они плодятся! Бой затянется <i>навечно!</i>"
 
 #. comic470 panel p1
 #. slot: middle bubble
@@ -966,7 +966,7 @@ msgstr "Ага, но зато сколько экспы."
 #, fuzzy
 msgctxt "comic470#p1.3"
 msgid "Watch and learn, guys."
-msgstr "Смотрите и учитесь, ребята."
+msgstr "Смотрите и учитесь."
 
 #. comic470 panel p2
 #. slot: left bubble
@@ -975,7 +975,7 @@ msgstr "Смотрите и учитесь, ребята."
 #, fuzzy
 msgctxt "comic470#p2.1"
 msgid "Observe my favorite power: <b>Mind Control.</b>"
-msgstr "Узрите мою любимую способность: <b>Контроль разума.</b>"
+msgstr "Узрите мою любимую силу: <b>Контроль разума.</b>"
 
 #. comic470 panel p2
 #. slot: right bubble
@@ -1037,7 +1037,7 @@ msgstr "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SO
 #, fuzzy
 msgctxt "comic471#p1.1"
 msgid "Guess I should attack the one you're not controlling, huh GI?"
-msgstr "Наверное, мне надо атаковать того, которым ты не управляешь, а, Джи-Ай?"
+msgstr "Мне, наверное, бить того, кем ты не управляешь, а, Джи-Ай?"
 
 #. comic471 panel p1
 #. slot: right bubble
@@ -1151,7 +1151,7 @@ msgstr "Э-э, вы-то прокачиваться не можете."
 #, fuzzy
 msgctxt "comic472#p3.1"
 msgid "Bingo. And we don't have to - we're already powerful enough to cruise through the necessary battles and skip all the rest. So we'll get through this game quickly - All we gotta do is get to the final level, and we'll be done in no time! Easy as pie!"
-msgstr "В точку. И нам не надо: мы и так достаточно сильны, чтобы пролететь нужные битвы и пропустить остальные. Так что игру мы пройдём быстро — надо только добраться до последнего уровня, и мы мигом закончим! Проще простого!"
+msgstr "В точку. А нам и не надо: мы и так сильны, чтобы пройти нужные битвы и пропустить остальные. Игру пройдём быстро — доберёмся до последнего уровня, и мигом всё! Проще простого!"
 
 #. comic472 panel p4
 #. slot: right bubble
@@ -1205,7 +1205,7 @@ msgstr "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SO
 #, fuzzy
 msgctxt "comic473#p1.1"
 msgid "Stupid grotesquely huge-headed guy. What can't we just kick his butt?"
-msgstr "Тупой урод с огромной башкой. Почему нельзя просто надрать ему задницу?"
+msgstr "Тупой башкастый урод. Почему нельзя надрать ему зад?"
 
 #. comic473 panel p1
 #. slot: right bubble
@@ -1214,7 +1214,7 @@ msgstr "Тупой урод с огромной башкой. Почему не�
 #, fuzzy
 msgctxt "comic473#p1.2"
 msgid "Cuz he's an NPC. His butt's as unkickable as mine."
-msgstr "Потому что он НПС. Его задница так же непинаема, как моя."
+msgstr "Он же НПС. Его зад так же непинаем, как мой."
 
 #. comic473 panel p2
 #. slot: left bubble
@@ -1241,7 +1241,7 @@ msgstr "Ой, хватит ныть."
 #, fuzzy
 msgctxt "comic473#p3.1"
 msgid "I mean, this is a cool game and all, but it'd be a million times cooler if I could kick this guy's butt."
-msgstr "В смысле, игра клёвая и всё такое, но было бы в миллион раз круче, если б я мог надрать этому типу задницу."
+msgstr "В смысле, игра клёвая и всё такое, но было бы в миллион раз круче, если б я мог надрать этому типу зад."
 
 #. comic473 panel p3
 #. slot: middle bubble
@@ -1268,7 +1268,7 @@ msgstr "«Эх, вот о чём душа моя мечтала! Ладно, п�
 #, fuzzy
 msgctxt "comic473#p5.1"
 msgid "Wicked! Mr. Left Cheek, meet Mr. Adidas!"
-msgstr "Зашибись! Мистер Левая Ягодица, знакомьтесь — мистер Адидас!"
+msgstr "Йес! Мистер Зад, знакомьтесь: мистер Адидас!"
 
 #. comic473 panel p5
 #. slot: middle bubble
@@ -1331,7 +1331,7 @@ msgstr "Ах, сразу полегчало."
 #, fuzzy
 msgctxt "comic474#p2.2"
 msgid "You really enjoy violence, huh? An all too common, yet still reprehensible trait."
-msgstr "Ты правда наслаждаешься насилием, да? Слишком распространённая, но всё же порочная черта."
+msgstr "Ты правда любишь насилие? Очень частая, но всё же дурная черта."
 
 #. comic474 panel p3
 #. slot: left bubble
@@ -1642,7 +1642,7 @@ msgstr "А уж когда тот мир рухнул и началась вой
 #, fuzzy
 msgctxt "comic478#p4.1"
 msgid "Though it wasn't her intention, Crystal's stupid war is forcing us to live out the roles we were programmed for. Considering her own refusal to fulfill her role, I'd bet she'd hate that bit of irony."
-msgstr "Пусть она этого и не хотела, но дурацкая война Кристал заставляет нас играть роли, на которые нас запрограммировали. Раз уж сама она отказалась от своей роли, держу пари, эта ирония ей бы ой как не понравилась."
+msgstr "Пусть она того и не хотела, но дурацкая война Кристал заставляет нас играть запрограммированные роли. А раз сама она от своей роли отказалась, такая ирония ей бы точно не понравилась."
 
 #. comic478 panel p5
 #. slot: middle bubble
@@ -1677,7 +1677,7 @@ msgstr "Да ну его. Пусть моя роль в этой войне в �
 #, fuzzy
 msgctxt "comic479#p2.1"
 msgid "Sooner or later my skills will be needed and I'll make my contribution. When the world is saved thanks to me, every lady sprite on the web will be fawning over yours truly."
-msgstr "Рано или поздно мои навыки понадобятся, и я внесу свой вклад. А когда мир спасут благодаря мне, все спрайтессы в сети будут увиваться вокруг вашего покорного слуги."
+msgstr "Рано или поздно мои навыки понадобятся, и я внесу свой вклад. А когда мир спасут благодаря мне, все спрайтессы сети будут виться вокруг меня, любимого."
 
 #. comic479 panel p4
 #. slot: middle bubble
@@ -1721,7 +1721,7 @@ msgstr "Привет, Шина. И да, в игре всё идёт гладк�
 #, fuzzy
 msgctxt "comic480#p2.1"
 msgid "That's a relief. But the enormity of this mission has made me think - if the guys pull this off, this'll really be it. The final battle will be coming soon."
-msgstr "Какое облегчение. Но масштаб этой миссии заставил меня задуматься: если у ребят получится, это действительно будет всё. Скоро грядёт последняя битва."
+msgstr "Какое облегчение. Но масштаб этой миссии навёл меня на мысль: если у ребят получится, это и правда всё. Скоро последняя битва."
 
 #. comic480 panel p2
 #. slot: right bubble
@@ -1766,7 +1766,7 @@ msgstr "«Я говорю — действуй!»"
 #, fuzzy
 msgctxt "comic480#p7.1"
 msgid "Perhaps I should've mentioned that the com is on."
-msgstr "Пожалуй, мне стоило сказать, что связь включена."
+msgstr "Пожалуй, надо было сказать, что связь включена."
 
 #. comic480 panel p7
 #. slot: middle bubble
@@ -1775,7 +1775,7 @@ msgstr "Пожалуй, мне стоило сказать, что связь в
 #, fuzzy
 msgctxt "comic480#p7.2"
 msgid "You could at least eavesdrop in silence!"
-msgstr "Мог бы хоть подслушивать молча!"
+msgstr "Хоть бы подслушивал молча!"
 
 #. comic480 panel p7
 #. slot: right bubble
@@ -1864,7 +1864,7 @@ msgstr "Я не знаю, что это значит, и ты тоже."
 #, fuzzy
 msgctxt "comic482#p3.1"
 msgid "Anyways, we've got to be nearly done. This \"Land of the Lost Underground\" place is dead-ending."
-msgstr "В общем, мы наверняка почти у цели. Эта «Страна Затерянного Подземелья» заходит в тупик."
+msgstr "Мы почти у цели. Эта «Страна Затерянного Подземелья» — тупик."
 
 #. comic482 panel p3
 #. slot: right bubble
@@ -1873,7 +1873,7 @@ msgstr "В общем, мы наверняка почти у цели. Эта «
 #, fuzzy
 msgctxt "comic482#p3.2"
 msgid "Ask that guy if he knows anything."
-msgstr "Спроси вон того парня, вдруг он что-то знает."
+msgstr "Спроси вон того, вдруг что знает."
 
 #. comic482 panel p4
 #. slot: left bubble
@@ -1891,7 +1891,7 @@ msgstr "Он не особо разговорчивый."
 #, fuzzy
 msgctxt "comic482#p4.2"
 msgid "Hey buddy, wake up. We're doing the \"talk to everybody\" thing here, and it helps if you cooperate."
-msgstr "Эй, приятель, проснись. Мы тут делаем штуку «поговори со всеми», и будет проще, если ты поможешь."
+msgstr "Эй, приятель, проснись. Мы тут «говорим со всеми», так что не упрямься."
 
 #. comic482 panel p6
 #. slot: left bubble
@@ -1927,7 +1927,7 @@ msgstr "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SO
 #, fuzzy
 msgctxt "comic483#p1.1"
 msgid "See GI, ya just give him a Cookie, and he's all nice!"
-msgstr "Видишь, Джи-Ай, просто даёшь ему Печеньку — и он сразу добрый!"
+msgstr "Видишь, Джи-Ай, дашь ему Печеньку — и он добрый!"
 
 #. comic483 panel p1
 #. slot: middle bubble
@@ -1936,7 +1936,7 @@ msgstr "Видишь, Джи-Ай, просто даёшь ему Печеньк
 #, fuzzy
 msgctxt "comic483#p1.2"
 msgid "Though uselessly mute."
-msgstr "Хоть и бесполезно немой."
+msgstr "Но бесполезно немой."
 
 #. comic483 panel p1
 #. slot: right bubble
@@ -1945,7 +1945,7 @@ msgstr "Хоть и бесполезно немой."
 #, fuzzy
 msgctxt "comic483#p1.3"
 msgid "That probably means he's one of this game's heroes."
-msgstr "Значит, он, скорее всего, один из героев этой игры."
+msgstr "Значит, он, видимо, один из героев игры."
 
 #. comic483 panel p2
 #. slot: narration (if any, else cut)
@@ -2043,7 +2043,7 @@ msgstr "Ну, тут, конечно… живописно. Вот уж прав
 #, fuzzy
 msgctxt "comic484#p3.1"
 msgid "I don't suppose you could Teleport us any closer to the boss, huh?<br>I guess maybe not."
-msgstr "Ты, наверное, не можешь Телепортировать нас поближе к боссу, а?<br>Видимо, нет."
+msgstr "Может, Телепортнёшь нас к боссу, а?<br>Видимо, нет."
 
 #. comic484 panel p4
 #. slot: middle bubble
@@ -2244,7 +2244,7 @@ msgstr "Безнадёжно, да?"
 #, fuzzy
 msgctxt "comic487#p4.2"
 msgid "It sure ain't hopeful."
-msgstr "На надежду точно не похоже."
+msgstr "Надеждой не пахнет."
 
 #. comic487 panel p4
 #. slot: right bubble
@@ -2253,7 +2253,7 @@ msgstr "На надежду точно не похоже."
 #, fuzzy
 msgctxt "comic487#p4.3"
 msgid "Just another slave to his programming. Pathetic."
-msgstr "Очередной раб своей программы. Жалкое зрелище."
+msgstr "Ещё один раб программы. Жалкое зрелище."
 
 #. comic488 panel title
 #. slot: background color and image
@@ -2315,7 +2315,7 @@ msgstr "Элиот, пожалуйста, используй «Медитаци�
 #, fuzzy
 msgctxt "comic488#p4.1"
 msgid "I don't think he has that move. Wrong character."
-msgstr "Не думаю, что у него есть этот приём. Не тот персонаж."
+msgstr "Вряд ли у него есть этот приём. Не тот герой."
 
 #. comic488 panel p4
 #. slot: middle bubble
@@ -2348,7 +2348,7 @@ msgstr "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SO
 #, fuzzy
 msgctxt "comic489#p1.1"
 msgid "We can't be stuck here! This is scarier than the last RPG I got trapped in!"
-msgstr "Мы не можем тут застрять! Это страшнее, чем прошлая РПГ, в которой я застрял!"
+msgstr "Нельзя тут застрять! Это страшнее прошлой РПГ, где я застрял!"
 
 #. comic489 panel p1
 #. slot: right bubble
@@ -2400,7 +2400,7 @@ msgstr "Что? Что интересно?"
 #, fuzzy
 msgctxt "comic489#p4.2"
 msgid "I just figured out that Sheena was wrong. This guy <i>isn't</i> invincible."
-msgstr "Я только что понял, что Шина ошиблась. Этот тип <i>не</i> неуязвим."
+msgstr "Шина ошиблась. Этот тип <i>не</i> неуязвим."
 
 #. comic489 panel p4
 #. slot: right bubble
@@ -2409,7 +2409,7 @@ msgstr "Я только что понял, что Шина ошиблась. Э�
 #, fuzzy
 msgctxt "comic489#p4.3"
 msgid "Superb. Let's trash him."
-msgstr "Превосходно. Размажем его."
+msgstr "Отлично. Размажем его."
 
 #. comic490 panel title
 #. slot: background color and image
@@ -2496,7 +2496,7 @@ msgstr "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SO
 #, fuzzy
 msgctxt "comic491#p1.1"
 msgid "Wait a second, is beating this guy a good idea? I mean, what'll the game do if we don't beat him the normal way?"
-msgstr "Погодите, а это вообще хорошая идея — побеждать его? В смысле, что сделает игра, если мы победим его не так, как положено?"
+msgstr "Стоп, а побеждать его — хорошая идея? Что сделает игра, если мы победим его не по правилам?"
 
 #. comic491 panel p2
 #. slot: middle bubble
@@ -2505,7 +2505,7 @@ msgstr "Погодите, а это вообще хорошая идея — п�
 #, fuzzy
 msgctxt "comic491#p2.1"
 msgid "Hopefully when the battle ends we'll just end up in the same map location. Then again, the game may freeze up."
-msgstr "Надеюсь, когда бой закончится, мы просто окажемся там же на карте. С другой стороны, игра может зависнуть."
+msgstr "Надеюсь, после боя мы просто окажемся там же на карте. Хотя игра может и зависнуть."
 
 #. comic491 panel p3
 #. slot: left bubble
@@ -2523,7 +2523,7 @@ msgstr "Мне это не нравится."
 #, fuzzy
 msgctxt "comic491#p3.2"
 msgid "Well, I don't think that'd kill us, but we'd definitely be stuck here until a human player restarts the game."
-msgstr "Ну, не думаю, что это нас убьёт, но мы точно застрянем тут, пока игрок-человек не перезапустит игру."
+msgstr "Ну, вряд ли это нас убьёт, но мы застрянем тут, пока игрок не перезапустит игру."
 
 #. comic491 panel p4
 #. slot: left bubble
@@ -2532,7 +2532,7 @@ msgstr "Ну, не думаю, что это нас убьёт, но мы точ
 #, fuzzy
 msgctxt "comic491#p4.1"
 msgid "But that might not happen for months, or years... or <i>ever!</i>"
-msgstr "Но этого может не случиться месяцами, годами… или <i>никогда!</i>"
+msgstr "Но этого можно ждать месяцы, годы… или <i>вечно!</i>"
 
 #. comic491 panel p4
 #. slot: right bubble
@@ -2541,7 +2541,7 @@ msgstr "Но этого может не случиться месяцами, г�
 #, fuzzy
 msgctxt "comic491#p4.2"
 msgid "I didn't say it was a perfect plan. ...Just all we've got."
-msgstr "Я не говорил, что план идеальный. …Просто другого у нас нет."
+msgstr "Я не говорил, что план идеален. …Просто он у нас один."
 
 #. comic492 panel title
 #. slot: background color and image
@@ -2559,7 +2559,7 @@ msgstr "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SO
 #, fuzzy
 msgctxt "comic492#p1.1"
 msgid "Alright, if we each use our best attacks, hopefully it'll be enough."
-msgstr "Ладно, если каждый применит лучшую атаку, надеюсь, этого хватит."
+msgstr "Ладно, если каждый ударит по максимуму, надеюсь, хватит."
 
 #. comic492 panel p1
 #. slot: middle bubble
@@ -2612,7 +2612,7 @@ msgstr "Давай, Элиот, задай ему!"
 #, fuzzy
 msgctxt "comic492#p5.1"
 msgid "That was nice, but you guys didn't need to contribute <i>that</i> much damage."
-msgstr "Неплохо, но вам, ребята, не нужно было наносить <i>столько</i> урона."
+msgstr "Неплохо, но <i>столько</i> урона от вас не требовалось."
 
 #. comic492 panel p5
 #. slot: middle bubble
@@ -2628,7 +2628,7 @@ msgstr "Ах!"
 #, fuzzy
 msgctxt "comic492#p5.3"
 msgid "Show-off."
-msgstr "Выпендрёжник."
+msgstr "Позёр."
 
 #. comic493 panel title
 #. slot: background color and image

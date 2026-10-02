@@ -536,7 +536,7 @@ msgstr "<font size=\"2\" face=\"arial\" color=\"blue\">Тогда почему �
 #, fuzzy
 msgctxt "comic162#p5.1"
 msgid "Oh. Funny how that works."
-msgstr "А. Забавно получается."
+msgstr "А. Забавно."
 
 #. comic162 panel p5
 #. slot: middle bubble
@@ -545,7 +545,7 @@ msgstr "А. Забавно получается."
 #, fuzzy
 msgctxt "comic162#p5.2"
 msgid "Are all your friends this stupid?"
-msgstr "У тебя все друзья такие тупые?"
+msgstr "Все твои друзья — тупицы?"
 
 #. comic162 panel p5
 #. slot: right bubble
@@ -554,7 +554,7 @@ msgstr "У тебя все друзья такие тупые?"
 #, fuzzy
 msgctxt "comic162#p5.3"
 msgid "You have no idea..."
-msgstr "Ты даже не представляешь..."
+msgstr "Не то слово..."
 
 #. comic163 panel title
 #. slot: background color and image
@@ -607,7 +607,7 @@ msgstr "А нашим друзьям-евреям — очень запозда�
 #, fuzzy
 msgctxt "comic163#p4.1"
 msgid "As Hopetown's most successful restauranteur and the strip's only black character, let me wish you a festive Kwanzaa celebration."
-msgstr "Как самый успешный ресторатор Надеждинска и единственный чернокожий персонаж комикса, желаю вам праздничной Кванзы."
+msgstr "Как самый успешный ресторатор Надеждинска и единственный чёрный персонаж комикса, желаю вам праздничной Кванзы."
 
 #. comic163 panel p5
 #. slot: left bubble
@@ -616,7 +616,7 @@ msgstr "Как самый успешный ресторатор Надеждин
 #, fuzzy
 msgctxt "comic163#p5.1"
 msgid "What's \"black?\""
-msgstr "А что такое «чернокожий»?"
+msgstr "Что такое «чёрный»?"
 
 #. comic163 panel p5
 #. slot: middle bubble
@@ -625,7 +625,7 @@ msgstr "А что такое «чернокожий»?"
 #, fuzzy
 msgctxt "comic163#p5.2"
 msgid "I dunno. Does this \"Christmas\" really involve three \"ho's?\""
-msgstr "Не знаю. А в этом «Рождестве» правда бывает три «хо»?"
+msgstr "Не знаю. А в «Рождестве» правда три «хо»?"
 
 #. comic163 panel p5
 #. slot: right bubble

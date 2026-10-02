@@ -24,7 +24,7 @@ msgstr "«ОТКРОЙ ДВЕРЬ»"
 #, fuzzy
 msgctxt "comic190#p1.1"
 msgid "By now, saying Radd's gone stir crazy would be an understatement."
-msgstr "Сказать, что Улёт к этому времени свихнулся в заточении, — значит ничего не сказать."
+msgstr "Сказать, что Улёт свихнулся в заточении, — ничего не сказать."
 
 #. comic190 panel p1
 #. slot: right bubble
@@ -33,7 +33,7 @@ msgstr "Сказать, что Улёт к этому времени свихн�
 #, fuzzy
 msgctxt "comic190#p1.2"
 msgid "These four walls shall mock me no longer!"
-msgstr "Эти четыре стены больше не будут надо мной глумиться!"
+msgstr "Четыре стены, хватит надо мной глумиться!"
 
 #. comic190 panel p2
 #. slot: left bubble
@@ -370,7 +370,7 @@ msgstr "Я не чувствую с твоей стороны должного �
 #, fuzzy
 msgctxt "comic195#p3.1"
 msgid "Not one, not two, but three spiked platforms will raise and lower themselves in an effort to crush you."
-msgstr "Не одна, не две, а целых три шипастые платформы будут подниматься и опускаться, пытаясь тебя раздавить."
+msgstr "Не одна, не две, а целых три платформы с шипами будут подниматься и опускаться, чтобы тебя раздавить."
 
 #. comic195 panel p3
 #. slot: imsert images on this line
@@ -379,7 +379,7 @@ msgstr "Не одна, не две, а целых три шипастые пла
 #, fuzzy
 msgctxt "comic195#p3.2"
 msgid "Homing sensors will fire lasers at you at steady intervals."
-msgstr "Самонаводящиеся сенсоры будут регулярно палить в тебя лазерами."
+msgstr "Сенсоры с наведением будут палить в тебя лазерами."
 
 #. comic195 panel p4
 #. slot: middle bubble
@@ -589,7 +589,7 @@ msgstr "В: Если он дерётся с 2D-боссом, почему бег
 #, fuzzy
 msgctxt "comic198#p3.1"
 msgid "But you taught me well, old master. I prove to you now: The hours you spent with me were not wasted."
-msgstr "Но ты хорошо меня научил, старый учитель. Сейчас я докажу тебе: часы, что ты провёл со мной, не прошли даром."
+msgstr "Но ты хорошо меня учил, учитель. Сейчас я докажу: часы, что ты провёл со мной, не прошли даром."
 
 #. comic199 panel title
 #. slot: background color and image
@@ -713,7 +713,7 @@ msgstr "Но я же разнёс твои дурацкие игрушки. Ты
 #, fuzzy
 msgctxt "comic200#p3.1"
 msgid "Fool! I am a <b>ninja!</b> Gadgetry is merely my hobby; I am perfectly capable of destroying you with my own hands."
-msgstr "Глупец! Я <b>ниндзя!</b> Механизмы — всего лишь моё хобби; я вполне способен уничтожить тебя голыми руками."
+msgstr "Глупец! Я <b>ниндзя!</b> Механизмы — лишь хобби; я вполне могу уничтожить тебя голыми руками."
 
 #. comic200 panel p4
 #. slot: left bubble

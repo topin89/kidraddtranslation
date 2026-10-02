@@ -297,7 +297,7 @@ msgstr "Попытка не пытка."
 #, fuzzy
 msgctxt "comic172#p3.1"
 msgid "It must be painful to watch your friend slip into an illegal spiral of self-destruction."
-msgstr "Наверное, больно смотреть, как друг катится по противозаконной спирали саморазрушения."
+msgstr "Больно, наверное, видеть, как друг катится по преступной наклонной."
 
 #. comic172 panel p3
 #. slot: right bubble
@@ -306,7 +306,7 @@ msgstr "Наверное, больно смотреть, как друг кат�
 #, fuzzy
 msgctxt "comic172#p3.2"
 msgid "Yep. Devastating."
-msgstr "Ага. Сердце разрывается."
+msgstr "Ага. Кошмар."
 
 #. comic172 panel p4
 #. slot: left bubble
@@ -439,7 +439,7 @@ msgstr "Да, я совершил чудесное открытие!"
 #, fuzzy
 msgctxt "comic174#p2.1"
 msgid "As you know, the puzzle sprites you brought me have been chronically depressed since leaving their game."
-msgstr "Как вы знаете, спрайты-головоломки, которых вы мне привели, с тех пор как покинули свою игру, страдают хронической депрессией."
+msgstr "Как вы знаете, спрайты-головоломки, которых вы привели, с тех пор как покинули игру, в хронической депрессии."
 
 #. comic174 panel p3
 #. slot: right bubble
@@ -492,7 +492,7 @@ msgstr "«ТАНЕЦ-ВСПЫШКА»"
 #, fuzzy
 msgctxt "comic175#p1.1"
 msgid "Now, the puzzles sprites' programming makes them happy when they line up, but that makes them disappear."
-msgstr "Итак, программа спрайтов-головоломок делает их счастливыми, когда они выстраиваются в ряд, но от этого они исчезают."
+msgstr "Итак, спрайты-головоломки по программе счастливы, когда выстраиваются в ряд, но от этого исчезают."
 
 #. comic175 panel p2
 #. slot: left bubble
@@ -739,7 +739,7 @@ msgstr "Другое моё сомнение — возможно, лишь па
 #, fuzzy
 msgctxt "comic179#p5.1"
 msgid "And so, until the day that we can open games without destroying them, and give their denizens a choice to be free without harming them, I can no longer participate in these rescues. I hereby resign my position in the Moderators.<br><br>Sheena"
-msgstr "Поэтому до тех пор, пока мы не научимся открывать игры, не разрушая их, и давать их обитателям выбор — стать свободными без вреда для себя, — я не могу участвовать в этих спасательных операциях. Настоящим слагаю с себя обязанности в организации Модераторов.<br><br>Шина"
+msgstr "Поэтому, пока мы не научимся открывать игры, не разрушая их, и давать обитателям выбор — стать свободными без вреда, — я не могу участвовать в спасательных операциях. Настоящим ухожу из Модераторов.<br><br>Шина"
 
 #. comic180 panel title
 #. slot: background color and image
@@ -853,7 +853,7 @@ msgstr "Глупец! Об опасности этого спрайта мне �
 #, fuzzy
 msgctxt "comic181#p3.1"
 msgid "The Seer? Are you insane? You know what happens to people who talk to him?"
-msgstr "Око? Ты с ума сошла? Знаешь, что бывает с теми, кто с ним говорит?"
+msgstr "Око? Ты спятила? Знаешь, что бывает с его собеседниками?"
 
 #. comic181 panel p3
 #. slot: right bubble
@@ -862,7 +862,7 @@ msgstr "Око? Ты с ума сошла? Знаешь, что бывает с 
 #, fuzzy
 msgctxt "comic181#p3.2"
 msgid "I know the price, Captain. He can tell you how to obtain whatever you desire, <i>anything</i>..."
-msgstr "Я знаю цену, капитан. Он может сказать, как получить что угодно, <i>всё</i> что пожелаешь..."
+msgstr "Я знаю цену, капитан. Он скажет, как получить что угодно, <i>всё</i>..."
 
 #. comic181 panel p4
 #. slot: right bubble
@@ -906,7 +906,7 @@ msgstr "Напротив, мой разум ещё никогда не был т
 #, fuzzy
 msgctxt "comic182#p2.1"
 msgid "Within weeks you will die a tragic, seemingly coincidental death. What could you have asked for that could possibly be worth that?"
-msgstr "Через несколько недель ты погибнешь трагической, будто бы случайной смертью. Что такого ты могла попросить, чтобы это того стоило?"
+msgstr "Через пару недель ты погибнешь трагической, вроде бы случайной смертью. Что могло стоить такой цены?"
 
 #. comic182 panel p2
 #. slot: right bubble
@@ -924,7 +924,7 @@ msgstr "Всё просто."
 #, fuzzy
 msgctxt "comic182#p3.1"
 msgid "Ultimate power, such as humans have. Divine control over all things including life and death. In short, <b>immortality.</b>"
-msgstr "Высшую власть, какая есть у людей. Божественную власть над всем, включая жизнь и смерть. Короче говоря, <b>бессмертие.</b>"
+msgstr "Высшую власть, как у людей. Власть над всем, даже над жизнью и смертью. Короче, <b>бессмертие.</b>"
 
 #. comic182 panel p4
 #. slot: left bubble
@@ -1128,7 +1128,7 @@ msgstr "Спасибо, капитан, ты не пожалеешь."
 #, fuzzy
 msgctxt "comic185#p2.1"
 msgid "(That remains to be seen.) Any other preparations you need, well, you know my assistants."
-msgstr "(Это ещё посмотрим.) Если нужно что-то ещё подготовить — ну, моих помощников ты знаешь."
+msgstr "(Это ещё посмотрим.) Если что-то ещё нужно — моих помощников ты знаешь."
 
 #. comic185 panel p2
 #. slot: right bubble
@@ -1137,7 +1137,7 @@ msgstr "(Это ещё посмотрим.) Если нужно что-то ещ
 #, fuzzy
 msgctxt "comic185#p2.2"
 msgid "Apreciated. I'll be using the files in here for a bit, if you don't mind."
-msgstr "Благодарю. Я тут немного поработаю с файлами, если ты не против."
+msgstr "Благодарю. Я тут поработаю с файлами, если не против."
 
 #. comic185 panel p3
 #. slot: left bubble
@@ -1190,7 +1190,7 @@ msgstr "«ЗАДЫХАЯСЬ»"
 #, fuzzy
 msgctxt "comic186#p1.1"
 msgid "Now that the plot has advanced a little, let's check back on our hero, shall we?"
-msgstr "Теперь, когда сюжет немного продвинулся, давайте заглянем к нашему герою."
+msgstr "Сюжет немного продвинулся — давайте заглянем к нашему герою."
 
 #. comic186 panel p1
 #. slot: right bubble
@@ -1199,7 +1199,7 @@ msgstr "Теперь, когда сюжет немного продвинулс�
 #, fuzzy
 msgctxt "comic186#p1.2"
 msgid "Man, this cell is about as escape-proof as they come."
-msgstr "Блин, из этой камеры сбежать — ну просто никак."
+msgstr "Блин, из этой камеры никак не сбежать."
 
 #. comic186 panel p2
 #. slot: left bubble
@@ -1376,7 +1376,7 @@ msgstr "«ГРЯЗНЫЕ ДЕЛА ЗА ГРОШИ»"
 #, fuzzy
 msgctxt "comic189#p1.1"
 msgid "Captain QB's two nameless flunkies sort out their latest task."
-msgstr "Двое безымянных подручных капитана Кьюби разбираются с новым заданием."
+msgstr "Двое безымянных подручных капитана Кьюби обсуждают задание."
 
 #. comic189 panel p1
 #. slot: left bubble
@@ -1385,7 +1385,7 @@ msgstr "Двое безымянных подручных капитана Кью
 #, fuzzy
 msgctxt "comic189#p1.2"
 msgid "Why can't QB get rid of this guy himself?"
-msgstr "А чего Кьюби сам от него не избавится?"
+msgstr "Чего Кьюби сам его не уберёт?"
 
 #. comic189 panel p1
 #. slot: right bubble
@@ -1394,7 +1394,7 @@ msgstr "А чего Кьюби сам от него не избавится?"
 #, fuzzy
 msgctxt "comic189#p1.3"
 msgid "Stupid, he can't have any illegal activities connected to us."
-msgstr "Дурень, нельзя, чтобы с нами связывали что-то незаконное."
+msgstr "Дурень, его нельзя связывать с чем-то незаконным."
 
 #. comic189 panel p2
 #. slot: left bubble

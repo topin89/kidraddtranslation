@@ -229,7 +229,7 @@ msgstr "Машинное отделение? Похоже, тут я тоже е
 #, fuzzy
 msgctxt "comic243#p5.1"
 msgid "Holy bit!"
-msgstr "Ёшкин бит!"
+msgstr "Ёкарный бит!"
 
 #. comic244 panel title
 #. slot: background color and image
@@ -1237,7 +1237,7 @@ msgstr "Я потратил свой вопрос?"
 #, fuzzy
 msgctxt "comic256#p5.4"
 msgid "Bit."
-msgstr "Ёшкин бит."
+msgstr "Ёкарный бит."
 
 #. comic257 panel title
 #. slot: background color and image
