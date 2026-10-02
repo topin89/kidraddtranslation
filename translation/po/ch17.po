@@ -130,7 +130,7 @@ msgstr "И не говори."
 #, fuzzy
 msgctxt "comic307#p3.1"
 msgid "Not sure why, but the chicks in this town don't appeal to me."
-msgstr "Не знаю почему, но девчонки в этом городе меня не заводят."
+msgstr "Не знаю почему, но здешние девчонки меня не заводят."
 
 #. comic307 panel p3
 #. slot: right bubble
@@ -139,7 +139,7 @@ msgstr "Не знаю почему, но девчонки в этом город
 #, fuzzy
 msgctxt "comic307#p3.2"
 msgid "Well, they're anatomically boring. I think it's the lack of big... uh, you know..."
-msgstr "Ну, они анатомически скучные. Думаю, им не хватает больших... эм, ну, ты понял..."
+msgstr "Они анатомически скучные. Думаю, им не хватает больших... эм, ну, ты понял..."
 
 #. comic307 panel p4
 #. slot: left bubble
@@ -579,7 +579,7 @@ msgstr "Я бы особо не переживал. Просто запри чо
 #, fuzzy
 msgctxt "comic314#p4.1"
 msgid "Hey, check out my newest invention! It's a letter opener!"
-msgstr "Эй, гляньте на моё новейшее изобретение! Нож для писем!"
+msgstr "Эй, гляньте на моё новое изобретение! Нож для писем!"
 
 #. comic314 panel p4
 #. slot: middle bubble
@@ -597,4 +597,4 @@ msgstr "Или просто запри Ампа."
 #, fuzzy
 msgctxt "comic314#p4.3"
 msgid "Ooh, I wanna use it! Please?"
-msgstr "Ой, хочу попробовать! Можно?"
+msgstr "Ой, дайте мне! Можно?"

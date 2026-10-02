@@ -75,7 +75,7 @@ msgstr "Око — не единое существо, а миллионы ви�
 #, fuzzy
 msgctxt "comic271#p4.1"
 msgid "But why did we attack it, then?"
-msgstr "Но зачем тогда мы его атаковали?"
+msgstr "Зачем тогда мы его атаковали?"
 
 #. comic271 panel p4
 #. slot: right bubble
@@ -84,7 +84,7 @@ msgstr "Но зачем тогда мы его атаковали?"
 #, fuzzy
 msgctxt "comic271#p4.2"
 msgid "We destroyed the only known point where the Seer can manifest himself to communicate."
-msgstr "Мы уничтожили единственную известную точку, где Око может проявиться, чтобы общаться."
+msgstr "Мы уничтожили единственное известное место, где Око может явиться для общения."
 
 #. comic271 panel p5
 #. slot: left bubble
@@ -135,7 +135,7 @@ msgstr "Ну, есть ещё одно..."
 #, fuzzy
 msgctxt "comic272#p2.1"
 msgid "The stolen prototype ship was spotted near the area."
-msgstr "В том районе заметили угнанный корабль-прототип."
+msgstr "Рядом видели угнанный корабль-прототип."
 
 #. comic272 panel p2
 #. slot: right bubble
@@ -144,7 +144,7 @@ msgstr "В том районе заметили угнанный корабль-
 #, fuzzy
 msgctxt "comic272#p2.2"
 msgid "Amp. That traitorous bithead. I'll bet the missing Sheena was onboard too."
-msgstr "Амп. Предатель битоголовый. Спорим, пропавшая Шина тоже была на борту."
+msgstr "Амп. Битоголовый предатель. Спорим, пропавшая Шина тоже на борту."
 
 #. comic272 panel p3
 #. slot: left bubble
@@ -242,7 +242,7 @@ msgstr "Ты сделаешь мне больно, да?"
 #, fuzzy
 msgctxt "comic273#p4.3"
 msgid "Be thankful sprites don't scar."
-msgstr "Скажи спасибо, что у спрайтов не бывает шрамов."
+msgstr "Радуйся, что спрайты без шрамов."
 
 #. comic274 panel title
 #. slot: background color and image
@@ -785,7 +785,7 @@ msgstr "Долгая история, но когда Модеры сделали
 #, fuzzy
 msgctxt "comic281#p4.1"
 msgid "You really like it here?"
-msgstr "Тебе тут правда нравится?"
+msgstr "Тебе тут нравится?"
 
 #. comic281 panel p4
 #. slot: right bubble
@@ -794,7 +794,7 @@ msgstr "Тебе тут правда нравится?"
 #, fuzzy
 msgctxt "comic281#p4.2"
 msgid "Hey, I'm an NPC too. I can deal with this town's crazy vibe. Heck, I think it's time for a break."
-msgstr "Эй, я ведь тоже НПС. Меня бешеная атмосфера этого городка не пугает. Чёрт, а не пора ли мне на перерыв?"
+msgstr "Эй, я ведь тоже НПС. Бешеный дух этого городка мне по плечу. Чёрт, а не пора ли на перерыв?"
 
 #. comic281 panel p5
 #. slot: right bubble
@@ -1122,7 +1122,7 @@ msgstr "Как никогда."
 #, fuzzy
 msgctxt "comic286#p3.1"
 msgid "The good news is, my teleport system can beam you into any game without damaging it, unlike my old methods."
-msgstr "Хорошая новость: моя система телепортации может забросить вас в любую игру, не повредив её, — не то что мои старые методы."
+msgstr "Хорошая новость: мой телепорт забросит вас в любую игру, не повредив её, — не то что мои старые методы."
 
 #. comic286 panel p3
 #. slot: right bubble
@@ -1407,7 +1407,7 @@ msgstr "Чего-чего?"
 #, fuzzy
 msgctxt "comic289#p2.1"
 msgid "We're in a copy of \"Fighter Heroes,\" the game QB is from. So naturally there's a duplicate of QB here."
-msgstr "Мы в копии «Героев-бойцов» — игры, из которой Кьюби. Так что, естественно, здесь есть его дубликат."
+msgstr "Мы в копии «Героев-бойцов», игры Кьюби. Так что, естественно, здесь есть его дубликат."
 
 #. comic289 panel p2
 #. slot: right bubble
@@ -1603,7 +1603,7 @@ msgstr "Ты о чём?"
 #, fuzzy
 msgctxt "comic291#p4.1"
 msgid "That was <b>boring!</b> I thought for sure we'd hafta defeat you guys in battle to gain your respect. Aintcha gonna test us or <b>something???</b>"
-msgstr "Это было <b>скучно!</b> Я был уверен, что придётся победить вас в бою, чтобы заслужить уважение. Вы чё, даже не устроите нам испытание или <b>типа того???</b>"
+msgstr "Это было <b>скучно!</b> Я думал, придётся победить вас в бою, чтобы заслужить уважение. Вы чё, даже не устроите нам испытание или <b>типа того???</b>"
 
 #. comic291 panel p5
 #. slot: left bubble
@@ -2163,7 +2163,7 @@ msgstr "Но... разумно ли это?"
 #, fuzzy
 msgctxt "comic298#p3.1"
 msgid "I mean, one hit and you're -"
-msgstr "В смысле, один удар — и ты..."
+msgstr "Ну, один удар — и ты..."
 
 #. comic298 panel p3
 #. slot: middle bubble
@@ -2172,7 +2172,7 @@ msgstr "В смысле, один удар — и ты..."
 #, fuzzy
 msgctxt "comic298#p3.2"
 msgid "Whatever. I'll be fine."
-msgstr "Да ладно. Всё будет нормально."
+msgstr "Да ладно. Всё будет норм."
 
 #. comic298 panel p3
 #. slot: right bubble
@@ -2181,7 +2181,7 @@ msgstr "Да ладно. Всё будет нормально."
 #, fuzzy
 msgctxt "comic298#p3.3"
 msgid "If you're certain, but please be careful..."
-msgstr "Если ты уверен... но, пожалуйста, будь осторожен..."
+msgstr "Если ты уверен... но будь осторожен..."
 
 #. comic298 panel p4
 #. slot: left bubble
@@ -2225,7 +2225,7 @@ msgstr "Последний бой: Бяка против Хикару"
 #, fuzzy
 msgctxt "comic299#p1.2"
 msgid "I must warn you, I am skilled in the Touch of Death."
-msgstr "Предупреждаю: я владею Касанием Смерти."
+msgstr "Учти: я владею Касанием Смерти."
 
 #. comic299 panel p1
 #. slot: right bubble
@@ -2234,7 +2234,7 @@ msgstr "Предупреждаю: я владею Касанием Смерти.
 #, fuzzy
 msgctxt "comic299#p1.3"
 msgid "Whatever. Hopefully your mates are skilled in CPR."
-msgstr "Как скажешь. Надеюсь, твои приятели владеют искусственным дыханием."
+msgstr "Ага. Надеюсь, твои дружки владеют искусственным дыханием."
 
 #. comic299 panel p3
 #. slot: narration (if any, else cut)
@@ -2340,7 +2340,7 @@ msgstr "Всем пока!"
 #, fuzzy
 msgctxt "comic300#p5.1"
 msgid "Well, that sucked."
-msgstr "Ну, это было отстойно."
+msgstr "Ну, это отстой."
 
 #. comic300 panel p5
 #. slot: middle bubble
@@ -2349,7 +2349,7 @@ msgstr "Ну, это было отстойно."
 #, fuzzy
 msgctxt "comic300#p5.2"
 msgid "I think I've lost the will to fight ever again."
-msgstr "Кажется, у меня пропало всякое желание драться."
+msgstr "Кажется, мне больше не хочется драться."
 
 #. comic300 panel p5
 #. slot: right bubble
@@ -2358,7 +2358,7 @@ msgstr "Кажется, у меня пропало всякое желание �
 #, fuzzy
 msgctxt "comic300#p5.3"
 msgid "Me too, suddenly violence repulses me."
-msgstr "У меня тоже. Насилие вдруг стало мне противно."
+msgstr "Мне тоже. Насилие вдруг опротивело."
 
 #. comic300 panel p6
 #. slot: narration (if any, else cut)
@@ -2385,7 +2385,7 @@ msgstr "...На пять минут."
 #, fuzzy
 msgctxt "comic300#p7.2"
 msgid "Okay, I'm over it."
-msgstr "Ладно, я отошёл."
+msgstr "Ладно, отпустило."
 
 #. comic300 panel p7
 #. slot: middle bubble
@@ -2394,7 +2394,7 @@ msgstr "Ладно, я отошёл."
 #, fuzzy
 msgctxt "comic300#p7.3"
 msgid "How 'bout a battle royale?"
-msgstr "Может, королевскую битву?"
+msgstr "Может, битву всех против всех?"
 
 #. comic300 panel p7
 #. slot: right bubble
@@ -2403,7 +2403,7 @@ msgstr "Может, королевскую битву?"
 #, fuzzy
 msgctxt "comic300#p7.4"
 msgid "I'm <b>so</b> gonna win this one!"
-msgstr "Уж в этот раз я <b>точно</b> выиграю!"
+msgstr "Уж тут я <b>точно</b> выиграю!"
 
 #. comic301 panel title
 #. slot: background color and image
@@ -2560,7 +2560,7 @@ msgstr "Да, примерно так..."
 #, fuzzy
 msgctxt "comic302#p4.1"
 msgid "And on top of it all you've had a serious accident, leaving me in charge."
-msgstr "И вдобавок ко всему ты попал в серьёзную аварию, оставив главной меня."
+msgstr "И вдобавок ты попал в тяжёлую аварию, оставив главной меня."
 
 #. comic302 panel p4
 #. slot: right bubble
@@ -2569,7 +2569,7 @@ msgstr "И вдобавок ко всему ты попал в серьёзну�
 #, fuzzy
 msgctxt "comic302#p4.2"
 msgid "Yeah, that sucks. Wait, when did that happen?"
-msgstr "Да, отстой. Погоди, а когда это случилось?"
+msgstr "Да, отстой. Стоп, а когда это было?"
 
 #. comic303 panel title
 #. slot: background color and image
@@ -2720,7 +2720,7 @@ msgstr "А. Жаль. Что ж, без боя я не сдамся!"
 #, fuzzy
 msgctxt "comic304#p4.1"
 msgid "Sigh, just try to make it more interesting than your lunchroom conversation."
-msgstr "Эх, постарайся хоть, чтобы это было интереснее твоих разговоров в столовой."
+msgstr "Эх, постарайся хоть, чтобы было интереснее твоих бесед в столовой."
 
 #. comic304 panel p4
 #. slot: right bubble
@@ -2729,7 +2729,7 @@ msgstr "Эх, постарайся хоть, чтобы это было инте
 #, fuzzy
 msgctxt "comic304#p4.2"
 msgid "After this, your parking space is <i>mine.</i>"
-msgstr "После этого твоё парковочное место — <i>моё.</i>"
+msgstr "Потом твоё парковочное место — <i>моё.</i>"
 
 #. comic305 panel title
 #. slot: background color and image

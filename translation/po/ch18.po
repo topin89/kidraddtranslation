@@ -51,7 +51,7 @@ msgstr "«Меня бесит, что мы не знаем, какая игра 
 #, fuzzy
 msgctxt "comic315#p4.1"
 msgid "\"Not that Radd or Bogey really care.\""
-msgstr "«Не то чтобы Улёта или Бяку это волновало»."
+msgstr "«Не то чтобы Улёта или Бяку это парило»."
 
 #. comic315 panel p4
 #. slot: left bubble
@@ -60,7 +60,7 @@ msgstr "«Не то чтобы Улёта или Бяку это волнова�
 #, fuzzy
 msgctxt "comic315#p4.2"
 msgid "What kind of butts do you think I'll be kicking today?"
-msgstr "Как думаешь, чьи задницы я сегодня буду надирать?"
+msgstr "Как думаешь, чьи задницы я сегодня надеру?"
 
 #. comic315 panel p4
 #. slot: right bubble
@@ -69,7 +69,7 @@ msgstr "Как думаешь, чьи задницы я сегодня буду 
 #, fuzzy
 msgctxt "comic315#p4.3"
 msgid "I wonder if this folder has any dating sims?"
-msgstr "Интересно, есть в этой папке симуляторы свиданий?"
+msgstr "Интересно, тут есть симуляторы свиданий?"
 
 #. comic316 panel title
 #. slot: background color and image
@@ -220,7 +220,7 @@ msgstr "Есть идея получше? Тогда заткнись и иди 
 #, fuzzy
 msgctxt "comic317#p3.1"
 msgid "\"The princess is quite preoccupied lately.\" Oh wait - you're not the hero."
-msgstr "«Принцесса в последнее время чем-то озабочена». Ой, погодите — вы не герой."
+msgstr "«Принцесса в последнее время чем-то озабочена». Ой, стоп — вы не герой."
 
 #. comic317 panel p3
 #. slot: right bubble
@@ -229,7 +229,7 @@ msgstr "«Принцесса в последнее время чем-то оза
 #, fuzzy
 msgctxt "comic317#p3.2"
 msgid "Easy mistake. But can you tell us how to find him?"
-msgstr "Бывает. А не подскажете, где его найти?"
+msgstr "Бывает. А где его найти?"
 
 #. comic317 panel p4
 #. slot: left bubble
@@ -327,7 +327,7 @@ msgstr "Я думал, что видел всех чудовищ в этой и�
 #, fuzzy
 msgctxt "comic318#p4.1"
 msgid "What the heck is an EXP?"
-msgstr "Что ещё за EXP такое?"
+msgstr "Что ещё за EXP?"
 
 #. comic318 panel p4
 #. slot: middle bubble
@@ -336,7 +336,7 @@ msgstr "Что ещё за EXP такое?"
 #, fuzzy
 msgctxt "comic318#p4.2"
 msgid "I think it's one of those human words, like OMG or BRB."
-msgstr "Наверное, одно из этих человеческих словечек, вроде ЛОЛ или ИМХО."
+msgstr "Наверное, из этих человечьих словечек, как ЛОЛ или ИМХО."
 
 #. comic318 panel p4
 #. slot: right bubble
@@ -345,7 +345,7 @@ msgstr "Наверное, одно из этих человеческих сло
 #, fuzzy
 msgctxt "comic318#p4.3"
 msgid "Hmm, I haven't seen <i>you</i> guys either..."
-msgstr "Хм, <i>вас</i> я тоже раньше не видел..."
+msgstr "Хм, <i>вас</i> я тоже не видел..."
 
 #. comic319 panel title
 #. slot: background color and image
@@ -380,7 +380,7 @@ msgstr "Невозможно."
 #, fuzzy
 msgctxt "comic319#p2.1"
 msgid "Ordinarily, monsters never appear within city limits. So you're either A, an ultra-rare secret that'll probably give me tons of EXP and an item after battle..."
-msgstr "Обычно чудовища не появляются в черте города. Так что ты либо А — ультраредкий секрет, за который мне, скорее всего, дадут кучу EXP и предмет после боя..."
+msgstr "Обычно чудовища не появляются в городе. Так что ты либо А — ультраредкий секрет, за который мне, наверное, дадут кучу EXP и предмет после боя..."
 
 #. comic319 panel p3
 #. slot: left bubble
@@ -389,7 +389,7 @@ msgstr "Обычно чудовища не появляются в черте г
 #, fuzzy
 msgctxt "comic319#p3.1"
 msgid "Or B, a plot-related character, that'll trigger a scripted battle, and FINALLY advance the damn story. And I'll finally get on with the game."
-msgstr "Либо Б — сюжетный персонаж, который запустит скриптовую битву и НАКОНЕЦ-ТО продвинет этот чёртов сюжет. И я наконец продолжу игру."
+msgstr "Либо Б — сюжетный персонаж, который запустит скриптовую битву и НАКОНЕЦ-ТО двинет этот чёртов сюжет. И я наконец продолжу игру."
 
 #. comic319 panel p4
 #. slot: left bubble
@@ -503,7 +503,7 @@ msgstr "Это... сложно объяснить. Просто смирись."
 #, fuzzy
 msgctxt "comic320#p4.1"
 msgid "You guys are talking? Great, I <i>knew</i> this was a scripted battle!"
-msgstr "Вы разговариваете? Отлично, я <i>так и знал,</i> что это скриптовая битва!"
+msgstr "Вы разговариваете? Отлично, я <i>так и знал,</i> что это скриптовый бой!"
 
 #. comic320 panel p4
 #. slot: left bubble
@@ -512,7 +512,7 @@ msgstr "Вы разговариваете? Отлично, я <i>так и зн�
 #, fuzzy
 msgctxt "comic320#p4.2"
 msgid "Don't worry, I'll kick your butt, just as soon as I figure out how."
-msgstr "Не волнуйся, я надеру тебе зад, как только пойму как."
+msgstr "Не бойся, я надеру тебе зад, как только пойму как."
 
 #. comic321 panel title
 #. slot: background color and image
@@ -556,7 +556,7 @@ msgstr "Как будто я в невидимой коробке."
 #, fuzzy
 msgctxt "comic321#p2.2"
 msgid "Don't fret about it. It doesn't matter."
-msgstr "Не переживай. Это не имеет значения."
+msgstr "Не переживай. Это неважно."
 
 #. comic321 panel p3
 #. slot: left bubble
@@ -609,7 +609,7 @@ msgstr "«ПРИДЁТСЯ ПОДОЖДАТЬ»"
 #, fuzzy
 msgctxt "comic322#p1.1"
 msgid "Alright, just kidding. I guess I'll try to \"attack\" now."
-msgstr "Ладно, шучу. Пожалуй, попробую теперь «атаковать»."
+msgstr "Ладно, шучу. Попробую теперь «атаковать»."
 
 #. comic322 panel p1
 #. slot: left bubble
@@ -627,7 +627,7 @@ msgstr "Извини, но первым ходит герой."
 #, fuzzy
 msgctxt "comic322#p2.1"
 msgid "What? We gotta take <i>turns</i> attacking?"
-msgstr "Что? Мы должны атаковать <i>по очереди?</i>"
+msgstr "Что? Атаковать <i>по очереди?</i>"
 
 #. comic322 panel p2
 #. slot: middle bubble
@@ -724,7 +724,7 @@ msgstr "Эм, почему?"
 #, fuzzy
 msgctxt "comic323#p3.2"
 msgid "I'm next-fastest, I guess. Here I go!"
-msgstr "Видимо, я следующая по скорости. Поехали!"
+msgstr "Наверное, я вторая по скорости. Поехали!"
 
 #. comic323 panel p5
 #. slot: left bubble
@@ -821,7 +821,7 @@ msgstr "ЧТО???"
 #, fuzzy
 msgctxt "comic324#p5.2"
 msgid "That's not a lifemeter, that's our death certificate."
-msgstr "Это не полоска жизни, это наше свидетельство о смерти."
+msgstr "Это не полоска жизни, а наше свидетельство о смерти."
 
 #. comic324 panel p5
 #. slot: left bubble
@@ -830,7 +830,7 @@ msgstr "Это не полоска жизни, это наше свидетел�
 #, fuzzy
 msgctxt "comic324#p5.3"
 msgid "Well, that is a real possibility..."
-msgstr "Что ж, такое вполне возможно..."
+msgstr "Что ж, вполне возможно..."
 
 #. comic325 panel title
 #. slot: background color and image
@@ -916,7 +916,7 @@ msgstr "Ай! Опять пропустил удар! Но хотя бы..."
 #, fuzzy
 msgctxt "comic326#p2.1"
 msgid "Say it, Radd. We're both thinking it."
-msgstr "Скажи это, Улёт. Мы оба об этом думаем."
+msgstr "Скажи это, Улёт. Мы оба так думаем."
 
 #. comic326 panel p3
 #. slot: middle bubble
@@ -933,7 +933,7 @@ msgstr "«Хотя бы не по Бяке». Если герой атакует
 #, fuzzy
 msgctxt "comic326#p4.1"
 msgid "But he <i>didn't</i> attack Bogey, and I'll finish the creep off next turn."
-msgstr "Но он <i>не</i> атаковал Бяку, а я добью гада на следующем ходу."
+msgstr "Но он <i>не</i> атаковал Бяку, а я добью гада следующим ходом."
 
 #. comic326 panel p4
 #. slot: right bubble
@@ -942,7 +942,7 @@ msgstr "Но он <i>не</i> атаковал Бяку, а я добью гад
 #, fuzzy
 msgctxt "comic326#p4.2"
 msgid "No, you won't. You're the slowest character and he's the fastest. Your attacks have high odds of missing."
-msgstr "Нет, не добьёшь. Ты самый медленный персонаж, а он — самый быстрый. Твои атаки, скорее всего, промажут."
+msgstr "Нет, не добьёшь. Ты самый медленный, а он самый быстрый. Ты, скорее всего, промажешь."
 
 #. comic326 panel p5
 #. slot: middle bubble
@@ -978,7 +978,7 @@ msgstr "Нам не по зубам?"
 #, fuzzy
 msgctxt "comic326#p7.1"
 msgid "It's like a Yu-Gi-Oh episode."
-msgstr "Прям как серия «Югио»."
+msgstr "Прям как в «Югио»."
 
 #. comic326 panel p7
 #. slot: middle bubble
@@ -987,7 +987,7 @@ msgstr "Прям как серия «Югио»."
 #, fuzzy
 msgctxt "comic326#p7.2"
 msgid "Not all talk is filler, Radd."
-msgstr "Не все разговоры — филлер, Улёт."
+msgstr "Не всякий разговор — филлер, Улёт."
 
 #. comic327 panel title
 #. slot: background color and image
@@ -1031,7 +1031,7 @@ msgstr "Шина? Ты о чём?"
 #, fuzzy
 msgctxt "comic327#p2.2"
 msgid "Maybe I should never make my move."
-msgstr "Может, мне вообще не стоит делать ход."
+msgstr "Может, мне вообще не ходить."
 
 #. comic327 panel p3
 #. slot: middle bubble
@@ -1040,7 +1040,7 @@ msgstr "Может, мне вообще не стоит делать ход."
 #, fuzzy
 msgctxt "comic327#p3.1"
 msgid "Don't be ridiculous! We'll be stuck here!"
-msgstr "Не говори ерунды! Мы тут застрянем!"
+msgstr "Не дури! Мы тут застрянем!"
 
 #. comic327 panel p3
 #. slot: middle bubble
@@ -1049,7 +1049,7 @@ msgstr "Не говори ерунды! Мы тут застрянем!"
 #, fuzzy
 msgctxt "comic327#p3.2"
 msgid "It's better than watching you guys die."
-msgstr "Это лучше, чем смотреть, как вы погибаете."
+msgstr "Лучше, чем видеть, как вы гибнете."
 
 #. comic327 panel p4
 #. slot: middle bubble
@@ -1227,7 +1227,7 @@ msgstr "Не надо, Улёт."
 #, fuzzy
 msgctxt "comic329#p3.1"
 msgid "No apologies - I knew the risks coming here. I suppose it was foolish to think a weakling like me could do anything but get in the way in these games. So... it's not your fault. Just shoot already."
-msgstr "Никаких извинений — я знал, на что иду. Наверное, глупо было думать, что такой слабак, как я, может в этих играх что-то, кроме как путаться под ногами. Так что... ты не виноват. Просто стреляй уже."
+msgstr "Не извиняйся — я знал, на что иду. Глупо было думать, что такой слабак, как я, в этих играх может что-то, кроме как мешать. Так что... ты не виноват. Просто стреляй уже."
 
 #. comic329 panel p4
 #. slot: left bubble
@@ -1236,7 +1236,7 @@ msgstr "Никаких извинений — я знал, на что иду. �
 #, fuzzy
 msgctxt "comic329#p4.1"
 msgid "Thanks... I know this sounds crazy, but I feel like somehow we'll all be okay."
-msgstr "Спасибо... Знаю, звучит безумно, но мне кажется, что всё с нами как-нибудь обойдётся."
+msgstr "Спасибо... Звучит безумно, но мне кажется, что с нами всё как-то обойдётся."
 
 #. comic329 panel p4
 #. slot: left bubble
@@ -1245,7 +1245,7 @@ msgstr "Спасибо... Знаю, звучит безумно, но мне к�
 #, fuzzy
 msgctxt "comic329#p4.2"
 msgid "If only that feeling were mutual..."
-msgstr "Если бы я тоже это чувствовал..."
+msgstr "Мне бы такое чувство..."
 
 #. comic330 panel title
 #. slot: background color and image
@@ -1359,7 +1359,7 @@ msgstr "Может, потому что я заряжал пару минут?"
 #, fuzzy
 msgctxt "comic331#p2.2"
 msgid "But your limit is 255! It's part of your program!"
-msgstr "Но твой предел — 255! Это часть твоей программы!"
+msgstr "Но твой предел — 255! Он в твоей программе!"
 
 #. comic331 panel p2
 #. slot: right bubble
@@ -1368,7 +1368,7 @@ msgstr "Но твой предел — 255! Это часть твоей про�
 #, fuzzy
 msgctxt "comic331#p2.3"
 msgid "This makes no sense..."
-msgstr "Бессмыслица какая-то..."
+msgstr "Бред какой-то..."
 
 #. comic331 panel p3
 #. slot: left bubble
@@ -1395,7 +1395,7 @@ msgstr "Ой, заткнись. Очнёшься, когда кто-нибудь
 #, fuzzy
 msgctxt "comic331#p4.1"
 msgid "Um, that could be a long wait."
-msgstr "Эм, ждать, может, придётся долго."
+msgstr "Эм, ждать, может, долго."
 
 #. comic331 panel p4
 #. slot: middle bubble
@@ -1413,7 +1413,7 @@ msgstr "Вот и хорошо. Может, теперь он поймёт, чт
 #, fuzzy
 msgctxt "comic331#p4.3"
 msgid "Funny, it always is for <i>us</i>."
-msgstr "Забавно, для <i>нас</i> оно всегда выход."
+msgstr "Странно, для <i>нас</i> оно всегда выход."
 
 #. comic332 panel title
 #. slot: background color and image
@@ -1484,7 +1484,7 @@ msgstr "О <b>нет!</b> Крысы! Они снова меня нашли! <b>
 #, fuzzy
 msgctxt "comic332#p5.1"
 msgid "The programmers of this game had too much free time."
-msgstr "У создателей этой игры было слишком много свободного времени."
+msgstr "У авторов этой игры была куча свободного времени."
 
 #. comic332 panel p5
 #. slot: middle bubble
@@ -1511,7 +1511,7 @@ msgstr "Мы уходим."
 #, fuzzy
 msgctxt "comic332#p5.4"
 msgid "They gnaw at my pixels! Aagh!"
-msgstr "Они грызут мои пиксели! А-а-а!"
+msgstr "Они грызут мои пиксели! А-а!"
 
 #. comic333 panel title
 #. slot: background color and image
@@ -1597,7 +1597,7 @@ msgstr "Прости..."
 #, fuzzy
 msgctxt "comic333#p5.2"
 msgid "Can't say I'm getting used to it, ergh."
-msgstr "Не сказал бы, что я привыкаю, у-у."
+msgstr "Не скажу, что привыкаю, у-у."
 
 #. comic333 panel p5
 #. slot: right bubble
@@ -1606,7 +1606,7 @@ msgstr "Не сказал бы, что я привыкаю, у-у."
 #, fuzzy
 msgctxt "comic333#p5.3"
 msgid "Thus the cliche, \"With friends like these, who needs enemies?\""
-msgstr "Отсюда и клише: «С такими друзьями и враги не нужны»."
+msgstr "Вот и клише: «С такими друзьями и враги не нужны»."
 
 #. comic334 panel title
 #. slot: background color and image
@@ -1685,7 +1685,7 @@ msgstr "Эта... штука... <b>рулит!</b>"
 #, fuzzy
 msgctxt "comic334#p5.2"
 msgid "Whoops, I had it tuned to basic cable."
-msgstr "Упс, у меня тут был включён базовый кабельный пакет."
+msgstr "Упс, тут был включён базовый кабельный."
 
 #. comic334 panel p5
 #. slot: right bubble
@@ -1694,7 +1694,7 @@ msgstr "Упс, у меня тут был включён базовый кабе
 #, fuzzy
 msgctxt "comic334#p5.3"
 msgid "Is he supposed to twitch like that?"
-msgstr "А он должен так дёргаться?"
+msgstr "Он должен так дёргаться?"
 
 #. comic335 panel title
 #. slot: background color and image
@@ -1720,7 +1720,7 @@ msgstr "Ну, ты понял, что случилось?"
 #, fuzzy
 msgctxt "comic335#p1.2"
 msgid "Not exactly. I can't really \"read\" this stuff, just make guesses from what little I understand."
-msgstr "Не совсем. Я не могу толком «читать» эту штуку, только строить догадки по тому немногому, что понимаю."
+msgstr "Не совсем. Я не умею толком «читать» эту штуку, только гадаю по тому немногому, что понимаю."
 
 #. comic335 panel p2
 #. slot: left bubble
@@ -1729,7 +1729,7 @@ msgstr "Не совсем. Я не могу толком «читать» эту
 #, fuzzy
 msgctxt "comic335#p2.1"
 msgid "But I have a theory. 255 is the highest binary number possible in an 8-bit system. I'd assumed that was the reason our programmers set that as Radd's limit but, maybe..."
-msgstr "Но у меня есть теория. 255 — наибольшее двоичное число, возможное в 8-битной системе. Я полагал, что поэтому наши программисты и сделали его пределом Улёта, но, может быть..."
+msgstr "Но есть теория. 255 — наибольшее двоичное число в 8-битной системе. Я думал, поэтому наши программисты и сделали его пределом Улёта, но, может..."
 
 #. comic335 panel p3
 #. slot: narration (if any, else cut)
@@ -1818,7 +1818,7 @@ msgstr "<b>Настолько</b> больше?"
 #, fuzzy
 msgctxt "comic336#p3.2"
 msgid "Adding digits raises the number exponentially. In a 32-bit computer like the one we're in now, his limit would be over 4 billion."
-msgstr "С каждым новым разрядом число растёт экспоненциально. В 32-битном компьютере вроде того, где мы сейчас, его предел был бы больше 4 миллиардов."
+msgstr "С каждым разрядом число растёт экспоненциально. В 32-битном компьютере вроде нашего его предел был бы больше 4 миллиардов."
 
 #. comic336 panel p4
 #. slot: left bubble
@@ -1898,7 +1898,7 @@ msgstr "Что? Нет, кое о чём <i>другом.</i>"
 #, fuzzy
 msgctxt "comic337#p3.1"
 msgid "According to Dr. Amp, your max power conforms to the system you're in... And outside of game systems, your power is practically limitless."
-msgstr "По словам Доктора Ампа, твоя максимальная сила подстраивается под систему, в которой ты находишься... А вне игровых систем твоя сила практически безгранична."
+msgstr "По словам Доктора Ампа, твоя макс. сила зависит от системы, в которой ты находишься... А вне игровых систем она почти безгранична."
 
 #. comic337 panel p4
 #. slot: left bubble
@@ -2013,7 +2013,7 @@ msgstr "Дурацкое Око со своими загадками. Могло
 #, fuzzy
 msgctxt "comic338#p6.1"
 msgid "Maybe she's seen how you treat your roommates."
-msgstr "Может, она видела, как ты обращаешься с соседями по комнате."
+msgstr "Может, она видела, как ты обходишься с соседями."
 
 #. comic338 panel p6
 #. slot: middle bubble
@@ -2031,7 +2031,7 @@ msgstr "Бяка..."
 #, fuzzy
 msgctxt "comic338#p6.3"
 msgid "Hey, those nacho stains complimented your curtains. Ask anyone."
-msgstr "Эй, пятна от начос отлично подошли к твоим шторам. Кого хочешь спроси."
+msgstr "Эй, пятна от начос шли к твоим шторам. Кого хочешь спроси."
 
 #. comic339 panel title
 #. slot: background color and image

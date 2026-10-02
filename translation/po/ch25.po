@@ -2139,7 +2139,7 @@ msgstr "Отлично. Добро пожаловать в каркасный а
 #, fuzzy
 msgctxt "comic486#title.1"
 msgid "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SOFTWARE<br>Press Start</b></font><br><br><font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">\"E I E I O\"</font>"
-msgstr "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SOFTWARE<br>Нажмите START</b></font><br><br><font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">«И-А, И-А, О»</font>"
+msgstr "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SOFTWARE<br>Нажмите START</b></font><br><br><font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">«И-Я, И-Я, О»</font>"
 
 #. comic486 panel p1
 #. slot: middle bubble

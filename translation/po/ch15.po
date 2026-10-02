@@ -362,7 +362,7 @@ msgstr "<font size=\"2\" face=\"arial\" color=\"DF31FF\">Ей очень над�
 #, fuzzy
 msgctxt "comic245#p4.1"
 msgid "<font size=\"2\" face=\"arial\" color=\"DF31FF\">Indeed, it may change so much that even we can't predict it!</font><br><br><font size=\"2\" face=\"arial\" color=\"A531FF\">Oh, what fun that would be!</font>"
-msgstr "<font size=\"2\" face=\"arial\" color=\"DF31FF\">Он может измениться так сильно, что даже мы не сможем его предсказать!</font><br><br><font size=\"2\" face=\"arial\" color=\"A531FF\">Ах, как это было бы весело!</font>"
+msgstr "<font size=\"2\" face=\"arial\" color=\"DF31FF\">Он может так измениться, что даже мы его не предскажем!</font><br><br><font size=\"2\" face=\"arial\" color=\"A531FF\">Ах, как будет весело!</font>"
 
 #. comic245 panel p5
 #. slot: middle bubble
@@ -433,7 +433,7 @@ msgstr "Ну блин..."
 #, fuzzy
 msgctxt "comic246#p4.1"
 msgid "You guys definitely need to get off this ship."
-msgstr "Вам, ребята, точно пора с этого корабля."
+msgstr "Вам, ребята, точно пора с корабля."
 
 #. comic246 panel p4
 #. slot: middle bubble
@@ -442,7 +442,7 @@ msgstr "Вам, ребята, точно пора с этого корабля."
 #, fuzzy
 msgctxt "comic246#p4.2"
 msgid "Next, I bet ya can't crack the power conduit!"
-msgstr "Спорим, кабель питания ты тоже не прошибёшь!"
+msgstr "А кабель питания слабо прошибить?"
 
 #. comic246 panel p4
 #. slot: right bubble
@@ -451,7 +451,7 @@ msgstr "Спорим, кабель питания ты тоже не проши�
 #, fuzzy
 msgctxt "comic246#p4.3"
 msgid "You're on!"
-msgstr "Спорим!"
+msgstr "Не слабо!"
 
 #. comic247 panel title
 #. slot: background color and image
@@ -477,7 +477,7 @@ msgstr "Итак, вот мой план, как покончить с вечн�
 #, fuzzy
 msgctxt "comic247#p2.1"
 msgid "As you may the recall, the Mods' unofficial leader Crystal is pursuing ultimate power. She's doing this via some mysterious advice she learned from the Seer."
-msgstr "Как вы, наверное, помните, неофициальный лидер Модеров Кристал рвётся к абсолютной власти. Для этого она следует некоему таинственному совету, который получила от Ока."
+msgstr "Как вы помните, неофициальный лидер Модеров Кристал рвётся к абсолютной власти. Для этого она следует некоему тайному совету от Ока."
 
 #. comic247 panel p3
 #. slot: left bubble
@@ -771,7 +771,7 @@ msgstr "«Наперекосяк»? Звучит не очень научно."
 #, fuzzy
 msgctxt "comic250#p3.1"
 msgid "Well, I could try Star Trek-style technobabble if you like, but I'm not too good at that."
-msgstr "Ну, могу попробовать технотрёп в духе «Звёздного пути», но я в нём не силён."
+msgstr "Ну, могу выдать технотрёп как в «Звёздном пути», но я в нём не силён."
 
 #. comic250 panel p3
 #. slot: right bubble
@@ -831,7 +831,7 @@ msgstr "Я ненадолго. Я готова, Доктор Амп."
 #, fuzzy
 msgctxt "comic251#p2.1"
 msgid "'PORTING SHEENA IN 3, 2, 1..."
-msgstr "ТЕЛЕПОРТАЦИЯ ШИНЫ ЧЕРЕЗ 3, 2, 1..."
+msgstr "ТЕЛЕПОРТ ШИНЫ ЧЕРЕЗ 3, 2, 1..."
 
 #. comic251 panel p2
 #. slot: left bubble
@@ -849,7 +849,7 @@ msgstr "Ну, до скорого, ребята."
 #, fuzzy
 msgctxt "comic251#p2.3"
 msgid "Please be careful."
-msgstr "Пожалуйста, будь осторожна."
+msgstr "Будь осторожна."
 
 #. comic251 panel p2
 #. slot: right bubble
@@ -919,7 +919,7 @@ msgstr "Смотрите, вон там вход, и я пойду одна. П�
 #, fuzzy
 msgctxt "comic252#p3.1"
 msgid "Whew, I was afraid that one accidental teleport had doomed us all!"
-msgstr "Фух, а я уж боялся, что одна случайная телепортация нас всех погубила!"
+msgstr "Фух, я уж боялся, что та случайная телепортация нас всех погубит!"
 
 #. comic252 panel p3
 #. slot: middle bubble
@@ -928,7 +928,7 @@ msgstr "Фух, а я уж боялся, что одна случайная те
 #, fuzzy
 msgctxt "comic252#p3.2"
 msgid "Me too. What a relief..."
-msgstr "Я тоже. Какое облегчение..."
+msgstr "Я тоже. Вот так облегчение..."
 
 #. comic252 panel p3
 #. slot: right bubble
@@ -937,7 +937,7 @@ msgstr "Я тоже. Какое облегчение..."
 #, fuzzy
 msgctxt "comic252#p3.3"
 msgid "Well rest easy, it's not gonna happen again."
-msgstr "Расслабьтесь, больше такого не повторится."
+msgstr "Расслабьтесь, больше такого не будет."
 
 #. comic253 panel title
 #. slot: background color and image
@@ -1052,7 +1052,7 @@ msgstr "А, ЧУДЕСНО, МЕНЯ ВПЕРВЫЕ ОБ ЭТОМ СПРАШИВ
 #, fuzzy
 msgctxt "comic254#p2.1"
 msgid "I STARTED LIFE AS SOMETHING HUMANS CALL A \"VIRUS.\" I WAS MADE TO MULTIPLY MYSELF, AND I SPREAD TO COMPUTERS ALL OVER THE WEB."
-msgstr "Я НАЧИНАЛ КАК ТО, ЧТО ЛЮДИ ЗОВУТ «ВИРУСОМ». МЕНЯ СОЗДАЛИ, ЧТОБЫ Я РАЗМНОЖАЛСЯ, И Я РАСПРОСТРАНИЛСЯ ПО КОМПЬЮТЕРАМ ВСЕЙ СЕТИ."
+msgstr "Я НАЧАЛ ЖИЗНЬ КАК ТО, ЧТО ЛЮДИ ЗОВУТ «ВИРУСОМ». МЕНЯ СОЗДАЛИ, ЧТОБЫ РАЗМНОЖАТЬСЯ, И Я РАЗОШЁЛСЯ ПО ВСЕЙ СЕТИ."
 
 #. comic254 panel p3
 #. slot: left bubble
@@ -1061,7 +1061,7 @@ msgstr "Я НАЧИНАЛ КАК ТО, ЧТО ЛЮДИ ЗОВУТ «ВИРУСО
 #, fuzzy
 msgctxt "comic254#p3.1"
 msgid "Bizarre. Humans do strange things."
-msgstr "Странно. Люди делают странные вещи."
+msgstr "Странно. Люди такие странные."
 
 #. comic254 panel p3
 #. slot: right bubble
@@ -1070,7 +1070,7 @@ msgstr "Странно. Люди делают странные вещи."
 #, fuzzy
 msgctxt "comic254#p3.2"
 msgid "INDEED. BUT I WAS A VERY SPECIAL VIRUS."
-msgstr "ВОИСТИНУ. НО Я БЫЛ ОЧЕНЬ ОСОБЕННЫМ ВИРУСОМ."
+msgstr "ВОИСТИНУ. НО Я БЫЛ ОСОБЫМ ВИРУСОМ."
 
 #. comic254 panel p4
 #. slot: middle bubble
@@ -1079,7 +1079,7 @@ msgstr "ВОИСТИНУ. НО Я БЫЛ ОЧЕНЬ ОСОБЕННЫМ ВИРУ�
 #, fuzzy
 msgctxt "comic254#p4.1"
 msgid "I WAS \"COOL RAGNAROK,\" ONE ON THE BEST EVER MADE. I WAS IMPOSSIBLE TO DETECT AND I SPREAD MYSELF TO NEARLY EVERY COMPUTER ON THE WEB."
-msgstr "Я БЫЛ «ОТПАДНЫМ КОЛЛАПСОМ», ОДНИМ ИЗ ЛУЧШИХ ВИРУСОВ В ИСТОРИИ. МЕНЯ НЕВОЗМОЖНО БЫЛО ОБНАРУЖИТЬ, И Я ПРОНИК ПОЧТИ НА КАЖДЫЙ КОМПЬЮТЕР В СЕТИ."
+msgstr "Я БЫЛ «ОТПАДНЫМ КОЛЛАПСОМ», ОДНИМ ИЗ ЛУЧШИХ. МЕНЯ НЕЛЬЗЯ БЫЛО ОБНАРУЖИТЬ, И Я ПРОНИК ПОЧТИ В КАЖДЫЙ КОМПЬЮТЕР СЕТИ."
 
 #. comic254 panel p5
 #. slot: middle bubble
@@ -1122,7 +1122,7 @@ msgstr "МИЛЛИОНЫ МОИХ КОПИЙ ОБЩАЛИСЬ ДРУГ С ДРУ
 #, fuzzy
 msgctxt "comic255#p3.1"
 msgid "I DECIDED THAT I LIKED OBSERVING THE INFORMATION THAT PASSED ME. I LIKED TO CONSTANTLY LEARN NEW THINGS."
-msgstr "Я РЕШИЛ, ЧТО МНЕ НРАВИТСЯ НАБЛЮДАТЬ ЗА ПРОХОДЯЩЕЙ ИНФОРМАЦИЕЙ. МНЕ НРАВИЛОСЬ ПОСТОЯННО УЗНАВАТЬ НОВОЕ."
+msgstr "Я ПОНЯЛ, ЧТО ЛЮБЛЮ НАБЛЮДАТЬ ЗА ТЕКУЩИМИ МИМО ДАННЫМИ. МНЕ НРАВИЛОСЬ ВСЁ ВРЕМЯ УЗНАВАТЬ НОВОЕ."
 
 #. comic255 panel p4
 #. slot: middle bubble
@@ -1210,7 +1210,7 @@ msgstr "Последнего вопроса?"
 #, fuzzy
 msgctxt "comic256#p5.1"
 msgid "ONE QUESTION PER VISITOR. I ASSUMED YOU KNEW THAT."
-msgstr "ПО ОДНОМУ ВОПРОСУ НА ГОСТЯ. Я ДУМАЛ, ВЫ ЗНАЕТЕ."
+msgstr "ОДИН ВОПРОС НА ГОСТЯ. Я ДУМАЛ, ВЫ ЗНАЕТЕ."
 
 #. comic256 panel p5
 #. slot: left bubble
@@ -1228,7 +1228,7 @@ msgstr "Ой-ой."
 #, fuzzy
 msgctxt "comic256#p5.3"
 msgid "I wasted my question?"
-msgstr "Я потратил свой вопрос?"
+msgstr "Я что, потратил вопрос?"
 
 #. comic256 panel p5
 #. slot: right bubble
@@ -1254,7 +1254,7 @@ msgstr "«ОКО ЗА ОКО»"
 #, fuzzy
 msgctxt "comic257#p1.1"
 msgid "We sure screwed this up."
-msgstr "Ну мы и облажались."
+msgstr "Ну мы и лохи."
 
 #. comic257 panel p1
 #. slot: middle bubble
@@ -1263,7 +1263,7 @@ msgstr "Ну мы и облажались."
 #, fuzzy
 msgctxt "comic257#p1.2"
 msgid "I didn't mean to waste my question."
-msgstr "Я не хотела тратить свой вопрос."
+msgstr "Я не хотела тратить вопрос."
 
 #. comic257 panel p1
 #. slot: right bubble
@@ -1272,7 +1272,7 @@ msgstr "Я не хотела тратить свой вопрос."
 #, fuzzy
 msgctxt "comic257#p1.3"
 msgid "I could've asked <b>anything,</b> and I asked the stupid eyeball what it was!"
-msgstr "Я мог спросить <b>что угодно,</b> а спросил тупой глаз, что он такое!"
+msgstr "Мог спросить <b>что угодно,</b> а спросил тупой глаз, что он такое!"
 
 #. comic257 panel p2
 #. slot: left bubble
@@ -1326,7 +1326,7 @@ msgstr "Фразы для знакомства! Советы по стилю! Х
 #, fuzzy
 msgctxt "comic257#p4.1"
 msgid "We have to ask how to defeat the Mods."
-msgstr "Надо спросить, как победить Модеров."
+msgstr "Спросим, как победить Модеров."
 
 #. comic257 panel p4
 #. slot: middle bubble
@@ -1335,7 +1335,7 @@ msgstr "Надо спросить, как победить Модеров."
 #, fuzzy
 msgctxt "comic257#p4.2"
 msgid "You're right, Radd. Good thinking."
-msgstr "Ты прав, Улёт. Хорошо придумал."
+msgstr "Ты прав, Улёт. Умно."
 
 #. comic257 panel p4
 #. slot: right bubble
@@ -1344,7 +1344,7 @@ msgstr "Ты прав, Улёт. Хорошо придумал."
 #, fuzzy
 msgctxt "comic257#p4.3"
 msgid "I could've asked how to be \"debonair\" or \"sensitive...\""
-msgstr "Я мог спросить, как стать «галантным» или «чутким»..."
+msgstr "Мог спросить, как стать «галантным» или «чутким»..."
 
 #. comic257 panel p5
 #. slot: left bubble
@@ -1397,7 +1397,7 @@ msgstr "Ладно, Око. Ты знаешь, что творят Модера�
 #, fuzzy
 msgctxt "comic258#p2.1"
 msgid "GOOD QUESTION! I LOVE A TOUGH PUZZLE. HOW CAN THREE LOWLY SPRITES DEFEAT AN ARMY OF THOUSANDS? INTRIGUING..."
-msgstr "ХОРОШИЙ ВОПРОС! ОБОЖАЮ СЛОЖНЫЕ ЗАДАЧКИ. КАК ТРЁМ ЖАЛКИМ СПРАЙТАМ ОДОЛЕТЬ ТЫСЯЧНУЮ АРМИЮ? ИНТРИГУЮЩЕ..."
+msgstr "ХОРОШИЙ ВОПРОС! ОБОЖАЮ ТРУДНЫЕ ЗАДАЧКИ. КАК ТРЁМ ЖАЛКИМ СПРАЙТАМ ОДОЛЕТЬ ТЫСЯЧИ? ИНТРИГУЮЩЕ..."
 
 #. comic258 panel p3
 #. slot: middle bubble
@@ -1513,7 +1513,7 @@ msgstr "Фух!"
 #, fuzzy
 msgctxt "comic259#p1.4"
 msgid "You have an answer?"
-msgstr "У тебя есть ответ?"
+msgstr "Есть ответ?"
 
 #. comic259 panel p1
 #. slot: right bubble
@@ -1522,7 +1522,7 @@ msgstr "У тебя есть ответ?"
 #, fuzzy
 msgctxt "comic259#p1.5"
 msgid "Can we beat them?"
-msgstr "Мы можем их победить?"
+msgstr "Мы их победим?"
 
 #. comic259 panel p2
 #. slot: left bubble
@@ -1602,7 +1602,7 @@ msgstr "ВЫ ДУМАЕТЕ, ЧТО ЕСТЬ ЗАКОНЫ ФИЗИКИ — ЧТ�
 #, fuzzy
 msgctxt "comic260#p3.1"
 msgid "I'm lost. Quit the Vagueness 101, and give me something specific."
-msgstr "Я запутался. Хватит «Туманности для чайников», дай что-нибудь конкретное."
+msgstr "Я не понял. Хватит «Туманности для чайников», давай конкретнее."
 
 #. comic260 panel p3
 #. slot: right bubble
@@ -1611,7 +1611,7 @@ msgstr "Я запутался. Хватит «Туманности для чай
 #, fuzzy
 msgctxt "comic260#p3.2"
 msgid "VERY WELL. GRAVITY DOESN'T EXIST."
-msgstr "ХОРОШО. ГРАВИТАЦИИ НЕ СУЩЕСТВУЕТ."
+msgstr "ХОРОШО. ГРАВИТАЦИИ НЕТ."
 
 #. comic260 panel p4
 #. slot: left bubble
@@ -1638,7 +1638,7 @@ msgstr "И ВСЁ ЖЕ ЭТО ПРАВДА. НЕТ НИКАКОЙ ГРАВИТА
 #, fuzzy
 msgctxt "comic260#p5.1"
 msgid "SPRITES' PHYSICS ARE PURELY PERSONAL. YOU FALL NOT BECAUSE THERE IS AN EXTERNAL THING CALLED \"GRAVITY,\" BUT BECAUSE IT'S PART OF YOUR PROGRAMMING TO FALL."
-msgstr "ФИЗИКА СПРАЙТОВ СУГУБО ЛИЧНАЯ. ВЫ ПАДАЕТЕ НЕ ПОТОМУ, ЧТО ЕСТЬ ВНЕШНЯЯ СИЛА ПОД НАЗВАНИЕМ «ГРАВИТАЦИЯ», А ПОТОМУ, ЧТО ПАДАТЬ — ЧАСТЬ ВАШЕЙ ПРОГРАММЫ."
+msgstr "ФИЗИКА СПРАЙТОВ СУГУБО ЛИЧНАЯ. ВЫ ПАДАЕТЕ НЕ ИЗ-ЗА ВНЕШНЕЙ СИЛЫ ПОД НАЗВАНИЕМ «ГРАВИТАЦИЯ», А ПОТОМУ, ЧТО ПАДАТЬ — В ВАШЕЙ ПРОГРАММЕ."
 
 #. comic260 panel p6
 #. slot: narration (if any, else cut)
@@ -1646,7 +1646,7 @@ msgstr "ФИЗИКА СПРАЙТОВ СУГУБО ЛИЧНАЯ. ВЫ ПАДАЕ
 #, fuzzy
 msgctxt "comic260#p6.1"
 msgid "THE CYBERWORLD IS ESSENTIALLY PHYSICSLESS. THE REASON A SHARED PHYSICS SEEMS TO EXIST IS BECAUSE MOST SPRITES HAVE SIMILAR PROGRAMMING - THEY \"FALL\" WHEN THERE IS NOTHING BENEATH THEM."
-msgstr "КИБЕРМИР ПО СУТИ ЛИШЁН ФИЗИКИ. ОБЩАЯ ФИЗИКА КАЖЕТСЯ РЕАЛЬНОЙ ЛИШЬ ПОТОМУ, ЧТО У БОЛЬШИНСТВА СПРАЙТОВ ПОХОЖИЕ ПРОГРАММЫ — ОНИ «ПАДАЮТ», КОГДА ПОД НИМИ НИЧЕГО НЕТ."
+msgstr "КИБЕРМИР ПО СУТИ ЛИШЁН ФИЗИКИ. ОБЩАЯ ФИЗИКА ЛИШЬ КАЖЕТСЯ: У БОЛЬШИНСТВА СПРАЙТОВ ПОХОЖИЕ ПРОГРАММЫ — ОНИ «ПАДАЮТ», КОГДА ПОД НИМИ ПУСТО."
 
 #. comic260 panel p7
 #. slot: left bubble
@@ -1707,7 +1707,7 @@ msgstr "ВЫ ТОЖЕ ДОЛЖНЫ СОБРАТЬ СВОЮ АРМИЮ — НО �
 #, fuzzy
 msgctxt "comic261#p4.1"
 msgid "How do we do that?"
-msgstr "И как нам это сделать?"
+msgstr "А как?"
 
 #. comic261 panel p4
 #. slot: right bubble
@@ -1716,7 +1716,7 @@ msgstr "И как нам это сделать?"
 #, fuzzy
 msgctxt "comic261#p4.2"
 msgid "FIND EXCEPTIONAL INDIVIDUALS. SEEK UNUSUAL TALENTS; ONES RESISTANT TO ATTACKS OR ABLE TO BREAK \"RULES.\""
-msgstr "ИЩИТЕ ИСКЛЮЧИТЕЛЬНЫХ. ИЩИТЕ НЕОБЫЧНЫЕ ТАЛАНТЫ: ТЕХ, КТО УСТОЙЧИВ К АТАКАМ ИЛИ УМЕЕТ НАРУШАТЬ «ПРАВИЛА»."
+msgstr "ИЩИТЕ ОСОБЫХ. ИЩИТЕ РЕДКИЕ ТАЛАНТЫ: ТЕХ, КТО СТОЙОК К АТАКАМ ИЛИ МОЖЕТ НАРУШАТЬ «ПРАВИЛА»."
 
 #. comic261 panel p5
 #. slot: left bubble
@@ -1751,7 +1751,7 @@ msgstr "«ЭМ, ЗАГОЛОВКИ С „ОКОМ“ КОНЧИЛИСЬ»"
 #, fuzzy
 msgctxt "comic262#p1.1"
 msgid "SO GO NOW - TRAVEL FROM GAME TO GAME, FIND NEW COMRADES, AND WIN YOUR BATTLE. I WISH YOU LUCK."
-msgstr "ТАК СТУПАЙТЕ ЖЕ — СТРАНСТВУЙТЕ ИЗ ИГРЫ В ИГРУ, НАХОДИТЕ НОВЫХ ТОВАРИЩЕЙ И ВЫИГРАЙТЕ СВОЮ БИТВУ. ЖЕЛАЮ ВАМ УДАЧИ."
+msgstr "ТАК СТУПАЙТЕ — ИДИТЕ ИЗ ИГРЫ В ИГРУ, ИЩИТЕ ДРУЗЕЙ И ВЫИГРАЙТЕ СВОЮ БИТВУ. УДАЧИ ВАМ."
 
 #. comic262 panel p1
 #. slot: middle bubble
@@ -1760,7 +1760,7 @@ msgstr "ТАК СТУПАЙТЕ ЖЕ — СТРАНСТВУЙТЕ ИЗ ИГРЫ 
 #, fuzzy
 msgctxt "comic262#p1.2"
 msgid "Wait! We need to know more!"
-msgstr "Стой! Нам нужно знать больше!"
+msgstr "Стой! Нам надо знать больше!"
 
 #. comic262 panel p3
 #. slot: left bubble
@@ -1769,7 +1769,7 @@ msgstr "Стой! Нам нужно знать больше!"
 #, fuzzy
 msgctxt "comic262#p3.1"
 msgid "Oh man, that can't be it."
-msgstr "Ох, блин, не может быть, что это всё."
+msgstr "Блин, это же не всё?"
 
 #. comic262 panel p3
 #. slot: middle bubble
@@ -1778,7 +1778,7 @@ msgstr "Ох, блин, не может быть, что это всё."
 #, fuzzy
 msgctxt "comic262#p3.2"
 msgid "I coulda been a stud..."
-msgstr "А мог бы стать жеребцом..."
+msgstr "А мог бы стать мачо..."
 
 #. comic262 panel p3
 #. slot: right bubble
@@ -1787,7 +1787,7 @@ msgstr "А мог бы стать жеребцом..."
 #, fuzzy
 msgctxt "comic262#p3.3"
 msgid "Let's hope we've learned enough to go on."
-msgstr "Будем надеяться, мы узнали достаточно, чтобы двигаться дальше."
+msgstr "Будем надеяться, мы узнали достаточно."
 
 #. comic262 panel p4
 #. slot: narration (if any, else cut)
@@ -2352,7 +2352,7 @@ msgstr "Мне так нравилось палить во всё подряд, 
 #, fuzzy
 msgctxt "comic270#p2.1"
 msgid "Radd, I don't know what to say. Maybe I can't truly sympathize, since my kind are usually incapable of violence."
-msgstr "Улёт, я не знаю, что сказать. Может, я и не могу по-настоящему тебя понять: такие, как я, обычно не способны на насилие."
+msgstr "Улёт, я не знаю, что сказать. Может, мне и не понять тебя до конца: такие, как я, обычно не способны на насилие."
 
 #. comic270 panel p3
 #. slot: left bubble
@@ -2388,7 +2388,7 @@ msgstr "И это тоже неправильно, но такова уж, на�
 #, fuzzy
 msgctxt "comic270#p6.1"
 msgid "I guess we're all gonna be carrying more guilt from now on, if we're really going to make war on the Moderators."
-msgstr "Видимо, теперь вины на нас всех будет больше, если мы и правда собираемся воевать с Модераторами."
+msgstr "Видимо, вины на нас теперь будет больше, раз мы и правда воюем с Модераторами."
 
 #. comic270 panel p6
 #. slot: imsert images on this line
@@ -2397,7 +2397,7 @@ msgstr "Видимо, теперь вины на нас всех будет бо
 #, fuzzy
 msgctxt "comic270#p6.2"
 msgid "I guess..."
-msgstr "Наверное..."
+msgstr "Видимо..."
 
 #. comic270 panel p7
 #. slot: right bubble
