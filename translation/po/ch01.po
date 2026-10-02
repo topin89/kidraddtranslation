@@ -2066,7 +2066,7 @@ msgstr "Как будто у тебя был выбор, эх. Ладно, по�
 #, fuzzy
 msgctxt "comic27#p3.4"
 msgid "THANKS TO KID RADD"
-msgstr "СПАСИБО УЛЁТУ-ПАРНЮ"
+msgstr "СПАСИБО УЛЁТ-ПАРНЮ"
 
 #. comic27 panel p4
 #. slot: narration (if any, else cut)
@@ -2293,7 +2293,7 @@ msgstr "Нет."
 #, fuzzy
 msgctxt "comic29#p3.4"
 msgid "THANKS TO KID RADD"
-msgstr "СПАСИБО УЛЁТУ-ПАРНЮ"
+msgstr "СПАСИБО УЛЁТ-ПАРНЮ"
 
 #. comic29 panel p4
 #. slot: narration (if any, else cut)
@@ -2397,7 +2397,7 @@ msgstr "Улёт, это заранее запрограммированная �
 #, fuzzy
 msgctxt "comic30#p3.4"
 msgid "THANKS TO KID RADD"
-msgstr "СПАСИБО УЛЁТУ-ПАРНЮ"
+msgstr "СПАСИБО УЛЁТ-ПАРНЮ"
 
 #. comic30 panel p4
 #. slot: narration (if any, else cut)
