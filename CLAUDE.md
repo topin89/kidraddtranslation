@@ -17,7 +17,8 @@ See README.md for layout and workflow. Key rules:
 - Names (fixed, in glossary.tsv): Radd → Улёт, Sheena → Шина, Bogey → Бяка, Gnarl → Отпад,
   Cool Ragnarok / C.R. / Seer → Отпадный Коллапс / О.Ко / Око, Kobayashi the Discount Ninja →
   Кобаяси — второсортный ниндзя, Kielbasa (Radd's nickname) → Кулебяси,
-  Kid Radd (the game) → «Улёт-парень» (provisional; both halves decline: «спасибо Улёту-парню»). Use ё in Улёт.
+  Kid Radd (the game) → «Улёт-парень» (provisional; «Улёт» stays fixed, only «парень» declines: «Улёт-парню», «об Улёт-парне»;
+  the hero's own name «Улёт» declines normally: «Улёта», «Улёту»). Use ё in Улёт.
 - Tone: 90s cool-speak, but per character and context-dependent. When unsure, go neutral;
   the user polishes later.
 - Russian typography: «ёлочки» for quotes, em dash — for dialogue breaks, … for ellipsis.

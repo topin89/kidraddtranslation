@@ -11,4 +11,25 @@
 \bKobayashi\b	Кобаяси	Kobayashi -> Кобаяси (indeclinable)
 (?i)\bdiscount ninja\b	[Вв]торосортн\w* ниндзя	Discount Ninja -> второсортный ниндзя (Кобаяси — второсортный ниндзя)
 \bKielbasa\b	Кулебяси	Kielbasa (Radd's nickname) -> Кулебяси
-\bKid Radd\b	Ул[её]т\w*-парн|Ул[её]т-парень	Kid Radd (game title) -> «Улёт-парень» (provisional); both halves decline: Улёту-парню
+\bKid Radd\b	Ул[её]т-пар(ень|н)|УЛ[ЕЁ]Т-ПАР(ЕНЬ|Н)	Kid Radd (game title) -> «Улёт-парень» (provisional); only «парень» declines: Улёт-парню, об Улёт-парне
+# --- Provisional (chosen by Claude before the chapter 2-29 draft; user may change) ---
+\bMod(erator)?s?\b	[Мм]одер	Moderators / Mods -> Модераторы / Модеры (Mod HQ -> штаб Модеров)
+\bCaptain QB\b|\bQB\b	Кьюби	Captain QB -> Капитан Кьюби
+\bDr\. Amp	[Дд]октор\w* Амп	Dr. Amp / Dr. Ampersand -> Доктор Амп / Доктор Амперсанд
+\bGI Guy\b	Джи-Ай Га	GI Guy -> Джи-Ай Гай
+\bCrystal\b	Кристал	Crystal -> Кристал
+\bEliot\b	Элиот	Eliot -> Элиот
+\bJulie\b	Джули	Julie -> Джули
+\bJoule\b	Джоул	Joule -> Джоуль
+\bBitty\b	Битти	Bitty -> Битти
+\bBenny\b	Бенни	Benny -> Бенни
+\bLucky Penny\b	Пенни	Lucky Penny -> Счастливица Пенни
+\bIB\b	Ай-Би	IB -> Ай-Би
+\bChimera	[Хх]имер	Chimera / Chimera Point / Chimerization -> Химера / Точка Химеры / химеризация
+\bProtos\b	Протос	Protos -> Протос
+\bHopetown\b	Надеждинск	Hopetown -> Надеждинск
+\bMi'growsoft\b	Майгрософт	Mi'growsoft -> Майгрософт
+\bGnarlborg\b	Отпадборг	Gnarlborg -> Отпадборг
+\bMega Radd	Мега-Ул[её]т	Mega Radd -> Мега-Улёт
+\bKoba\b	Коба	Koba (Kobayashi) -> Коба
+\bNPCs?\b	НПС|[Нн]еигров	NPC -> НПС / неигровой персонаж

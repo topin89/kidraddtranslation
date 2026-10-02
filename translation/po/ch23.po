@@ -12,568 +12,640 @@ msgstr ""
 #. comic421 panel title
 #. slot: background color and image
 #: kidradd/comic421.htm:52
+#, fuzzy
 msgctxt "comic421#title.1"
 msgid "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">\"DIZZY\"</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Warning: Midi music ahead)<br><br></font>"
-msgstr ""
+msgstr "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">«ГОЛОВА КРУГОМ»</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Внимание: впереди MIDI-музыка)<br><br></font>"
 
 #. comic421 panel p1
 #. slot: left bubble
 #. images: raddstare.gif, kobastand2.gif
 #: kidradd/comic421.htm:94
+#, fuzzy
 msgctxt "comic421#p1.1"
 msgid "Hey all. It's been awhile since we've taken a break from the story, and this seemed like an appropriate week to do it."
-msgstr ""
+msgstr "Всем привет. Давненько мы не брали перерыв от сюжета, а эта неделя как раз подходит."
 
 #. comic421 panel p1
 #. slot: right bubble
 #. images: raddstare.gif, kobastand2.gif
 #: kidradd/comic421.htm:98
+#, fuzzy
 msgctxt "comic421#p1.2"
 msgid "Really? Why?"
-msgstr ""
+msgstr "Правда? Почему?"
 
 #. comic421 panel p2
 #. slot: left bubble
 #. images: raddright.gif, kobastand2.gif
 #: kidradd/comic421.htm:149
+#, fuzzy
 msgctxt "comic421#p2.1"
 msgid "You know, with Christmas and all."
-msgstr ""
+msgstr "Ну, Рождество и всё такое."
 
 #. comic421 panel p2
 #. slot: right bubble
 #. images: raddright.gif, kobastand2.gif
 #: kidradd/comic421.htm:153
+#, fuzzy
 msgctxt "comic421#p2.2"
 msgid "I don't celebrate Christmas."
-msgstr ""
+msgstr "Я не праздную Рождество."
 
 #. comic421 panel p3
 #. slot: left bubble
 #. images: raddstand.gif, kobablink2.gif
 #: kidradd/comic421.htm:201
+#, fuzzy
 msgctxt "comic421#p3.1"
 msgid "Oh, right. I guess as a ninja you'd be Japanese, meaning you're..."
-msgstr ""
+msgstr "А, точно. Ты же ниндзя, значит, японец, а значит, ты…"
 
 #. comic421 panel p3
 #. slot: right bubble
 #. images: raddstand.gif, kobablink2.gif
 #: kidradd/comic421.htm:205
+#, fuzzy
 msgctxt "comic421#p3.2"
 msgid "Jewish."
-msgstr ""
+msgstr "Иудей."
 
 #. comic421 panel p4
 #. slot: left bubble
 #. images: raddwow.gif, kobapose.gif
 #: kidradd/comic421.htm:255
+#, fuzzy
 msgctxt "comic421#p4.1"
 msgid "Right. <b>What?</b></b>"
-msgstr ""
+msgstr "Ага. <b>Что?</b></b>"
 
 #. comic421 panel p4
 #. slot: right bubble
 #. images: raddwow.gif, kobapose.gif
 #: kidradd/comic421.htm:259
+#, fuzzy
 msgctxt "comic421#p4.2"
 msgid "First Orthodox Temple of Ninjas Reformed. Happy Hanukkah to all my assassin buddies!"
-msgstr ""
+msgstr "Первый ортодоксальный храм ниндзя-реформистов. С Ханукой, друзья-убийцы!"
 
 #. comic421 panel p5
 #. slot: left bubble
 #. images: raddcross.gif, kobablink2.gif
 #: kidradd/comic421.htm:309
+#, fuzzy
 msgctxt "comic421#p5.1"
 msgid "There's so much wrong with those last couple of sentences."
-msgstr ""
+msgstr "В последних двух фразах неправильно примерно всё."
 
 #. comic421 panel p5
 #. slot: right bubble
 #. images: raddcross.gif, kobablink2.gif
 #: kidradd/comic421.htm:313
+#, fuzzy
 msgctxt "comic421#p5.2"
 msgid "Silence, you! It's time for me to participate in the traditional Hanukkah duel!"
-msgstr ""
+msgstr "Молчать! Мне пора на традиционную ханукальную дуэль!"
 
 #. comic421 panel p7
 #. slot: left bubble
 #. images: raddsigh.gif, lildreidel.gif, kobaargh2.gif
 #: kidradd/comic421.htm:387
+#, fuzzy
 msgctxt "comic421#p7.1"
 msgid "We are going to get a lot of letters over this."
-msgstr ""
+msgstr "Нам пришлют за это кучу писем."
 
 #. comic421 panel p7
 #. slot: right bubble
 #. images: raddsigh.gif, lildreidel.gif, kobaargh2.gif
 #: kidradd/comic421.htm:391
+#, fuzzy
 msgctxt "comic421#p7.2"
 msgid "Curse you dreidel, just wait'll next year!!!"
-msgstr ""
+msgstr "Проклятый волчок! Ну, погоди до следующего года!!!"
 
 #. comic422 panel title
 #. slot: background color and image
 #: kidradd/comic422.htm:36
+#, fuzzy
 msgctxt "comic422#title.1"
 msgid "\"SNEAK PREVIEW\""
-msgstr ""
+msgstr "«ПРЕДПОКАЗ»"
 
 #. comic422 panel p1
 #. slot: middle bubble
 #. images: seer.gif, seats.gif
 #: kidradd/comic422.htm:79
+#, fuzzy
 msgctxt "comic422#p1.1"
 msgid "Using the magical powers of artistic license, we present to you a show from <b>The Future!</b>"
-msgstr ""
+msgstr "Силой волшебной художественной вольности мы покажем вам передачу из <b>Будущего!</b>"
 
 #. comic422 panel p1
 #. slot: left bubble
 #. images: seer.gif, seats.gif
 #: kidradd/comic422.htm:97
+#, fuzzy
 msgctxt "comic422#p1.2"
 msgid "The future, Conan?"
-msgstr ""
+msgstr "Из будущего, Конан?"
 
 #. comic422 panel p1
 #. slot: right bubble
 #. images: seer.gif, seats.gif
 #: kidradd/comic422.htm:101
+#, fuzzy
 msgctxt "comic422#p1.3"
 msgid "We're really gonna see what the future's like?"
-msgstr ""
+msgstr "Мы правда увидим, какое оно, будущее?"
 
 #. comic422 panel p2
 #. slot: middle bubble
 #. images: seats.gif
 #: kidradd/comic422.htm:146
+#, fuzzy
 msgctxt "comic422#p2.1"
 msgid "That<br>'00s<br>Show"
-msgstr ""
+msgstr "Шоу<br>00-х<br>годов"
 
 #. comic422 panel p2
 #. slot: left bubble
 #. images: seats.gif
 #: kidradd/comic422.htm:164
+#, fuzzy
 msgctxt "comic422#p2.2"
 msgid "I guess not."
-msgstr ""
+msgstr "Видимо, нет."
 
 #. comic422 panel p2
 #. slot: right bubble
 #. images: seats.gif
 #: kidradd/comic422.htm:168
+#, fuzzy
 msgctxt "comic422#p2.3"
 msgid "How do you pronounce that?<br>\"That 'Oohs' Show?\""
-msgstr ""
+msgstr "Как это читать?<br>«Шоу О-О-Х»?"
 
 #. comic422 panel p3
 #. slot: left bubble
 #. images: gamin.gif, seats.gif
 #: kidradd/comic422.htm:208
+#, fuzzy
 msgctxt "comic422#p3.1"
 msgid "We're listening to <b>N'SYNC</b> and playing my <b>Playstation 3!</b> It doesn't get any better than this!"
-msgstr ""
+msgstr "Слушаем <b>N'SYNC</b> и рубимся в мою <b>Playstation 3!</b> Круче не бывает!"
 
 #. comic422 panel p3
 #. slot: right bubble
 #. images: gamin.gif, seats.gif
 #: kidradd/comic422.htm:212
+#, fuzzy
 msgctxt "comic422#p3.2"
 msgid "You said it!"
-msgstr ""
+msgstr "Точно!"
 
 #. comic422 panel p3
 #. slot: left bubble
 #. images: gamin.gif, seats.gif
 #: kidradd/comic422.htm:228
+#, fuzzy
 msgctxt "comic422#p3.3"
 msgid "I think it's \"Oh-ties.\""
-msgstr ""
+msgstr "По-моему, «Шоу Ноликов»."
 
 #. comic422 panel p3
 #. slot: right bubble
 #. images: gamin.gif, seats.gif
 #: kidradd/comic422.htm:232
+#, fuzzy
 msgctxt "comic422#p3.4"
 msgid "Sounds like a cereal. \"Oaties is a part of this complete breakfast.\""
-msgstr ""
+msgstr "Прям хлопья. «Нолики — часть полноценного завтрака»."
 
 #. comic422 panel p4
 #. slot: left bubble
 #. images: jammin.gif, seats.gif
 #: kidradd/comic422.htm:274
+#, fuzzy
 msgctxt "comic422#p4.1"
 msgid "Man Radd, your <b>CD</b> collection is awesome, <b>ai'ight!</b>"
-msgstr ""
+msgstr "Улёт, у тебя крутые <b>CD</b>, <b>респект!</b>"
 
 #. comic422 panel p4
 #. slot: right bubble
 #. images: jammin.gif, seats.gif
 #: kidradd/comic422.htm:278
+#, fuzzy
 msgctxt "comic422#p4.2"
 msgid "Yeah, am I a modern guy or what? Ha ha!"
-msgstr ""
+msgstr "Ага, я ж современный! Ха-ха!"
 
 #. comic422 panel p4
 #. slot: left bubble
 #. images: jammin.gif, seats.gif
 #: kidradd/comic422.htm:294
+#, fuzzy
 msgctxt "comic422#p4.3"
 msgid "I feel insulted somehow..."
-msgstr ""
+msgstr "Мне почему-то обидно…"
 
 #. comic422 panel p4
 #. slot: right bubble
 #. images: jammin.gif, seats.gif
 #: kidradd/comic422.htm:298
+#, fuzzy
 msgctxt "comic422#p4.4"
 msgid "Did he just put that disc in upside-down?"
-msgstr ""
+msgstr "Он вставил диск вверх ногами?"
 
 #. comic422 panel p5
 #. slot: left bubble
 #. images: sheenasmug.gif, raddblink2.gif, bogeystand2.gif, seats.gif
 #: kidradd/comic422.htm:340
+#, fuzzy
 msgctxt "comic422#p5.1"
 msgid "Hi guys, wanna go to a <b>mall?</b> You know, by <b>car?</b>"
-msgstr ""
+msgstr "Привет, ребята, хотите в <b>торговый центр?</b> Ну, на <b>машине?</b>"
 
 #. comic422 panel p5
 #. slot: right bubble
 #. images: sheenasmug.gif, raddblink2.gif, bogeystand2.gif, seats.gif
 #: kidradd/comic422.htm:344
+#, fuzzy
 msgctxt "comic422#p5.2"
 msgid "Gee thanks, but I gotta pack for my trip to <b>Los Angeles!</b>"
-msgstr ""
+msgstr "Спасибо, но мне надо собираться в <b>Лос-Анджелес!</b>"
 
 #. comic422 panel p5
 #. slot: left bubble
 #. images: sheenasmug.gif, raddblink2.gif, bogeystand2.gif, seats.gif
 #: kidradd/comic422.htm:360
+#, fuzzy
 msgctxt "comic422#p5.3"
 msgid "Wish I knew what the <b><i>joke</i></b> was."
-msgstr ""
+msgstr "Знать бы, в чём тут <b><i>шутка</i></b>."
 
 #. comic422 panel p5
 #. slot: right bubble
 #. images: sheenasmug.gif, raddblink2.gif, bogeystand2.gif, seats.gif
 #: kidradd/comic422.htm:364
+#, fuzzy
 msgctxt "comic422#p5.4"
 msgid "I don't know, but I bet it <b><i>sucks.</i></b>"
-msgstr ""
+msgstr "Не знаю, но спорим, она <b><i>отстой</i></b>."
 
 #. comic422 panel p6
 #. slot: left bubble
 #. images: sheenaright.gif, raddwhisper2.gif, bogeydrift2.gif, seats.gif
 #: kidradd/comic422.htm:403
+#, fuzzy
 msgctxt "comic422#p6.1"
 msgid "Los Angeles? How is that nostalgic to this decade?"
-msgstr ""
+msgstr "Лос-Анджелес? При чём тут ностальгия по этому десятилетию?"
 
 #. comic422 panel p6
 #. slot: right bubble
 #. images: sheenaright.gif, raddwhisper2.gif, bogeydrift2.gif, seats.gif
 #: kidradd/comic422.htm:407
+#, fuzzy
 msgctxt "comic422#p6.2"
 msgid "You know, cuz Korea hasn't nuked it yet."
-msgstr ""
+msgstr "Ну, Корея же его ещё не разбомбила."
 
 #. comic422 panel p6
 #. slot: left bubble
 #. images: sheenaright.gif, raddwhisper2.gif, bogeydrift2.gif, seats.gif
 #: kidradd/comic422.htm:423
+#, fuzzy
 msgctxt "comic422#p6.3"
 msgid "Ha ha, that wacky history-ignorant Sheena!"
-msgstr ""
+msgstr "Ха-ха, ох уж эта Шина, ничего не смыслит в истории!"
 
 #. comic422 panel p6
 #. slot: right bubble
 #. images: sheenaright.gif, raddwhisper2.gif, bogeydrift2.gif, seats.gif
 #: kidradd/comic422.htm:427
+#, fuzzy
 msgctxt "comic422#p6.4"
 msgid "Good Lord..."
-msgstr ""
+msgstr "Боже мой…"
 
 #. comic423 panel title
 #. slot: background color and image
 #: kidradd/comic423.htm:47
+#, fuzzy
 msgctxt "comic423#title.1"
 msgid "\"AIN'T NOTHING LIKE THE REAL THING, BABY\""
-msgstr ""
+msgstr "«НЕТ НИЧЕГО ЛУЧШЕ ОРИГИНАЛА, ДЕТКА»"
 
 #. comic423 panel p1
 #. slot: left bubble
 #. images: raddstare.gif, bogeystand2.gif
 #: kidradd/comic423.htm:88
+#, fuzzy
 msgctxt "comic423#p1.1"
 msgid "These days, it seems that every well-known game overcapitalizes on its popularity."
-msgstr ""
+msgstr "В наше время любая известная игра выжимает из своей популярности всё до капли."
 
 #. comic423 panel p1
 #. slot: right bubble
 #. images: raddstare.gif, bogeystand2.gif
 #: kidradd/comic423.htm:92
+#, fuzzy
 msgctxt "comic423#p1.2"
 msgid "What do you mean?"
-msgstr ""
+msgstr "Ты о чём?"
 
 #. comic423 panel p2
 #. slot: left bubble
 #. images: raddright.gif, bogeysigh2.gif
 #: kidradd/comic423.htm:143
+#, fuzzy
 msgctxt "comic423#p2.1"
 msgid "While people wait forever for the true sequels to come out, spin-off titles like \"Pokémon Snap\" appear to go after our wallets."
-msgstr ""
+msgstr "Пока все вечно ждут настоящих сиквелов, спин-оффы вроде «Pokémon Snap» охотятся за нашими кошельками."
 
 #. comic423 panel p2
 #. slot: right bubble
 #. images: raddright.gif, bogeysigh2.gif
 #: kidradd/comic423.htm:147
+#, fuzzy
 msgctxt "comic423#p2.2"
 msgid "Yeah, those games usually suck."
-msgstr ""
+msgstr "Ага, такие игры обычно отстой."
 
 #. comic423 panel p3
 #. slot: left bubble
 #. images: raddwink.gif, bogeystand2.gif
 #: kidradd/comic423.htm:195
+#, fuzzy
 msgctxt "comic423#p3.1"
 msgid "But we're kinda low on cash, so I figured we could do the same."
-msgstr ""
+msgstr "Но у нас туго с деньгами, вот я и подумал — сделаем так же."
 
 #. comic423 panel p3
 #. slot: right bubble
 #. images: raddwink.gif, bogeystand2.gif
 #: kidradd/comic423.htm:199
+#, fuzzy
 msgctxt "comic423#p3.2"
 msgid "Huh?"
-msgstr ""
+msgstr "А?"
 
 #. comic423 panel p7
 #. slot: left bubble
 #. images: raddblink.gif, bogeyh2.gif
 #: kidradd/comic423.htm:276
+#, fuzzy
 msgctxt "comic423#p7.1"
 msgid "Can't wait for the moolah to start rollin' in!"
-msgstr ""
+msgstr "Скорей бы бабло потекло рекой!"
 
 #. comic423 panel p7
 #. slot: right bubble
 #. images: raddblink.gif, bogeyh2.gif
 #: kidradd/comic423.htm:280
+#, fuzzy
 msgctxt "comic423#p7.2"
 msgid "The horror..."
-msgstr ""
+msgstr "Какой ужас…"
 
 #. comic424 panel title
 #. slot: background color and image
 #: kidradd/comic424.htm:62
+#, fuzzy
 msgctxt "comic424#title.1"
 msgid "\"A VERY RADD CHRISTMAS\""
-msgstr ""
+msgstr "«УЛЁТНОЕ РОЖДЕСТВО»"
 
 #. comic424 panel p1
 #. slot: narration (if any, else cut)
 #. images: dparty.gif
 #: kidradd/comic424.htm:99
+#, fuzzy
 msgctxt "comic424#p1.1"
 msgid "Let's join Radd and company in the holiday festivities!"
-msgstr ""
+msgstr "Давайте заглянем к Улёту и компании на праздник!"
 
 #. comic424 panel p2
 #. slot: left bubble
 #. images: qbfront.gif
 #: kidradd/comic424.htm:160
+#, fuzzy
 msgctxt "comic424#p2.1"
 msgid "Whew! Do we know how to party or what?"
-msgstr ""
+msgstr "Уф! Умеем же мы веселиться!"
 
 #. comic424 panel p2
 #. slot: right bubble
 #. images: qbfront.gif
 #: kidradd/comic424.htm:164
+#, fuzzy
 msgctxt "comic424#p2.2"
 msgid "We're back! And we brought the tree!"
-msgstr ""
+msgstr "Мы вернулись! И ёлку принесли!"
 
 #. comic424 panel p3
 #. slot: left bubble
 #. images: crystalargh.gif, tree.gif, bogeyyell2.gif
 #: kidradd/comic424.htm:212
+#, fuzzy
 msgctxt "comic424#p3.1"
 msgid "That's <b>it?</b> Can't you even get a stupid tree right, you pixelhead?"
-msgstr ""
+msgstr "И это <b>всё?</b> Даже дурацкую ёлку нормально выбрать не можешь, пиксельная башка?"
 
 #. comic424 panel p3
 #. slot: right bubble
 #. images: crystalargh.gif, tree.gif, bogeyyell2.gif
 #: kidradd/comic424.htm:216
+#, fuzzy
 msgctxt "comic424#p3.2"
 msgid "But..."
-msgstr ""
+msgstr "Но…"
 
 #. comic424 panel p5
 #. slot: left bubble
 #: kidradd/comic424.htm:297
+#, fuzzy
 msgctxt "comic424#p5.1"
 msgid "Don't worry, Bogey. Watch this!"
-msgstr ""
+msgstr "Не переживай, Бяка. Смотри!"
 
 #. comic424 panel p6
 #. slot: left bubble
 #. images: thisstuff.gif
 #: kidradd/comic424.htm:348
+#, fuzzy
 msgctxt "comic424#p6.1"
 msgid "It's beautiful! But how?..."
-msgstr ""
+msgstr "Какая красота! Но как?…"
 
 #. comic424 panel p6
 #. slot: right bubble
 #. images: thisstuff.gif
 #: kidradd/comic424.htm:352
+#, fuzzy
 msgctxt "comic424#p6.2"
 msgid "With this stuff!"
-msgstr ""
+msgstr "Вот этим!"
 
 #. comic425 panel title
 #. slot: background color and image
 #: kidradd/comic425.htm:52
+#, fuzzy
 msgctxt "comic425#title.1"
 msgid "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">\"MAN OF GENIUS\"</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Warning: Midi music ahead)<br><br></font>"
-msgstr ""
+msgstr "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">«ГЕНИАЛЬНЫЙ ЧЕЛОВЕК»</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Внимание: впереди MIDI-музыка)<br><br></font>"
 
 #. comic425 panel p1
 #. slot: left bubble
 #. images: sheenaright.gif, bogeydown.gif, tv2.gif
 #: kidradd/comic425.htm:94
+#, fuzzy
 msgctxt "comic425#p1.1"
 msgid "Um, watching anime again?"
-msgstr ""
+msgstr "Э-э, опять смотришь аниме?"
 
 #. comic425 panel p1
 #. slot: right bubble
 #. images: sheenaright.gif, bogeydown.gif, tv2.gif
 #: kidradd/comic425.htm:98
+#, fuzzy
 msgctxt "comic425#p1.2"
 msgid "Yep."
-msgstr ""
+msgstr "Ага."
 
 #. comic425 panel p2
 #. slot: left bubble
 #. images: sheenastand.gif, bogeydown.gif, tv2.gif
 #: kidradd/comic425.htm:149
+#, fuzzy
 msgctxt "comic425#p2.1"
 msgid "What's it about?"
-msgstr ""
+msgstr "А про что оно?"
 
 #. comic425 panel p2
 #. slot: right bubble
 #. images: sheenastand.gif, bogeydown.gif, tv2.gif
 #: kidradd/comic425.htm:153
+#, fuzzy
 msgctxt "comic425#p2.2"
 msgid "Evil superclones of historical figures wanna destroy the world by having Beethoven play music in a rocket, and the only one who can stop them is a substitute teacher who telekinetically controls paper."
-msgstr ""
+msgstr "Злые суперклоны великих людей хотят уничтожить мир: Бетховен сыграет музыку в ракете. Помешать им может только учительница на замену, которая силой мысли управляет бумагой."
 
 #. comic425 panel p3
 #. slot: left bubble
 #. images: sheenaright.gif, bogeydown.gif, tv2.gif
 #: kidradd/comic425.htm:201
+#, fuzzy
 msgctxt "comic425#p3.1"
 msgid "That sounds pretty bad."
-msgstr ""
+msgstr "Звучит довольно паршиво."
 
 #. comic425 panel p3
 #. slot: right bubble
 #. images: sheenaright.gif, bogeydown.gif, tv2.gif
 #: kidradd/comic425.htm:205
+#, fuzzy
 msgctxt "comic425#p3.2"
 msgid "It is."
-msgstr ""
+msgstr "Так и есть."
 
 #. comic425 panel p4
 #. slot: left bubble
 #. images: sheenastand.gif, bogeydown.gif, tv2.gif
 #: kidradd/comic425.htm:255
+#, fuzzy
 msgctxt "comic425#p4.1"
 msgid "Then watch something else. Aren't there any \"normal\" programs on?"
-msgstr ""
+msgstr "Тогда посмотри что-нибудь другое. Там что, нет «нормальных» передач?"
 
 #. comic425 panel p4
 #. slot: right bubble
 #. images: sheenastand.gif, bogeydown.gif, tv2.gif
 #: kidradd/comic425.htm:259
+#, fuzzy
 msgctxt "comic425#p4.2"
 msgid "Alright, I'll try changing the channel."
-msgstr ""
+msgstr "Ладно, попробую переключить канал."
 
 #. comic425 panel p7
 #. slot: left bubble
 #. images: sheenastand.gif, bogeydown.gif, tv2.gif
 #: kidradd/comic425.htm:333
+#, fuzzy
 msgctxt "comic425#p7.1"
 msgid "Y'know, this \"Beethoven in a rocket\" show ain't half bad."
-msgstr ""
+msgstr "Знаешь, а это шоу про «Бетховена в ракете» не так уж плохо."
 
 #. comic425 panel p7
 #. slot: right bubble
 #. images: sheenastand.gif, bogeydown.gif, tv2.gif
 #: kidradd/comic425.htm:337
+#, fuzzy
 msgctxt "comic425#p7.2"
 msgid "Yeah, suddenly I'm dying to see how that teacher gets outta this one."
-msgstr ""
+msgstr "Ага, мне вдруг до смерти хочется узнать, как училка из этого выкрутится."
 
 #. comic425a panel title
 #. slot: background color and image
 #: kidradd/comic425a.htm:47
+#, fuzzy
 msgctxt "comic425a#title.1"
 msgid "\"SLACKIN' OFF\""
-msgstr ""
+msgstr "«ЛЕНТЯЙНИЧАЕМ»"
 
 #. comic425a panel p1
 #. slot: right bubble
 #. images: sheenastare.gif
 #: kidradd/comic425a.htm:92
+#, fuzzy
 msgctxt "comic425a#p1.1"
 msgid "Yawn, it's the day after Christmas, and the so-called writer of this strip is playing like he's too busy to do a strip today."
-msgstr ""
+msgstr "Ох-х, зевота. Сегодня день после Рождества, а так называемый автор этого комикса делает вид, что слишком занят, чтобы нарисовать выпуск."
 
 #. comic425a panel p2
 #. slot: right bubble
 #. images: sheenablink.gif
 #: kidradd/comic425a.htm:147
+#, fuzzy
 msgctxt "comic425a#p2.1"
 msgid "But in reality, he's just being lazy and doesn't want to stop playing the \"Pokémon Ruby\" game he was given yesterday."
-msgstr ""
+msgstr "А на самом деле он просто ленится и не хочет отрываться от «Pokémon Ruby», которую ему вчера подарили."
 
 #. comic425a panel p3
 #. slot: right bubble
 #. images: sheenastare.gif
 #: kidradd/comic425a.htm:199
+#, fuzzy
 msgctxt "comic425a#p3.1"
 msgid "So he suggested pointing you readers to an older work of his, an abandoned Angelfire gag page supporting \"Pokémon Rights.\" Ha ha."
-msgstr ""
+msgstr "Так что он предложил отправить вас, читатели, к своей старой работе — заброшенной шуточной страничке на Angelfire в защиту «прав покемонов». Ха-ха."
 
 #. comic425a panel p6
 #. slot: right bubble
 #. images: sheenaright.gif
 #: kidradd/comic425a.htm:253
+#, fuzzy
 msgctxt "comic425a#p6.1"
 msgid "I guess it's ironic humor, cuz he's a hypocrite driving his Torchic to early extinction. Anyways, happy holidays and see ya in the story next week!"
-msgstr ""
+msgstr "Видимо, это ирония: он ведь лицемер, который гонит своего Торчика к раннему вымиранию. В общем, с праздниками, и до встречи в сюжете на следующей неделе!"
 
 #. comic425a panel p6
 #. slot: imsert images on this line
 #. images: sheenaright.gif
 #: kidradd/comic425a.htm:260
+#, fuzzy
 msgctxt "comic425a#p6.2"
 msgid "<a href=\"http://www.angelfire.com/oh/dannosworld/petpika.html\" target=\"_top\"><img name=\"imageflip\" width=\"88\" height=\"31\" border=\"0\" src=\"spacer.gif\"></a><br><a href=\"http://www.angelfire.com/oh/dannosworld/petpika.html\" target=\"_top\"><font face=\"arial\" size=\"1\" color=\"ffffff\">Clicky!</a>"
-msgstr ""
+msgstr "<a href=\"http://www.angelfire.com/oh/dannosworld/petpika.html\" target=\"_top\"><img name=\"imageflip\" width=\"88\" height=\"31\" border=\"0\" src=\"spacer.gif\"></a><br><a href=\"http://www.angelfire.com/oh/dannosworld/petpika.html\" target=\"_top\"><font face=\"arial\" size=\"1\" color=\"ffffff\">Жми!</a>"
 
 #. comic425a panel p6
 #. slot: insert ground "tiles" on this line
 #. images: sheenaright.gif
 #: kidradd/comic425a.htm:262
+#, fuzzy
 msgctxt "comic425a#p6.3"
 msgid "Yes, I play as the boy trainer. Why?"
-msgstr ""
+msgstr "Да, я играю за мальчика-тренера. А что?"

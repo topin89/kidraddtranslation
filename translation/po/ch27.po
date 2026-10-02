@@ -12,463 +12,522 @@ msgstr ""
 #. comic546 panel title
 #. slot: background color and image
 #: kidradd/comic546.htm:54
+#, fuzzy
 msgctxt "comic546#title.1"
 msgid "\"OLFACTORY SENSIBILITY\""
-msgstr ""
+msgstr "«ЧУТЬЁ И ЧУВСТВИТЕЛЬНОСТЬ»"
 
 #. comic546 panel p1
 #. slot: left bubble
 #. images: raddblink.gif, bogeystand2.gif
 #: kidradd/comic546.htm:95
+#, fuzzy
 msgctxt "comic546#p1.1"
 msgid "Okay people, before taking this story into its final stretch, we've decided to detour and give you one more <b>Fourth Wall Week!</b>"
-msgstr ""
+msgstr "Итак, народ, перед финишной прямой мы решили сделать крюк и устроить ещё одну <b>Неделю четвёртой стены!</b>"
 
 #. comic546 panel p1
 #. slot: right bubble
 #. images: raddblink.gif, bogeystand2.gif
 #: kidradd/comic546.htm:99
+#, fuzzy
 msgctxt "comic546#p1.2"
 msgid "Um, yay?"
-msgstr ""
+msgstr "Э-э, ура?"
 
 #. comic546 panel p2
 #. slot: left bubble
 #. images: raddstare.gif, bogeysigh2.gif
 #: kidradd/comic546.htm:151
+#, fuzzy
 msgctxt "comic546#p2.1"
 msgid "I'll start us off with a little bit of philosophy, just some human knowledge picked up from my countless hours in chatrooms."
-msgstr ""
+msgstr "Начну с капельки философии — людской мудрости, которой я набрался за бессчётные часы в чатах."
 
 #. comic546 panel p2
 #. slot: right bubble
 #. images: raddstare.gif, bogeysigh2.gif
 #: kidradd/comic546.htm:155
+#, fuzzy
 msgctxt "comic546#p2.2"
 msgid "Alright, enlighten us."
-msgstr ""
+msgstr "Ладно, просвети нас."
 
 #. comic546 panel p4
 #. slot: left bubble
 #. images: raddblink.gif, bogeystand2.gif
 #: kidradd/comic546.htm:233
+#, fuzzy
 msgctxt "comic546#p4.1"
 msgid "Profound, huh?"
-msgstr ""
+msgstr "Глубоко, а?"
 
 #. comic546 panel p4
 #. slot: right bubble
 #. images: raddblink.gif, bogeystand2.gif
 #: kidradd/comic546.htm:237
+#, fuzzy
 msgctxt "comic546#p4.2"
 msgid "Well it certainly sounds deep, but what's a nose?"
-msgstr ""
+msgstr "Звучит, конечно, глубоко, но что такое нос?"
 
 #. comic546 panel p5
 #. slot: left bubble
 #. images: raddnose.gif, bogeysneer2.gif
 #: kidradd/comic546.htm:287
+#, fuzzy
 msgctxt "comic546#p5.1"
 msgid "What's a nose? Oh come on, it's that thing in the middle of your... uh, in the middle of my... uh..."
-msgstr ""
+msgstr "Что такое нос? Да ладно, это такая штука посередине твоего… э-э, посередине моего… э-э…"
 
 #. comic546 panel p5
 #. slot: right bubble
 #. images: raddnose.gif, bogeysneer2.gif
 #: kidradd/comic546.htm:291
+#, fuzzy
 msgctxt "comic546#p5.2"
 msgid "You don't know, do you?"
-msgstr ""
+msgstr "Ты не знаешь, да?"
 
 #. comic546 panel p6
 #. slot: left bubble
 #: kidradd/comic546.htm:337
+#, fuzzy
 msgctxt "comic546#p6.1"
 msgid "It just occurred to me - none of the characters in this strip seem to have noses! How bizarre..."
-msgstr ""
+msgstr "До меня дошло — у героев этого комикса, похоже, нет носов! Вот чудно…"
 
 #. comic546 panel p6
 #. slot: right bubble
 #: kidradd/comic546.htm:341
+#, fuzzy
 msgctxt "comic546#p6.2"
 msgid "Well, never mind what a nose <i>is</i> then. Just tell me what the saying <i>means.</i>"
-msgstr ""
+msgstr "Ладно, неважно, что нос <i>такое.</i> Скажи, что поговорка <i>значит.</i>"
 
 #. comic546 panel p7
 #. slot: left bubble
 #. images: raddright.gif, bogeycross.gif
 #: kidradd/comic546.htm:389
+#, fuzzy
 msgctxt "comic546#p7.1"
 msgid "Oh, right. I think it means, \"You can't choose a nose for your friend.\""
-msgstr ""
+msgstr "А, точно. По-моему, она значит: «Другу нос не подберёшь»."
 
 #. comic546 panel p7
 #. slot: right bubble
 #. images: raddright.gif, bogeycross.gif
 #: kidradd/comic546.htm:393
+#, fuzzy
 msgctxt "comic546#p7.2"
 msgid "Ah, yes. Well, that's certainly true."
-msgstr ""
+msgstr "А, ну да. Что ж, это определённо так."
 
 #. comic546 panel p8
 #. slot: left bubble
 #. images: raddblink.gif, bogeytalk2.gif, sheenaoff.gif
 #: kidradd/comic546.htm:440
+#, fuzzy
 msgctxt "comic546#p8.1"
 msgid "But if it makes any difference, I'd certainly let let you pick my nose, ol' buddy."
-msgstr ""
+msgstr "Но тебе, старина, я бы точно разрешил поковыряться у меня в носу."
 
 #. comic546 panel p8
 #. slot: middle bubble
 #. images: raddblink.gif, bogeytalk2.gif, sheenaoff.gif
 #: kidradd/comic546.htm:442
+#, fuzzy
 msgctxt "comic546#p8.2"
 msgid "Why thank you, Radd. I'm truly honored."
-msgstr ""
+msgstr "Ну спасибо, Улёт. Я польщён."
 
 #. comic546 panel p8
 #. slot: right bubble
 #. images: raddblink.gif, bogeytalk2.gif, sheenaoff.gif
 #: kidradd/comic546.htm:444
+#, fuzzy
 msgctxt "comic546#p8.3"
 msgid "What the hell is wrong with you guys???"
-msgstr ""
+msgstr "Да что с вами такое???"
 
 #. comic547 panel title
 #. slot: background color and image
 #: kidradd/comic547.htm:46
+#, fuzzy
 msgctxt "comic547#title.1"
 msgid "\"ONE MORE DAMN MATRIX PARODY\""
-msgstr ""
+msgstr "«ЕЩЁ ОДНА ЧЁРТОВА ПАРОДИЯ НА „МАТРИЦУ“»"
 
 #. comic547 panel p1
 #. slot: middle bubble
 #. images: mbuilding.gif
 #: kidradd/comic547.htm:89
+#, fuzzy
 msgctxt "comic547#p1.1"
 msgid "This is your last chance. After this there is no turning back."
-msgstr ""
+msgstr "Это твой последний шанс. После этого пути назад не будет."
 
 #. comic547 panel p2
 #. slot: middle bubble
 #. images: choice.gif
 #: kidradd/comic547.htm:146
+#, fuzzy
 msgctxt "comic547#p2.1"
 msgid "You take the <b>blue pill,</b> the story ends, you wake up in your bed and believe whatever you want to believe."
-msgstr ""
+msgstr "Примешь <b>синюю таблетку</b> — сказке конец: проснёшься в кровати и поверишь во что хочешь."
 
 #. comic547 panel p3
 #. slot: middle bubble
 #. images: redblue.gif
 #: kidradd/comic547.htm:198
+#, fuzzy
 msgctxt "comic547#p3.1"
 msgid "You take the <b>red pill,</b> you stay in Wonderland, and I show you how deep the rabbit hole goes..."
-msgstr ""
+msgstr "Примешь <b>красную таблетку</b> — останешься в Стране чудес, и я покажу тебе, насколько глубока кроличья нора…"
 
 #. comic547 panel p4
 #. slot: middle bubble
 #. images: purpleorg.gif
 #: kidradd/comic547.htm:250
+#, fuzzy
 msgctxt "comic547#p4.1"
 msgid "Or take the <b>purple pill</b> to relieve your acid indigestion. Or perhaps the <b>orange pill</b> to reduce your cholesterol."
-msgstr ""
+msgstr "Или прими <b>фиолетовую таблетку</b> от изжоги. Или, может, <b>оранжевую таблетку</b> от холестерина."
 
 #. comic547 panel p5
 #. slot: middle bubble
 #. images: greenyel.gif
 #: kidradd/comic547.htm:304
+#, fuzzy
 msgctxt "comic547#p5.1"
 msgid "Then there's the <b>green pill</b> for your receding hairline. And of course the <b>yellow pill</b> for... well, that's kinda personal."
-msgstr ""
+msgstr "А ещё есть <b>зелёная таблетка</b> от залысин. И, конечно, <b>жёлтая таблетка</b> от… ну, это дело личное."
 
 #. comic547 panel p6
 #. slot: left bubble
 #. images: thepills.gif
 #: kidradd/comic547.htm:352
+#, fuzzy
 msgctxt "comic547#p6.1"
 msgid "Uh, and I just take one of these?"
-msgstr ""
+msgstr "Э-э, и мне просто выпить одну?"
 
 #. comic547 panel p6
 #. slot: right bubble
 #. images: thepills.gif
 #: kidradd/comic547.htm:356
+#, fuzzy
 msgctxt "comic547#p6.2"
 msgid "No Radd, first you <b>ask your doctor</b> if they're right for you."
-msgstr ""
+msgstr "Нет, Улёт, сначала <b>проконсультируйся со специалистом.</b>"
 
 #. comic547 panel p7
 #. slot: left bubble
 #. images: thepills2.gif
 #: kidradd/comic547.htm:404
+#, fuzzy
 msgctxt "comic547#p7.1"
 msgid "Man, this really isn't what I expected."
-msgstr ""
+msgstr "Блин, совсем не этого я ожидал."
 
 #. comic547 panel p7
 #. slot: right bubble
 #. images: thepills2.gif
 #: kidradd/comic547.htm:408
+#, fuzzy
 msgctxt "comic547#p7.2"
 msgid "Think what you will; it pays the bills."
-msgstr ""
+msgstr "Думай что хочешь, а счета платить надо."
 
 #. comic547 panel p8
 #. slot: left bubble
 #. images: thepills3.gif
 #: kidradd/comic547.htm:455
+#, fuzzy
 msgctxt "comic547#p8.1"
 msgid "You know, the readers were probably expecting some cool rotational shots or something."
-msgstr ""
+msgstr "Знаешь, читатели, наверно, ждали крутых облётов камерой или типа того."
 
 #. comic547 panel p8
 #. slot: right bubble
 #. images: thepills3.gif
 #: kidradd/comic547.htm:459
+#, fuzzy
 msgctxt "comic547#p8.2"
 msgid "Oh, no prob. Gotcha covered."
-msgstr ""
+msgstr "О, без проблем. Сейчас всё будет."
 
 #. comic547 panel p9
 #. slot: middle bubble
 #: kidradd/comic547.htm:508
+#, fuzzy
 msgctxt "comic547#p9.1"
 msgid "Here, have a cereal bar!"
-msgstr ""
+msgstr "Вот, держи злаковый батончик!"
 
 #. comic547 panel p9
 #. slot: insert ground "tiles" on this line
 #: kidradd/comic547.htm:519
+#, fuzzy
 msgctxt "comic547#p9.2"
 msgid "The best I could approximate that crappy ad."
-msgstr ""
+msgstr "Как смог, повторил ту дурацкую рекламу."
 
 #. comic547 panel p10
 #. slot: left bubble
 #. images: cdrip.gif
 #: kidradd/comic547.htm:557
+#, fuzzy
 msgctxt "comic547#p10.1"
 msgid "TV commercials have officially killed bullet time."
-msgstr ""
+msgstr "Телереклама официально прикончила «время пули»."
 
 #. comic547 panel p10
 #. slot: right bubble
 #. images: cdrip.gif
 #: kidradd/comic547.htm:561
+#, fuzzy
 msgctxt "comic547#p10.2"
 msgid "Eh, they did the same to morph effects after Terminator 2. Deal."
-msgstr ""
+msgstr "Ну, с морфингом она после «Терминатора 2» сделала то же самое. Смирись."
 
 #. comic548 panel title
 #. slot: background color and image
 #: kidradd/comic548.htm:51
+#, fuzzy
 msgctxt "comic548#title.1"
 msgid "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">\"DIGGIN'\"</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Warning: Midi music ahead)<br><br></font>"
-msgstr ""
+msgstr "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">«РОЕМ-КОПАЕМ»</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Внимание: впереди MIDI-музыка)<br><br></font>"
 
 #. comic548 panel p1
 #. slot: left bubble
 #. images: raddright.gif, bogeytalk2.gif
 #: kidradd/comic548.htm:93
+#, fuzzy
 msgctxt "comic548#p1.1"
 msgid "Well, you're certainly in a good mood today."
-msgstr ""
+msgstr "Ну ты сегодня явно в хорошем настроении."
 
 #. comic548 panel p1
 #. slot: right bubble
 #. images: raddright.gif, bogeytalk2.gif
 #: kidradd/comic548.htm:97
+#, fuzzy
 msgctxt "comic548#p1.2"
 msgid "I oughta be - I've finally hit the big time!"
-msgstr ""
+msgstr "Ещё бы — я наконец-то выбился в звёзды!"
 
 #. comic548 panel p2
 #. slot: left bubble
 #. images: raddstare.gif, bogeyjoy.gif
 #: kidradd/comic548.htm:149
+#, fuzzy
 msgctxt "comic548#p2.1"
 msgid "Somehow, I'm afraid to ask..."
-msgstr ""
+msgstr "Почему-то я боюсь спрашивать…"
 
 #. comic548 panel p2
 #. slot: right bubble
 #. images: raddstare.gif, bogeyjoy.gif
 #: kidradd/comic548.htm:153
+#, fuzzy
 msgctxt "comic548#p2.2"
 msgid "You don't have to. Just take a gander at <b>this!</b>"
-msgstr ""
+msgstr "А и не надо. Просто глянь на <b>это!</b>"
 
 #. comic548 panel p4
 #. slot: left bubble
 #. images: raddstare.gif, bogeyjoy.gif
 #: kidradd/comic548.htm:231
+#, fuzzy
 msgctxt "comic548#p4.1"
 msgid "Wow. Betcha that'll be on video before the trailers finish showing."
-msgstr ""
+msgstr "Ух ты. Спорим, он выйдет на видео раньше, чем закончат крутить трейлеры."
 
 #. comic548 panel p4
 #. slot: right bubble
 #. images: raddstare.gif, bogeyjoy.gif
 #: kidradd/comic548.htm:235
+#, fuzzy
 msgctxt "comic548#p4.2"
 msgid "You're just jealous cuz you ain't gettin' any royalties."
-msgstr ""
+msgstr "Ты просто завидуешь, потому что тебе отчисления не светят."
 
 #. comic549 panel title
 #. slot: middle bubble
 #. images: qbhead2.gif
 #: kidradd/comic549.htm:43
+#, fuzzy
 msgctxt "comic549#title.1"
 msgid "Warning! The following statements may not bear any resemblance to reality, or worse yet they might in:"
-msgstr ""
+msgstr "Внимание! Следующие утверждения могут не иметь ничего общего с реальностью или, что ещё хуже, могут иметь:"
 
 #. comic549 panel title
 #. slot: bubble "stems"
 #. images: qbhead2.gif
 #: kidradd/comic549.htm:49
+#, fuzzy
 msgctxt "comic549#title.2"
 msgid "QB's Conspiracy Corner"
-msgstr ""
+msgstr "Уголок заговоров Кьюби"
 
 #. comic549 panel p1
 #. slot: right bubble
 #. images: qbstand.gif
 #: kidradd/comic549.htm:101
+#, fuzzy
 msgctxt "comic549#p1.1"
 msgid "Fans of shonen manga have long been used to stories peppered with lengthy expository sequences. Being a written medium, these narratives are expected and often necessary to explain the non-animated action."
-msgstr ""
+msgstr "Фанаты сёнэн-манги давно привыкли к историям, нашпигованным длинными объяснениями. В печатном жанре такие пассажи ожидаемы и часто нужны, чтобы пояснить неанимированное действие."
 
 #. comic549 panel p2
 #. slot: middle bubble
 #. images: transition.gif
 #: kidradd/comic549.htm:155
+#, fuzzy
 msgctxt "comic549#p2.1"
 msgid "However, when these stories make the jump to the television screen a problem arises. One issue of a manga isn't nearly long enough to equate a script for one episode of a TV show. What's the solution?"
-msgstr ""
+msgstr "Но когда эти истории перебираются на телеэкран, возникает проблема. Одного выпуска манги и близко не хватает на сценарий одной серии. Как быть?"
 
 #. comic549 panel p3
 #. slot: middle bubble
 #. images: dbz.gif
 #: kidradd/comic549.htm:206
+#, fuzzy
 msgctxt "comic549#p3.1"
 msgid "Quite often, it's to expand the expository sequences. Stretching out the expogab fills time and saves on the animation budget since real action sequences tend not to happen during such rambles."
-msgstr ""
+msgstr "Очень часто — растянуть объяснения. Растянутое объяснялово заполняет время и экономит бюджет на анимацию, ведь во время таких разглагольствований настоящего экшена обычно не бывает."
 
 #. comic549 panel p4
 #. slot: middle bubble
 #. images: qbclose.gif
 #: kidradd/comic549.htm:257
+#, fuzzy
 msgctxt "comic549#p4.1"
 msgid "Here's where the conspiracy comes in:<br>I, Captain QB, have uncovered a far-reaching plot against otaku everywhere! Pay attention!"
-msgstr ""
+msgstr "Тут-то и начинается заговор:<br>Я, Капитан Кьюби, раскрыл масштабный заговор против отаку всего мира! Слушайте внимательно!"
 
 #. comic549 panel p5
 #. slot: middle bubble
 #. images: qbcharts.gif
 #: kidradd/comic549.htm:311
+#, fuzzy
 msgctxt "comic549#p5.1"
 msgid "There has been a gradual but deliberate rise in the expogab over the past two decades, slowly increasing talk-time to fight-time by over 4 to 1!"
-msgstr ""
+msgstr "За последние два десятилетия объяснялово постепенно, но намеренно росло, и соотношение болтовни к дракам дошло до более чем 4 к 1!"
 
 #. comic549 panel p6
 #. slot: right bubble
 #. images: qbfront.gif
 #: kidradd/comic549.htm:362
+#, fuzzy
 msgctxt "comic549#p6.1"
 msgid "The critical step came when Japanese TV execs began an experiment to see if expogab could not only supplement the action, but <i>replace it completely.</i>"
-msgstr ""
+msgstr "Решающий шаг был сделан, когда японские телебоссы начали эксперимент: может ли объяснялово не только дополнить экшен, но и <i>полностью его заменить.</i>"
 
 #. comic549 panel p7
 #. slot: middle bubble
 #. images: yugikaiba.gif
 #: kidradd/comic549.htm:412
+#, fuzzy
 msgctxt "comic549#p7.1"
 msgid "Surely enough, it worked! Yu-Gi-Oh was born, the first \"action\" series where nothing resembling action took place. Talk could indeed replace action and many audience members couldn't tell the difference."
-msgstr ""
+msgstr "И что же — сработало! Родился «Ю-Ги-О», первый «экшен»-сериал, где не происходило ничего похожего на экшен. Болтовня и правда заменила действие, и многие зрители не заметили разницы."
 
 #. comic549 panel p8
 #. slot: middle bubble
 #. images: qbclose.gif
 #: kidradd/comic549.htm:463
+#, fuzzy
 msgctxt "comic549#p8.1"
 msgid "From there, it's only a matter of time. Over the next several years, the talk will increase and the animation will slowly decrease, desensitizing the audience until the ultimate goal is acheived..."
-msgstr ""
+msgstr "Дальше — дело времени. В ближайшие годы болтовни будет всё больше, а анимации всё меньше, зрители будут постепенно привыкать, пока не будет достигнута конечная цель…"
 
 #. comic549 panel p9
 #. slot: middle bubble
 #. images: lou.gif
 #: kidradd/comic549.htm:514
+#, fuzzy
 msgctxt "comic549#p9.1"
 msgid "Viewers will watch a program consisting only of a still frame of Lou Ferrigno, while a voice-over reads the dictionary.<br><i>It will be mankind's most successful television program ever.</i>"
-msgstr ""
+msgstr "Зрители будут смотреть передачу из одного стоп-кадра с Лу Ферриньо, пока голос за кадром читает словарь.<br><i>Это будет самая успешная телепередача в истории.</i>"
 
 #. comic549 panel p10
 #. slot: left bubble
 #. images: fansubs.gif
 #: kidradd/comic549.htm:562
+#, fuzzy
 msgctxt "comic549#p10.1"
 msgid "Thanks QB, that was... informative.<br>I think."
-msgstr ""
+msgstr "Спасибо, Кьюби, это было… познавательно.<br>Наверно."
 
 #. comic549 panel p10
 #. slot: right bubble
 #. images: fansubs.gif
 #: kidradd/comic549.htm:566
+#, fuzzy
 msgctxt "comic549#p10.2"
 msgid "Check it out, my \"Ferrigno Taisen\" fansubs have arrived!"
-msgstr ""
+msgstr "Зацените, пришли мои фансабы «Ферриньо Тайсэн»!"
 
 #. comic549 panel p11
 #. slot: left bubble
 #. images: subsooh.gif
 #: kidradd/comic549.htm:613
+#, fuzzy
 msgctxt "comic549#p11.1"
 msgid "I am never, ever watching TV again..."
-msgstr ""
+msgstr "Я больше никогда, никогда не буду смотреть телевизор…"
 
 #. comic549 panel p11
 #. slot: right bubble
 #. images: subsooh.gif
 #: kidradd/comic549.htm:617
+#, fuzzy
 msgctxt "comic549#p11.2"
 msgid "Sweet! I've got up to the episode where they reach letter G!"
-msgstr ""
+msgstr "Класс! У меня уже есть серия, где они доходят до буквы Ж!"
 
 #. comic550 panel title
 #. slot: background color and image
 #: kidradd/comic550.htm:52
+#, fuzzy
 msgctxt "comic550#title.1"
 msgid "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">\"GO YOUR OWN WAY\"</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Warning: Midi music ahead)<br><br></font>"
-msgstr ""
+msgstr "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">«ИДИ СВОИМ ПУТЁМ»</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Внимание: впереди MIDI-музыка)<br><br></font>"
 
 #. comic550 panel p1
 #. slot: middle bubble
 #. images: bogeymad2.gif, tv2.gif
 #: kidradd/comic550.htm:96
+#, fuzzy
 msgctxt "comic550#p1.1"
 msgid "Today I'd like to provide a rebuttal to yesterday's highly inaccurate depiction of shonen anime. That QB has no idea what he's talking about."
-msgstr ""
+msgstr "Сегодня я хотел бы опровергнуть вчерашнее крайне неточное изображение сёнэн-аниме. Этот Кьюби понятия не имеет, о чём говорит."
 
 #. comic550 panel p2
 #. slot: middle bubble
 #. images: bogeytalk.gif, tv2.gif
 #: kidradd/comic550.htm:151
+#, fuzzy
 msgctxt "comic550#p2.1"
 msgid "I've watched plenty of action shows aimed at boys, and none of that lengthy exposition stuff ever occurs! Look, here's an example."
-msgstr ""
+msgstr "Я посмотрел кучу экшен-сериалов для мальчиков, и никаких длинных объяснений там не бывает! Вот, например."
 
 #. comic550 panel p7
 #. slot: left bubble
 #. images: bogeytalk.gif, tv2.gif, sheenamad.gif
 #: kidradd/comic550.htm:229
+#, fuzzy
 msgctxt "comic550#p7.1"
 msgid "See? Absolutely nothing was explained! Though I suppose this might be the wrong kind of \"action\"..."
-msgstr ""
+msgstr "Видите? Вообще ничего не объясняли! Хотя, может, это не тот «экшен»…"
 
 #. comic550 panel p7
 #. slot: right bubble
 #. images: bogeytalk.gif, tv2.gif, sheenamad.gif
 #: kidradd/comic550.htm:233
+#, fuzzy
 msgctxt "comic550#p7.2"
 msgid "If I kill Bogey now, it doesn't affect the real continuity, right? Please?"
-msgstr ""
+msgstr "Если я сейчас убью Бяку, на настоящий канон это не повлияет, правда? Ну пожалуйста?"

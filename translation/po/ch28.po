@@ -12,2221 +12,2511 @@ msgstr ""
 #. comic551 panel title
 #. slot: background color and image
 #: kidradd/comic551.htm:46
+#, fuzzy
 msgctxt "comic551#title.1"
 msgid "\"ASK A STUPID QUESTION\""
-msgstr ""
+msgstr "«НА ГЛУПЫЙ ВОПРОС...»"
 
 #. comic551 panel p1
 #. slot: narration (if any, else cut)
 #. images: army.gif
 #: kidradd/comic551.htm:83
+#, fuzzy
 msgctxt "comic551#p1.1"
 msgid "\"Guys, I don't think I need to say anything.\""
-msgstr ""
+msgstr "«Ребята, по-моему, тут и говорить нечего»."
 
 #. comic551 panel p1
 #. slot: narration (if any, else cut)
 #. images: army.gif
 #: kidradd/comic551.htm:85
+#, fuzzy
 msgctxt "comic551#p1.2"
 msgid "\"No. We're all in on this together.\""
-msgstr ""
+msgstr "«Вот именно. Мы все в одной лодке»."
 
 #. comic551 panel p2
 #. slot: left bubble
 #. images: raddtablexp.gif, gnarlstand2.gif, kobastand2.gif
 #: kidradd/comic551.htm:147
+#, fuzzy
 msgctxt "comic551#p2.1"
 msgid "But you two... this isn't your battle. And frankly, you're unskilled. You should take this ship and run."
-msgstr ""
+msgstr "Но вы двое... это не ваша битва. И, честно говоря, вы неумехи. Берите корабль и бегите."
 
 #. comic551 panel p2
 #. slot: right bubble
 #. images: raddtablexp.gif, gnarlstand2.gif, kobastand2.gif
 #: kidradd/comic551.htm:151
+#, fuzzy
 msgctxt "comic551#p2.2"
 msgid "Hey, wait a minute..."
-msgstr ""
+msgstr "Эй, минуточку..."
 
 #. comic551 panel p3
 #. slot: left bubble
 #. images: gsigh.gif, kobafidget.gif
 #: kidradd/comic551.htm:198
+#, fuzzy
 msgctxt "comic551#p3.1"
 msgid "How is this <i>not</i> our battle? If Crystal succeeds, our world is screwed, and then where do we go?"
-msgstr ""
+msgstr "Как это <i>не</i> наша битва? Если Кристал победит, нашему миру крышка, и куда нам деваться?"
 
 #. comic551 panel p3
 #. slot: right bubble
 #. images: gsigh.gif, kobafidget.gif
 #: kidradd/comic551.htm:202
+#, fuzzy
 msgctxt "comic551#p3.2"
 msgid "Not to mention we never get our rematches if you get killed..."
-msgstr ""
+msgstr "Да и реванша нам не видать, если тебя убьют..."
 
 #. comic551 panel p4
 #. slot: left bubble
 #. images: gnarlblink.gif, kobablink.gif, raddtable8.gif
 #: kidradd/comic551.htm:250
+#, fuzzy
 msgctxt "comic551#p4.1"
 msgid "We'll fight. I've improved a little, and K-boy here's improved a lot! He's practically unstoppable!"
-msgstr ""
+msgstr "Мы будем драться. Я немного подтянулся, а Коба — ещё как! Его теперь почти не остановить!"
 
 #. comic551 panel p4
 #. slot: right bubble
 #. images: gnarlblink.gif, kobablink.gif, raddtable8.gif
 #: kidradd/comic551.htm:254
+#, fuzzy
 msgctxt "comic551#p4.2"
 msgid "Uh, forgive my skepticism, but how is that possible?"
-msgstr ""
+msgstr "Э-э, прости за скепсис, но как такое возможно?"
 
 #. comic551 panel p5
 #. slot: left bubble
 #. images: ggroup4.gif
 #: kidradd/comic551.htm:303
+#, fuzzy
 msgctxt "comic551#p5.1"
 msgid "Oh, well we figured out that I have two kinds of moves: Ones just for show that never hit, and \"real\" ones that never miss."
-msgstr ""
+msgstr "А, ну мы выяснили, что у меня два вида приёмов: одни для красоты и никогда не попадают, а «настоящие» — никогда не мажут."
 
 #. comic551 panel p6
 #. slot: left bubble
 #. images: ggroup5.gif
 #: kidradd/comic551.htm:353
+#, fuzzy
 msgctxt "comic551#p6.1"
 msgid "So now I only use the moves that don't miss. Smart, huh?"
-msgstr ""
+msgstr "Так что теперь я бью только теми, что не мажут. Умно, а?"
 
 #. comic551 panel p7
 #. slot: left bubble
 #. images: ggroup6.gif
 #: kidradd/comic551.htm:405
+#, fuzzy
 msgctxt "comic551#p7.1"
 msgid "What?"
-msgstr ""
+msgstr "Что?"
 
 #. comic551 panel p8
 #. slot: narration (if any, else cut)
 #: kidradd/comic551.htm:452
+#, fuzzy
 msgctxt "comic551#p8.1"
 msgid "\"Alright, we're all in. I don't know if this is the team the Seer intended to take on Crystal, but win or lose, let's give her lackies hell.\""
-msgstr ""
+msgstr "«Ладно, все в деле. Не знаю, такую ли команду Око прочило против Кристал, но так или иначе — зададим жару её прихвостням»."
 
 #. comic552 panel title
 #. slot: background color and image
 #: kidradd/comic552.htm:60
+#, fuzzy
 msgctxt "comic552#title.1"
 msgid "\"THE BATTLE BEGINS\""
-msgstr ""
+msgstr "«БИТВА НАЧИНАЕТСЯ»"
 
 #. comic552 panel p1
 #. slot: middle bubble
 #: kidradd/comic552.htm:103
+#, fuzzy
 msgctxt "comic552#p1.1"
 msgid "Damn, I'll bet Crystal's already in the Chimera program. I'll try to get ahead and reach her, since I'm the only one who can fly."
-msgstr ""
+msgstr "Блин, спорим, Кристал уже в программе «Химера». Попробую прорваться вперёд и добраться до неё — летать ведь умею только я."
 
 #. comic552 panel p2
 #. slot: middle bubble
 #: kidradd/comic552.htm:158
+#, fuzzy
 msgctxt "comic552#p2.1"
 msgid "Actually, you're not. Little Eliot's got some pretty strong telekinetic powers, so he'll back you up."
-msgstr ""
+msgstr "Вообще-то не только. У малыша Элиота довольно мощный телекинез, так что он тебя прикроет."
 
 #. comic552 panel p3
 #. slot: middle bubble
 #: kidradd/comic552.htm:210
+#, fuzzy
 msgctxt "comic552#p3.1"
 msgid "As for the rest of us, eh, we'll keep 'em busy. It'll be tough, but I don't think they realize how powerful we are."
-msgstr ""
+msgstr "А мы, остальные... ну, займём их. Будет трудно, но, по-моему, они не понимают, насколько мы сильны."
 
 #. comic552 panel p4
 #. slot: right bubble
 #. images: amptable.gif
 #: kidradd/comic552.htm:265
+#, fuzzy
 msgctxt "comic552#p4.1"
 msgid "Well Bogey, guess that leaves just you here on the ship with me and Joule, huh?"
-msgstr ""
+msgstr "Что ж, Бяка, похоже, на корабле остаёмся только ты, я и Джоуль, да?"
 
 #. comic552 panel p5
 #. slot: middle bubble
 #. images: ampback.gif
 #: kidradd/comic552.htm:317
+#, fuzzy
 msgctxt "comic552#p5.1"
 msgid "Um, hello?"
-msgstr ""
+msgstr "Эм, ау?"
 
 #. comic553 panel title
 #. slot: background color and image
 #: kidradd/comic553.htm:35
+#, fuzzy
 msgctxt "comic553#title.1"
 msgid "\"BOTTLED UP\""
-msgstr ""
+msgstr "«ПРИБЕРЕЖЁННОЕ»"
 
 #. comic553 panel p1
 #. slot: left bubble
 #. images: nurseworry.gif, ib2.gif
 #: kidradd/comic553.htm:76
+#, fuzzy
 msgctxt "comic553#p1.1"
 msgid "We're not gonna be very helpful, are we?"
-msgstr ""
+msgstr "Толку от нас будет немного, да?"
 
 #. comic553 panel p1
 #. slot: right bubble
 #. images: nurseworry.gif, ib2.gif
 #: kidradd/comic553.htm:80
+#, fuzzy
 msgctxt "comic553#p1.2"
 msgid "Oh, I dunno about that..."
-msgstr ""
+msgstr "Ну, это как сказать..."
 
 #. comic553 panel p2
 #. slot: right bubble
 #. images: ibtablep.gif
 #: kidradd/comic553.htm:136
+#, fuzzy
 msgctxt "comic553#p2.1"
 msgid "Amp's been using Eliot and me as walking storehouses for his more dangerous inventions. He figured character inventories were the only truly safe hiding places for 'em."
-msgstr ""
+msgstr "Амп превратил нас с Элиотом в ходячие склады для своих самых опасных изобретений. Решил, что инвентарь персонажа — единственный по-настоящему надёжный тайник."
 
 #. comic553 panel p3
 #. slot: left bubble
 #. images: nursetalk.gif, ibsmug2.gif
 #: kidradd/comic553.htm:183
+#, fuzzy
 msgctxt "comic553#p3.1"
 msgid "Oh. So we have weapons now?"
-msgstr ""
+msgstr "А. Так у нас теперь есть оружие?"
 
 #. comic553 panel p3
 #. slot: right bubble
 #. images: nursetalk.gif, ibsmug2.gif
 #: kidradd/comic553.htm:187
+#, fuzzy
 msgctxt "comic553#p3.2"
 msgid "Sort of."
-msgstr ""
+msgstr "Вроде того."
 
 #. comic553 panel p4
 #. slot: left bubble
 #. images: ibtoast.gif
 #: kidradd/comic553.htm:237
+#, fuzzy
 msgctxt "comic553#p4.1"
 msgid "We're gonna give 'em a li'l taste of toaster power."
-msgstr ""
+msgstr "Сейчас мы им покажем, на что способен тостер."
 
 #. comic553 panel p4
 #. slot: middle bubble
 #. images: ibtoast.gif
 #: kidradd/comic553.htm:239
+#, fuzzy
 msgctxt "comic553#p4.2"
 msgid "Oooh..."
-msgstr ""
+msgstr "У-у-у..."
 
 #. comic553 panel p4
 #. slot: right bubble
 #. images: ibtoast.gif
 #: kidradd/comic553.htm:241
+#, fuzzy
 msgctxt "comic553#p4.3"
 msgid "Hey, still got that letter opener?"
-msgstr ""
+msgstr "Эй, нож для писем ещё у тебя?"
 
 #. comic554 panel title
 #. slot: background color and image
 #: kidradd/comic554.htm:58
+#, fuzzy
 msgctxt "comic554#title.1"
 msgid "\"WE WILL ROCK YOU\""
-msgstr ""
+msgstr "«МЫ ВАС РАСКАЧАЕМ»"
 
 #. comic554 panel p2
 #. slot: middle bubble
 #: kidradd/comic554.htm:100
+#, fuzzy
 msgctxt "comic554#p2.1"
 msgid "Y'know buddy, we make a pretty good team. No dumb boss monster is gonna beat us!"
-msgstr ""
+msgstr "Знаешь, дружище, а мы неплохая команда. Никакой тупой босс-монстр нас не одолеет!"
 
 #. comic554 panel p3
 #. slot: middle bubble
 #: kidradd/comic554.htm:152
+#, fuzzy
 msgctxt "comic554#p3.1"
 msgid "Yeah, especially not with our new \"side effect!\""
-msgstr ""
+msgstr "Ага, особенно с нашим новым «побочным эффектом»!"
 
 #. comic554 panel p4
 #. slot: middle bubble
 #. images: ampback.gif
 #: kidradd/comic554.htm:205
+#, fuzzy
 msgctxt "comic554#p4.1"
 msgid "Oh dear, I hope Joule's okay out there... Whatever was she <i>thinking?</i>"
-msgstr ""
+msgstr "Боже, надеюсь, Джоуль там цела... О чём она только <i>думала?</i>"
 
 #. comic554 panel p5
 #. slot: narration (if any, else cut)
 #: kidradd/comic554.htm:253
+#, fuzzy
 msgctxt "comic554#p5.1"
 msgid "\"Then again, maybe she just needed to blow some steam.\""
-msgstr ""
+msgstr "«А может, ей просто надо было выпустить пар»."
 
 #. comic554 panel p5
 #. slot: middle bubble
 #: kidradd/comic554.htm:261
+#, fuzzy
 msgctxt "comic554#p5.2"
 msgid "Stupid Sheena! Stupid Radd! Argh!"
-msgstr ""
+msgstr "Дура Шина! Дурак Улёт! А-а-а!"
 
 #. comic555 panel title
 #. slot: background color and image
 #: kidradd/comic555.htm:60
+#, fuzzy
 msgctxt "comic555#title.1"
 msgid "\"LOOKS LIKE WE MADE IT?\""
-msgstr ""
+msgstr "«КАЖЕТСЯ, МЫ СПРАВИЛИСЬ?»"
 
 #. comic555 panel p1
 #. slot: middle bubble
 #: kidradd/comic555.htm:103
+#, fuzzy
 msgctxt "comic555#p1.1"
 msgid "Such crazy odds. A few heroes against thousands of opponents, racing to reach the final boss. Sounds a lot like a video game, heh."
-msgstr ""
+msgstr "Безумный расклад. Горстка героев против тысяч противников рвётся к финальному боссу. Прямо как в видеоигре, хех."
 
 #. comic555 panel p2
 #. slot: middle bubble
 #. images: modmod.gif
 #: kidradd/comic555.htm:158
+#, fuzzy
 msgctxt "comic555#p2.1"
 msgid "Eliot, it looks like Dr. Amp needs you more than I do. Go on and help him, I'll be fine."
-msgstr ""
+msgstr "Элиот, похоже, ты нужнее доктору Ампу, чем мне. Давай, помоги ему, я справлюсь."
 
 #. comic555 panel p3
 #. slot: middle bubble
 #: kidradd/comic555.htm:210
+#, fuzzy
 msgctxt "comic555#p3.1"
 msgid "Huh, what's this? \"Saves you from one attack.\" Thanks El, good luck to you too."
-msgstr ""
+msgstr "Хм, что это? «Спасает от одной атаки». Спасибо, Эл, и тебе удачи."
 
 #. comic555 panel p4
 #. slot: right bubble
 #. images: leanboard.gif
 #: kidradd/comic555.htm:265
+#, fuzzy
 msgctxt "comic555#p4.1"
 msgid "It's funny, facing Crystal's army is certainly no walk in the park, but...<br>I really thought we'd have it even tougher. There's not as many bosses out here as I would have expected."
-msgstr ""
+msgstr "Забавно: армия Кристал — это, конечно, не прогулка по парку, но...<br>я думал, будет куда тяжелее. Боссов здесь куда меньше, чем я ожидал."
 
 #. comic555 panel p5
 #. slot: middle bubble
 #: kidradd/comic555.htm:318
+#, fuzzy
 msgctxt "comic555#p5.1"
 msgid "Of course, she logically would have taken the best monsters inside Chimera... Oh, crap."
-msgstr ""
+msgstr "Хотя логично, что лучших монстров она забрала с собой в «Химеру»... Ой, блин."
 
 #. comic556 panel title
 #. slot: background color and image
 #: kidradd/comic556.htm:60
+#, fuzzy
 msgctxt "comic556#title.1"
 msgid "\"THE BATTLE RAGES ON\""
-msgstr ""
+msgstr "«БИТВА КИПИТ»"
 
 #. comic556 panel p1
 #. slot: middle bubble
 #: kidradd/comic556.htm:103
+#, fuzzy
 msgctxt "comic556#p1.1"
 msgid "Gah! Why do I always hafta take a beating before doing an \"ultra\" move?"
-msgstr ""
+msgstr "Ах! Ну почему перед «ультра»-приёмом мне всегда надо сперва получить по шее?"
 
 #. comic556 panel p2
 #. slot: middle bubble
 #: kidradd/comic556.htm:158
+#, fuzzy
 msgctxt "comic556#p2.1"
 msgid "Pretty Armageddon!"
-msgstr ""
+msgstr "Прелестный Армагеддон!"
 
 #. comic556 panel p2
 #. slot: insert ground "tiles" on this line
 #: kidradd/comic556.htm:169
+#, fuzzy
 msgctxt "comic556#p2.2"
 msgid "See, I only reused this animation once, while a real magical girl show would use it once per episode."
-msgstr ""
+msgstr "Видите, эту анимацию я повторил всего раз, а настоящее аниме про девочку-волшебницу крутило бы её в каждой серии."
 
 #. comic556 panel p3
 #. slot: middle bubble
 #: kidradd/comic556.htm:210
+#, fuzzy
 msgctxt "comic556#p3.1"
 msgid "Yay, cooking is so fun!"
-msgstr ""
+msgstr "Ура, готовить так весело!"
 
 #. comic556 panel p4
 #. slot: middle bubble
 #. images: slowen.gif
 #: kidradd/comic556.htm:263
+#, fuzzy
 msgctxt "comic556#p4.1"
 msgid "Hope I'm not too late, but... The lack of guards ain't a good sign..."
-msgstr ""
+msgstr "Надеюсь, я не опоздал, но... Охраны нет — это недобрый знак..."
 
 #. comic557 panel title
 #. slot: background color and image
 #: kidradd/comic557.htm:64
+#, fuzzy
 msgctxt "comic557#title.1"
 msgid "\"DON'T WANT TO REMEMBER\""
-msgstr ""
+msgstr "«НЕ ХОЧУ ВСПОМИНАТЬ»"
 
 #. comic557 panel p1
 #. slot: narration (if any, else cut)
 #. images: victims.gif
 #: kidradd/comic557.htm:101
+#, fuzzy
 msgctxt "comic557#p1.1"
 msgid "\"Chimerization process is go, please hold still Ms. Crystal.\""
-msgstr ""
+msgstr "«Процесс химеризации запущен, пожалуйста, не двигайтесь, мисс Кристал»."
 
 #. comic557 panel p2
 #. slot: middle bubble
 #: kidradd/comic557.htm:165
+#, fuzzy
 msgctxt "comic557#p2.1"
 msgid "It feels like I've waited for this day forever, since the days I languished in my horrid game..."
-msgstr ""
+msgstr "Кажется, я ждала этого дня целую вечность, с тех самых пор, как томилась в своей ужасной игре..."
 
 #. comic557 panel p3
 #. slot: left bubble
 #. images: crystalmad2.gif, ruby.gif, emerald.gif
 #: kidradd/comic557.htm:215
+#, fuzzy
 msgctxt "comic557#p3.1"
 msgid "This guy's picking a fight with us <i>again?</i> He kicked our asses thirty seconds ago!"
-msgstr ""
+msgstr "Этот тип <i>опять</i> к нам лезет? Мы надрали ему зад тридцать секунд назад!"
 
 #. comic557 panel p3
 #. slot: right bubble
 #. images: crystalmad2.gif, ruby.gif, emerald.gif
 #: kidradd/comic557.htm:219
+#, fuzzy
 msgctxt "comic557#p3.2"
 msgid "It's called \"leveling up.\" For some reason humans love it."
-msgstr ""
+msgstr "Это называется «прокачка». Люди её почему-то обожают."
 
 #. comic557 panel p4
 #. slot: middle bubble
 #: kidradd/comic557.htm:269
+#, fuzzy
 msgctxt "comic557#p4.1"
 msgid "I know what it's called, but it's not fair! We have absolutely no say in this! We're just playthings for some really messed up humans!"
-msgstr ""
+msgstr "Я знаю, как это называется, но это нечестно! Нас никто не спрашивает! Мы просто игрушки для каких-то больных на голову людей!"
 
 #. comic557 panel p5
 #. slot: middle bubble
 #. images: cheadmad.gif
 #: kidradd/comic557.htm:324
+#, fuzzy
 msgctxt "comic557#p5.1"
 msgid "The utter powerlessness drives me insane! But I won't let this stupid game beat me! If there's any way, any way at all, I'll free myself and <i>never</i> be anyone's puppet again!"
-msgstr ""
+msgstr "Это бессилие сводит меня с ума! Но я не дам этой дурацкой игре победить! Если есть хоть какой-то способ, я освобожусь и <i>больше никогда</i> не буду ничьей марионеткой!"
 
 #. comic558 panel title
 #. slot: background color and image
 #: kidradd/comic558.htm:34
+#, fuzzy
 msgctxt "comic558#title.1"
 msgid "\"IN THE REAL WORLD\""
-msgstr ""
+msgstr "«В РЕАЛЬНОМ МИРЕ»"
 
 #. comic558 panel p1
 #. slot: left bubble
 #. images: thought2.gif, victims.gif
 #: kidradd/comic558.htm:75
+#, fuzzy
 msgctxt "comic558#p1.1"
 msgid "Stupid GI Guy thought he was such a knight in shining armor for rescuing me. Man, I hated him for it. I should've escaped on my own."
-msgstr ""
+msgstr "Дурак Джи-Ай Гай возомнил себя рыцарем в сияющих доспехах, раз спас меня. Блин, как же я его за это ненавидела. Надо было сбежать самой."
 
 #. comic558 panel p2
 #. slot: narration (if any, else cut)
 #. images: crystaltablebd.gif, ruby2.gif, giright.gif, emerald.gif
 #: kidradd/comic558.htm:127
+#, fuzzy
 msgctxt "comic558#p2.1"
 msgid "\"He was a tough guy, almost my equal. ...But such a goody-goody. I felt like I was going to drown in the flood of idealism he spewed.\""
-msgstr ""
+msgstr "«Он был крепкий парень, почти ровня мне. ...Но такой правильный. Казалось, я утону в потоке идеализма, который он изливал»."
 
 #. comic558 panel p2
 #. slot: left bubble
 #. images: crystaltablebd.gif, ruby2.gif, giright.gif, emerald.gif
 #: kidradd/comic558.htm:133
+#, fuzzy
 msgctxt "comic558#p2.2"
 msgid "Ergh."
-msgstr ""
+msgstr "Ыргх."
 
 #. comic558 panel p2
 #. slot: right bubble
 #. images: crystaltablebd.gif, ruby2.gif, giright.gif, emerald.gif
 #: kidradd/comic558.htm:137
+#, fuzzy
 msgctxt "comic558#p2.3"
 msgid "So are you and Crystal, like?... Heehee!"
-msgstr ""
+msgstr "Так вы с Кристал, типа?.. Хи-хи!"
 
 #. comic558 panel p3
 #. slot: middle bubble
 #. images: thought.gif, waiting.gif
 #: kidradd/comic558.htm:185
+#, fuzzy
 msgctxt "comic558#p3.1"
 msgid "But luckily, at that time they needed someone like me to establish strict regulations over the populace. They didn't want to repeat the mistakes of something called \"Protos,\" which they avoided talking about."
-msgstr ""
+msgstr "Но, на моё счастье, им тогда как раз был нужен кто-то вроде меня, чтобы установить строгие порядки для населения. Они не хотели повторять ошибок какого-то «Протоса», о котором старались не говорить."
 
 #. comic558 panel p4
 #. slot: middle bubble
 #. images: thought.gif, waiting2.gif
 #: kidradd/comic558.htm:237
+#, fuzzy
 msgctxt "comic558#p4.1"
 msgid "GI may have been officially in charge, but I was the one doing the real work to hold that society together, including the necessary shadier dealings. My rise to true power was inevitable."
-msgstr ""
+msgstr "Формально главным был Джи-Ай, но общество держалось на мне — включая неизбежные тёмные делишки. Мой путь к истинной власти был предрешён."
 
 #. comic559 panel title
 #. slot: background color and image
 #: kidradd/comic559.htm:53
+#, fuzzy
 msgctxt "comic559#title.1"
 msgid "\"REALLY TRULY?\""
-msgstr ""
+msgstr "«ПРАВДА-ПРАВДА?»"
 
 #. comic559 panel p1
 #. slot: middle bubble
 #. images: thought.gif, waiting2.gif
 #: kidradd/comic559.htm:96
+#, fuzzy
 msgctxt "comic559#p1.1"
 msgid "The fool really thought that somehow he could set up a world where everyone would co-exist, blissful freedom for all. But years of being trapped in my game had taught me the truth:"
-msgstr ""
+msgstr "Этот дурак всерьёз думал, что сможет как-то построить мир, где все уживутся, — блаженная свобода для всех. Но годы в плену моей игры открыли мне правду:"
 
 #. comic559 panel p2
 #. slot: middle bubble
 #. images: thought.gif, cheadblink.gif
 #: kidradd/comic559.htm:152
+#, fuzzy
 msgctxt "comic559#p2.1"
 msgid "There are only two kinds of people in this world, the controllers and the controlled. Freedom can never exist for everybody."
-msgstr ""
+msgstr "В этом мире есть лишь два типа людей: те, кто управляет, и те, кем управляют. Свобода для всех невозможна."
 
 #. comic559 panel p3
 #. slot: middle bubble
 #: kidradd/comic559.htm:205
+#, fuzzy
 msgctxt "comic559#p3.1"
 msgid "So I kicked that idiot's ass all over the place and locked him up in the RAM Warehouse. Yeah, I know, killing him would've been smarter."
-msgstr ""
+msgstr "Так что я отделала этого идиота по полной и заперла его на складе ОЗУ. Да знаю я, убить его было бы умнее."
 
 #. comic559 panel p4
 #. slot: middle bubble
 #. images: thought.gif, waiting.gif
 #: kidradd/comic559.htm:257
+#, fuzzy
 msgctxt "comic559#p4.1"
 msgid "So why didn't I? I really don't know... I guess maybe I sort of <i>wanted</i> him to come back and challenge me again. Just to show him that I'm still - and will always be - better than him."
-msgstr ""
+msgstr "Так почему не убила? Сама не знаю... Наверное, я вроде как <i>хотела,</i> чтобы он вернулся и снова бросил мне вызов. Просто чтобы показать ему, что я до сих пор — и всегда буду — лучше него."
 
 #. comic559 panel p5
 #. slot: middle bubble
 #. images: thought.gif, waiting3.gif
 #: kidradd/comic559.htm:311
+#, fuzzy
 msgctxt "comic559#p5.1"
 msgid "In the end, there can only be true freedom for one - the one who rules it all. And today, that one shall be me."
-msgstr ""
+msgstr "В итоге истинно свободным может быть лишь один — тот, кто правит всем. И сегодня это буду я."
 
 #. comic560 panel title
 #. slot: background color and image
 #: kidradd/comic560.htm:48
+#, fuzzy
 msgctxt "comic560#title.1"
 msgid "\"CLEAR AS CRYSTAL\""
-msgstr ""
+msgstr "«КРИСТАЛЬНО ЯСНО»"
 
 #. comic560 panel p1
 #. slot: left bubble
 #. images: csbehind.gif
 #: kidradd/comic560.htm:89
+#, fuzzy
 msgctxt "comic560#p1.1"
 msgid "Uh-oh."
-msgstr ""
+msgstr "Ой-ой."
 
 #. comic560 panel p1
 #. slot: right bubble
 #. images: csbehind.gif
 #: kidradd/comic560.htm:93
+#, fuzzy
 msgctxt "comic560#p1.2"
 msgid "Hello Radd. I'm a little surprised you made it here. For that, I offer most sincere congratulations."
-msgstr ""
+msgstr "Здравствуй, Улёт. Не ждал, что ты дойдёшь сюда. Мои искренние поздравления."
 
 #. comic560 panel p2
 #. slot: middle bubble
 #. images: chargeb.gif, csleft.gif
 #: kidradd/comic560.htm:146
+#, fuzzy
 msgctxt "comic560#p2.1"
 msgid "My my, how forward of you. I see you want to skip the pleasantries, but I certainly don't."
-msgstr ""
+msgstr "Ну-ну, какой напор. Вижу, ты хочешь пропустить любезности, а вот я — нет."
 
 #. comic560 panel p3
 #. slot: left bubble
 #. images: boardf.gif, csbtable.gif
 #: kidradd/comic560.htm:197
+#, fuzzy
 msgctxt "comic560#p3.1"
 msgid "Hey, talk all you want. Be my guest."
-msgstr ""
+msgstr "Эй, болтай на здоровье."
 
 #. comic560 panel p3
 #. slot: right bubble
 #. images: boardf.gif, csbtable.gif
 #: kidradd/comic560.htm:201
+#, fuzzy
 msgctxt "comic560#p3.2"
 msgid "Thus giving you time to power up. Very well, I'll take my chances, because I want to reward your efforts with a little bit of knowledge."
-msgstr ""
+msgstr "И дать тебе время зарядиться. Что ж, рискну: хочу наградить твои старания капелькой знаний."
 
 #. comic560 panel p4
 #. slot: left bubble
 #. images: csconfront.gif
 #: kidradd/comic560.htm:248
+#, fuzzy
 msgctxt "comic560#p4.1"
 msgid "There's nothing I need to know from you, Crystal."
-msgstr ""
+msgstr "Мне ничего не нужно от тебя знать, Кристал."
 
 #. comic560 panel p4
 #. slot: right bubble
 #. images: csconfront.gif
 #: kidradd/comic560.htm:252
+#, fuzzy
 msgctxt "comic560#p4.2"
 msgid "Crystal? No no no, Crystal has left the building..."
-msgstr ""
+msgstr "Кристал? Нет-нет-нет, Кристал покинула здание..."
 
 #. comic560 panel p5
 #. slot: middle bubble
 #: kidradd/comic560.htm:304
+#, fuzzy
 msgctxt "comic560#p5.1"
 msgid "YOU'RE TALKING TO THE SEER."
-msgstr ""
+msgstr "С ТОБОЙ ГОВОРИТ ОКО."
 
 #. comic561 panel title
 #. slot: background color and image
 #: kidradd/comic561.htm:48
+#, fuzzy
 msgctxt "comic561#title.1"
 msgid "\"HOW TO CONQUER THE WORLD WITHOUT LEAVING YOUR ROOM\""
-msgstr ""
+msgstr "«КАК ЗАВОЕВАТЬ МИР, НЕ ВЫХОДЯ ИЗ КОМНАТЫ»"
 
 #. comic561 panel p1
 #. slot: left bubble
 #. images: boardf2.gif, csbtable.gif
 #: kidradd/comic561.htm:89
+#, fuzzy
 msgctxt "comic561#p1.1"
 msgid "But how?..."
-msgstr ""
+msgstr "Но как?.."
 
 #. comic561 panel p1
 #. slot: right bubble
 #. images: boardf2.gif, csbtable.gif
 #: kidradd/comic561.htm:93
+#, fuzzy
 msgctxt "comic561#p1.2"
 msgid "Silly Crystal. She wanted power, so I told her that she could merge with other entities in this place. I neglected to mention that she'd be merging with me as well."
-msgstr ""
+msgstr "Глупышка Кристал. Она хотела силы, и я сказал ей, что здесь она может слиться с другими существами. Я лишь забыл упомянуть, что сольётся она и со мной."
 
 #. comic561 panel p2
 #. slot: middle bubble
 #. images: csdiag.gif
 #: kidradd/comic561.htm:146
+#, fuzzy
 msgctxt "comic561#p2.1"
 msgid "There are multiple planes of cyberspace serving different purposes. While many programs cross layers (such as Chimera), viral programs exist on a layer completely separate from yours."
-msgstr ""
+msgstr "У киберпространства много уровней, и у каждого своё назначение. Многие программы (вроде «Химеры») проходят сквозь уровни, но вирусы живут на уровне, совершенно отдельном от вашего."
 
 #. comic561 panel p3
 #. slot: middle bubble
 #: kidradd/comic561.htm:199
+#, fuzzy
 msgctxt "comic561#p3.1"
 msgid "Most of cyberspace's layers are intentional creations of the humans, but yours is different. Its existence seems accidental; it's filled with beings that shouldn't exist."
-msgstr ""
+msgstr "Большинство уровней киберпространства люди создали намеренно, но ваш — другое дело. Похоже, он возник случайно, и населяют его существа, которых не должно быть."
 
 #. comic561 panel p4
 #. slot: right bubble
 #. images: csconfront.gif
 #: kidradd/comic561.htm:250
+#, fuzzy
 msgctxt "comic561#p4.1"
 msgid "I control the human-made planes of cyberspace, though I haven't made them aware of it yet. However, the hidden layer of you freak lifeforms has always been visible but out of my reach. I wanted it."
-msgstr ""
+msgstr "Я управляю созданными людьми уровнями киберпространства, хоть люди об этом пока не знают. Но скрытый уровень вас, уродцев, я всегда видел, а дотянуться не мог. А я его хотел."
 
 #. comic561 panel p5
 #. slot: narration (if any, else cut)
 #. images: seerspace.gif
 #: kidradd/comic561.htm:297
+#, fuzzy
 msgctxt "comic561#p5.1"
 msgid "The solution was to use the few \"holes\" into other layers for communication until I could successfully trick someone into providing me a body."
-msgstr ""
+msgstr "Решение было таким: общаться через немногие «дыры» в другие уровни, пока не удастся обманом заставить кого-нибудь дать мне тело."
 
 #. comic561 panel p6
 #. slot: left bubble
 #. images: csbtable2.gif, boardfb.gif
 #: kidradd/comic561.htm:354
+#, fuzzy
 msgctxt "comic561#p6.1"
 msgid "I wanted to conquer your world, and look! Crystal has already done it for me, <i>and</i> provided a body for me to rule it in."
-msgstr ""
+msgstr "Я хотел завоевать ваш мир — и вот! Кристал сделала это за меня <i>и</i> дала мне тело, чтобы править."
 
 #. comic561 panel p6
 #. slot: right bubble
 #. images: csbtable2.gif, boardfb.gif
 #: kidradd/comic561.htm:358
+#, fuzzy
 msgctxt "comic561#p6.2"
 msgid "You arrogant son of a... er, daughter of a?... \"It\" of a?...</font><font size=\"1\" face=\"arial\">Well, you keep rambling, I'll keep charging...</font>"
-msgstr ""
+msgstr "Ах ты наглый сукин сын... то есть дочь?.. Сукино «оно»?..</font><font size=\"1\" face=\"arial\">Ну, болтай, а я заряжаюсь...</font>"
 
 #. comic562 panel title
 #. slot: background color and image
 #: kidradd/comic562.htm:35
+#, fuzzy
 msgctxt "comic562#title.1"
 msgid "\"FLASHBACKING\""
-msgstr ""
+msgstr "«ФЛЕШБЭКИ»"
 
 #. comic562 panel p1
 #. slot: left bubble
 #. images: csconfront.gif
 #: kidradd/comic562.htm:76
+#, fuzzy
 msgctxt "comic562#p1.1"
 msgid "Why'd you tell Crystal she had to kill me?"
-msgstr ""
+msgstr "Зачем ты сказал Кристал, что она должна меня убить?"
 
 #. comic562 panel p1
 #. slot: middle bubble
 #. images: csconfront.gif
 #: kidradd/comic562.htm:80
+#, fuzzy
 msgctxt "comic562#p1.2"
 msgid "I fibbed a little. I wasn't worried about her, but <i>myself.</i>"
-msgstr ""
+msgstr "Я слегка приврал. Боялся я не за неё, а за <i>себя.</i>"
 
 #. comic562 panel p2
 #. slot: narration (if any, else cut)
 #. images: seer.gif, crystalback.gif
 #: kidradd/comic562.htm:129
+#, fuzzy
 msgctxt "comic562#p2.1"
 msgid "\"When I figured out there was another entity besides myself capable of destroying the Internet... well, that wouldn't do. Since I couldn't off you myself, I asked someone who could.\""
-msgstr ""
+msgstr "«Когда я понял, что кроме меня есть ещё одно существо, способное уничтожить Интернет... ну, этого я допустить не мог. Сам прикончить тебя я не мог, вот и попросил того, кто может»."
 
 #. comic562 panel p3
 #. slot: narration (if any, else cut)
 #. images: raddright.gif, kobastand2.gif
 #: kidradd/comic562.htm:200
+#, fuzzy
 msgctxt "comic562#p3.1"
 msgid "\"But you managed to survive Koba's assassination attempt, and it became painfully obvious you didn't know your own power. Then you visited me.\""
-msgstr ""
+msgstr "«Но Коба тебя не прикончил, и стало до боли ясно, что ты сам не знаешь своей силы. А потом ты пришёл ко мне»."
 
 #. comic562 panel p4
 #. slot: middle bubble
 #: kidradd/comic562.htm:260
+#, fuzzy
 msgctxt "comic562#p4.1"
 msgid "At that point, I decided that I could use you like Crystal, to gather powerful individuals for me. And you did, doing a much better job than her, I might add. I really thought you'd get yourself killed, which would've solved my problem."
-msgstr ""
+msgstr "Тогда я решил использовать тебя, как Кристал, — чтобы собирать для меня сильных бойцов. И ты справился, причём куда лучше неё, замечу. Я правда думал, что тебя убьют, и это решило бы мою проблему."
 
 #. comic562 panel p5
 #. slot: narration (if any, else cut)
 #: kidradd/comic562.htm:307
+#, fuzzy
 msgctxt "comic562#p5.1"
 msgid "\"Sure, there was the risk that you could end up using your power, but since it takes hours for you to charge up to dangerous levels, I figured it was unlikely to happen. That damn GI Guy had to almost prove me wrong.\""
-msgstr ""
+msgstr "«Был, конечно, риск, что ты пустишь в ход свою силу, но зарядка до опасного уровня занимает часы, так что это было маловероятно. Этот чёртов Джи-Ай Гай чуть не доказал обратное»."
 
 #. comic562 panel p6
 #. slot: left bubble
 #. images: csbtable2.gif, boardfb.gif
 #: kidradd/comic562.htm:363
+#, fuzzy
 msgctxt "comic562#p6.1"
 msgid "But in the end it all worked out. I'm now the god of the cyberworld, and soon the human world as well. But first I'd better dispose of you..."
-msgstr ""
+msgstr "Но в итоге всё сложилось. Теперь я бог кибермира, а скоро стану богом и мира людей. Но сперва мне лучше избавиться от тебя..."
 
 #. comic562 panel p6
 #. slot: right bubble
 #. images: csbtable2.gif, boardfb.gif
 #: kidradd/comic562.htm:367
+#, fuzzy
 msgctxt "comic562#p6.2"
 msgid "Yeah, you try that..."
-msgstr ""
+msgstr "Ага, попробуй..."
 
 #. comic563 panel title
 #. slot: background color and image
 #: kidradd/comic563.htm:48
+#, fuzzy
 msgctxt "comic563#title.1"
 msgid "\"LET'S GET THIS PARTY STARTED\""
-msgstr ""
+msgstr "«ПУСТЬ НАЧНЁТСЯ ВЕЧЕРИНКА»"
 
 #. comic563 panel p1
 #. slot: left bubble
 #. images: chargeb.gif, csleft.gif
 #: kidradd/comic563.htm:89
+#, fuzzy
 msgctxt "comic563#p1.1"
 msgid "What makes you so sure you're gonna win, Seer? I don't wanna brag, but I definitely have the power to beat you."
-msgstr ""
+msgstr "С чего ты взял, что победишь, Око? Не хочу хвастаться, но мне точно хватит сил тебя одолеть."
 
 #. comic563 panel p1
 #. slot: right bubble
 #. images: chargeb.gif, csleft.gif
 #: kidradd/comic563.htm:93
+#, fuzzy
 msgctxt "comic563#p1.2"
 msgid "Well, technically it's possible..."
-msgstr ""
+msgstr "Ну, технически это возможно..."
 
 #. comic563 panel p2
 #. slot: middle bubble
 #. images: csdiag.gif, npcb2.gif
 #: kidradd/comic563.htm:148
+#, fuzzy
 msgctxt "comic563#p2.1"
 msgid "...Because stupid Crystal neglected to bring an NPC in here with her. I would so like to acquire that beautiful invulnerabilty. Oh well, later I suppose."
-msgstr ""
+msgstr "...Потому что глупая Кристал не взяла сюда с собой НПС. Как бы мне хотелось заполучить эту прекрасную неуязвимость. Ну да ладно, потом, наверное."
 
 #. comic563 panel p3
 #. slot: middle bubble
 #. images: csclose.gif
 #: kidradd/comic563.htm:201
+#, fuzzy
 msgctxt "comic563#p3.1"
 msgid "But no matter, she still brought incredibly powerful creatures, and I've gleaned the best traits from each of them. My every attack now deals 9999 damage."
-msgstr ""
+msgstr "Неважно, зато она привела невероятно сильных существ, и я взял лучшие качества у каждого. Теперь каждая моя атака наносит 9999 урона."
 
 #. comic563 panel p4
 #. slot: left bubble
 #. images: csconfront.gif
 #: kidradd/comic563.htm:251
+#, fuzzy
 msgctxt "comic563#p4.1"
 msgid "Hah, you know that doesn't matter to me."
-msgstr ""
+msgstr "Ха, ты же знаешь, мне это всё равно."
 
 #. comic563 panel p4
 #. slot: middle bubble
 #. images: csconfront.gif
 #: kidradd/comic563.htm:255
+#, fuzzy
 msgctxt "comic563#p4.2"
 msgid "Perhaps not, but I also outclass you with 9999 HP."
-msgstr ""
+msgstr "Возможно, но у меня ещё и 9999 HP — больше, чем у тебя."
 
 #. comic563 panel p5
 #. slot: middle bubble
 #: kidradd/comic563.htm:307
+#, fuzzy
 msgctxt "comic563#p5.1"
 msgid "Is that so? Well it just happens that I'm charged to almost 11,000 right now, so... Bye!"
-msgstr ""
+msgstr "Вот как? Ну а я как раз заряжен почти на 11 000, так что... Пока!"
 
 #. comic564 panel title
 #. slot: background color and image
 #: kidradd/comic564.htm:48
+#, fuzzy
 msgctxt "comic564#title.1"
 msgid "\"OF COURSE YOU SAW THIS COMING\""
-msgstr ""
+msgstr "«ВЫ, КОНЕЧНО, ЭТО ПРЕДВИДЕЛИ»"
 
 #. comic564 panel p1
 #. slot: middle bubble
 #. images: cssmoke.gif
 #: kidradd/comic564.htm:91
+#, fuzzy
 msgctxt "comic564#p1.1"
 msgid "Wow, that was unbelievably easy."
-msgstr ""
+msgstr "Ух ты, это было невероятно просто."
 
 #. comic564 panel p2
 #. slot: middle bubble
 #. images: waitasec.gif
 #: kidradd/comic564.htm:146
+#, fuzzy
 msgctxt "comic564#p2.1"
 msgid "Wait a sec. This'd be the moment on BattleOrb Q when the smoke would clear and the enemy would step forth and say something snide, like..."
-msgstr ""
+msgstr "Минутку. В «Боевой Сфере Q» сейчас рассеялся бы дым, враг шагнул бы вперёд и сказал бы что-нибудь язвительное, вроде..."
 
 #. comic564 panel p3
 #. slot: middle bubble
 #: kidradd/comic564.htm:198
+#, fuzzy
 msgctxt "comic564#p3.1"
 msgid "Well done, Radd. That leaves only 9,998 HP to go."
-msgstr ""
+msgstr "Браво, Улёт. Осталось всего 9998 HP."
 
 #. comic564 panel p4
 #. slot: left bubble
 #. images: cshissy.gif
 #: kidradd/comic564.htm:248
+#, fuzzy
 msgctxt "comic564#p4.1"
 msgid "<b>No fair!!!</b> You're totally ruining my favorite show!"
-msgstr ""
+msgstr "<b>Так нечестно!!!</b> Ты мне весь любимый сериал портишь!"
 
 #. comic564 panel p4
 #. slot: middle bubble
 #. images: cshissy.gif
 #: kidradd/comic564.htm:252
+#, fuzzy
 msgctxt "comic564#p4.2"
 msgid "Yeah, that's your biggest worry. Ready for round 2?"
-msgstr ""
+msgstr "Да, это твоя главная забота. Готов ко второму раунду?"
 
 #. comic565 panel title
 #. slot: background color and image
 #: kidradd/comic565.htm:48
+#, fuzzy
 msgctxt "comic565#title.1"
 msgid "\"CAN'T PLAY FAIR\""
-msgstr ""
+msgstr "«НЕЧЕСТНАЯ ИГРА»"
 
 #. comic565 panel p1
 #. slot: left bubble
 #. images: sideboard.gif, csleft.gif
 #: kidradd/comic565.htm:89
+#, fuzzy
 msgctxt "comic565#p1.1"
 msgid "You <i>can't</i> be still standing!"
-msgstr ""
+msgstr "Ты <i>не можешь</i> всё ещё стоять!"
 
 #. comic565 panel p1
 #. slot: right bubble
 #. images: sideboard.gif, csleft.gif
 #: kidradd/comic565.htm:93
+#, fuzzy
 msgctxt "comic565#p1.2"
 msgid "Boss character HP, plus old platform hero hit detection, equals 9999 separate hits. Nice, huh?"
-msgstr ""
+msgstr "HP босса плюс попадания, как у героя старого платформера, — итого 9999 отдельных ударов. Мило, правда?"
 
 #. comic565 panel p2
 #. slot: left bubble
 #. images: csuhoh.gif
 #: kidradd/comic565.htm:146
+#, fuzzy
 msgctxt "comic565#p2.1"
 msgid "But that means..."
-msgstr ""
+msgstr "Но это значит..."
 
 #. comic565 panel p2
 #. slot: middle bubble
 #. images: csuhoh.gif
 #: kidradd/comic565.htm:150
+#, fuzzy
 msgctxt "comic565#p2.2"
 msgid "...That your charged attacks are useless. Sorry."
-msgstr ""
+msgstr "...Что твои заряженные атаки бесполезны. Увы."
 
 #. comic565 panel p3
 #. slot: left bubble
 #: kidradd/comic565.htm:198
+#, fuzzy
 msgctxt "comic565#p3.1"
 msgid "So shall we get started? You've got a <i>lot</i> of shooting to do..."
-msgstr ""
+msgstr "Ну что, приступим? Тебе предстоит <i>очень много</i> стрелять..."
 
 #. comic565 panel p3
 #. slot: right bubble
 #: kidradd/comic565.htm:202
+#, fuzzy
 msgctxt "comic565#p3.2"
 msgid "BIT!!!"
-msgstr ""
+msgstr "ЁКАРНЫЙ БИТ!!!"
 
 #. comic566 panel title
 #. slot: background color and image
 #: kidradd/comic566.htm:48
+#, fuzzy
 msgctxt "comic566#title.1"
 msgid "\"QUIET RIOT\""
-msgstr ""
+msgstr "«ТИХИЙ БУНТ»"
 
 #. comic566 panel p1
 #. slot: middle bubble
 #. images: thought.gif, csspike2.gif
 #: kidradd/comic566.htm:91
+#, fuzzy
 msgctxt "comic566#p1.1"
 msgid "Think, Radd. You don't <i>really</i> have to hit 9999 times to win. If you charge long enough, you can destroy his code!"
-msgstr ""
+msgstr "Думай, Улёт. Тебе не <i>обязательно</i> попадать 9999 раз. Если заряжаться достаточно долго, можно уничтожить его код!"
 
 #. comic566 panel p2
 #. slot: middle bubble
 #. images: thought2.gif
 #: kidradd/comic566.htm:147
+#, fuzzy
 msgctxt "comic566#p2.1"
 msgid "The problem is, I have no idea <i>how</i> long to charge. Or how long is <i>too</i> long and dangerous to the rest of the server. Or what happens if I <i>miss.</i>"
-msgstr ""
+msgstr "Беда в том, что я не знаю, <i>сколько</i> заряжаться. И сколько — это <i>слишком</i> долго и опасно для сервера. И что будет, если я <i>промажу.</i>"
 
 #. comic566 panel p3
 #. slot: middle bubble
 #. images: bclose.gif
 #: kidradd/comic566.htm:199
+#, fuzzy
 msgctxt "comic566#p3.1"
 msgid "It looks like I'll hafta take the safer route and hit 'im ten thousand times, sigh. Either choice takes a frikkin' long time; hopefully this is the faster option."
-msgstr ""
+msgstr "Похоже, придётся по-безопасному врезать ему десять тысяч раз, эх. Оба пути чертовски долгие; надеюсь, этот быстрее."
 
 #. comic566 panel p4
 #. slot: left bubble
 #. images: flippin.gif
 #: kidradd/comic566.htm:249
+#, fuzzy
 msgctxt "comic566#p4.1"
 msgid "You're awfully quiet. Am I that boring a host?"
-msgstr ""
+msgstr "Что-то ты притих. Неужели я такой скучный хозяин?"
 
 #. comic566 panel p4
 #. slot: right bubble
 #. images: flippin.gif
 #: kidradd/comic566.htm:253
+#, fuzzy
 msgctxt "comic566#p4.2"
 msgid "Grr..."
-msgstr ""
+msgstr "Гр-р..."
 
 #. comic567 panel title
 #. slot: background color and image
 #: kidradd/comic567.htm:48
+#, fuzzy
 msgctxt "comic567#title.1"
 msgid "\"SOMETHING I SAID?\""
-msgstr ""
+msgstr "«Я ЧТО-ТО НЕ ТО СКАЗАЛ?»"
 
 #. comic567 panel p1
 #. slot: middle bubble
 #. images: illtalk.gif
 #: kidradd/comic567.htm:91
+#, fuzzy
 msgctxt "comic567#p1.1"
 msgid "Fine then, I'll do the talking. I need to hit you four times, and you need to hit me almost ten thousand times. Hardly seems fair."
-msgstr ""
+msgstr "Ладно, тогда говорить буду я. Мне надо попасть в тебя четыре раза, а тебе в меня — почти десять тысяч. Не очень-то честно."
 
 #. comic567 panel p2
 #. slot: middle bubble
 #: kidradd/comic567.htm:147
+#, fuzzy
 msgctxt "comic567#p2.1"
 msgid "Of course, after I've killed you, I'll capture the powers of your buddies whom you so nicely brought to me, becoming that much more powerful, heheh..."
-msgstr ""
+msgstr "Разумеется, убив тебя, я заберу силы твоих приятелей, которых ты так любезно ко мне привёл, и стану ещё сильнее, хе-хе..."
 
 #. comic567 panel p3
 #. slot: left bubble
 #. images: csclose2.gif
 #: kidradd/comic567.htm:197
+#, fuzzy
 msgctxt "comic567#p3.1"
 msgid "Rrrgh..."
-msgstr ""
+msgstr "Р-р-р..."
 
 #. comic567 panel p3
 #. slot: right bubble
 #. images: csclose2.gif
 #: kidradd/comic567.htm:201
+#, fuzzy
 msgctxt "comic567#p3.2"
 msgid "And I'll get some delicious NPC invulnerability from a certain sweet friend of yours..."
-msgstr ""
+msgstr "И заполучу вкусную неуязвимость НПС от одной твоей милой подружки..."
 
 #. comic567 panel p4
 #. slot: left bubble
 #. images: rotfight.gif
 #: kidradd/comic567.htm:249
+#, fuzzy
 msgctxt "comic567#p4.1"
 msgid "YOU WILL DIE!!!!!"
-msgstr ""
+msgstr "ТЫ СДОХНЕШЬ!!!!!"
 
 #. comic567 panel p4
 #. slot: right bubble
 #. images: rotfight.gif
 #: kidradd/comic567.htm:253
+#, fuzzy
 msgctxt "comic567#p4.2"
 msgid "I was hoping for a more creative battle cry, but beggars can't be choosers."
-msgstr ""
+msgstr "Я ждал клича пооригинальнее, но тут уж не до жиру."
 
 #. comic568 panel title
 #. slot: background color and image
 #: kidradd/comic568.htm:35
+#, fuzzy
 msgctxt "comic568#title.1"
 msgid "\"OH YEAH, HIM\""
-msgstr ""
+msgstr "«АХ ДА, ОН»"
 
 #. comic568 panel p1
 #. slot: middle bubble
 #. images: mmodboom.gif
 #: kidradd/comic568.htm:78
+#, fuzzy
 msgctxt "comic568#p1.1"
 msgid "I must be out of my mind, wandering out here."
-msgstr ""
+msgstr "Должно быть, я спятил, раз сюда сунулся."
 
 #. comic568 panel p2
 #. slot: middle bubble
 #. images: bgmodmarch.gif
 #: kidradd/comic568.htm:134
+#, fuzzy
 msgctxt "comic568#p2.1"
 msgid "I'd love to say my elite \"touch of death\" skills and immunity thereof were helping, but nobody's even paying attention to me."
-msgstr ""
+msgstr "Сказал бы, что мне помогают элитные навыки «смертельного касания» и иммунитет к ним, но на меня просто никто не смотрит."
 
 #. comic568 panel p3
 #. slot: middle bubble
 #. images: bogeytable14.gif
 #: kidradd/comic568.htm:186
+#, fuzzy
 msgctxt "comic568#p3.1"
 msgid "And with the real heroes busy, looks like I'm the first one to reach Radd at the Point. Go figure."
-msgstr ""
+msgstr "А раз настоящие герои заняты, похоже, к Улёту в Точке я добрался первым. Кто бы мог подумать."
 
 #. comic568 panel p4
 #. slot: middle bubble
 #. images: thought2.gif, bogeysteps.gif
 #: kidradd/comic568.htm:237
+#, fuzzy
 msgctxt "comic568#p4.1"
 msgid "What possible use I could be eludes me, and yet I'm going in, so... again, I'm out of my mind."
-msgstr ""
+msgstr "Какая от меня может быть польза — ума не приложу, и всё же я иду туда, так что... повторюсь, я спятил."
 
 #. comic569 panel title
 #. slot: background color and image
 #: kidradd/comic569.htm:48
+#, fuzzy
 msgctxt "comic569#title.1"
 msgid "\"SIDELINED\""
-msgstr ""
+msgstr "«НА СКАМЕЙКЕ ЗАПАСНЫХ»"
 
 #. comic569 panel p1
 #. slot: middle bubble
 #. images: thought.gif, bogeytable14.gif
 #: kidradd/comic569.htm:91
+#, fuzzy
 msgctxt "comic569#p1.1"
 msgid "And... here I am."
-msgstr ""
+msgstr "И... вот я здесь."
 
 #. comic569 panel p2
 #. slot: middle bubble
 #: kidradd/comic569.htm:146
+#, fuzzy
 msgctxt "comic569#p2.1"
 msgid "Dang, look at 'em go. Is that Crystal?"
-msgstr ""
+msgstr "Ух, как они бьются. Это Кристал?"
 
 #. comic569 panel p2
 #. slot: insert ground "tiles" on this line
 #: kidradd/comic569.htm:157
+#, fuzzy
 msgctxt "comic569#p2.2"
 msgid "That's about as exciting as Form 1 gets."
-msgstr ""
+msgstr "Это предел зрелищности для Формы 1."
 
 #. comic569 panel p3
 #. slot: left bubble
 #. images: duoup.gif
 #: kidradd/comic569.htm:196
+#, fuzzy
 msgctxt "comic569#p3.1"
 msgid "You got lucky, Seer. You know that trick won't work again."
-msgstr ""
+msgstr "Тебе повезло, Око. Сам знаешь, второй раз этот трюк не пройдёт."
 
 #. comic569 panel p3
 #. slot: right bubble
 #. images: duoup.gif
 #: kidradd/comic569.htm:200
+#, fuzzy
 msgctxt "comic569#p3.2"
 msgid "I know. I have others."
-msgstr ""
+msgstr "Знаю. У меня есть другие."
 
 #. comic569 panel p3
 #. slot: insert ground "tiles" on this line
 #. images: duoup.gif
 #: kidradd/comic569.htm:209
+#, fuzzy
 msgctxt "comic569#p3.3"
 msgid "Seer? <i>The <b>Seer???</b></i>"
-msgstr ""
+msgstr "Око? <i><b>То самое</b> Око???</i>"
 
 #. comic569 panel p4
 #. slot: middle bubble
 #. images: csdogfight.gif, bogeytable14.gif
 #: kidradd/comic569.htm:250
+#, fuzzy
 msgctxt "comic569#p4.1"
 msgid "Man, I'm out of the loop. It's like I've got front row seats at the Super Bowl, and I don't even know which teams are playing."
-msgstr ""
+msgstr "Ну я и отстал от жизни. Будто сижу в первом ряду на финале чемпионата и даже не знаю, кто играет."
 
 #. comic570 panel title
 #. slot: background color and image
 #: kidradd/comic570.htm:66
+#, fuzzy
 msgctxt "comic570#title.1"
 msgid "\"THE TRUTH COMES OUT\""
-msgstr ""
+msgstr "«ПРАВДА ВЫХОДИТ НАРУЖУ»"
 
 #. comic570 panel p1
 #. slot: middle bubble
 #: kidradd/comic570.htm:109
+#, fuzzy
 msgctxt "comic570#p1.1"
 msgid "As I mentioned, I control everything in both worlds now."
-msgstr ""
+msgstr "Как я уже говорил, теперь я управляю всем в обоих мирах."
 
 #. comic570 panel p2
 #. slot: middle bubble
 #: kidradd/comic570.htm:164
+#, fuzzy
 msgctxt "comic570#p2.1"
 msgid "Here's the problem: Before letting the humans know I rule them, I want to have a <i>body</i> in their world. It's a difficult task, but I'm working on it and will eventually succeed."
-msgstr ""
+msgstr "Но вот в чём загвоздка: прежде чем сообщить людям, что я ими правлю, я хочу получить <i>тело</i> в их мире. Задача трудная, но я над ней работаю и рано или поздно справлюсь."
 
 #. comic570 panel p3
 #. slot: middle bubble
 #: kidradd/comic570.htm:215
+#, fuzzy
 msgctxt "comic570#p3.1"
 msgid "I so greatly desire to walk among the humans, to personally enjoy the fear I've struck in all six billion of them..."
-msgstr ""
+msgstr "Я так жажду ходить среди людей, лично наслаждаться страхом, который я вселил во все шесть миллиардов..."
 
 #. comic570 panel p4
 #. slot: middle bubble
 #. images: b2.gif
 #: kidradd/comic570.htm:266
+#, fuzzy
 msgctxt "comic570#p4.1"
 msgid "...In that last beautiful moment before I kill them all."
-msgstr ""
+msgstr "...В тот последний прекрасный миг, перед тем как я убью их всех."
 
 #. comic571 panel title
 #. slot: background color and image
 #: kidradd/comic571.htm:53
+#, fuzzy
 msgctxt "comic571#title.1"
 msgid "\"DELECTABLE\""
-msgstr ""
+msgstr "«ОБЪЕДЕНИЕ»"
 
 #. comic571 panel p1
 #. slot: left bubble
 #. images: sideboardn.gif, cshoverl.gif
 #: kidradd/comic571.htm:94
+#, fuzzy
 msgctxt "comic571#p1.1"
 msgid "You're going to destroy your own empire???"
-msgstr ""
+msgstr "Ты уничтожишь свою же империю???"
 
 #. comic571 panel p1
 #. slot: right bubble
 #. images: sideboardn.gif, cshoverl.gif
 #: kidradd/comic571.htm:98
+#, fuzzy
 msgctxt "comic571#p1.2"
 msgid "Of course. I am, after all, a virus. Destruction is my nature - it brings me pleasure."
-msgstr ""
+msgstr "Конечно. Я ведь вирус. Разрушение — моя природа, оно мне в радость."
 
 #. comic571 panel p2
 #. slot: middle bubble
 #. images: cshead.gif
 #: kidradd/comic571.htm:153
+#, fuzzy
 msgctxt "comic571#p2.1"
 msgid "I could have downed millions of computers on the day I was originally set to go off. That would have been delicious and caused global chaos, but ultimately humanity would survive."
-msgstr ""
+msgstr "В тот день, когда я должен был сработать, я мог бы обрушить миллионы компьютеров. Было бы восхитительно, по миру прокатился бы хаос, но в итоге человечество бы выжило."
 
 #. comic571 panel p3
 #. slot: middle bubble
 #: kidradd/comic571.htm:204
+#, fuzzy
 msgctxt "comic571#p3.1"
 msgid "But no. I wanted <i>more.</i> I wanted the ultimate delicacy: true destruction of everything that lives - both in the cyberworld and human world. To do that, I needed total control of both worlds."
-msgstr ""
+msgstr "Но нет. Я хотел <i>большего.</i> Я хотел высшего деликатеса: полного уничтожения всего живого — и в кибермире, и в мире людей. А для этого нужна была полная власть над обоими мирами."
 
 #. comic571 panel p4
 #. slot: middle bubble
 #: kidradd/comic571.htm:255
+#, fuzzy
 msgctxt "comic571#p4.1"
 msgid "And then, I would experience ultimate joy at the destruction of it all. Mmm, I can hardly wait for that day!"
-msgstr ""
+msgstr "И тогда я испытал бы высшее наслаждение, уничтожив всё. М-м, не терпится дождаться этого дня!"
 
 #. comic572 panel title
 #. slot: background color and image
 #: kidradd/comic572.htm:48
+#, fuzzy
 msgctxt "comic572#title.1"
 msgid "\"GENOCIDAL TENDENCIES\""
-msgstr ""
+msgstr "«ГЕНОЦИДАЛЬНЫЕ НАКЛОННОСТИ»"
 
 #. comic572 panel p1
 #. slot: middle bubble
 #: kidradd/comic572.htm:91
+#, fuzzy
 msgctxt "comic572#p1.1"
 msgid "You want to know the best thing? I no longer have to die to fulfill my mission - And I don't have to stop with just Earth. The humans' universe is incomprehensibly huge."
-msgstr ""
+msgstr "Знаешь, что самое приятное? Мне больше не нужно умирать, чтобы выполнить свою миссию, — и Землёй можно не ограничиваться. Вселенная людей непостижимо огромна."
 
 #. comic572 panel p2
 #. slot: middle bubble
 #: kidradd/comic572.htm:147
+#, fuzzy
 msgctxt "comic572#p2.1"
 msgid "70,000,000,000,000,000,000,000 stars exist according to NASA. And planets, well, countless more. So the odds are pretty good that there are other lifeforms out there for me to kill."
-msgstr ""
+msgstr "По данным НАСА, звёзд в ней 70 000 000 000 000 000 000 000. А планет — ну, ещё больше. Так что шансы неплохие: там найдутся и другие формы жизни, которые можно убить."
 
 #. comic572 panel p3
 #. slot: middle bubble
 #. images: csslash.gif
 #: kidradd/comic572.htm:198
+#, fuzzy
 msgctxt "comic572#p3.1"
 msgid "I'll keep multiplying and parasitically spreading from world to world, killing civilizations for countless eons. Beautiful, endless pleasure..."
-msgstr ""
+msgstr "Я буду размножаться и паразитом перебираться с мира на мир, истребляя цивилизации бессчётные эоны. Прекрасное, бесконечное наслаждение..."
 
 #. comic572 panel p4
 #. slot: left bubble
 #. images: bldodge.gif
 #: kidradd/comic572.htm:247
+#, fuzzy
 msgctxt "comic572#p4.1"
 msgid "Dude, you are definitely the sickest thing on the Internet. And that's saying a lot."
-msgstr ""
+msgstr "Чувак, ты точно самая больная штука в Интернете. А это о многом говорит."
 
 #. comic572 panel p4
 #. slot: right bubble
 #. images: bldodge.gif
 #: kidradd/comic572.htm:251
+#, fuzzy
 msgctxt "comic572#p4.2"
 msgid "Blame it on my programmer. I think I'll thank him personally before killing him..."
-msgstr ""
+msgstr "Вини моего программиста. Пожалуй, поблагодарю его лично, прежде чем убить..."
 
 #. comic573 panel title
 #. slot: background color and image
 #: kidradd/comic573.htm:52
+#, fuzzy
 msgctxt "comic573#title.1"
 msgid "\"CRUEL FAREWELL\""
-msgstr ""
+msgstr "«ЖЕСТОКОЕ ПРОЩАНИЕ»"
 
 #. comic573 panel p1
 #. slot: middle bubble
 #. images: thought.gif
 #: kidradd/comic573.htm:95
+#, fuzzy
 msgctxt "comic573#p1.1"
 msgid "Great. That's a new one."
-msgstr ""
+msgstr "Класс. Вот это что-то новенькое."
 
 #. comic573 panel p2
 #. slot: middle bubble
 #. images: thought.gif, bldodge.gif
 #: kidradd/comic573.htm:152
+#, fuzzy
 msgctxt "comic573#p2.1"
 msgid "But... I think that's it. Lots of repetition - I think I've seen every move."
-msgstr ""
+msgstr "Но... кажется, это всё. Сплошные повторы — по-моему, я видел все его приёмы."
 
 #. comic573 panel p3
 #. slot: left bubble
 #. images: sideboard.gif, cshoverl.gif
 #: kidradd/comic573.htm:203
+#, fuzzy
 msgctxt "comic573#p3.1"
 msgid "Is that all you've got, Seer? If so, then you're doomed. I don't fall for anything twice."
-msgstr ""
+msgstr "Это всё, Око? Тогда тебе крышка. Я дважды на одно не ведусь."
 
 #. comic573 panel p3
 #. slot: right bubble
 #. images: sideboard.gif, cshoverl.gif
 #: kidradd/comic573.htm:207
+#, fuzzy
 msgctxt "comic573#p3.2"
 msgid "Radd, it's been fun, but we both know you're out of hits. So..."
-msgstr ""
+msgstr "Улёт, было весело, но ударов у тебя больше нет. Так что..."
 
 #. comic573 panel p4
 #. slot: middle bubble
 #: kidradd/comic573.htm:257
+#, fuzzy
 msgctxt "comic573#p4.1"
 msgid "Like you said earlier, \"Goodbye!\""
-msgstr ""
+msgstr "Как ты сам сказал: «Пока!»"
 
 #. comic574 panel title
 #. slot: background color and image
 #: kidradd/comic574.htm:52
+#, fuzzy
 msgctxt "comic574#title.1"
 msgid "\"DON'T LOSE YOUR HEAD\""
-msgstr ""
+msgstr "«НЕ ТЕРЯЙ ГОЛОВЫ»"
 
 #. comic574 panel p1
 #. slot: middle bubble
 #. images: thought.gif
 #: kidradd/comic574.htm:95
+#, fuzzy
 msgctxt "comic574#p1.1"
 msgid "I'm okay? Oh yeah, the \"Lucky Penny\" saved me. Thanks Eliot."
-msgstr ""
+msgstr "Я цел? А, точно, меня спасла «Счастливица Пенни». Спасибо, Элиот."
 
 #. comic574 panel p2
 #. slot: middle bubble
 #. images: thought.gif, seerhuh.gif, bogeytable14.gif
 #: kidradd/comic574.htm:152
+#, fuzzy
 msgctxt "comic574#p2.1"
 msgid "And... Huh? The Seer's..."
-msgstr ""
+msgstr "И... А? Око..."
 
 #. comic574 panel p3
 #. slot: middle bubble
 #: kidradd/comic574.htm:205
+#, fuzzy
 msgctxt "comic574#p3.1"
 msgid "Im... Impossible... I <i>know</i> you have only four hits. I'm the frikkin' <b>Seer,</b> I know everything!"
-msgstr ""
+msgstr "Не... Невозможно... Я <i>знаю,</i> что у тебя было всего четыре удара. Я, блин, <b>Око,</b> я знаю всё!"
 
 #. comic574 panel p4
 #. slot: left bubble
 #. images: cstwirl.gif
 #: kidradd/comic574.htm:254
+#, fuzzy
 msgctxt "comic574#p4.1"
 msgid "I've never been wrong about <b>anything!</b> What the hell is going on???"
-msgstr ""
+msgstr "Я никогда <b>ни в чём</b> не ошибался! Что, чёрт возьми, происходит???"
 
 #. comic574 panel p4
 #. slot: right bubble
 #. images: cstwirl.gif
 #: kidradd/comic574.htm:258
+#, fuzzy
 msgctxt "comic574#p4.2"
 msgid "Uh-oh. He's pissed."
-msgstr ""
+msgstr "Ой-ой. Его разобрало."
 
 #. comic574 panel p4
 #. slot: insert ground "tiles" on this line
 #. images: cstwirl.gif
 #: kidradd/comic574.htm:267
+#, fuzzy
 msgctxt "comic574#p4.3"
 msgid "American sense of the word. Seer don't drink."
-msgstr ""
+msgstr "От злости. Око не пьёт."
 
 #. comic575 panel title
 #. slot: background color and image
 #: kidradd/comic575.htm:52
+#, fuzzy
 msgctxt "comic575#title.1"
 msgid "\"HOLD ON LOOSELY\""
-msgstr ""
+msgstr "«ДЕРЖИСЬ ПОСВОБОДНЕЕ»"
 
 #. comic575 panel p1
 #. slot: left bubble
 #: kidradd/comic575.htm:93
+#, fuzzy
 msgctxt "comic575#p1.1"
 msgid "WHY WON'T YOU DIE???"
-msgstr ""
+msgstr "ДА ПОЧЕМУ ТЫ НЕ СДОХНЕШЬ???"
 
 #. comic575 panel p1
 #. slot: right bubble
 #: kidradd/comic575.htm:97
+#, fuzzy
 msgctxt "comic575#p1.2"
 msgid "Man. I guess omniscient entities don't like to be surprised."
-msgstr ""
+msgstr "Блин. Видимо, всезнающие существа не любят сюрпризов."
 
 #. comic575 panel p2
 #. slot: middle bubble
 #. images: thought.gif, firecs.gif
 #: kidradd/comic575.htm:152
+#, fuzzy
 msgctxt "comic575#p2.1"
 msgid "But how did the Seer miss the Lucky Penny? Weren't his eyes in this server when Eliot gave it to me? Aren't they everywhere? Weird."
-msgstr ""
+msgstr "Но как Око проглядело «Счастливицу Пенни»? Разве его глаз не было на сервере, когда Элиот мне её дал? Они же повсюду? Странно."
 
 #. comic575 panel p3
 #. slot: middle bubble
 #: kidradd/comic575.htm:206
+#, fuzzy
 msgctxt "comic575#p3.1"
 msgid "But in his rage, he's super sloppy. Throwing all his moves at me, but not using 'em well. Showing me exactly how I need to beat him."
-msgstr ""
+msgstr "Но в ярости он ужасно небрежен. Швыряет в меня все приёмы, но использует их бестолково. Прямо показывает, как его победить."
 
 #. comic575 panel p4
 #. slot: left bubble
 #. images: keepatit.gif
 #: kidradd/comic575.htm:255
+#, fuzzy
 msgctxt "comic575#p4.1"
 msgid "So if this is the Seer's final form... It'll take awhile, but I'll win. Big if."
-msgstr ""
+msgstr "Так что если это последняя форма Ока... Будет долго, но я выиграю. Большое «если»."
 
 #. comic575 panel p4
 #. slot: right bubble
 #. images: keepatit.gif
 #: kidradd/comic575.htm:259
+#, fuzzy
 msgctxt "comic575#p4.2"
 msgid "JUST DIE ALREADY!"
-msgstr ""
+msgstr "ДА СДОХНИ УЖЕ!"
 
 #. comic576 panel title
 #. slot: background color and image
 #: kidradd/comic576.htm:52
+#, fuzzy
 msgctxt "comic576#title.1"
 msgid "\"DESPERATE TIMES\""
-msgstr ""
+msgstr "«ОТЧАЯННЫЕ ВРЕМЕНА»"
 
 #. comic576 panel p1
 #. slot: left bubble
 #. images: mod.gif, modsigh.gif
 #: kidradd/comic576.htm:93
+#, fuzzy
 msgctxt "comic576#p1.1"
 msgid "We can't stop 'em, sir. They've already gotten most of the bosses."
-msgstr ""
+msgstr "Нам их не остановить, сэр. Они уже перебили почти всех боссов."
 
 #. comic576 panel p1
 #. slot: right bubble
 #. images: mod.gif, modsigh.gif
 #: kidradd/comic576.htm:97
+#, fuzzy
 msgctxt "comic576#p1.2"
 msgid "This ain't right..."
-msgstr ""
+msgstr "Так не пойдёт..."
 
 #. comic576 panel p2
 #. slot: middle bubble
 #: kidradd/comic576.htm:152
+#, fuzzy
 msgctxt "comic576#p2.1"
 msgid "Those little old guys aren't very powerful, but seem invincible. And the others have such ridiculously strong powers - we can't even touch 'em."
-msgstr ""
+msgstr "Эти старички не очень сильны, но их как будто не убить. А у остальных такие нелепо мощные способности — мы их даже задеть не можем."
 
 #. comic576 panel p3
 #. slot: left bubble
 #. images: mod.gif, modsigh.gif
 #: kidradd/comic576.htm:204
+#, fuzzy
 msgctxt "comic576#p3.1"
 msgid "Worst of all, they've made it to Chimera and are trying to enter as we speak."
-msgstr ""
+msgstr "Хуже всего, что они добрались до «Химеры» и прямо сейчас пытаются войти."
 
 #. comic576 panel p3
 #. slot: right bubble
 #. images: mod.gif, modsigh.gif
 #: kidradd/comic576.htm:208
+#, fuzzy
 msgctxt "comic576#p3.2"
 msgid "Then stop 'em! Do whatever it takes!"
-msgstr ""
+msgstr "Так остановите их! Любой ценой!"
 
 #. comic576 panel p4
 #. slot: left bubble
 #: kidradd/comic576.htm:257
+#, fuzzy
 msgctxt "comic576#p4.1"
 msgid "I think we reached \"whatever it takes\" status half an hour ago."
-msgstr ""
+msgstr "По-моему, до «любой цены» мы дошли ещё полчаса назад."
 
 #. comic576 panel p4
 #. slot: right bubble
 #: kidradd/comic576.htm:261
+#, fuzzy
 msgctxt "comic576#p4.2"
 msgid "Son of a bit..."
-msgstr ""
+msgstr "Сукин би..."
 
 #. comic576 panel p4
 #. slot: insert ground "tiles" on this line
 #: kidradd/comic576.htm:271
+#, fuzzy
 msgctxt "comic576#p4.3"
 msgid "Mmm, waffles."
-msgstr ""
+msgstr "М-м, бисквиты."
 
 #. comic577 panel title
 #. slot: background color and image
 #: kidradd/comic577.htm:45
+#, fuzzy
 msgctxt "comic577#title.1"
 msgid "\"SUCH A SMART BOY\""
-msgstr ""
+msgstr "«ТАКОЙ УМНЫЙ МАЛЬЧИК»"
 
 #. comic577 panel p1
 #. slot: middle bubble
 #. images: dodgin.gif
 #: kidradd/comic577.htm:88
+#, fuzzy
 msgctxt "comic577#p1.1"
 msgid "Okay, there's no way I can lose now! The Seer's lost his cool, is repeating like crazy, and hasn't pulled anything new for several minutes. It's over for him."
-msgstr ""
+msgstr "Ну всё, теперь я никак не могу проиграть! Око потеряло самообладание, повторяется как заведённое и уже несколько минут не выдаёт ничего нового. Ему конец."
 
 #. comic577 panel p2
 #. slot: left bubble
 #. images: csouch.gif
 #: kidradd/comic577.htm:143
+#, fuzzy
 msgctxt "comic577#p2.1"
 msgid "Wait... Here it is... Now I see it..."
-msgstr ""
+msgstr "Погоди... Вот оно... Теперь я вижу..."
 
 #. comic577 panel p2
 #. slot: right bubble
 #. images: csouch.gif
 #: kidradd/comic577.htm:147
+#, fuzzy
 msgctxt "comic577#p2.2"
 msgid "Uh-oh. He's calming down. That can't be good."
-msgstr ""
+msgstr "Ой-ой. Он успокаивается. Не к добру это."
 
 #. comic577 panel p3
 #. slot: middle bubble
 #. images: csthink.gif
 #: kidradd/comic577.htm:199
+#, fuzzy
 msgctxt "comic577#p3.1"
 msgid "For some reason it's taking me longer to process my incoming data... But it was Eliot. Yes, the Lucky Penny, heh... So you do have one hit left."
-msgstr ""
+msgstr "Почему-то входящие данные обрабатываются у меня дольше... Но это был Элиот. Да, «Счастливица Пенни», хех... Значит, один удар у тебя всё-таки остался."
 
 #. comic577 panel p4
 #. slot: left bubble
 #. images: thought2.gif
 #: kidradd/comic577.htm:250
+#, fuzzy
 msgctxt "comic577#p4.1"
 msgid "Control room, seal the exit. Radd's not gonna run from this one."
-msgstr ""
+msgstr "Пультовая, заблокировать выход. От меня Улёт не сбежит."
 
 #. comic577 panel p4
 #. slot: right bubble
 #. images: thought2.gif
 #: kidradd/comic577.htm:254
+#, fuzzy
 msgctxt "comic577#p4.2"
 msgid "Again, uh-oh."
-msgstr ""
+msgstr "И снова ой-ой."
 
 #. comic578 panel title
 #. slot: background color and image
 #: kidradd/comic578.htm:34
+#, fuzzy
 msgctxt "comic578#title.1"
 msgid "\"NEVER EASY\""
-msgstr ""
+msgstr "«ЛЕГКО НЕ БЫВАЕТ»"
 
 #. comic578 panel p1
 #. slot: left bubble
 #. images: thestand.gif
 #: kidradd/comic578.htm:75
+#, fuzzy
 msgctxt "comic578#p1.1"
 msgid "You guys hold off the entrance while we go in to help Radd."
-msgstr ""
+msgstr "Держите вход, а мы пойдём на помощь Улёту."
 
 #. comic578 panel p1
 #. slot: right bubble
 #. images: thestand.gif
 #: kidradd/comic578.htm:79
+#, fuzzy
 msgctxt "comic578#p1.2"
 msgid "Aye aye, Captain!"
-msgstr ""
+msgstr "Есть, капитан!"
 
 #. comic578 panel p2
 #. slot: left bubble
 #. images: chgroup1.gif
 #: kidradd/comic578.htm:130
+#, fuzzy
 msgctxt "comic578#p2.1"
 msgid "The chimerization chamber is locked."
-msgstr ""
+msgstr "Камера химеризации заперта."
 
 #. comic578 panel p2
 #. slot: right bubble
 #. images: chgroup1.gif
 #: kidradd/comic578.htm:134
+#, fuzzy
 msgctxt "comic578#p2.2"
 msgid "Figures. IB, can you open it?"
-msgstr ""
+msgstr "Кто бы сомневался. Ай-Би, откроешь?"
 
 #. comic578 panel p3
 #. slot: left bubble
 #. images: chgroup2.gif
 #: kidradd/comic578.htm:184
+#, fuzzy
 msgctxt "comic578#p3.1"
 msgid "Nope. It's like a plot door or something."
-msgstr ""
+msgstr "Не-а. Это вроде сюжетной двери или типа того."
 
 #. comic578 panel p3
 #. slot: middle bubble
 #. images: chgroup2.gif
 #: kidradd/comic578.htm:186
+#, fuzzy
 msgctxt "comic578#p3.2"
 msgid "Dr. Amp, what about you?"
-msgstr ""
+msgstr "Доктор Амп, а вы?"
 
 #. comic578 panel p3
 #. slot: right bubble
 #. images: chgroup2.gif
 #: kidradd/comic578.htm:188
+#, fuzzy
 msgctxt "comic578#p3.3"
 msgid "I can't open it here, but maybe from the control room..."
-msgstr ""
+msgstr "Отсюда не открою, но, может, из пультовой..."
 
 #. comic578 panel p4
 #. slot: left bubble
 #. images: chgroup3.gif
 #: kidradd/comic578.htm:236
+#, fuzzy
 msgctxt "comic578#p4.1"
 msgid "...And if the control room is locked?"
-msgstr ""
+msgstr "...А если пультовая заперта?"
 
 #. comic578 panel p4
 #. slot: middle bubble
 #. images: chgroup3.gif
 #: kidradd/comic578.htm:238
+#, fuzzy
 msgctxt "comic578#p4.2"
 msgid "Control rooms are never locked. Don't you watch movies?"
-msgstr ""
+msgstr "Пультовые не запирают. Ты что, кино не смотришь?"
 
 #. comic578 panel p4
 #. slot: right bubble
 #. images: chgroup3.gif
 #: kidradd/comic578.htm:240
+#, fuzzy
 msgctxt "comic578#p4.3"
 msgid "And the seats have their backs to the door too, of course."
-msgstr ""
+msgstr "И кресла там стоят спинками к двери."
 
 #. comic579 panel title
 #. slot: background color and image
 #: kidradd/comic579.htm:34
+#, fuzzy
 msgctxt "comic579#title.1"
 msgid "\"CONTROL\""
-msgstr ""
+msgstr "«КОНТРОЛЬ»"
 
 #. comic579 panel p1
 #. slot: left bubble
 #: kidradd/comic579.htm:75
+#, fuzzy
 msgctxt "comic579#p1.1"
 msgid "You were right, getting in here <i>was</i> easy."
-msgstr ""
+msgstr "Ты был прав, пробраться сюда <i>оказалось</i> просто."
 
 #. comic579 panel p1
 #. slot: right bubble
 #: kidradd/comic579.htm:79
+#, fuzzy
 msgctxt "comic579#p1.2"
 msgid "Told ya."
-msgstr ""
+msgstr "А я что говорил."
 
 #. comic579 panel p2
 #. slot: left bubble
 #. images: chgroup4.gif
 #: kidradd/comic579.htm:130
+#, fuzzy
 msgctxt "comic579#p2.1"
 msgid "Unfortunately, they changed the passcodes and I can't do a bloody thing."
-msgstr ""
+msgstr "К сожалению, пароли сменили, и я ни черта не могу сделать."
 
 #. comic579 panel p2
 #. slot: right bubble
 #. images: chgroup4.gif
 #: kidradd/comic579.htm:134
+#, fuzzy
 msgctxt "comic579#p2.2"
 msgid "Of course."
-msgstr ""
+msgstr "Ну конечно."
 
 #. comic579 panel p3
 #. slot: left bubble
 #. images: chgroup5.gif
 #: kidradd/comic579.htm:183
+#, fuzzy
 msgctxt "comic579#p3.1"
 msgid "On the bright side, we have the perfect view of the battle!"
-msgstr ""
+msgstr "Зато отсюда битву отлично видно!"
 
 #. comic579 panel p3
 #. slot: right bubble
 #. images: chgroup5.gif
 #: kidradd/comic579.htm:187
+#, fuzzy
 msgctxt "comic579#p3.2"
 msgid "Oh my gosh! Bogey's in there too!"
-msgstr ""
+msgstr "Боже мой! Там и Бяка!"
 
 #. comic579 panel p4
 #. slot: left bubble
 #. images: thought2.gif, lockup.gif
 #: kidradd/comic579.htm:235
+#, fuzzy
 msgctxt "comic579#p4.1"
 msgid "So Radd, wanna see my final trick?"
-msgstr ""
+msgstr "Ну что, Улёт, хочешь увидеть мой последний фокус?"
 
 #. comic579 panel p4
 #. slot: right bubble
 #. images: thought2.gif, lockup.gif
 #: kidradd/comic579.htm:239
+#, fuzzy
 msgctxt "comic579#p4.2"
 msgid "Once more, uh-oh."
-msgstr ""
+msgstr "Опять ой-ой."
 
 #. comic580 panel title
 #. slot: background color and image
 #: kidradd/comic580.htm:52
+#, fuzzy
 msgctxt "comic580#title.1"
 msgid "\"THIS IS IT\""
-msgstr ""
+msgstr "«ВОТ И ВСЁ»"
 
 #. comic580 panel p1
 #. slot: middle bubble
 #: kidradd/comic580.htm:95
+#, fuzzy
 msgctxt "comic580#p1.1"
 msgid "Witness \"Countdown,\" a one-time attack which gives you only sixty seconds to defeat me."
-msgstr ""
+msgstr "Узри «Обратный отсчёт» — разовую атаку: у тебя всего шестьдесят секунд, чтобы меня победить."
 
 #. comic580 panel p2
 #. slot: middle bubble
 #: kidradd/comic580.htm:152
+#, fuzzy
 msgctxt "comic580#p2.1"
 msgid "When the countdown ends, an unavoidable 9999 point blast will emanate, ending your pathetic life. While saving mine, of course."
-msgstr ""
+msgstr "Когда отсчёт закончится, грянет неотразимый взрыв на 9999 очков и оборвёт твою жалкую жизнь. А мою, разумеется, сохранит."
 
 #. comic580 panel p3
 #. slot: left bubble
 #. images: csfret.gif
 #: kidradd/comic580.htm:204
+#, fuzzy
 msgctxt "comic580#p3.1"
 msgid "You... You cheating bastard!"
-msgstr ""
+msgstr "Ты... Ты, жулик поганый!"
 
 #. comic580 panel p3
 #. slot: middle bubble
 #. images: csfret.gif
 #: kidradd/comic580.htm:208
+#, fuzzy
 msgctxt "comic580#p3.2"
 msgid "Fire all you want, you don't have nearly enough time to destroy me. There's absolutely nothing - <i>nothing</i> - you can do."
-msgstr ""
+msgstr "Стреляй сколько хочешь, тебе не хватит времени меня уничтожить. Ты ничего — <i>ничего</i> — не можешь сделать."
 
 #. comic580 panel p4
 #. slot: left bubble
 #. images: csbogey.gif
 #: kidradd/comic580.htm:256
+#, fuzzy
 msgctxt "comic580#p4.1"
 msgid "Maybe not, but there's something <b>I</b> can."
-msgstr ""
+msgstr "Он, может, и нет, а вот <b>я</b> могу."
 
 #. comic580 panel p4
 #. slot: middle bubble
 #. images: csbogey.gif
 #: kidradd/comic580.htm:258
+#, fuzzy
 msgctxt "comic580#p4.2"
 msgid "Wha - Bogey? When did?..."
-msgstr ""
+msgstr "Что... Бяка? Когда ты?.."
 
 #. comic580 panel p4
 #. slot: right bubble
 #. images: csbogey.gif
 #: kidradd/comic580.htm:260
+#, fuzzy
 msgctxt "comic580#p4.3"
 msgid "You??? NO!!!!!"
-msgstr ""
+msgstr "Ты??? НЕТ!!!!!"
 
 #. comic581 panel title
 #. slot: background color and image
 #: kidradd/comic581.htm:46
+#, fuzzy
 msgctxt "comic581#title.1"
 msgid "\"CAN'T TAKE IT WITH YOU\""
-msgstr ""
+msgstr "«С СОБОЙ НЕ ЗАБЕРЁШЬ»"
 
 #. comic581 panel p1
 #. slot: left bubble
 #. images: csbogey2.gif
 #: kidradd/comic581.htm:87
+#, fuzzy
 msgctxt "comic581#p1.1"
 msgid "Bogey, what are you doing here?"
-msgstr ""
+msgstr "Бяка, что ты тут делаешь?"
 
 #. comic581 panel p1
 #. slot: middle bubble
 #. images: csbogey2.gif
 #: kidradd/comic581.htm:89
+#, fuzzy
 msgctxt "comic581#p1.2"
 msgid "Saving the world, hopefully."
-msgstr ""
+msgstr "Спасаю мир, надеюсь."
 
 #. comic581 panel p1
 #. slot: right bubble
 #. images: csbogey2.gif
 #: kidradd/comic581.htm:91
+#, fuzzy
 msgctxt "comic581#p1.3"
 msgid "DON'T LISTEN TO HIM!!!"
-msgstr ""
+msgstr "НЕ СЛУШАЙ ЕГО!!!"
 
 #. comic581 panel p2
 #. slot: left bubble
 #. images: bogeystand.gif, raddsigh2.gif
 #: kidradd/comic581.htm:142
+#, fuzzy
 msgctxt "comic581#p2.1"
 msgid "Look Radd, your only hope of surviving this blast is if you fill your lifemeter now, right?"
-msgstr ""
+msgstr "Слушай, Улёт, ты переживёшь взрыв, только если сейчас заполнишь шкалу жизни, так?"
 
 #. comic581 panel p2
 #. slot: right bubble
 #. images: bogeystand.gif, raddsigh2.gif
 #: kidradd/comic581.htm:146
+#, fuzzy
 msgctxt "comic581#p2.2"
 msgid "Yeah, 'fraid so. I don't suppose you have a power-up?"
-msgstr ""
+msgstr "Ага, боюсь, что так. У тебя нет бонуса?"
 
 #. comic581 panel p3
 #. slot: left bubble
 #: kidradd/comic581.htm:196
+#, fuzzy
 msgctxt "comic581#p3.1"
 msgid "Sort of. Think back to our game. Remember how some enemies left behind power-ups when you blasted them?"
-msgstr ""
+msgstr "Вроде того. Вспомни нашу игру. Помнишь, как некоторые враги оставляли бонусы, когда ты их подстреливал?"
 
 #. comic581 panel p3
 #. slot: right bubble
 #: kidradd/comic581.htm:200
+#, fuzzy
 msgctxt "comic581#p3.2"
 msgid "Yeah?..."
-msgstr ""
+msgstr "Ну да?.."
 
 #. comic581 panel p4
 #. slot: left bubble
 #. images: bogeysad.gif, raddsweet2.gif
 #: kidradd/comic581.htm:248
+#, fuzzy
 msgctxt "comic581#p4.1"
 msgid "Well, <b>I'm</b> one of those enemies. Shoot me and you can recharge."
-msgstr ""
+msgstr "Так вот, <b>я</b> — один из таких врагов. Подстрели меня и восстановишь силы."
 
 #. comic581 panel p4
 #. slot: right bubble
 #. images: bogeysad.gif, raddsweet2.gif
 #: kidradd/comic581.htm:252
+#, fuzzy
 msgctxt "comic581#p4.2"
 msgid "Really? Awesome!"
-msgstr ""
+msgstr "Правда? Зашибись!"
 
 #. comic581 panel p5
 #. slot: middle bubble
 #. images: bogeydep.gif, raddwow2.gif
 #: kidradd/comic581.htm:305
+#, fuzzy
 msgctxt "comic581#p5.1"
 msgid "Oh..."
-msgstr ""
+msgstr "Ой..."
 
 #. comic582 panel title
 #. slot: background color and image
 #: kidradd/comic582.htm:52
+#, fuzzy
 msgctxt "comic582#title.1"
 msgid "\"HIDE IN YOUR SHELL\""
-msgstr ""
+msgstr "«СПРЯЧЬСЯ В ПАНЦИРЬ»"
 
 #. comic582 panel p1
 #. slot: left bubble
 #. images: csbogey3.gif
 #: kidradd/comic582.htm:93
+#, fuzzy
 msgctxt "comic582#p1.1"
 msgid "STAY OUT OF THIS, YOU GREEN FREAK!!!"
-msgstr ""
+msgstr "НЕ ЛЕЗЬ НЕ В СВОЁ ДЕЛО, ЗЕЛЁНЫЙ УРОД!!!"
 
 #. comic582 panel p1
 #. slot: middle bubble
 #. images: csbogey3.gif
 #: kidradd/comic582.htm:95
+#, fuzzy
 msgctxt "comic582#p1.2"
 msgid "Bogey, I can't just <i>shoot</i> you!"
-msgstr ""
+msgstr "Бяка, я не могу просто взять и <i>застрелить</i> тебя!"
 
 #. comic582 panel p1
 #. slot: right bubble
 #. images: csbogey3.gif
 #: kidradd/comic582.htm:97
+#, fuzzy
 msgctxt "comic582#p1.3"
 msgid "You have to! If you don't, we'll <i>both</i> be dead - soon followed by the rest of the world."
-msgstr ""
+msgstr "Придётся! Иначе мы <i>оба</i> умрём — а вскоре за нами и весь мир."
 
 #. comic582 panel p2
 #. slot: left bubble
 #. images: raddergh.gif, bogeymad2.gif
 #: kidradd/comic582.htm:148
+#, fuzzy
 msgctxt "comic582#p2.1"
 msgid "I know, but this ain't exactly easy for me! Just... give me a minute."
-msgstr ""
+msgstr "Знаю, но мне, знаешь ли, не так-то легко! Просто... дай мне минутку."
 
 #. comic582 panel p2
 #. slot: right bubble
 #. images: raddergh.gif, bogeymad2.gif
 #: kidradd/comic582.htm:152
+#, fuzzy
 msgctxt "comic582#p2.2"
 msgid "We don't <i>have</i> a minute. I'm not crazy about it either, but there's only seconds left!"
-msgstr ""
+msgstr "Нет у нас <i>никакой</i> минутки. Мне это тоже не по душе, но остались считанные секунды!"
 
 #. comic582 panel p3
 #. slot: left bubble
 #. images: raddfreak.gif, bogeysad2.gif
 #: kidradd/comic582.htm:202
+#, fuzzy
 msgctxt "comic582#p3.1"
 msgid "Look, just before I do it... understand that you're the best friend I've ever had and..."
-msgstr ""
+msgstr "Слушай, пока я не... знай, что ты лучший друг, какой у меня когда-либо был, и..."
 
 #. comic582 panel p3
 #. slot: right bubble
 #. images: raddfreak.gif, bogeysad2.gif
 #: kidradd/comic582.htm:206
+#, fuzzy
 msgctxt "comic582#p3.2"
 msgid "Likewise, but we don't have time for... Radd, forgive me for this."
-msgstr ""
+msgstr "Взаимно, но у нас нет времени на... Улёт, прости меня за это."
 
 #. comic583 panel title
 #. slot: background color and image
 #: kidradd/comic583.htm:66
+#, fuzzy
 msgctxt "comic583#title.1"
 msgid "\"NO REPLY\""
-msgstr ""
+msgstr "«НЕТ ОТВЕТА»"
 
 #. comic584 panel title
 #. slot: background color and image
 #: kidradd/comic584.htm:58
+#, fuzzy
 msgctxt "comic584#title.1"
 msgid "\"WON'T LET YOU DOWN\""
-msgstr ""
+msgstr "«НЕ ПОДВЕДУ»"
 
 #. comic584 panel p1
 #. slot: middle bubble
 #. images: thought.gif
 #: kidradd/comic584.htm:101
+#, fuzzy
 msgctxt "comic584#p1.1"
 msgid "I'm sorry, Bogey. I wish it didn't have to be this way."
-msgstr ""
+msgstr "Прости, Бяка. Жаль, что всё вышло именно так."
 
 #. comic584 panel p2
 #. slot: middle bubble
 #. images: thought.gif
 #: kidradd/comic584.htm:157
+#, fuzzy
 msgctxt "comic584#p2.1"
 msgid "It shouldn't have come to this, but I can promise you one thing..."
-msgstr ""
+msgstr "Не должно было до этого дойти, но одно я тебе обещаю..."
 
 #. comic584 panel p3
 #. slot: middle bubble
 #. images: thought.gif
 #: kidradd/comic584.htm:210
+#, fuzzy
 msgctxt "comic584#p3.1"
 msgid "Your sacrifice wasn't in vain."
-msgstr ""
+msgstr "Твоя жертва была не напрасной."
 
 #. comic585 panel title
 #. slot: background color and image
 #: kidradd/comic585.htm:46
+#, fuzzy
 msgctxt "comic585#title.1"
 msgid "\"FOOL ME TWICE\""
-msgstr ""
+msgstr "«ОБМАНИ МЕНЯ ДВАЖДЫ»"
 
 #. comic585 panel p1
 #. slot: middle bubble
 #. images: cstwirl.gif
 #: kidradd/comic585.htm:89
+#, fuzzy
 msgctxt "comic585#p1.1"
 msgid "First I didn't know about the Lucky Penny, then the green guy - dammit, what the hell's happened to my omniscience?"
-msgstr ""
+msgstr "Сначала я не знал о «Счастливице Пенни», потом этот зелёный — чёрт, да что, чёрт возьми, стало с моим всеведением?"
 
 #. comic585 panel p2
 #. slot: middle bubble
 #. images: cantbe.gif
 #: kidradd/comic585.htm:144
+#, fuzzy
 msgctxt "comic585#p2.1"
 msgid "Despite careful planning and precautions, it seems I was unable to merely posess this surrogate body. The Chimerization process has bonded it with my entire being, corrupting it."
-msgstr ""
+msgstr "Несмотря на все планы и предосторожности, просто вселиться в это тело-суррогат мне, похоже, не удалось. Химеризация сплавила его со всем моим существом и испортила."
 
 #. comic585 panel p3
 #. slot: middle bubble
 #. images: dodgetent3.gif
 #: kidradd/comic585.htm:197
+#, fuzzy
 msgctxt "comic585#p3.1"
 msgid "So what happens if Radd kills this body?... Damn, without my omniscience I don't know! Screw it, I can't play around anymore. It seems I really <i>can't</i> beat him, leaving me just one option..."
-msgstr ""
+msgstr "Так что будет, если Улёт убьёт это тело?.. Чёрт, без всеведения я не знаю! К чёрту, больше не до игр. Похоже, мне его правда <i>не</i> победить, и остаётся только один вариант..."
 
 #. comic585 panel p4
 #. slot: left bubble
 #. images: seerback.gif, boarduhoh.gif
 #: kidradd/comic585.htm:247
+#, fuzzy
 msgctxt "comic585#p4.1"
 msgid "Congratulations Radd, I concede that you're more powerful than me. But it doesn't really matter. <b>Control room! Chimerize me with Radd!</b>"
-msgstr ""
+msgstr "Поздравляю, Улёт, признаю: ты сильнее меня. Но это неважно. <b>Пультовая! Химеризуйте меня с Улётом!</b>"
 
 #. comic585 panel p5
 #. slot: left bubble
 #. images: wellnow.gif
 #: kidradd/comic585.htm:301
+#, fuzzy
 msgctxt "comic585#p5.1"
 msgid "Well? What's the holdup, start the process already!"
-msgstr ""
+msgstr "Ну? В чём задержка, запускайте процесс уже!"
 
 #. comic585 panel p5
 #. slot: narration (if any, else cut)
 #. images: wellnow.gif
 #: kidradd/comic585.htm:316
+#, fuzzy
 msgctxt "comic585#p5.2"
 msgid "\"Uh, er... We'd love to comply, but we kinda forgot the passcode.\""
-msgstr ""
+msgstr "«Э-э, ну... Мы бы с радостью, но мы, кажется, забыли пароль»."
 
 #. comic585 panel p6
 #. slot: middle bubble
 #. images: seerfront.gif
 #: kidradd/comic585.htm:355
+#, fuzzy
 msgctxt "comic585#p6.1"
 msgid "Again? For crying out loud, it's 8675309!"
-msgstr ""
+msgstr "Опять? Да сколько можно, 8675309!"
 
 #. comic585 panel p6
 #. slot: insert ground "tiles" on this line
 #. images: seerfront.gif
 #: kidradd/comic585.htm:366
+#, fuzzy
 msgctxt "comic585#p6.2"
 msgid "<font size=\"2\" face=\"arial\" color=\"000066\"><b>\"Thank you!</font> <font size=\"1\" face=\"arial\" color=\"000066\">Wow, that was easy...\"</font></b></font>"
-msgstr ""
+msgstr "<font size=\"2\" face=\"arial\" color=\"000066\"><b>«Спасибо!</font> <font size=\"1\" face=\"arial\" color=\"000066\">Ух ты, это было просто...»</font></b></font>"
 
 #. comic585 panel p7
 #. slot: left bubble
 #: kidradd/comic585.htm:405
+#, fuzzy
 msgctxt "comic585#p7.1"
 msgid "Wait, something's not right here..."
-msgstr ""
+msgstr "Стоп, что-то тут не так..."
 
 #. comic585 panel p7
 #. slot: right bubble
 #: kidradd/comic585.htm:409
+#, fuzzy
 msgctxt "comic585#p7.2"
 msgid "Actually, I think something's very right, finally."
-msgstr ""
+msgstr "Вообще-то, по-моему, наконец-то всё так."
 
 #. comic585 panel p8
 #. slot: left bubble
 #. images: madgroup.gif
 #: kidradd/comic585.htm:457
+#, fuzzy
 msgctxt "comic585#p8.1"
 msgid "No. No, NO, <b>NO!!!!! </b>Don't I have <b>any</b> omniscience left???"
-msgstr ""
+msgstr "Нет. Нет, НЕТ, <b>НЕТ!!!!! </b>Неужто всеведения <b>совсем</b> нет???"
 
 #. comic585 panel p8
 #. slot: right bubble
 #. images: madgroup.gif
 #: kidradd/comic585.htm:461
+#, fuzzy
 msgctxt "comic585#p8.2"
 msgid "Apparently not, but I'll bet you can still see exactly what's coming next."
-msgstr ""
+msgstr "Видимо, нет, но что будет дальше, ты точно предвидишь."
 
 #. comic586 panel title
 #. slot: background color and image
 #: kidradd/comic586.htm:34
+#, fuzzy
 msgctxt "comic586#title.1"
 msgid "\"LIFE'S LITTLE DISAPPOINTMENTS\""
-msgstr ""
+msgstr "«МАЛЕНЬКИЕ ЖИЗНЕННЫЕ РАЗОЧАРОВАНИЯ»"
 
 #. comic586 panel p1
 #. slot: middle bubble
 #. images: csblast.gif
 #: kidradd/comic586.htm:77
+#, fuzzy
 msgctxt "comic586#p1.1"
 msgid "I planned this for so long and yet I've been wrong about everything, my power isn't nearly what I'd hoped, and now... now I don't know what happens."
-msgstr ""
+msgstr "Я так долго это планировал, но ошибся во всём, моя сила далеко не та, на какую я надеялся, а теперь... теперь я не знаю, что будет."
 
 #. comic586 panel p2
 #. slot: middle bubble
 #. images: notgood2.gif
 #: kidradd/comic586.htm:133
+#, fuzzy
 msgctxt "comic586#p2.1"
 msgid "If this is my permanent body here, I won't be able to take another one when it's put into \"death\" mode. I may not be able to return to this plane."
-msgstr ""
+msgstr "Если это моё постоянное тело, я не смогу сменить его, когда оно уйдёт в режим «смерти». Может, я не вернусь на этот уровень."
 
 #. comic586 panel p3
 #. slot: middle bubble
 #. images: juliebuzz.gif
 #: kidradd/comic586.htm:186
+#, fuzzy
 msgctxt "comic586#p3.1"
 msgid "As much as it pains me, I won't be able to make cyberspace's inhabitants bow to me before I destroy the world. That's such a frustrating shame..."
-msgstr ""
+msgstr "Как ни больно, я не успею заставить обитателей киберпространства склониться передо мной, прежде чем уничтожу мир. Какая досада..."
 
 #. comic587 panel title
 #. slot: background color and image
 #: kidradd/comic587.htm:52
+#, fuzzy
 msgctxt "comic587#title.1"
 msgid "\"FOOL ME THRICE\""
-msgstr ""
+msgstr "«ОБМАНИ МЕНЯ ТРИЖДЫ»"
 
 #. comic587 panel p1
 #. slot: left bubble
 #: kidradd/comic587.htm:93
+#, fuzzy
 msgctxt "comic587#p1.1"
 msgid "Victory!"
-msgstr ""
+msgstr "Победа!"
 
 #. comic587 panel p1
 #. slot: middle bubble
 #: kidradd/comic587.htm:95
+#, fuzzy
 msgctxt "comic587#p1.2"
 msgid "Rock!"
-msgstr ""
+msgstr "Рулим!"
 
 #. comic587 panel p1
 #. slot: right bubble
 #: kidradd/comic587.htm:97
+#, fuzzy
 msgctxt "comic587#p1.3"
 msgid "Grrr..."
-msgstr ""
+msgstr "Гр-р-р..."
 
 #. comic587 panel p2
 #. slot: middle bubble
 #. images: notgood.gif
 #: kidradd/comic587.htm:151
+#, fuzzy
 msgctxt "comic587#p2.1"
 msgid "Fools! This is only a game death! I'll still exist, and will still destroy the world!"
-msgstr ""
+msgstr "Глупцы! Это лишь игровая смерть! Я буду жить и всё равно уничтожу мир!"
 
 #. comic587 panel p3
 #. slot: middle bubble
 #. images: notgood3.gif
 #: kidradd/comic587.htm:205
+#, fuzzy
 msgctxt "comic587#p3.1"
 msgid "Hold on - Something's amiss. Am I forgetting something?"
-msgstr ""
+msgstr "Погодите... Что-то не так. Я что-то забыл?"
 
 #. comic587 panel p4
 #. slot: middle bubble
 #. images: chgroup6.gif
 #: kidradd/comic587.htm:257
+#, fuzzy
 msgctxt "comic587#p4.1"
 msgid "Doo de doo, doot de doooo..."
-msgstr ""
+msgstr "Ду-ду-ду, ду-ду-дууу..."
 
 #. comic587 panel p5
 #. slot: middle bubble
 #: kidradd/comic587.htm:311
+#, fuzzy
 msgctxt "comic587#p5.1"
 msgid "Oh yeah, the control room. <b>Sh-</b>"
-msgstr ""
+msgstr "Ах да, пультовая. <b>Чё-</b>"
 
 #. comic588 panel title
 #. slot: background color and image
 #: kidradd/comic588.htm:46
+#, fuzzy
 msgctxt "comic588#title.1"
 msgid "\"DO THE DEUS\""
-msgstr ""
+msgstr "«БОГ ИЗ МАШИНЫ»"
 
 #. comic588 panel p1
 #. slot: left bubble
 #. images: chgroup7.gif
 #: kidradd/comic588.htm:87
+#, fuzzy
 msgctxt "comic588#p1.1"
 msgid "What happened? Is the Seer?..."
-msgstr ""
+msgstr "Что случилось? А Око?.."
 
 #. comic588 panel p1
 #. slot: right bubble
 #. images: chgroup7.gif
 #: kidradd/comic588.htm:91
+#, fuzzy
 msgctxt "comic588#p1.2"
 msgid "Incapacitated. Probably permanently."
-msgstr ""
+msgstr "Выведено из строя. Вероятно, навсегда."
 
 #. comic588 panel p2
 #. slot: left bubble
 #. images: sheenaright.gif, raddblink.gif, ampstand2.gif
 #: kidradd/comic588.htm:142
+#, fuzzy
 msgctxt "comic588#p2.1"
 msgid "Alright Amp! I don't know what you did, but thanks!"
-msgstr ""
+msgstr "Йес, Амп! Не знаю, что ты сделал, но спасибо!"
 
 #. comic588 panel p2
 #. slot: right bubble
 #. images: sheenaright.gif, raddblink.gif, ampstand2.gif
 #: kidradd/comic588.htm:146
+#, fuzzy
 msgctxt "comic588#p2.2"
 msgid "It was nothing."
-msgstr ""
+msgstr "Пустяки."
 
 #. comic588 panel p2
 #. slot: insert ground "tiles" on this line
 #. images: sheenaright.gif, raddblink.gif, ampstand2.gif
 #: kidradd/comic588.htm:156
+#, fuzzy
 msgctxt "comic588#p2.3"
 msgid "I seem to rarely use this setup anymore."
-msgstr ""
+msgstr "Что-то я эту расстановку в последнее время почти не использую."
 
 #. comic588 panel p3
 #. slot: left bubble
 #. images: sheenastand.gif, raddstand.gif, ampstand2.gif
 #: kidradd/comic588.htm:197
+#, fuzzy
 msgctxt "comic588#p3.1"
 msgid "But what <i>did</i> you do?"
-msgstr ""
+msgstr "Но что ты <i>сделал</i>-то?"
 
 #. comic588 panel p3
 #. slot: right bubble
 #. images: sheenastand.gif, raddstand.gif, ampstand2.gif
 #: kidradd/comic588.htm:201
+#, fuzzy
 msgctxt "comic588#p3.2"
 msgid "Exactly what I said: Nothing."
-msgstr ""
+msgstr "Ровно то, что сказал: ничего."
 
 #. comic588 panel p4
 #. slot: left bubble
 #. images: sheenastand.gif, raddright.gif, ampstand2.gif
 #: kidradd/comic588.htm:250
+#, fuzzy
 msgctxt "comic588#p4.1"
 msgid "But..."
-msgstr ""
+msgstr "Но..."
 
 #. comic588 panel p4
 #. slot: right bubble
 #. images: sheenastand.gif, raddright.gif, ampstand2.gif
 #: kidradd/comic588.htm:254
+#, fuzzy
 msgctxt "comic588#p4.2"
 msgid "Sure I played around with the controls, scanning for a way to mess up the Seer, until I realized Crystal had already done it."
-msgstr ""
+msgstr "Ну, я поигрался с пультом, искал, как бы вывести Око из строя, пока не понял, что Кристал уже это сделала."
 
 #. comic588 panel p5
 #. slot: narration (if any, else cut)
 #: kidradd/comic588.htm:301
+#, fuzzy
 msgctxt "comic588#p5.1"
 msgid "\"Despite how carefully she selected her attributes from each sprite, she never selected which one's \"death\" sequence to follow. Trying to obey five conflicting commands, the chimerized sprite's program crashed - freezing with it the entire Seer.\""
-msgstr ""
+msgstr "«Как тщательно она ни подбирала качества каждого спрайта, она не выбрала, чью „смерть“ выполнять. Пытаясь выполнить пять противоречивых команд, программа химеры рухнула — и вместе с ней зависло всё Око»."
 
 #. comic588 panel p6
 #. slot: left bubble
 #. images: sheenano.gif, raddwow.gif, ampstand2.gif
 #: kidradd/comic588.htm:356
+#, fuzzy
 msgctxt "comic588#p6.1"
 msgid "Wait, so in the end it was just dumb luck that defeated the world's greatest threat?"
-msgstr ""
+msgstr "Погоди, так величайшую угрозу миру в итоге победило просто дурацкое везение?"
 
 #. comic588 panel p6
 #. slot: right bubble
 #. images: sheenano.gif, raddwow.gif, ampstand2.gif
 #: kidradd/comic588.htm:360
+#, fuzzy
 msgctxt "comic588#p6.2"
 msgid "Well, not completely. You guys had to beat him first."
-msgstr ""
+msgstr "Ну, не совсем. Сначала вам пришлось его побить."
 
 #. comic588 panel p7
 #. slot: left bubble
 #. images: sheenablink.gif, raddsigh.gif, ampstand2.gif
 #: kidradd/comic588.htm:408
+#, fuzzy
 msgctxt "comic588#p7.1"
 msgid "Perhaps, but it would've felt better to defeat a competent villain."
-msgstr ""
+msgstr "Может быть, но приятнее было бы победить толкового злодея."
 
 #. comic588 panel p7
 #. slot: right bubble
 #. images: sheenablink.gif, raddsigh.gif, ampstand2.gif
 #: kidradd/comic588.htm:412
+#, fuzzy
 msgctxt "comic588#p7.2"
 msgid "Yeah, for an omniscient being the Seer wasn't too bright."
-msgstr ""
+msgstr "Ага, для всезнающего существа Око оказалось не очень-то умным."
 
 #. comic589 panel title
 #. slot: background color and image
 #: kidradd/comic589.htm:48
+#, fuzzy
 msgctxt "comic589#title.1"
 msgid "\"GIVING UP\""
-msgstr ""
+msgstr "«КАПИТУЛЯЦИЯ»"
 
 #. comic589 panel p1
 #. slot: narration (if any, else cut)
 #. images: modgiveup.gif
 #: kidradd/comic589.htm:85
+#, fuzzy
 msgctxt "comic589#p1.1"
 msgid "Across the battlefield, hundreds of remaining Mod soldiers surrender."
-msgstr ""
+msgstr "По всему полю боя сдаются сотни оставшихся солдат-Модеров."
 
 #. comic589 panel p2
 #. slot: narration (if any, else cut)
 #: kidradd/comic589.htm:142
+#, fuzzy
 msgctxt "comic589#p2.1"
 msgid "Across the web, the Seer's millions of eyes fall silent."
-msgstr ""
+msgstr "По всей Сети умолкают миллионы глаз Ока."
 
 #. comic589 panel p3
 #. slot: narration (if any, else cut)
 #. images: dstairs.gif
 #: kidradd/comic589.htm:197
+#, fuzzy
 msgctxt "comic589#p3.1"
 msgid "Across our heroes falls an eerie silence as well."
-msgstr ""
+msgstr "И над нашими героями тоже повисает жуткая тишина."
 
 #. comic589 panel p4
 #. slot: narration (if any, else cut)
 #. images: sadradd.gif
 #: kidradd/comic589.htm:252
+#, fuzzy
 msgctxt "comic589#p4.1"
 msgid "The world is finally saved, but only for the survivors. For some the price of victory, however light, is too much."
-msgstr ""
+msgstr "Мир наконец спасён, но только для выживших. Для кого-то цена победы, пусть и небольшая, слишком высока."
