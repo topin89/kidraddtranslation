@@ -12,1293 +12,1458 @@ msgstr ""
 #. comic169 panel title
 #. slot: background color and image
 #: kidradd/comic169.htm:35
+#, fuzzy
 msgctxt "comic169#title.1"
 msgid "\"CHAIN GANG\""
-msgstr ""
+msgstr "«КАТОРГА»"
 
 #. comic169 panel p1
 #. slot: narration (if any, else cut)
 #. images: transport.gif
 #: kidradd/comic169.htm:72
+#, fuzzy
 msgctxt "comic169#p1.1"
 msgid "Radd awakens on another data transport."
-msgstr ""
+msgstr "Улёт приходит в себя на очередном транспорте данных."
 
 #. comic169 panel p2
 #. slot: left bubble
 #. images: mod.gif, raddsits.gif
 #: kidradd/comic169.htm:134
+#, fuzzy
 msgctxt "comic169#p2.1"
 msgid "Geez, your kind even thaw out slowly. Pathetic."
-msgstr ""
+msgstr "Ну и ну, вы, такие, даже оттаиваете медленно. Жалкое зрелище."
 
 #. comic169 panel p2
 #. slot: right bubble
 #. images: mod.gif, raddsits.gif
 #: kidradd/comic169.htm:138
+#, fuzzy
 msgctxt "comic169#p2.2"
 msgid "Ow. My - kind?"
-msgstr ""
+msgstr "Ай. Какие — такие?"
 
 #. comic169 panel p3
 #. slot: left bubble
 #. images: mod.gif, raddsit2.gif
 #: kidradd/comic169.htm:185
+#, fuzzy
 msgctxt "comic169#p3.1"
 msgid "Leeches on society. To rehabilitate you, we're taking you off the web and sentencing you to hard labor."
-msgstr ""
+msgstr "Паразиты общества. Чтобы тебя перевоспитать, мы забираем тебя из сети и приговариваем к каторжным работам."
 
 #. comic169 panel p3
 #. slot: right bubble
 #. images: mod.gif, raddsit2.gif
 #: kidradd/comic169.htm:189
+#, fuzzy
 msgctxt "comic169#p3.2"
 msgid "Uh-oh."
-msgstr ""
+msgstr "Ой-ой."
 
 #. comic169 panel p4
 #. slot: left bubble
 #. images: mod2.gif, raddsit2.gif
 #: kidradd/comic169.htm:236
+#, fuzzy
 msgctxt "comic169#p4.1"
 msgid "You'll soon learn the value of a day's work."
-msgstr ""
+msgstr "Скоро ты узнаешь цену честному труду."
 
 #. comic169 panel p4
 #. slot: right bubble
 #. images: mod2.gif, raddsit2.gif
 #: kidradd/comic169.htm:240
+#, fuzzy
 msgctxt "comic169#p4.2"
 msgid "What kind of work?"
-msgstr ""
+msgstr "А что за работа?"
 
 #. comic169 panel p5
 #. slot: middle bubble
 #. images: icon2.gif, raddtiea2.gif
 #: kidradd/comic169.htm:290
+#, fuzzy
 msgctxt "comic169#p5.1"
 msgid "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft Office Assistant</b></font>"
-msgstr ""
+msgstr "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Помощник Майгрософт Офис</b></font>"
 
 #. comic169 panel p5
 #. slot: imsert images on this line
 #. images: icon2.gif, raddtiea2.gif
 #: kidradd/comic169.htm:299
+#, fuzzy
 msgctxt "comic169#p5.2"
 msgid "NOOOOO!!!!!"
-msgstr ""
+msgstr "НЕЕЕЕТ!!!!!"
 
 #. comic170 panel title
 #. slot: background color and image
 #: kidradd/comic170.htm:35
+#, fuzzy
 msgctxt "comic170#title.1"
 msgid "\"JUST ASK\""
-msgstr ""
+msgstr "«ПРОСТО СПРОСИ»"
 
 #. comic170 panel p1
 #. slot: right bubble
 #. images: raddsigh.gif
 #: kidradd/comic170.htm:80
+#, fuzzy
 msgctxt "comic170#p1.1"
 msgid "Man, this sucks. They keep me in this cell until the human needs his spreadsheet program."
-msgstr ""
+msgstr "Блин, отстой. Меня держат в этой камере, пока человеку не понадобятся его электронные таблицы."
 
 #. comic170 panel p2
 #. slot: middle bubble
 #. images: icon2.gif, raddtie2.gif
 #: kidradd/comic170.htm:134
+#, fuzzy
 msgctxt "comic170#p2.1"
 msgid "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft Office Assistant</b></font>"
-msgstr ""
+msgstr "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Помощник Майгрософт Офис</b></font>"
 
 #. comic170 panel p2
 #. slot: imsert images on this line
 #. images: icon2.gif, raddtie2.gif
 #: kidradd/comic170.htm:143
+#, fuzzy
 msgctxt "comic170#p2.2"
 msgid "Then, poof, here I am, your obsequious little lackey. I make fun suggestions, like..."
-msgstr ""
+msgstr "А потом — пуф! — и вот он я, ваш угодливый маленький лакей. Даю весёлые советы, например..."
 
 #. comic170 panel p3
 #. slot: middle bubble
 #. images: icon2.gif, rhead.gif, raddtie2.gif
 #: kidradd/comic170.htm:186
+#, fuzzy
 msgctxt "comic170#p3.1"
 msgid "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft Office Assistant</b></font>"
-msgstr ""
+msgstr "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Помощник Майгрософт Офис</b></font>"
 
 #. comic170 panel p3
 #. slot: imsert images on this line
 #. images: icon2.gif, rhead.gif, raddtie2.gif
 #: kidradd/comic170.htm:195
+#, fuzzy
 msgctxt "comic170#p3.2"
 msgid "<font size=\"2\" face=\"arial\"><img width=\"19\" height=\"16\" src=\"rhead.gif\"><b>Would you<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;like to:</b></font><font size=\"1\" face=\"arial\" color=\"blue\"><br><br>&nbsp;&nbsp;Change your font?<br><br>&nbsp;&nbsp;Adjust your margins?<br><br>&nbsp;&nbsp;Kiss my ass?</font>"
-msgstr ""
+msgstr "<font size=\"2\" face=\"arial\"><img width=\"19\" height=\"16\" src=\"rhead.gif\"><b>Что вы<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;хотите:</b></font><font size=\"1\" face=\"arial\" color=\"blue\"><br><br>&nbsp;&nbsp;Сменить шрифт?<br><br>&nbsp;&nbsp;Настроить поля?<br><br>&nbsp;&nbsp;Поцеловать мой зад?</font>"
 
 #. comic170 panel p4
 #. slot: right bubble
 #. images: raddsit.gif
 #: kidradd/comic170.htm:241
+#, fuzzy
 msgctxt "comic170#p4.1"
 msgid "Then I end up in the cell again."
-msgstr ""
+msgstr "А потом я снова оказываюсь в камере."
 
 #. comic171 panel title
 #. slot: background color and image
 #: kidradd/comic171.htm:35
+#, fuzzy
 msgctxt "comic171#title.1"
 msgid "\"THE QUESTION TO YOUR ANSWER\""
-msgstr ""
+msgstr "«ВОПРОС К ТВОЕМУ ОТВЕТУ»"
 
 #. comic171 panel p1
 #. slot: middle bubble
 #. images: icon2.gif, raddtie.gif
 #: kidradd/comic171.htm:78
+#, fuzzy
 msgctxt "comic171#p1.1"
 msgid "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft Office Assistant</b></font>"
-msgstr ""
+msgstr "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Помощник Майгрософт Офис</b></font>"
 
 #. comic171 panel p2
 #. slot: middle bubble
 #. images: icon2.gif, raddtie2.gif
 #: kidradd/comic171.htm:135
+#, fuzzy
 msgctxt "comic171#p2.1"
 msgid "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft Office Assistant</b></font>"
-msgstr ""
+msgstr "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Помощник Майгрософт Офис</b></font>"
 
 #. comic171 panel p2
 #. slot: imsert images on this line
 #. images: icon2.gif, raddtie2.gif
 #: kidradd/comic171.htm:144
+#, fuzzy
 msgctxt "comic171#p2.2"
 msgid "<b>User query:</b><br><u>insert images?</u>"
-msgstr ""
+msgstr "<b>Запрос:</b><br><u>вставить картинки?</u>"
 
 #. comic171 panel p2
 #. slot: imsert images on this line
 #. images: icon2.gif, raddtie2.gif
 #: kidradd/comic171.htm:144
+#, fuzzy
 msgctxt "comic171#p2.3"
 msgid "Why're you asking me? How am I supposed to know?"
-msgstr ""
+msgstr "Чего ты меня спрашиваешь? Откуда мне знать?"
 
 #. comic171 panel p3
 #. slot: middle bubble
 #. images: icon2.gif, raddtie2.gif
 #: kidradd/comic171.htm:187
+#, fuzzy
 msgctxt "comic171#p3.1"
 msgid "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Mi'growsoft Office Assistant</b></font>"
-msgstr ""
+msgstr "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Помощник Майгрософт Офис</b></font>"
 
 #. comic171 panel p3
 #. slot: imsert images on this line
 #. images: icon2.gif, raddtie2.gif
 #: kidradd/comic171.htm:196
+#, fuzzy
 msgctxt "comic171#p3.2"
 msgid "<b>User query:</b><br><u>insert images?</u>"
-msgstr ""
+msgstr "<b>Запрос:</b><br><u>вставить картинки?</u>"
 
 #. comic171 panel p3
 #. slot: imsert images on this line
 #. images: icon2.gif, raddtie2.gif
 #: kidradd/comic171.htm:196
+#, fuzzy
 msgctxt "comic171#p3.3"
 msgid "Alright, alright. Um, hold down Alt and hit F4 a few times."
-msgstr ""
+msgstr "Ладно, ладно. Эм, зажми Alt и нажми F4 пару раз."
 
 #. comic171 panel p4
 #. slot: right bubble
 #. images: raddsit.gif
 #: kidradd/comic171.htm:241
+#, fuzzy
 msgctxt "comic171#p4.1"
 msgid "Man, I shoulda thought of that earlier."
-msgstr ""
+msgstr "Блин, надо было раньше до этого додуматься."
 
 #. comic172 panel title
 #. slot: background color and image
 #: kidradd/comic172.htm:36
+#, fuzzy
 msgctxt "comic172#title.1"
 msgid "\"NO REGRETS\""
-msgstr ""
+msgstr "«НИ О ЧЁМ НЕ ЖАЛЕЮ»"
 
 #. comic172 panel p1
 #. slot: narration (if any, else cut)
 #: kidradd/comic172.htm:73
+#, fuzzy
 msgctxt "comic172#p1.1"
 msgid "Back at the diner, Sheena and Bogey discuss Radd's fate."
-msgstr ""
+msgstr "Тем временем в закусочной Шина и Бяка обсуждают судьбу Улёта."
 
 #. comic172 panel p1
 #. slot: left bubble
 #: kidradd/comic172.htm:79
+#, fuzzy
 msgctxt "comic172#p1.2"
 msgid "Bogey, do you think arresting Radd was the right choice?"
-msgstr ""
+msgstr "Бяка, по-твоему, арестовать Улёта было правильно?"
 
 #. comic172 panel p1
 #. slot: middle bubble
 #: kidradd/comic172.htm:81
+#, fuzzy
 msgctxt "comic172#p1.3"
 msgid "Probably."
-msgstr ""
+msgstr "Наверное."
 
 #. comic172 panel p2
 #. slot: left bubble
 #. images: sheenastand.gif, bogeyup2.gif
 #: kidradd/comic172.htm:136
+#, fuzzy
 msgctxt "comic172#p2.1"
 msgid "I mean, do you suppose working in an offline application will really rehabilitate him?"
-msgstr ""
+msgstr "То есть ты правда думаешь, что работа в офлайн-приложении его перевоспитает?"
 
 #. comic172 panel p2
 #. slot: right bubble
 #. images: sheenastand.gif, bogeyup2.gif
 #: kidradd/comic172.htm:140
+#, fuzzy
 msgctxt "comic172#p2.2"
 msgid "It's worth a try."
-msgstr ""
+msgstr "Попытка не пытка."
 
 #. comic172 panel p3
 #. slot: left bubble
 #. images: sheenablink.gif, bogeyup.gif
 #: kidradd/comic172.htm:187
+#, fuzzy
 msgctxt "comic172#p3.1"
 msgid "It must be painful to watch your friend slip into an illegal spiral of self-destruction."
-msgstr ""
+msgstr "Наверное, больно смотреть, как друг катится по противозаконной спирали саморазрушения."
 
 #. comic172 panel p3
 #. slot: right bubble
 #. images: sheenablink.gif, bogeyup.gif
 #: kidradd/comic172.htm:191
+#, fuzzy
 msgctxt "comic172#p3.2"
 msgid "Yep. Devastating."
-msgstr ""
+msgstr "Ага. Сердце разрывается."
 
 #. comic172 panel p4
 #. slot: left bubble
 #. images: sheenamad.gif, bogeyupt2.gif
 #: kidradd/comic172.htm:239
+#, fuzzy
 msgctxt "comic172#p4.1"
 msgid "...Or you might just be glad to get him out of your apartment."
-msgstr ""
+msgstr "...А может, ты просто рад, что он съехал из твоей квартиры."
 
 #. comic172 panel p4
 #. slot: right bubble
 #. images: sheenamad.gif, bogeyupt2.gif
 #: kidradd/comic172.htm:243
+#, fuzzy
 msgctxt "comic172#p4.2"
 msgid "Damn straight."
-msgstr ""
+msgstr "Ещё бы."
 
 #. comic173 panel title
 #. slot: background color and image
 #: kidradd/comic173.htm:36
+#, fuzzy
 msgctxt "comic173#title.1"
 msgid "\"TOUGH LOVE\""
-msgstr ""
+msgstr "«ЖЁСТКАЯ ЛЮБОВЬ»"
 
 #. comic173 panel p1
 #. slot: left bubble
 #. images: sheenamad.gif, bogeyupt2.gif
 #: kidradd/comic173.htm:77
+#, fuzzy
 msgctxt "comic173#p1.1"
 msgid "Bogey, you should be ashamed of yourself, taking glee in Radd's misfortune."
-msgstr ""
+msgstr "Бяка, как тебе не стыдно злорадствовать над бедой Улёта."
 
 #. comic173 panel p1
 #. slot: right bubble
 #. images: sheenamad.gif, bogeyupt2.gif
 #: kidradd/comic173.htm:81
+#, fuzzy
 msgctxt "comic173#p1.2"
 msgid "Hey, I do care about the guy, or else I wouldn't have saved him."
-msgstr ""
+msgstr "Эй, мне он не безразличен, иначе я бы его не спас."
 
 #. comic173 panel p2
 #. slot: left bubble
 #. images: bogeytabled2.gif
 #: kidradd/comic173.htm:134
+#, fuzzy
 msgctxt "comic173#p2.1"
 msgid "But Radd still hasn't learned how things work in the real world, and needs to learn to play by the rules. If nothing else, this'll teach him that his actions have consequences."
-msgstr ""
+msgstr "Но Улёт так и не понял, как устроен реальный мир, и ему пора научиться играть по правилам. По крайней мере, он узнает, что у его поступков бывают последствия."
 
 #. comic173 panel p3
 #. slot: left bubble
 #. images: sheenablink.gif, bogeyupt2.gif
 #: kidradd/comic173.htm:185
+#, fuzzy
 msgctxt "comic173#p3.1"
 msgid "I guess you're right."
-msgstr ""
+msgstr "Пожалуй, ты прав."
 
 #. comic173 panel p3
 #. slot: right bubble
 #. images: sheenablink.gif, bogeyupt2.gif
 #: kidradd/comic173.htm:189
+#, fuzzy
 msgctxt "comic173#p3.2"
 msgid "Plus, it frees up some closetspace for me."
-msgstr ""
+msgstr "К тому же у меня в шкафу освободилось место."
 
 #. comic173 panel p4
 #. slot: left bubble
 #. images: sheenamad.gif, bogeyupt2.gif
 #: kidradd/comic173.htm:237
+#, fuzzy
 msgctxt "comic173#p4.1"
 msgid "I'm glad to see your priorities are straight."
-msgstr ""
+msgstr "Рада видеть, что приоритеты у тебя правильные."
 
 #. comic173 panel p4
 #. slot: right bubble
 #. images: sheenamad.gif, bogeyupt2.gif
 #: kidradd/comic173.htm:241
+#, fuzzy
 msgctxt "comic173#p4.2"
 msgid "And I won't have to vacuum nearly as often, either!"
-msgstr ""
+msgstr "И пылесосить придётся куда реже!"
 
 #. comic174 panel title
 #. slot: background color and image
 #: kidradd/comic174.htm:36
+#, fuzzy
 msgctxt "comic174#title.1"
 msgid "\"MAN IN THE MIRROR\""
-msgstr ""
+msgstr "«ЧЕЛОВЕК В ЗЕРКАЛЕ»"
 
 #. comic174 panel p1
 #. slot: narration (if any, else cut)
 #. images: sheenastand.gif, bogeystand.gif, amp2.gif
 #: kidradd/comic174.htm:73
+#, fuzzy
 msgctxt "comic174#p1.1"
 msgid "Later that same day."
-msgstr ""
+msgstr "Позже в тот же день."
 
 #. comic174 panel p1
 #. slot: left bubble
 #. images: sheenastand.gif, bogeystand.gif, amp2.gif
 #: kidradd/comic174.htm:79
+#, fuzzy
 msgctxt "comic174#p1.2"
 msgid "You called us, Dr. Amp?"
-msgstr ""
+msgstr "Ты нас звал, Доктор Амп?"
 
 #. comic174 panel p1
 #. slot: right bubble
 #. images: sheenastand.gif, bogeystand.gif, amp2.gif
 #: kidradd/comic174.htm:83
+#, fuzzy
 msgctxt "comic174#p1.3"
 msgid "Yes, I've made a wonderful discovery!"
-msgstr ""
+msgstr "Да, я совершил чудесное открытие!"
 
 #. comic174 panel p2
 #. slot: right bubble
 #. images: sheenastand.gif, bogeystand.gif, amp.gif
 #: kidradd/comic174.htm:140
+#, fuzzy
 msgctxt "comic174#p2.1"
 msgid "As you know, the puzzle sprites you brought me have been chronically depressed since leaving their game."
-msgstr ""
+msgstr "Как вы знаете, спрайты-головоломки, которых вы мне привели, с тех пор как покинули свою игру, страдают хронической депрессией."
 
 #. comic174 panel p3
 #. slot: right bubble
 #. images: amptable2.gif
 #: kidradd/comic174.htm:191
+#, fuzzy
 msgctxt "comic174#p3.1"
 msgid "Since earning points was the only thing that made them happy, I needed to find a way to simulate that action without making them disappear."
-msgstr ""
+msgstr "Раз счастливыми их делал только набор очков, мне нужно было как-то это имитировать, чтобы они при этом не исчезали."
 
 #. comic174 panel p4
 #. slot: left bubble
 #. images: amp.gif, sheenastand.gif, bogeysigh.gif, mirrors.gif
 #: kidradd/comic174.htm:238
+#, fuzzy
 msgctxt "comic174#p4.1"
 msgid "Behold the solution!"
-msgstr ""
+msgstr "Узрите решение!"
 
 #. comic174 panel p4
 #. slot: middle bubble
 #. images: amp.gif, sheenastand.gif, bogeysigh.gif, mirrors.gif
 #: kidradd/comic174.htm:240
+#, fuzzy
 msgctxt "comic174#p4.2"
 msgid "Mirrors?"
-msgstr ""
+msgstr "Зеркала?"
 
 #. comic174 panel p4
 #. slot: right bubble
 #. images: amp.gif, sheenastand.gif, bogeysigh.gif, mirrors.gif
 #: kidradd/comic174.htm:242
+#, fuzzy
 msgctxt "comic174#p4.3"
 msgid "Great, now the little guys can shave."
-msgstr ""
+msgstr "Отлично, теперь малыши смогут бриться."
 
 #. comic175 panel title
 #. slot: background color and image
 #: kidradd/comic175.htm:36
+#, fuzzy
 msgctxt "comic175#title.1"
 msgid "\"FLASHDANCE\""
-msgstr ""
+msgstr "«ТАНЕЦ-ВСПЫШКА»"
 
 #. comic175 panel p1
 #. slot: left bubble
 #. images: sheenastand.gif, bogeystand.gif, amp.gif, mirrors.gif
 #: kidradd/comic175.htm:77
+#, fuzzy
 msgctxt "comic175#p1.1"
 msgid "Now, the puzzles sprites' programming makes them happy when they line up, but that makes them disappear."
-msgstr ""
+msgstr "Итак, программа спрайтов-головоломок делает их счастливыми, когда они выстраиваются в ряд, но от этого они исчезают."
 
 #. comic175 panel p2
 #. slot: left bubble
 #. images: bigmirror.gif
 #: kidradd/comic175.htm:134
+#, fuzzy
 msgctxt "comic175#p2.1"
 msgid "But if they think they're lined up, even when they really aren't, that makes them happy anyway. So I just introduce them to mirrors, and..."
-msgstr ""
+msgstr "Но если им только кажется, что они выстроились, они всё равно счастливы. Так что я просто знакомлю их с зеркалами, и..."
 
 #. comic175 panel p3
 #. slot: left bubble
 #. images: sheenastand.gif, bogeystand.gif, amp.gif, mirror2.gif
 #: kidradd/comic175.htm:185
+#, fuzzy
 msgctxt "comic175#p3.1"
 msgid "Ta daa! It thinks it's scoring, but it's not!"
-msgstr ""
+msgstr "Та-дам! Он думает, что набирает очки, а на самом деле нет!"
 
 #. comic175 panel p4
 #. slot: left bubble
 #. images: sheenano.gif, bogeyyell.gif, amp.gif, mirror3.gif
 #: kidradd/comic175.htm:237
+#, fuzzy
 msgctxt "comic175#p4.1"
 msgid "That's highly disturbing, and yet I'm envious."
-msgstr ""
+msgstr "Это крайне тревожное зрелище, и всё же завидно."
 
 #. comic175 panel p4
 #. slot: middle bubble
 #. images: sheenano.gif, bogeyyell.gif, amp.gif, mirror3.gif
 #: kidradd/comic175.htm:239
+#, fuzzy
 msgctxt "comic175#p4.2"
 msgid "Look at 'im go!"
-msgstr ""
+msgstr "Во даёт!"
 
 #. comic175 panel p4
 #. slot: bubble "stems"
 #. images: sheenano.gif, bogeyyell.gif, amp.gif, mirror3.gif
 #: kidradd/comic175.htm:245
+#, fuzzy
 msgctxt "comic175#p4.3"
 msgid "score!"
-msgstr ""
+msgstr "очко!"
 
 #. comic176 panel title
 #. slot: background color and image
 #: kidradd/comic176.htm:36
+#, fuzzy
 msgctxt "comic176#title.1"
 msgid "\"EPILEPTIC? SKIP THIS ONE\""
-msgstr ""
+msgstr "«ЭПИЛЕПТИКАМ НЕ СМОТРЕТЬ»"
 
 #. comic176 panel p1
 #. slot: left bubble
 #. images: sheenastand.gif, bogeystand.gif, amp.gif, mirror3.gif
 #: kidradd/comic176.htm:77
+#, fuzzy
 msgctxt "comic176#p1.1"
 msgid "The amazing thing is, these guys produce energy when they flash."
-msgstr ""
+msgstr "Самое удивительное: когда они мигают, они вырабатывают энергию."
 
 #. comic176 panel p2
 #. slot: right bubble
 #. images: amptable2.gif
 #: kidradd/comic176.htm:138
+#, fuzzy
 msgctxt "comic176#p2.1"
 msgid "So I've constructed a series of mirrored cublicles for them, and they continuously generate power for my lab."
-msgstr ""
+msgstr "Так что я построил для них ряд зеркальных кабинок, и они непрерывно снабжают энергией мою лабораторию."
 
 #. comic176 panel p3
 #. slot: left bubble
 #. images: sheenastand.gif, bogeystand.gif, amp2.gif, mirror3.gif
 #: kidradd/comic176.htm:185
+#, fuzzy
 msgctxt "comic176#p3.1"
 msgid "I still don't understand how they do it, though. It's almost like a, a..."
-msgstr ""
+msgstr "Правда, я до сих пор не понимаю, как им это удаётся. Это почти как... как..."
 
 #. comic176 panel p4
 #. slot: left bubble
 #. images: sheenastand.gif, bogeysigh.gif, amp2.gif, mirror3.gif
 #: kidradd/comic176.htm:237
+#, fuzzy
 msgctxt "comic176#p4.1"
 msgid "Plot device?"
-msgstr ""
+msgstr "Рояль в кустах?"
 
 #. comic176 panel p4
 #. slot: right bubble
 #. images: sheenastand.gif, bogeysigh.gif, amp2.gif, mirror3.gif
 #: kidradd/comic176.htm:241
+#, fuzzy
 msgctxt "comic176#p4.2"
 msgid "Exactly!"
-msgstr ""
+msgstr "Именно!"
 
 #. comic177 panel title
 #. slot: background color and image
 #: kidradd/comic177.htm:36
+#, fuzzy
 msgctxt "comic177#title.1"
 msgid "\"CAN'T ALWAYS GET WHAT YOU WANT\""
-msgstr ""
+msgstr "«НЕ ВСЕГДА ПОЛУЧАЕШЬ, ЧТО ХОЧЕШЬ»"
 
 #. comic177 panel p1
 #. slot: middle bubble
 #: kidradd/comic177.htm:79
+#, fuzzy
 msgctxt "comic177#p1.1"
 msgid "Well, it's nice to know that the puzzle sprites are taken care of, but..."
-msgstr ""
+msgstr "Что ж, приятно знать, что о спрайтах-головоломках позаботились, но..."
 
 #. comic177 panel p2
 #. slot: left bubble
 #. images: sheenastand2.gif, closet.gif
 #: kidradd/comic177.htm:133
+#, fuzzy
 msgctxt "comic177#p2.1"
 msgid "There's still tons of immobile or useless sprites rotting in our RAM warehouse, and Amp can't save them all."
-msgstr ""
+msgstr "На нашем складе ОЗУ по-прежнему гниёт куча неподвижных или бесполезных спрайтов, и Амп не может спасти всех."
 
 #. comic177 panel p3
 #. slot: left bubble
 #. images: sheenatable2.gif
 #: kidradd/comic177.htm:185
+#, fuzzy
 msgctxt "comic177#p3.1"
 msgid "And every time we destroy a game, there's always a few sprites left unhappy, sigh..."
-msgstr ""
+msgstr "И всякий раз, когда мы уничтожаем игру, кто-то из спрайтов остаётся несчастным, эх..."
 
 #. comic177 panel p4
 #. slot: left bubble
 #. images: qbtalk.gif, sheenablink2.gif
 #: kidradd/comic177.htm:236
+#, fuzzy
 msgctxt "comic177#p4.1"
 msgid "Ready for today's mission?"
-msgstr ""
+msgstr "Готова к сегодняшнему заданию?"
 
 #. comic177 panel p4
 #. slot: right bubble
 #. images: qbtalk.gif, sheenablink2.gif
 #: kidradd/comic177.htm:240
+#, fuzzy
 msgctxt "comic177#p4.2"
 msgid "Can't wait."
-msgstr ""
+msgstr "Жду не дождусь."
 
 #. comic178 panel title
 #. slot: background color and image
 #: kidradd/comic178.htm:50
+#, fuzzy
 msgctxt "comic178#title.1"
 msgid "\"NOW YOU'RE GONE\""
-msgstr ""
+msgstr "«ТЕПЕРЬ ТЕБЯ НЕТ»"
 
 #. comic178 panel p1
 #. slot: left bubble
 #. images: implodeb.gif
 #: kidradd/comic178.htm:91
+#, fuzzy
 msgctxt "comic178#p1.1"
 msgid "Okay, all the sprites have been evacuated."
-msgstr ""
+msgstr "Так, все спрайты эвакуированы."
 
 #. comic178 panel p1
 #. slot: right bubble
 #. images: implodeb.gif
 #: kidradd/comic178.htm:95
+#, fuzzy
 msgctxt "comic178#p1.2"
 msgid "Let's go. The game's about to implode."
-msgstr ""
+msgstr "Уходим. Игра сейчас схлопнется."
 
 #. comic178 panel p3
 #. slot: middle bubble
 #. images: sheenabeds.gif
 #: kidradd/comic178.htm:177
+#, fuzzy
 msgctxt "comic178#p3.1"
 msgid "NOOOOO!!!!"
-msgstr ""
+msgstr "НЕЕЕЕТ!!!!"
 
 #. comic178 panel p4
 #. slot: middle bubble
 #. images: sheenabed.gif
 #: kidradd/comic178.htm:230
+#, fuzzy
 msgctxt "comic178#p4.1"
 msgid "No... I...<br>I can only hope that was just a dream..."
-msgstr ""
+msgstr "Нет... я...<br>Остаётся лишь надеяться, что это был просто сон..."
 
 #. comic179 panel title
 #. slot: background color and image
 #: kidradd/comic179.htm:36
+#, fuzzy
 msgctxt "comic179#title.1"
 msgid "\"MOVING OUT\""
-msgstr ""
+msgstr "«УХОЖУ»"
 
 #. comic179 panel p1
 #. slot: left bubble
 #. images: sheenadesk.gif, desk.gif
 #: kidradd/comic179.htm:77
+#, fuzzy
 msgctxt "comic179#p1.1"
 msgid "To: Captain QB<br>From: Sheena<br>Re: Sprite Rescue<br>Cc: Moderators Staff"
-msgstr ""
+msgstr "Кому: Капитану Кьюби<br>От: Шина<br>Тема: Спасение спрайтов<br>Копия: Сотрудникам Модераторов"
 
 #. comic179 panel p2
 #. slot: left bubble
 #. images: sheenadesk.gif, desk.gif
 #: kidradd/comic179.htm:131
+#, fuzzy
 msgctxt "comic179#p2.1"
 msgid "Although I realize that I have bettered the lives of hundreds of sprites by performing my job, this knowlege no longer gladdens me. My heart just isn't in it lately, due to serious misgivings I can no longer ignore."
-msgstr ""
+msgstr "Хотя я понимаю, что, выполняя свою работу, улучшила жизнь сотен спрайтов, это знание меня больше не радует. В последнее время у меня не лежит к ней душа из-за серьёзных сомнений, которые я больше не могу игнорировать."
 
 #. comic179 panel p3
 #. slot: left bubble
 #. images: sheenadesk.gif, desk.gif
 #: kidradd/comic179.htm:182
+#, fuzzy
 msgctxt "comic179#p3.1"
 msgid "My primary problem is that I can't turn a blind eye to the sprites made unhappy by my actions. Even if they are the minority, I cannot bear to put another sprite in the RAM warehouse."
-msgstr ""
+msgstr "Главная проблема в том, что я не могу закрывать глаза на спрайтов, которых мои действия сделали несчастными. Пусть их меньшинство, я не в силах отправить на склад ОЗУ ещё хоть одного спрайта."
 
 #. comic179 panel p4
 #. slot: left bubble
 #. images: sheenadesk.gif, desk.gif
 #: kidradd/comic179.htm:233
+#, fuzzy
 msgctxt "comic179#p4.1"
 msgid "My other misgiving, which may be only paranoia, is my fear that in evacuation of games, silent and/or immobile sprites may be left behind. We are never truly certain that all are outside when the game finally collapses. I never want to be responsible for the death of an innocent sprite."
-msgstr ""
+msgstr "Другое моё сомнение — возможно, лишь паранойя — это страх, что при эвакуации игр молчаливые и/или неподвижные спрайты могут остаться внутри. Мы никогда не знаем наверняка, все ли вышли, когда игра окончательно рушится. Я не хочу быть виновной в гибели невинного спрайта."
 
 #. comic179 panel p5
 #. slot: left bubble
 #. images: sheenadesk.gif, desk.gif
 #: kidradd/comic179.htm:285
+#, fuzzy
 msgctxt "comic179#p5.1"
 msgid "And so, until the day that we can open games without destroying them, and give their denizens a choice to be free without harming them, I can no longer participate in these rescues. I hereby resign my position in the Moderators.<br><br>Sheena"
-msgstr ""
+msgstr "Поэтому до тех пор, пока мы не научимся открывать игры, не разрушая их, и давать их обитателям выбор — стать свободными без вреда для себя, — я не могу участвовать в этих спасательных операциях. Настоящим слагаю с себя обязанности в организации Модераторов.<br><br>Шина"
 
 #. comic180 panel title
 #. slot: background color and image
 #: kidradd/comic180.htm:36
+#, fuzzy
 msgctxt "comic180#title.1"
 msgid "\"VOICES CARRY\""
-msgstr ""
+msgstr "«И У СТЕН ЕСТЬ УШИ»"
 
 #. comic180 panel p1
 #. slot: middle bubble
 #: kidradd/comic180.htm:79
+#, fuzzy
 msgctxt "comic180#p1.1"
 msgid "Done. I've written my letter of resignation."
-msgstr ""
+msgstr "Готово. Заявление об уходе написано."
 
 #. comic180 panel p2
 #. slot: left bubble
 #. images: sheenahall.gif
 #: kidradd/comic180.htm:133
+#, fuzzy
 msgctxt "comic180#p2.1"
 msgid "Now all that's left to do is turn it in. I hope they understand, it's what I have to do."
-msgstr ""
+msgstr "Осталось только его сдать. Надеюсь, они поймут — я должна так поступить."
 
 #. comic180 panel p2
 #. slot: insert ground "tiles" on this line
 #. images: sheenahall.gif
 #: kidradd/comic180.htm:146
+#, fuzzy
 msgctxt "comic180#p2.2"
 msgid "The miracle of cycled animation."
-msgstr ""
+msgstr "Чудо зацикленной анимации."
 
 #. comic180 panel p3
 #. slot: right bubble
 #. images: sheenastare2.gif, closet.gif
 #: kidradd/comic180.htm:189
+#, fuzzy
 msgctxt "comic180#p3.1"
 msgid "...Maybe he's dangerous, but do we really need to... </font><font size=\"1\" face=\"arial\" color=\"white\">to <u>kill</u> this Radd guy?"
-msgstr ""
+msgstr "...Может, он и опасен, но неужели нам и правда надо... </font><font size=\"1\" face=\"arial\" color=\"white\">надо <u>убить</u> этого Улёта?"
 
 #. comic180 panel p4
 #. slot: left bubble
 #. images: thought2.gif, sheenablink2.gif, closet.gif
 #: kidradd/comic180.htm:237
+#, fuzzy
 msgctxt "comic180#p4.1"
 msgid "I am <b>so</b> going to regret hearing that."
-msgstr ""
+msgstr "Я <b>так</b> пожалею, что это услышала."
 
 #. comic180 panel p4
 #. slot: right bubble
 #. images: thought2.gif, sheenablink2.gif, closet.gif
 #: kidradd/comic180.htm:241
+#, fuzzy
 msgctxt "comic180#p4.2"
 msgid "There's no need to whisper, sir. These rooms are soundproof."
-msgstr ""
+msgstr "Незачем шептать, сэр. Здесь звукоизоляция."
 
 #. comic181 panel title
 #. slot: background color and image
 #: kidradd/comic181.htm:36
+#, fuzzy
 msgctxt "comic181#title.1"
 msgid "\"DEAL WITH THE DEVIL\""
-msgstr ""
+msgstr "«СДЕЛКА С ДЬЯВОЛОМ»"
 
 #. comic181 panel p1
 #. slot: left bubble
 #. images: thought2.gif, sheenastand.gif, closet.gif
 #: kidradd/comic181.htm:77
+#, fuzzy
 msgctxt "comic181#p1.1"
 msgid "That sounds like QB?"
-msgstr ""
+msgstr "Это что, голос Кьюби?"
 
 #. comic181 panel p1
 #. slot: right bubble
 #. images: thought2.gif, sheenastand.gif, closet.gif
 #: kidradd/comic181.htm:81
+#, fuzzy
 msgctxt "comic181#p1.2"
 msgid "How on earth did you get this information?"
-msgstr ""
+msgstr "Откуда, ради всего святого, у тебя эти сведения?"
 
 #. comic181 panel p2
 #. slot: left bubble
 #. images: qbstand.gif, fairy2.gif
 #: kidradd/comic181.htm:133
+#, fuzzy
 msgctxt "comic181#p2.1"
 msgid "Cuz it sounds bogus to me."
-msgstr ""
+msgstr "Как по мне, звучит как бред."
 
 #. comic181 panel p2
 #. slot: right bubble
 #. images: qbstand.gif, fairy2.gif
 #: kidradd/comic181.htm:137
+#, fuzzy
 msgctxt "comic181#p2.2"
 msgid "Fool! The danger of this sprite was revealed to me by the Seer himself."
-msgstr ""
+msgstr "Глупец! Об опасности этого спрайта мне поведал сам Око."
 
 #. comic181 panel p3
 #. slot: left bubble
 #. images: qbtalk.gif, fairy2.gif
 #: kidradd/comic181.htm:185
+#, fuzzy
 msgctxt "comic181#p3.1"
 msgid "The Seer? Are you insane? You know what happens to people who talk to him?"
-msgstr ""
+msgstr "Око? Ты с ума сошла? Знаешь, что бывает с теми, кто с ним говорит?"
 
 #. comic181 panel p3
 #. slot: right bubble
 #. images: qbtalk.gif, fairy2.gif
 #: kidradd/comic181.htm:189
+#, fuzzy
 msgctxt "comic181#p3.2"
 msgid "I know the price, Captain. He can tell you how to obtain whatever you desire, <i>anything</i>..."
-msgstr ""
+msgstr "Я знаю цену, капитан. Он может сказать, как получить что угодно, <i>всё</i> что пожелаешь..."
 
 #. comic181 panel p4
 #. slot: right bubble
 #. images: sheenano.gif, closet.gif
 #: kidradd/comic181.htm:241
+#, fuzzy
 msgctxt "comic181#p4.1"
 msgid "...But it will cost you your life."
-msgstr ""
+msgstr "...Но это стоит жизни."
 
 #. comic182 panel title
 #. slot: background color and image
 #: kidradd/comic182.htm:36
+#, fuzzy
 msgctxt "comic182#title.1"
 msgid "\"I'M GONNA LIVE FOREVER\""
-msgstr ""
+msgstr "«Я БУДУ ЖИТЬ ВЕЧНО»"
 
 #. comic182 panel p1
 #. slot: left bubble
 #. images: qbstand.gif, fairy2.gif
 #: kidradd/comic182.htm:77
+#, fuzzy
 msgctxt "comic182#p1.1"
 msgid "Crystal, you've totally lost it this time."
-msgstr ""
+msgstr "Кристал, на этот раз ты совсем свихнулась."
 
 #. comic182 panel p1
 #. slot: right bubble
 #. images: qbstand.gif, fairy2.gif
 #: kidradd/comic182.htm:81
+#, fuzzy
 msgctxt "comic182#p1.2"
 msgid "On the contrary, I have never been more lucid."
-msgstr ""
+msgstr "Напротив, мой разум ещё никогда не был так ясен."
 
 #. comic182 panel p2
 #. slot: left bubble
 #. images: qbtalk.gif, fairy2.gif
 #: kidradd/comic182.htm:133
+#, fuzzy
 msgctxt "comic182#p2.1"
 msgid "Within weeks you will die a tragic, seemingly coincidental death. What could you have asked for that could possibly be worth that?"
-msgstr ""
+msgstr "Через несколько недель ты погибнешь трагической, будто бы случайной смертью. Что такого ты могла попросить, чтобы это того стоило?"
 
 #. comic182 panel p2
 #. slot: right bubble
 #. images: qbtalk.gif, fairy2.gif
 #: kidradd/comic182.htm:137
+#, fuzzy
 msgctxt "comic182#p2.2"
 msgid "Simple."
-msgstr ""
+msgstr "Всё просто."
 
 #. comic182 panel p3
 #. slot: middle bubble
 #. images: chead.gif
 #: kidradd/comic182.htm:187
+#, fuzzy
 msgctxt "comic182#p3.1"
 msgid "Ultimate power, such as humans have. Divine control over all things including life and death. In short, <b>immortality.</b>"
-msgstr ""
+msgstr "Высшую власть, какая есть у людей. Божественную власть над всем, включая жизнь и смерть. Короче говоря, <b>бессмертие.</b>"
 
 #. comic182 panel p4
 #. slot: left bubble
 #. images: qbstand.gif, fairy2.gif
 #: kidradd/comic182.htm:237
+#, fuzzy
 msgctxt "comic182#p4.1"
 msgid "Oh. Y'know, that's actually pretty clever."
-msgstr ""
+msgstr "А. Знаешь, а ведь это довольно умно."
 
 #. comic182 panel p4
 #. slot: right bubble
 #. images: qbstand.gif, fairy2.gif
 #: kidradd/comic182.htm:241
+#, fuzzy
 msgctxt "comic182#p4.2"
 msgid "Explain to me again why you outrank me."
-msgstr ""
+msgstr "Напомни-ка, почему ты выше меня по званию."
 
 #. comic183 panel title
 #. slot: background color and image
 #: kidradd/comic183.htm:36
+#, fuzzy
 msgctxt "comic183#title.1"
 msgid "\"TEMPTATION\""
-msgstr ""
+msgstr "«ИСКУШЕНИЕ»"
 
 #. comic183 panel p1
 #. slot: right bubble
 #. images: sheenastand.gif, closet.gif
 #: kidradd/comic183.htm:81
+#, fuzzy
 msgctxt "comic183#p1.1"
 msgid "But Crystal, if you asked for your own immortality..."
-msgstr ""
+msgstr "Но, Кристал, если ты просила бессмертия для себя..."
 
 #. comic183 panel p2
 #. slot: left bubble
 #. images: qbtalk.gif, fairy2.gif
 #: kidradd/comic183.htm:133
+#, fuzzy
 msgctxt "comic183#p2.1"
 msgid "...What does that have to do with Radd being a danger to the Moderators?"
-msgstr ""
+msgstr "...при чём тут опасность Улёта для Модераторов?"
 
 #. comic183 panel p2
 #. slot: right bubble
 #. images: qbtalk.gif, fairy2.gif
 #: kidradd/comic183.htm:137
+#, fuzzy
 msgctxt "comic183#p2.2"
 msgid "It's a bit indirect."
-msgstr ""
+msgstr "Связь не прямая."
 
 #. comic183 panel p3
 #. slot: middle bubble
 #. images: chead.gif
 #: kidradd/comic183.htm:187
+#, fuzzy
 msgctxt "comic183#p3.1"
 msgid "The Seer outlined several steps I would need to achieve my goal. One of them is the elimination of Radd, who may still be able to kill me even if I become immortal."
-msgstr ""
+msgstr "Око описал несколько шагов, нужных для достижения моей цели. Один из них — устранить Улёта: он сможет убить меня, даже если я стану бессмертной."
 
 #. comic183 panel p4
 #. slot: left bubble
 #. images: qbtalk.gif, fairy2.gif
 #: kidradd/comic183.htm:237
+#, fuzzy
 msgctxt "comic183#p4.1"
 msgid "But that doesn't -"
-msgstr ""
+msgstr "Но это не..."
 
 #. comic183 panel p4
 #. slot: right bubble
 #. images: qbtalk.gif, fairy2.gif
 #: kidradd/comic183.htm:241
+#, fuzzy
 msgctxt "comic183#p4.2"
 msgid "Another step is to lead the Moderators to rule the entire web."
-msgstr ""
+msgstr "Ещё один шаг — привести Модераторов к власти над всей сетью."
 
 #. comic183 panel p5
 #. slot: left bubble
 #. images: qbstand2.gif, fairy2.gif
 #: kidradd/comic183.htm:291
+#, fuzzy
 msgctxt "comic183#p5.1"
 msgid "My conscience is getting all prickly."
-msgstr ""
+msgstr "У меня совесть начинает покалывать."
 
 #. comic183 panel p5
 #. slot: right bubble
 #. images: qbstand2.gif, fairy2.gif
 #: kidradd/comic183.htm:295
+#, fuzzy
 msgctxt "comic183#p5.2"
 msgid "A bit of absolute power can remedy that."
-msgstr ""
+msgstr "Немного абсолютной власти — и всё пройдёт."
 
 #. comic184 panel title
 #. slot: background color and image
 #: kidradd/comic184.htm:36
+#, fuzzy
 msgctxt "comic184#title.1"
 msgid "\"NO MORE MR. NICE GUY\""
-msgstr ""
+msgstr "«ХВАТИТ БЫТЬ ДОБРЯКОМ»"
 
 #. comic184 panel p1
 #. slot: left bubble
 #. images: qbstand2.gif, fairy2.gif
 #: kidradd/comic184.htm:77
+#, fuzzy
 msgctxt "comic184#p1.1"
 msgid "I don't like the sound of this; the Moderators are supposed to be the symbol of freedom and justice."
-msgstr ""
+msgstr "Мне это не нравится: Модераторы должны быть символом свободы и справедливости."
 
 #. comic184 panel p1
 #. slot: right bubble
 #. images: qbstand2.gif, fairy2.gif
 #: kidradd/comic184.htm:81
+#, fuzzy
 msgctxt "comic184#p1.2"
 msgid "I need your answer, Captain."
-msgstr ""
+msgstr "Мне нужен твой ответ, капитан."
 
 #. comic184 panel p2
 #. slot: right bubble
 #. images: qbtable2.gif
 #: kidradd/comic184.htm:136
+#, fuzzy
 msgctxt "comic184#p2.1"
 msgid "If Crystal can really give the Moderators sovereignty over the entire web, millions of sprites will be freed from human oppression. That's a goal I'd give almost anything for, but..."
-msgstr ""
+msgstr "Если Кристал и правда даст Модераторам власть над всей сетью, миллионы спрайтов освободятся от гнёта людей. Ради такой цели я отдал бы почти всё, но..."
 
 #. comic184 panel p3
 #. slot: right bubble
 #. images: qbtable2.gif
 #: kidradd/comic184.htm:187
+#, fuzzy
 msgctxt "comic184#p3.1"
 msgid "It's like the humans' own hypothetical dilemma, about whether saving millions of people is adequate justification for killing one man. Well, is it?"
-msgstr ""
+msgstr "Это как в той дилемме, что придумали сами люди: оправдывает ли спасение миллионов убийство одного человека? Ну так оправдывает?"
 
 #. comic184 panel p4
 #. slot: right bubble
 #. images: qbtable2.gif
 #: kidradd/comic184.htm:238
+#, fuzzy
 msgctxt "comic184#p4.1"
 msgid "But there's a difference here: the person most humans reference in this puzzle is undeniably evil; whereas the victim of our sacrifice, Radd, probably isn't. He's a criminal, sure, but evil? Hardly. But could sparing this one loser really be the best choice for the millions of enslaved sprites out there?"
-msgstr ""
+msgstr "Но здесь есть разница: человек, которого люди обычно приводят в пример в этой задачке, — несомненное зло, а наша жертва, Улёт, скорее всего, нет. Он преступник, да, но зло? Вряд ли. Но разве пощадить одного неудачника — лучший выбор для миллионов порабощённых спрайтов?"
 
 #. comic184 panel p5
 #. slot: right bubble
 #. images: qbstand2.gif, fairy2.gif
 #: kidradd/comic184.htm:291
+#, fuzzy
 msgctxt "comic184#p5.1"
 msgid "Captain?"
-msgstr ""
+msgstr "Капитан?"
 
 #. comic184 panel p6
 #. slot: left bubble
 #. images: qbstands.gif
 #: kidradd/comic184.htm:341
+#, fuzzy
 msgctxt "comic184#p6.1"
 msgid "I'll do it."
-msgstr ""
+msgstr "Я сделаю это."
 
 #. comic185 panel title
 #. slot: background color and image
 #: kidradd/comic185.htm:36
+#, fuzzy
 msgctxt "comic185#title.1"
 msgid "\"SOMEBODY'S WATCHING ME\""
-msgstr ""
+msgstr "«КТО-ТО СЛЕДИТ ЗА МНОЙ»"
 
 #. comic185 panel p1
 #. slot: left bubble
 #. images: qbtalk.gif, fairy2.gif
 #: kidradd/comic185.htm:77
+#, fuzzy
 msgctxt "comic185#p1.1"
 msgid "Alright, I'll take care of the criminal."
-msgstr ""
+msgstr "Ладно, я займусь преступником."
 
 #. comic185 panel p1
 #. slot: right bubble
 #. images: qbtalk.gif, fairy2.gif
 #: kidradd/comic185.htm:81
+#, fuzzy
 msgctxt "comic185#p1.2"
 msgid "Thank you Captain, you won't regret it."
-msgstr ""
+msgstr "Спасибо, капитан, ты не пожалеешь."
 
 #. comic185 panel p2
 #. slot: left bubble
 #. images: qbstand2.gif, fairy.gif
 #: kidradd/comic185.htm:133
+#, fuzzy
 msgctxt "comic185#p2.1"
 msgid "(That remains to be seen.) Any other preparations you need, well, you know my assistants."
-msgstr ""
+msgstr "(Это ещё посмотрим.) Если нужно что-то ещё подготовить — ну, моих помощников ты знаешь."
 
 #. comic185 panel p2
 #. slot: right bubble
 #. images: qbstand2.gif, fairy.gif
 #: kidradd/comic185.htm:137
+#, fuzzy
 msgctxt "comic185#p2.2"
 msgid "Apreciated. I'll be using the files in here for a bit, if you don't mind."
-msgstr ""
+msgstr "Благодарю. Я тут немного поработаю с файлами, если ты не против."
 
 #. comic185 panel p3
 #. slot: left bubble
 #. images: thought.gif, qbstand2.gif
 #: kidradd/comic185.htm:185
+#, fuzzy
 msgctxt "comic185#p3.1"
 msgid "Oy, what have I gotten myself into? Well, I'd better get moving."
-msgstr ""
+msgstr "Ох, во что я ввязался? Ладно, пора за дело."
 
 #. comic185 panel p4
 #. slot: right bubble
 #. images: sheenano.gif, qbtalk2.gif, closet.gif
 #: kidradd/comic185.htm:240
+#, fuzzy
 msgctxt "comic185#p4.1"
 msgid "Oh, hi Sheena. Um, you didn't happen to hear any of that, did you?"
-msgstr ""
+msgstr "О, привет, Шина. Эм, ты, случаем, ничего не слышала?"
 
 #. comic185 panel p5
 #. slot: left bubble
 #. images: sheenabl.gif, qbstand2.gif, closet.gif
 #: kidradd/comic185.htm:290
+#, fuzzy
 msgctxt "comic185#p5.1"
 msgid "Errrr... no! Like your friend said, the room's soundproof!"
-msgstr ""
+msgstr "Э-э-э... нет! Как сказала твоя подруга, тут звукоизоляция!"
 
 #. comic185 panel p5
 #. slot: right bubble
 #. images: sheenabl.gif, qbstand2.gif, closet.gif
 #: kidradd/comic185.htm:294
+#, fuzzy
 msgctxt "comic185#p5.2"
 msgid "Okay. Whew!"
-msgstr ""
+msgstr "Ладно. Фух!"
 
 #. comic186 panel title
 #. slot: background color and image
 #: kidradd/comic186.htm:35
+#, fuzzy
 msgctxt "comic186#title.1"
 msgid "\"BREATHLESS\""
-msgstr ""
+msgstr "«ЗАДЫХАЯСЬ»"
 
 #. comic186 panel p1
 #. slot: narration (if any, else cut)
 #. images: raddsit.gif
 #: kidradd/comic186.htm:72
+#, fuzzy
 msgctxt "comic186#p1.1"
 msgid "Now that the plot has advanced a little, let's check back on our hero, shall we?"
-msgstr ""
+msgstr "Теперь, когда сюжет немного продвинулся, давайте заглянем к нашему герою."
 
 #. comic186 panel p1
 #. slot: right bubble
 #. images: raddsit.gif
 #: kidradd/comic186.htm:82
+#, fuzzy
 msgctxt "comic186#p1.2"
 msgid "Man, this cell is about as escape-proof as they come."
-msgstr ""
+msgstr "Блин, из этой камеры сбежать — ну просто никак."
 
 #. comic186 panel p2
 #. slot: left bubble
 #. images: raddstand.gif, cellwall.jpg
 #: kidradd/comic186.htm:134
+#, fuzzy
 msgctxt "comic186#p2.1"
 msgid "Just four solid walls, a featureless floor and ceiling, and an unexplained source of light."
-msgstr ""
+msgstr "Только четыре сплошные стены, голые пол и потолок и необъяснимый источник света."
 
 #. comic186 panel p3
 #. slot: left bubble
 #. images: raddwow.gif, cellwall.jpg
 #: kidradd/comic186.htm:185
+#, fuzzy
 msgctxt "comic186#p3.1"
 msgid "No windows. No doors. No ventilation whatsoever."
-msgstr ""
+msgstr "Ни окон. Ни дверей. Никакой вентиляции."
 
 #. comic186 panel p4
 #. slot: left bubble
 #. images: raddargh.gif, cellwall.jpg
 #: kidradd/comic186.htm:237
+#, fuzzy
 msgctxt "comic186#p4.1"
 msgid "For crying out loud, I could <b>suffocate</b> in here!"
-msgstr ""
+msgstr "Да ради всего святого, я же могу тут <b>задохнуться</b>!"
 
 #. comic186 panel p5
 #. slot: left bubble
 #. images: raddsigh.gif, cellwall.jpg
 #: kidradd/comic186.htm:290
+#, fuzzy
 msgctxt "comic186#p5.1"
 msgid "That is, if sprites had to breathe. Yeah."
-msgstr ""
+msgstr "В смысле, если бы спрайтам надо было дышать. Ну да."
 
 #. comic187 panel title
 #. slot: background color and image
 #: kidradd/comic187.htm:35
+#, fuzzy
 msgctxt "comic187#title.1"
 msgid "\"GOING SLIGHTLY MAD\""
-msgstr ""
+msgstr "«СЛЕГКА СХОЖУ С УМА»"
 
 #. comic187 panel p1
 #. slot: left bubble
 #. images: raddsit.gif, cellwall.jpg
 #: kidradd/comic187.htm:76
+#, fuzzy
 msgctxt "comic187#p1.1"
 msgid "Not that I miss it, but my user hasn't pulled me out of this cell for a while."
-msgstr ""
+msgstr "Не то чтобы я скучал, но моя пользовательница давно не вытаскивала меня из камеры."
 
 #. comic187 panel p2
 #. slot: left bubble
 #. images: raddstand.gif, cellwall.jpg
 #: kidradd/comic187.htm:132
+#, fuzzy
 msgctxt "comic187#p2.1"
 msgid "She's probably called the consumer service line by now, and they'll think she's crazy."
-msgstr ""
+msgstr "Наверное, она уже позвонила в службу поддержки, и там решат, что она чокнутая."
 
 #. comic187 panel p3
 #. slot: left bubble
 #. images: raddblink.gif, cellwall.jpg
 #: kidradd/comic187.htm:183
+#, fuzzy
 msgctxt "comic187#p3.1"
 msgid "\"Your Office Assistant won't help me! Everytime I click him, he just flips me off!\""
-msgstr ""
+msgstr "«Ваш Помощник мне не помогает! Каждый раз, когда я на него нажимаю, он показывает мне средний палец!»"
 
 #. comic187 panel p4
 #. slot: left bubble
 #. images: raddsit.gif, cellwall.jpg
 #: kidradd/comic187.htm:235
+#, fuzzy
 msgctxt "comic187#p4.1"
 msgid "I guess even imprisonment has its perks."
-msgstr ""
+msgstr "Похоже, даже в заключении есть свои плюсы."
 
 #. comic188 panel title
 #. slot: background color and image
 #: kidradd/comic188.htm:35
+#, fuzzy
 msgctxt "comic188#title.1"
 msgid "\"DESPERATION\""
-msgstr ""
+msgstr "«ОТЧАЯНИЕ»"
 
 #. comic188 panel p1
 #. slot: narration (if any, else cut)
 #. images: raddmad.gif
 #: kidradd/comic188.htm:72
+#, fuzzy
 msgctxt "comic188#p1.1"
 msgid "Time drags on painfully slow for Radd."
-msgstr ""
+msgstr "Время для Улёта тянется мучительно медленно."
 
 #. comic188 panel p1
 #. slot: right bubble
 #. images: raddmad.gif
 #: kidradd/comic188.htm:82
+#, fuzzy
 msgctxt "comic188#p1.2"
 msgid "I can't take this anymore!"
-msgstr ""
+msgstr "Я больше не могу!"
 
 #. comic188 panel p2
 #. slot: left bubble
 #. images: raddfire.gif
 #: kidradd/comic188.htm:134
+#, fuzzy
 msgctxt "comic188#p2.1"
 msgid "There's gotta be a way outta here! Gotta!"
-msgstr ""
+msgstr "Отсюда должен быть выход! Должен!"
 
 #. comic188 panel p3
 #. slot: left bubble
 #. images: raddsits2.gif, cellwall.jpg
 #: kidradd/comic188.htm:185
+#, fuzzy
 msgctxt "comic188#p3.1"
 msgid "It's no use. Even my Mega Radd doesn't scratch it, rrgh."
-msgstr ""
+msgstr "Бесполезно. Даже мой Мега-Улёт её не царапает, р-р-р."
 
 #. comic188 panel p4
 #. slot: left bubble
 #. images: raddargh.gif, cellwall.jpg
 #: kidradd/comic188.htm:237
+#, fuzzy
 msgctxt "comic188#p4.1"
 msgid "Damn you, Moderators! Could you possibly ruin my life any more?!!"
-msgstr ""
+msgstr "Будьте вы прокляты, Модераторы! Можно ещё сильнее испортить мне жизнь?!!"
 
 #. comic188 panel p5
 #. slot: narration (if any, else cut)
 #. images: modt.gif, modt3.gif
 #: kidradd/comic188.htm:286
+#, fuzzy
 msgctxt "comic188#p5.1"
 msgid "Actually, yes."
-msgstr ""
+msgstr "Вообще-то можно."
 
 #. comic188 panel p5
 #. slot: left bubble
 #. images: modt.gif, modt3.gif
 #: kidradd/comic188.htm:292
+#, fuzzy
 msgctxt "comic188#p5.2"
 msgid "So the Captain wants us to hire a hitman?"
-msgstr ""
+msgstr "Значит, капитан хочет, чтобы мы наняли киллера?"
 
 #. comic188 panel p5
 #. slot: right bubble
 #. images: modt.gif, modt3.gif
 #: kidradd/comic188.htm:296
+#, fuzzy
 msgctxt "comic188#p5.3"
 msgid "Oh yeah. The best money can buy."
-msgstr ""
+msgstr "О да. Лучшего, какого можно купить за деньги."
 
 #. comic189 panel title
 #. slot: background color and image
 #: kidradd/comic189.htm:35
+#, fuzzy
 msgctxt "comic189#title.1"
 msgid "\"DIRTY DEEDS DONE DIRT CHEAP\""
-msgstr ""
+msgstr "«ГРЯЗНЫЕ ДЕЛА ЗА ГРОШИ»"
 
 #. comic189 panel p1
 #. slot: narration (if any, else cut)
 #. images: modt.gif, modt2.gif
 #: kidradd/comic189.htm:72
+#, fuzzy
 msgctxt "comic189#p1.1"
 msgid "Captain QB's two nameless flunkies sort out their latest task."
-msgstr ""
+msgstr "Двое безымянных подручных капитана Кьюби разбираются с новым заданием."
 
 #. comic189 panel p1
 #. slot: left bubble
 #. images: modt.gif, modt2.gif
 #: kidradd/comic189.htm:78
+#, fuzzy
 msgctxt "comic189#p1.2"
 msgid "Why can't QB get rid of this guy himself?"
-msgstr ""
+msgstr "А чего Кьюби сам от него не избавится?"
 
 #. comic189 panel p1
 #. slot: right bubble
 #. images: modt.gif, modt2.gif
 #: kidradd/comic189.htm:82
+#, fuzzy
 msgctxt "comic189#p1.3"
 msgid "Stupid, he can't have any illegal activities connected to us."
-msgstr ""
+msgstr "Дурень, нельзя, чтобы с нами связывали что-то незаконное."
 
 #. comic189 panel p2
 #. slot: left bubble
 #. images: modt.gif, modtp.gif
 #: kidradd/comic189.htm:134
+#, fuzzy
 msgctxt "comic189#p2.1"
 msgid "So where we gonna find a hitman?"
-msgstr ""
+msgstr "И где мы найдём киллера?"
 
 #. comic189 panel p2
 #. slot: right bubble
 #. images: modt.gif, modtp.gif
 #: kidradd/comic189.htm:138
+#, fuzzy
 msgctxt "comic189#p2.2"
 msgid "Classifieds. Duh."
-msgstr ""
+msgstr "В объявлениях. Ясное дело."
 
 #. comic189 panel p3
 #. slot: left bubble
 #. images: modt3.gif, modtp.gif
 #: kidradd/comic189.htm:185
+#, fuzzy
 msgctxt "comic189#p3.1"
 msgid "What's our price range?"
-msgstr ""
+msgstr "Сколько можем потратить?"
 
 #. comic189 panel p3
 #. slot: right bubble
 #. images: modt3.gif, modtp.gif
 #: kidradd/comic189.htm:189
+#, fuzzy
 msgctxt "comic189#p3.2"
 msgid "QB gave us ten grand. I guess he wants a quality job."
-msgstr ""
+msgstr "Кьюби дал нам десять штук. Видать, хочет качественную работу."
 
 #. comic189 panel p4
 #. slot: left bubble
 #. images: modt.gif, modtp.gif
 #: kidradd/comic189.htm:237
+#, fuzzy
 msgctxt "comic189#p4.1"
 msgid "You're kidding. How hard can it be to off a guy <b>in jail?</b> Let's find someone cheap and keep the extra dough."
-msgstr ""
+msgstr "Шутишь? Сложно, что ли, прикончить парня <b>в тюрьме?</b> Найдём кого подешевле, а остальные бабки оставим себе."
 
 #. comic189 panel p4
 #. slot: right bubble
 #. images: modt.gif, modtp.gif
 #: kidradd/comic189.htm:241
+#, fuzzy
 msgctxt "comic189#p4.2"
 msgid "Now you're speaking my language."
-msgstr ""
+msgstr "Вот это разговор."
 
 #. comic189 panel p5
 #. slot: left bubble
 #. images: modt.gif, modtp.gif
 #: kidradd/comic189.htm:291
+#, fuzzy
 msgctxt "comic189#p5.1"
 msgid "Here's one! \"Kobayashi - Discount Ninja.\""
-msgstr ""
+msgstr "Вот! «Кобаяси — второсортный ниндзя»."
 
 #. comic189 panel p5
 #. slot: right bubble
 #. images: modt.gif, modtp.gif
 #: kidradd/comic189.htm:295
+#, fuzzy
 msgctxt "comic189#p5.2"
 msgid "Twenty bucks. Sweet!"
-msgstr ""
+msgstr "Двадцать баксов. Класс!"

@@ -111,7 +111,7 @@ msgstr "Вы гости... <i>извне</i> этой игры?"
 #, fuzzy
 msgctxt "comic354#p3.1"
 msgid "\"Well, it's unsettling to me, anyway.\""
-msgstr "«Ну, меня-то по крайней мере тревожит»."
+msgstr "«Меня-то уж точно тревожит»."
 
 #. comic354 panel p3
 #. slot: left bubble
@@ -120,7 +120,7 @@ msgstr "«Ну, меня-то по крайней мере тревожит»."
 #, fuzzy
 msgctxt "comic354#p3.2"
 msgid "Lookin' sharp, dude!"
-msgstr "Шикарно выглядишь, чувак!"
+msgstr "Шикарно, чувак!"
 
 #. comic354 panel p3
 #. slot: right bubble
@@ -129,7 +129,7 @@ msgstr "Шикарно выглядишь, чувак!"
 #, fuzzy
 msgctxt "comic354#p3.3"
 msgid "Ya like? It's the latest in hair technology, called a \"mullet.\""
-msgstr "Нравится? Последнее слово в технологиях причёсок — называется «маллет»."
+msgstr "Нравится? Писк моды в причёсках — «маллет»."
 
 #. comic354 panel p4
 #. slot: left bubble
@@ -191,7 +191,7 @@ msgstr "Моё личное пространство нарушено..."
 #, fuzzy
 msgctxt "comic355#p1.2"
 msgid "We need sprites with unusual abilities. Can you charge up like me?"
-msgstr "Нам нужны спрайты с необычными способностями. Ты умеешь заряжаться, как я?"
+msgstr "Нужны особые умения. Можешь заряжаться, как я?"
 
 #. comic355 panel p1
 #. slot: right bubble
@@ -465,7 +465,7 @@ msgstr "Идём посмотреть на эти «мгновенные» бо�
 #, fuzzy
 msgctxt "comic358#p3.1"
 msgid "But I want to see their effect on my, uh, \"little sister.\" I'm still not clear on how her attacks differ from Radd's."
-msgstr "Но я хочу увидеть, как они подействуют на мою, э-э, «младшую сестрёнку». Мне до сих пор непонятно, чем её атаки отличаются от атак Улёта."
+msgstr "Но я хочу видеть, как они подействуют на мою, э-э, «сестрёнку». Не пойму, чем её атаки отличаются от Улётовых."
 
 #. comic358 panel p4
 #. slot: left bubble
@@ -781,7 +781,7 @@ msgstr "У...<br>меня...<br><b>нет...<br>РУК!</b>"
 #, fuzzy
 msgctxt "comic362#p4.1"
 msgid "Sure, you wait 'til now to tell me these things."
-msgstr "Конечно, надо было дождаться этого момента, чтобы мне такое сказать."
+msgstr "Ну конечно, самое время мне такое сообщить."
 
 #. comic362 panel p4
 #. slot: right bubble
@@ -790,7 +790,7 @@ msgstr "Конечно, надо было дождаться этого моме
 #, fuzzy
 msgctxt "comic362#p4.2"
 msgid "Are you out of your mind???"
-msgstr "Ты что, с ума сошёл???"
+msgstr "Ты спятил???"
 
 #. comic363 panel title
 #. slot: background color and image
@@ -1494,7 +1494,7 @@ msgstr "Так... мне доступны твои способности?"
 #, fuzzy
 msgctxt "comic372#p2.2"
 msgid "Yes, or at least my powered-up form. You can do this, sis."
-msgstr "Да, по крайней мере моя усиленная форма. Ты справишься, сестрёнка."
+msgstr "Да, к моей суперформе. Ты сможешь, сестра."
 
 #. comic372 panel p3
 #. slot: middle bubble
@@ -1967,7 +1967,7 @@ msgstr "Так мы сражались не с?..."
 #, fuzzy
 msgctxt "comic378#p3.2"
 msgid "The main force? No. We just fought a subsquad of about 30; there's at least 200 ships' crews back in Reset now."
-msgstr "С основными силами? Нет. Мы дрались с отрядом примерно в 30 кораблей, а в Ресете сейчас как минимум 200 экипажей."
+msgstr "Основные силы? Нет. Мы дрались с отрядом штук в 30, а в Ресете сейчас минимум 200 экипажей."
 
 #. comic378 panel p4
 #. slot: middle bubble
@@ -2038,7 +2038,7 @@ msgstr "Придётся."
 #, fuzzy
 msgctxt "comic379#p2.1"
 msgid "But we can save Reset! You all saw what Sheena can do!"
-msgstr "Но мы можем спасти Ресет! Вы все видели, на что способна Шина!"
+msgstr "Но мы можем спасти Ресет! Все видели, что умеет Шина!"
 
 #. comic379 panel p2
 #. slot: right bubble
@@ -2047,7 +2047,7 @@ msgstr "Но мы можем спасти Ресет! Вы все видели, 
 #, fuzzy
 msgctxt "comic379#p2.2"
 msgid "Actually, I somehow feel like I can't do that attack again right now."
-msgstr "Вообще-то, мне почему-то кажется, что прямо сейчас я эту атаку повторить не смогу."
+msgstr "Вообще-то, мне кажется, сейчас я эту атаку не повторю."
 
 #. comic379 panel p3
 #. slot: left bubble
@@ -2153,7 +2153,7 @@ msgstr "Что?"
 #, fuzzy
 msgctxt "comic380#p5.2"
 msgid "My other half is lucky I can't slap her."
-msgstr "Повезло моей второй половине, что я не могу дать ей пощёчину."
+msgstr "Повезло моей половине, что её не стукнуть."
 
 #. comic380 panel p5
 #. slot: right bubble
@@ -2162,7 +2162,7 @@ msgstr "Повезло моей второй половине, что я не м
 #, fuzzy
 msgctxt "comic380#p5.3"
 msgid "You like him, don'cha? Sis's got cooties!"
-msgstr "Он тебе нравится, да? Тили-тили-тесто, сестрёнка — невеста!"
+msgstr "Он тебе нравится, да? Тили-тили-тесто!"
 
 #. comic381 panel title
 #. slot: background color and image
@@ -2222,7 +2222,7 @@ msgstr "Все 27 кораблей уничтожены, выживших нет
 #, fuzzy
 msgctxt "comic381#p3.2"
 msgid "Yeah. But at least, as you ordered, they destroyed the Kid Radd games before... whoever, whatever got them."
-msgstr "Да. Но хотя бы, как вы приказали, они успели уничтожить игры «Улёт-парень», прежде чем... кто-то или что-то их прикончило."
+msgstr "Да. Но хотя бы, по вашему приказу, они стёрли игры «Улёт-парень», пока их не прикончил... кто-то. Или что-то."
 
 #. comic381 panel p4
 #. slot: left bubble
@@ -2362,7 +2362,7 @@ msgstr "«НЕ ПОЙМАЕШЬ»"
 #, fuzzy
 msgctxt "comic383#p1.1"
 msgid "So, any potential recruits among the newly captured cities?"
-msgstr "Ну что, есть потенциальные рекруты в новых захваченных городах?"
+msgstr "Ну, есть кого завербовать в новых городах?"
 
 #. comic383 panel p1
 #. slot: right bubble
@@ -2574,7 +2574,7 @@ msgstr "Блин, ненавижу это безумное место."
 #, fuzzy
 msgctxt "comic385#p4.1"
 msgid "All the sprites they can't use or can't control end up here. But this place won't hold me. I'll just wait for the heat to die down and escape again."
-msgstr "Сюда попадают все спрайты, которых они не могут использовать или контролировать. Но меня тут не удержать. Пережду, пока страсти остынут, и снова сбегу."
+msgstr "Сюда кидают всех спрайтов, которых нельзя использовать или подчинить. Но меня тут не удержать. Пусть страсти остынут — и я опять сбегу."
 
 #. comic385 panel p5
 #. slot: right bubble
@@ -2671,7 +2671,7 @@ msgstr "«НАВЕРСТАТЬ УПУЩЕННОЕ»"
 #, fuzzy
 msgctxt "comic387#p1.1"
 msgid "Thank you. I guess Crystal wasn't able to destroy me while I was frozen. How long has it been?"
-msgstr "Спасибо. Похоже, Кристал не смогла уничтожить меня, пока я был заморожен. Сколько прошло времени?"
+msgstr "Спасибо. Видно, Кристал не смогла меня уничтожить, пока я был заморожен. Долго я так?"
 
 #. comic387 panel p1
 #. slot: right bubble
@@ -2689,7 +2689,7 @@ msgstr "Пара месяцев."
 #, fuzzy
 msgctxt "comic387#p2.1"
 msgid "<b>Two mo - </b> Wow. I'm afraid to ask."
-msgstr "<b>Два ме - </b> Ого. Боюсь даже спрашивать."
+msgstr "<b>Два ме - </b> Ого. Боюсь спрашивать."
 
 #. comic387 panel p2
 #. slot: right bubble
@@ -2698,7 +2698,7 @@ msgstr "<b>Два ме - </b> Ого. Боюсь даже спрашивать."
 #, fuzzy
 msgctxt "comic387#p2.2"
 msgid "She's used the Mods to conquer almost every known sprite colony by now."
-msgstr "С помощью Модеров она уже покорила почти все известные колонии спрайтов."
+msgstr "С Модерами она покорила почти все колонии спрайтов."
 
 #. comic387 panel p3
 #. slot: left bubble
@@ -2707,7 +2707,7 @@ msgstr "С помощью Модеров она уже покорила почт
 #, fuzzy
 msgctxt "comic387#p3.1"
 msgid "Then it's too late. She's the most powerful sprite in existence..."
-msgstr "Тогда уже поздно. Она — самый могущественный спрайт на свете..."
+msgstr "Значит, поздно. Она — самый могучий спрайт на свете..."
 
 #. comic387 panel p3
 #. slot: right bubble
@@ -2716,7 +2716,7 @@ msgstr "Тогда уже поздно. Она — самый могуществ
 #, fuzzy
 msgctxt "comic387#p3.2"
 msgid "Not from what she says. I overheard her fretting about Radd. What's that about?"
-msgstr "Не по её словам. Я подслушал, как она психует из-за Улёта. Это ещё что такое?"
+msgstr "Не по её словам. Я слышал, как она психует из-за Улёта. Это что такое?"
 
 #. comic387 panel p4
 #. slot: left bubble
@@ -2725,7 +2725,7 @@ msgstr "Не по её словам. Я подслушал, как она пси
 #, fuzzy
 msgctxt "comic387#p4.1"
 msgid "She never caught him? Then there's hope! Is she an invincible god-like monster yet?"
-msgstr "Она его так и не поймала? Значит, надежда есть! Она ещё не стала непобедимым богоподобным монстром?"
+msgstr "Она его не поймала? Есть надежда! А всемогущим чудищем она ещё не стала?"
 
 #. comic387 panel p4
 #. slot: right bubble
@@ -2734,7 +2734,7 @@ msgstr "Она его так и не поймала? Значит, надежд�
 #, fuzzy
 msgctxt "comic387#p4.2"
 msgid "Uh, no more than usual, I guess..."
-msgstr "Э-э, не больше обычного, наверное..."
+msgstr "Э-э, не больше обычного вроде..."
 
 #. comic387 panel p5
 #. slot: left bubble
@@ -2823,7 +2823,7 @@ msgstr "Вроде того — я спрайт-торговец. У меня б
 #, fuzzy
 msgctxt "comic388#p4.1"
 msgid "Limitless? Oh... now I see why your businesses were so profitable."
-msgstr "Бесконечный? А... теперь понятно, почему твои дела шли так прибыльно."
+msgstr "Бесконечный? А... теперь ясно, почему твой бизнес так процветал."
 
 #. comic388 panel p4
 #. slot: right bubble
@@ -2832,7 +2832,7 @@ msgstr "Бесконечный? А... теперь понятно, почему 
 #, fuzzy
 msgctxt "comic388#p4.2"
 msgid "Hey! I sold other stuff! I branched out."
-msgstr "Эй! Я и другое продавал! Я расширял ассортимент."
+msgstr "Эй! Я торговал и другим! Я расширялся."
 
 #. comic389 panel title
 #. slot: background color and image

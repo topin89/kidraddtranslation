@@ -12,964 +12,1086 @@ msgstr ""
 #. comic75 panel title
 #. slot: background color and image
 #: kidradd/comic75.htm:36
+#, fuzzy
 msgctxt "comic75#title.1"
 msgid "\"HIGHER POWER\""
-msgstr ""
+msgstr "«ВЫСШАЯ СИЛА»"
 
 #. comic75 panel p1
 #. slot: narration (if any, else cut)
 #. images: deskguy1.gif, raddchair2.gif
 #: kidradd/comic75.htm:73
+#, fuzzy
 msgctxt "comic75#p1.1"
 msgid "At the Hopetown Employment Agency:"
-msgstr ""
+msgstr "В бюро по трудоустройству Надеждинска:"
 
 #. comic75 panel p1
 #. slot: left bubble
 #. images: deskguy1.gif, raddchair2.gif
 #: kidradd/comic75.htm:79
+#, fuzzy
 msgctxt "comic75#p1.2"
 msgid "Well Mr. Radd, you are admittedly lacking in job experience."
-msgstr ""
+msgstr "Что ж, господин Улёт, опыта работы у вас, прямо скажем, маловато."
 
 #. comic75 panel p1
 #. slot: right bubble
 #. images: deskguy1.gif, raddchair2.gif
 #: kidradd/comic75.htm:83
+#, fuzzy
 msgctxt "comic75#p1.3"
 msgid "Yeah."
-msgstr ""
+msgstr "Ага."
 
 #. comic75 panel p2
 #. slot: left bubble
 #. images: deskguy1.gif, raddchair2.gif
 #: kidradd/comic75.htm:136
+#, fuzzy
 msgctxt "comic75#p2.1"
 msgid "But we do have something that you'd be easily capable of."
-msgstr ""
+msgstr "Но у нас есть кое-что, с чем вы легко справитесь."
 
 #. comic75 panel p2
 #. slot: right bubble
 #. images: deskguy1.gif, raddchair2.gif
 #: kidradd/comic75.htm:140
+#, fuzzy
 msgctxt "comic75#p2.2"
 msgid "Okay?"
-msgstr ""
+msgstr "Так?"
 
 #. comic75 panel p3
 #. slot: left bubble
 #. images: deskguy1.gif, raddchairw2.gif
 #: kidradd/comic75.htm:188
+#, fuzzy
 msgctxt "comic75#p3.1"
 msgid "It's not everyone's cup of tea. Do you mind working with humans?"
-msgstr ""
+msgstr "Это не всем по душе. Вы не против работать с людьми?"
 
 #. comic75 panel p3
 #. slot: right bubble
 #. images: deskguy1.gif, raddchairw2.gif
 #: kidradd/comic75.htm:192
+#, fuzzy
 msgctxt "comic75#p3.2"
 msgid "DUDE!"
-msgstr ""
+msgstr "ЧУВАК!"
 
 #. comic75 panel p4
 #. slot: middle bubble
 #. images: rheadwow.gif
 #: kidradd/comic75.htm:242
+#, fuzzy
 msgctxt "comic75#p4.1"
 msgid "You mean, the <i>players?!</i> The omnipotent beings who created us? Awesome! How could I pass that up?"
-msgstr ""
+msgstr "В смысле, с <i>игроками?!</i> Со всемогущими существами, которые нас создали? Круто! Как я могу от такого отказаться?"
 
 #. comic75 panel p5
 #. slot: left bubble
 #. images: deskguy1.gif, raddchairw2.gif
 #: kidradd/comic75.htm:292
+#, fuzzy
 msgctxt "comic75#p5.1"
 msgid "Wow, you <i>are</i> a newbie."
-msgstr ""
+msgstr "Ого, вы <i>и правда</i> новичок."
 
 #. comic75 panel p5
 #. slot: right bubble
 #. images: deskguy1.gif, raddchairw2.gif
 #: kidradd/comic75.htm:296
+#, fuzzy
 msgctxt "comic75#p5.2"
 msgid "When can I start?"
-msgstr ""
+msgstr "Когда начинать?"
 
 #. comic76 panel title
 #. slot: background color and image
 #: kidradd/comic76.htm:37
+#, fuzzy
 msgctxt "comic76#title.1"
 msgid "\"I'M SO EXCITED\""
-msgstr ""
+msgstr "«Я ТАК ВЗВОЛНОВАН»"
 
 #. comic76 panel p1
 #. slot: left bubble
 #. images: bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic76.htm:78
+#, fuzzy
 msgctxt "comic76#p1.1"
 msgid "Guys! Guess what!"
-msgstr ""
+msgstr "Ребята! Угадайте что!"
 
 #. comic76 panel p1
 #. slot: middle bubble
 #. images: bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic76.htm:80
+#, fuzzy
 msgctxt "comic76#p1.2"
 msgid "Hero-boy sounds excited today."
-msgstr ""
+msgstr "Геройчик сегодня взволнован."
 
 #. comic76 panel p1
 #. slot: right bubble
 #. images: bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic76.htm:82
+#, fuzzy
 msgctxt "comic76#p1.3"
 msgid "Like everyday."
-msgstr ""
+msgstr "Как и каждый день."
 
 #. comic76 panel p2
 #. slot: left bubble
 #. images: raddright.gif, bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic76.htm:135
+#, fuzzy
 msgctxt "comic76#p2.1"
 msgid "I got a job! A great one!"
-msgstr ""
+msgstr "Я нашёл работу! Отличную!"
 
 #. comic76 panel p2
 #. slot: right bubble
 #. images: raddright.gif, bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic76.htm:139
+#, fuzzy
 msgctxt "comic76#p2.2"
 msgid "What is it?"
-msgstr ""
+msgstr "Какую?"
 
 #. comic76 panel p3
 #. slot: left bubble
 #. images: raddblink.gif, bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic76.htm:186
+#, fuzzy
 msgctxt "comic76#p3.1"
 msgid "I'm now a \"chatroom avatar!\""
-msgstr ""
+msgstr "Теперь я «аватар для чата»!"
 
 #. comic76 panel p3
 #. slot: middle bubble
 #. images: raddblink.gif, bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic76.htm:188
+#, fuzzy
 msgctxt "comic76#p3.2"
 msgid "A what?"
-msgstr ""
+msgstr "Чего?"
 
 #. comic76 panel p3
 #. slot: right bubble
 #. images: raddblink.gif, bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic76.htm:190
+#, fuzzy
 msgctxt "comic76#p3.3"
 msgid "What's that?"
-msgstr ""
+msgstr "Это что такое?"
 
 #. comic76 panel p4
 #. slot: left bubble
 #. images: raddrun2.gif, bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic76.htm:237
+#, fuzzy
 msgctxt "comic76#p4.1"
 msgid "I dunno, but I'll get to work with <i>humans!</i> You know, our creators, the ones who played with us! It's gonna be great! See ya later!"
-msgstr ""
+msgstr "Без понятия, но я буду работать с <i>людьми!</i> Ну, с нашими создателями, которые в нас играли! Будет здорово! Пока!"
 
 #. comic76 panel p5
 #. slot: middle bubble
 #. images: bogeyupt.gif, sheenastand2.gif
 #: kidradd/comic76.htm:294
+#, fuzzy
 msgctxt "comic76#p5.1"
 msgid "He's setting himself up for disappointment, isn't he?"
-msgstr ""
+msgstr "Он ведь готовит себе разочарование, да?"
 
 #. comic76 panel p5
 #. slot: right bubble
 #. images: bogeyupt.gif, sheenastand2.gif
 #: kidradd/comic76.htm:296
+#, fuzzy
 msgctxt "comic76#p5.2"
 msgid "Big time."
-msgstr ""
+msgstr "Ещё какое."
 
 #. comic77 panel title
 #. slot: background color and image
 #: kidradd/comic77.htm:55
+#, fuzzy
 msgctxt "comic77#title.1"
 msgid "\"MAGIC\""
-msgstr ""
+msgstr "«ВОЛШЕБСТВО»"
 
 #. comic77 panel p1
 #. slot: middle bubble
 #. images: bogeyupt2.gif, sheenastand2.gif
 #: kidradd/comic77.htm:98
+#, fuzzy
 msgctxt "comic77#p1.1"
 msgid "Hey Radd, hold up!"
-msgstr ""
+msgstr "Эй, Улёт, погоди!"
 
 #. comic77 panel p1
 #. slot: right bubble
 #. images: bogeyupt2.gif, sheenastand2.gif
 #: kidradd/comic77.htm:100
+#, fuzzy
 msgctxt "comic77#p1.2"
 msgid "Come back here for a sec."
-msgstr ""
+msgstr "Вернись на секунду."
 
 #. comic77 panel p2
 #. slot: left bubble
 #. images: raddright.gif, bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic77.htm:153
+#, fuzzy
 msgctxt "comic77#p2.1"
 msgid "What?"
-msgstr ""
+msgstr "Что?"
 
 #. comic77 panel p2
 #. slot: right bubble
 #. images: raddright.gif, bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic77.htm:157
+#, fuzzy
 msgctxt "comic77#p2.2"
 msgid "Just tell us a little more. How does this job work?"
-msgstr ""
+msgstr "Расскажи поподробнее. Как устроена эта работа?"
 
 #. comic77 panel p3
 #. slot: left bubble
 #. images: raddstand.gif, bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic77.htm:204
+#, fuzzy
 msgctxt "comic77#p3.1"
 msgid "Well, when a human calls me - Hey! I'm being paged now! Sweet!"
-msgstr ""
+msgstr "Ну, когда человек меня вызывает - Эй! Меня как раз вызывают! Класс!"
 
 #. comic77 panel p3
 #. slot: right bubble
 #. images: raddstand.gif, bogeyup2.gif, sheenastand2.gif
 #: kidradd/comic77.htm:208
+#, fuzzy
 msgctxt "comic77#p3.2"
 msgid "bee-ee-ee-eep!"
-msgstr ""
+msgstr "би-и-и-и-ип!"
 
 #. comic77 panel p5
 #. slot: left bubble
 #. images: bogeyup.gif, sheenastand2.gif
 #: kidradd/comic77.htm:310
+#, fuzzy
 msgctxt "comic77#p5.1"
 msgid "I gotta admit, that was pretty cool."
-msgstr ""
+msgstr "Признаю, это было довольно круто."
 
 #. comic77 panel p5
 #. slot: right bubble
 #. images: bogeyup.gif, sheenastand2.gif
 #: kidradd/comic77.htm:314
+#, fuzzy
 msgctxt "comic77#p5.2"
 msgid "B plus."
-msgstr ""
+msgstr "Четыре с плюсом."
 
 #. comic78 panel title
 #. slot: background color and image
 #: kidradd/comic78.htm:36
+#, fuzzy
 msgctxt "comic78#title.1"
 msgid "\"CALL ME\""
-msgstr ""
+msgstr "«ПОЗВОНИ МНЕ»"
 
 #. comic78 panel p1
 #. slot: narration (if any, else cut)
 #. images: raddpose.gif
 #: kidradd/comic78.htm:73
+#, fuzzy
 msgctxt "comic78#p1.1"
 msgid "From somewhere in the human world, a chatroom user summons Radd."
-msgstr ""
+msgstr "Где-то в мире людей пользователь чата вызывает Улёта."
 
 #. comic78 panel p2
 #. slot: narration (if any, else cut)
 #. images: raddpose.gif
 #: kidradd/comic78.htm:132
+#, fuzzy
 msgctxt "comic78#p2.1"
 msgid "The human's magical call teleports Radd to his job as a chatroom avatar."
-msgstr ""
+msgstr "Волшебный зов человека переносит Улёта на работу — быть аватаром в чате."
 
 #. comic78 panel p3
 #. slot: middle bubble
 #. images: raddspin.gif
 #: kidradd/comic78.htm:191
+#, fuzzy
 msgctxt "comic78#p3.1"
 msgid "I've gotta be converted to jpeg format for this -- whatever that means."
-msgstr ""
+msgstr "Меня надо перевести в jpeg — что бы это ни значило."
 
 #. comic78 panel p4
 #. slot: middle bubble
 #. images: rheadwow.gif
 #: kidradd/comic78.htm:241
+#, fuzzy
 msgctxt "comic78#p4.1"
 msgid "Did it work? Am I in the human world?"
-msgstr ""
+msgstr "Получилось? Я в мире людей?"
 
 #. comic78 panel p5
 #. slot: middle bubble
 #. images: thought.gif, rhead.gif
 #: kidradd/comic78.htm:296
+#, fuzzy
 msgctxt "comic78#p5.1"
 msgid "This feels very strange..."
-msgstr ""
+msgstr "Какое странное ощущение..."
 
 #. comic78 panel p5
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif
 #: kidradd/comic78.htm:306
+#, fuzzy
 msgctxt "comic78#p5.2"
 msgid "coolistdude: <i>Enters the room...</i>"
-msgstr ""
+msgstr "coolistdude: <i>Входит в комнату...</i>"
 
 #. comic79 panel title
 #. slot: background color and image
 #: kidradd/comic79.htm:36
+#, fuzzy
 msgctxt "comic79#title.1"
 msgid "\"IN YOUR ROOM\""
-msgstr ""
+msgstr "«В ТВОЕЙ КОМНАТЕ»"
 
 #. comic79 panel p1
 #. slot: middle bubble
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic79.htm:79
+#, fuzzy
 msgctxt "comic79#p1.1"
 msgid "\"Coolistdude?\" Is that my player here?"
-msgstr ""
+msgstr "«Coolistdude»? Это мой игрок?"
 
 #. comic79 panel p1
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic79.htm:89
+#, fuzzy
 msgctxt "comic79#p1.2"
 msgid "coolistdude: hi all whassup"
-msgstr ""
+msgstr "coolistdude: всем превет чё каг"
 
 #. comic79 panel p1
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic79.htm:90
+#, fuzzy
 msgctxt "comic79#p1.3"
 msgid "missy: <i>Enters the room...</i>"
-msgstr ""
+msgstr "missy: <i>Входит в комнату...</i>"
 
 #. comic79 panel p2
 #. slot: middle bubble
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic79.htm:138
+#, fuzzy
 msgctxt "comic79#p2.1"
 msgid "And that must be another player! Wow!"
-msgstr ""
+msgstr "А это, наверное, ещё один игрок! Ого!"
 
 #. comic79 panel p2
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic79.htm:148
+#, fuzzy
 msgctxt "comic79#p2.2"
 msgid "coolistdude: hi all whassup"
-msgstr ""
+msgstr "coolistdude: всем превет чё каг"
 
 #. comic79 panel p2
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic79.htm:149
+#, fuzzy
 msgctxt "comic79#p2.3"
 msgid "missy: hi cooldued"
-msgstr ""
+msgstr "missy: прив cooldued"
 
 #. comic79 panel p3
 #. slot: middle bubble
 #. images: thought.gif, rheadwow.gif, missy.gif
 #: kidradd/comic79.htm:191
+#, fuzzy
 msgctxt "comic79#p3.1"
 msgid "Incredible! I can't believe I'm listening to real, almighty humans!"
-msgstr ""
+msgstr "Невероятно! Я слушаю настоящих, всемогущих людей!"
 
 #. comic79 panel p3
 #. slot: imsert images on this line
 #. images: thought.gif, rheadwow.gif, missy.gif
 #: kidradd/comic79.htm:201
+#, fuzzy
 msgctxt "comic79#p3.2"
 msgid "coolistdude: hi cutey"
-msgstr ""
+msgstr "coolistdude: прив красотулька"
 
 #. comic79 panel p3
 #. slot: imsert images on this line
 #. images: thought.gif, rheadwow.gif, missy.gif
 #: kidradd/comic79.htm:202
+#, fuzzy
 msgctxt "comic79#p3.3"
 msgid "missy: hi cooldued"
-msgstr ""
+msgstr "missy: прив cooldued"
 
 #. comic79 panel p4
 #. slot: middle bubble
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic79.htm:245
+#, fuzzy
 msgctxt "comic79#p4.1"
 msgid "They have pretty poor spelling for omniscient beings, though."
-msgstr ""
+msgstr "Правда, для всеведущих существ у них неважно с орфографией."
 
 #. comic79 panel p4
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic79.htm:255
+#, fuzzy
 msgctxt "comic79#p4.2"
 msgid "coolistdude: *w*"
-msgstr ""
+msgstr "coolistdude: *w*"
 
 #. comic79 panel p4
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic79.htm:256
+#, fuzzy
 msgctxt "comic79#p4.3"
 msgid "missy: heehee"
-msgstr ""
+msgstr "missy: хихи"
 
 #. comic80 panel title
 #. slot: background color and image
 #: kidradd/comic80.htm:36
+#, fuzzy
 msgctxt "comic80#title.1"
 msgid "\"KEEP TALKING\""
-msgstr ""
+msgstr "«ГОВОРИ ЕЩЁ»"
 
 #. comic80 panel p1
 #. slot: middle bubble
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic80.htm:79
+#, fuzzy
 msgctxt "comic80#p1.1"
 msgid "The users communicate in strange, cryptic codes."
-msgstr ""
+msgstr "Пользователи общаются странными загадочными кодами."
 
 #. comic80 panel p1
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic80.htm:89
+#, fuzzy
 msgctxt "comic80#p1.2"
 msgid "coolistdude: asl?"
-msgstr ""
+msgstr "coolistdude: п/в/г?"
 
 #. comic80 panel p1
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic80.htm:90
+#, fuzzy
 msgctxt "comic80#p1.3"
 msgid "missy: f/29 (4ever) LOL"
-msgstr ""
+msgstr "missy: ж/29 (навсегда) ЛОЛ"
 
 #. comic80 panel p2
 #. slot: middle bubble
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic80.htm:138
+#, fuzzy
 msgctxt "comic80#p2.1"
 msgid "I can't understand what's being said at all."
-msgstr ""
+msgstr "Я вообще не понимаю, о чём они."
 
 #. comic80 panel p2
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic80.htm:148
+#, fuzzy
 msgctxt "comic80#p2.2"
 msgid "coolistdude: l?"
-msgstr ""
+msgstr "coolistdude: г?"
 
 #. comic80 panel p2
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic80.htm:149
+#, fuzzy
 msgctxt "comic80#p2.3"
 msgid "missy: in my compy"
-msgstr ""
+msgstr "missy: в моём компике"
 
 #. comic80 panel p3
 #. slot: middle bubble
 #. images: thought.gif, rheadwow.gif, missy.gif
 #: kidradd/comic80.htm:191
+#, fuzzy
 msgctxt "comic80#p3.1"
 msgid "Maybe the language of the users is beyond the comprehension of mere sprites?"
-msgstr ""
+msgstr "Может, язык пользователей недоступен пониманию простых спрайтов?"
 
 #. comic80 panel p3
 #. slot: imsert images on this line
 #. images: thought.gif, rheadwow.gif, missy.gif
 #: kidradd/comic80.htm:201
+#, fuzzy
 msgctxt "comic80#p3.2"
 msgid "coolistdude: wtf?"
-msgstr ""
+msgstr "coolistdude: чё за фигня?"
 
 #. comic80 panel p3
 #. slot: imsert images on this line
 #. images: thought.gif, rheadwow.gif, missy.gif
 #: kidradd/comic80.htm:202
+#, fuzzy
 msgctxt "comic80#p3.3"
 msgid "missy: LOLOLOLOL!!!"
-msgstr ""
+msgstr "missy: ЛОЛОЛОЛОЛ!!!"
 
 #. comic80 panel p4
 #. slot: middle bubble
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic80.htm:245
+#, fuzzy
 msgctxt "comic80#p4.1"
 msgid "Then again, maybe not."
-msgstr ""
+msgstr "А может, и нет."
 
 #. comic80 panel p4
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic80.htm:255
+#, fuzzy
 msgctxt "comic80#p4.2"
 msgid "coolistdude: u suck"
-msgstr ""
+msgstr "coolistdude: ты лох"
 
 #. comic80 panel p4
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic80.htm:256
+#, fuzzy
 msgctxt "comic80#p4.3"
 msgid "missy: SHUT UP! morron!!!"
-msgstr ""
+msgstr "missy: ЗАТКНИСЬ! дибил!!!"
 
 #. comic81 panel title
 #. slot: background color and image
 #: kidradd/comic81.htm:55
+#, fuzzy
 msgctxt "comic81#title.1"
 msgid "\"REJECTED\""
-msgstr ""
+msgstr "«ОТВЕРГНУТЫЙ»"
 
 #. comic81 panel p1
 #. slot: middle bubble
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic81.htm:98
+#, fuzzy
 msgctxt "comic81#p1.1"
 msgid "This is turning ugly."
-msgstr ""
+msgstr "Дело принимает скверный оборот."
 
 #. comic81 panel p1
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic81.htm:108
+#, fuzzy
 msgctxt "comic81#p1.2"
 msgid "coolistdude: eat **** and die *****!"
-msgstr ""
+msgstr "coolistdude: жри **** и сдохни *****!"
 
 #. comic81 panel p1
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic81.htm:109
+#, fuzzy
 msgctxt "comic81#p1.3"
 msgid "missy: mod! mod!"
-msgstr ""
+msgstr "missy: модер! модер!"
 
 #. comic81 panel p2
 #. slot: middle bubble
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic81.htm:158
+#, fuzzy
 msgctxt "comic81#p2.1"
 msgid "Huh? What's that mean?"
-msgstr ""
+msgstr "А? Что это значит?"
 
 #. comic81 panel p2
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic81.htm:168
+#, fuzzy
 msgctxt "comic81#p2.2"
 msgid "User <i>coolistdude</i> has been booted."
-msgstr ""
+msgstr "Пользователь <i>coolistdude</i> выкинут из чата."
 
 #. comic81 panel p2
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, missy.gif
 #: kidradd/comic81.htm:169
+#, fuzzy
 msgctxt "comic81#p2.3"
 msgid "missy: haha"
-msgstr ""
+msgstr "missy: хаха"
 
 #. comic81 panel p3
 #. slot: middle bubble
 #. images: raddspin.gif
 #: kidradd/comic81.htm:211
+#, fuzzy
 msgctxt "comic81#p3.1"
 msgid "What happened? Is it over?"
-msgstr ""
+msgstr "Что случилось? Всё закончилось?"
 
 #. comic81 panel p5
 #. slot: left bubble
 #. images: raddstare.gif, bogeyup2.gif
 #: kidradd/comic81.htm:315
+#, fuzzy
 msgctxt "comic81#p5.1"
 msgid "The humans move in mysterious ways."
-msgstr ""
+msgstr "Пути людские неисповедимы."
 
 #. comic81 panel p5
 #. slot: right bubble
 #. images: raddstare.gif, bogeyup2.gif
 #: kidradd/comic81.htm:319
+#, fuzzy
 msgctxt "comic81#p5.2"
 msgid "Wha-? Oh, hi Radd."
-msgstr ""
+msgstr "Что-? А, привет, Улёт."
 
 #. comic82 panel title
 #. slot: background color and image
 #: kidradd/comic82.htm:37
+#, fuzzy
 msgctxt "comic82#title.1"
 msgid "\"LESSON LEARNED\""
-msgstr ""
+msgstr "«УРОК УСВОЕН»"
 
 #. comic82 panel p1
 #. slot: left bubble
 #. images: raddback.gif, bogeyup2.gif
 #: kidradd/comic82.htm:78
+#, fuzzy
 msgctxt "comic82#p1.1"
 msgid "That... sucked..."
-msgstr ""
+msgstr "Это был... отстой..."
 
 #. comic82 panel p1
 #. slot: right bubble
 #. images: raddback.gif, bogeyup2.gif
 #: kidradd/comic82.htm:82
+#, fuzzy
 msgctxt "comic82#p1.2"
 msgid "Your job?"
-msgstr ""
+msgstr "Твоя работа?"
 
 #. comic82 panel p2
 #. slot: left bubble
 #. images: bigbogey2.gif, raddtable3.gif
 #: kidradd/comic82.htm:135
+#, fuzzy
 msgctxt "comic82#p2.1"
 msgid "Is it tough?"
-msgstr ""
+msgstr "Тяжело?"
 
 #. comic82 panel p2
 #. slot: right bubble
 #. images: bigbogey2.gif, raddtable3.gif
 #: kidradd/comic82.htm:139
+#, fuzzy
 msgctxt "comic82#p2.2"
 msgid "Naw, it's child's play. I'm just a mouthpiece for the users."
-msgstr ""
+msgstr "Не, проще простого. Я просто рупор для пользователей."
 
 #. comic82 panel p3
 #. slot: left bubble
 #. images: bogeytabled.gif, raddtable3.gif
 #: kidradd/comic82.htm:185
+#, fuzzy
 msgctxt "comic82#p3.1"
 msgid "So what's wrong?"
-msgstr ""
+msgstr "Так что не так?"
 
 #. comic82 panel p3
 #. slot: right bubble
 #. images: bogeytabled.gif, raddtable3.gif
 #: kidradd/comic82.htm:189
+#, fuzzy
 msgctxt "comic82#p3.2"
 msgid "The humans -- they don't make any sense."
-msgstr ""
+msgstr "Люди — в них нет никакого смысла."
 
 #. comic82 panel p4
 #. slot: left bubble
 #. images: bogeytablet.gif, raddtable3.gif
 #: kidradd/comic82.htm:236
+#, fuzzy
 msgctxt "comic82#p4.1"
 msgid "So you're not learning any secrets of the universe, huh?"
-msgstr ""
+msgstr "Значит, тайн вселенной ты не узнаёшь, да?"
 
 #. comic82 panel p4
 #. slot: right bubble
 #. images: bogeytablet.gif, raddtable3.gif
 #: kidradd/comic82.htm:240
+#, fuzzy
 msgctxt "comic82#p4.2"
 msgid "No, but..."
-msgstr ""
+msgstr "Нет, но..."
 
 #. comic82 panel p5
 #. slot: left bubble
 #. images: raddright.gif, bogeyupt2.gif
 #: kidradd/comic82.htm:291
+#, fuzzy
 msgctxt "comic82#p5.1"
 msgid "I'm learning a lot about someone named Shakira."
-msgstr ""
+msgstr "Я узнаю кучу всего о какой-то Шакире."
 
 #. comic82 panel p5
 #. slot: right bubble
 #. images: raddright.gif, bogeyupt2.gif
 #: kidradd/comic82.htm:295
+#, fuzzy
 msgctxt "comic82#p5.2"
 msgid "For some reason I'm jealous."
-msgstr ""
+msgstr "Почему-то я ревную."
 
 #. comic83 panel title
 #. slot: background color and image
 #: kidradd/comic83.htm:36
+#, fuzzy
 msgctxt "comic83#title.1"
 msgid "\"TALK THE TALK\""
-msgstr ""
+msgstr "«БОЛТОВНЯ»"
 
 #. comic83 panel p1
 #. slot: middle bubble
 #. images: thought.gif, rhead.gif, dude.gif
 #: kidradd/comic83.htm:79
+#, fuzzy
 msgctxt "comic83#p1.1"
 msgid "Maybe these humans will be clearer."
-msgstr ""
+msgstr "Может, эти люди будут понятнее."
 
 #. comic83 panel p1
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, dude.gif
 #: kidradd/comic83.htm:89
+#, fuzzy
 msgctxt "comic83#p1.2"
 msgid "hikarusan: <i>Enters the room...</i>"
-msgstr ""
+msgstr "hikarusan: <i>Входит в комнату...</i>"
 
 #. comic83 panel p1
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, dude.gif
 #: kidradd/comic83.htm:90
+#, fuzzy
 msgctxt "comic83#p1.3"
 msgid "krillin: konnichiwa dude"
-msgstr ""
+msgstr "krillin: коннитива чувак"
 
 #. comic83 panel p2
 #. slot: middle bubble
 #. images: rhead.gif, dude.gif
 #: kidradd/comic83.htm:138
+#, fuzzy
 msgctxt "comic83#p2.1"
 msgid "Ain't no words here. Really."
-msgstr ""
+msgstr "Тут нет никаких слов. Правда."
 
 #. comic83 panel p2
 #. slot: imsert images on this line
 #. images: rhead.gif, dude.gif
 #: kidradd/comic83.htm:148
+#, fuzzy
 msgctxt "comic83#p2.2"
 msgid "hikarusan: Oh no, not a dubbie."
-msgstr ""
+msgstr "hikarusan: О нет, только не дубляжник."
 
 #. comic83 panel p2
 #. slot: imsert images on this line
 #. images: rhead.gif, dude.gif
 #: kidradd/comic83.htm:149
+#, fuzzy
 msgctxt "comic83#p2.3"
 msgid "krillin: how j00 know?"
-msgstr ""
+msgstr "krillin: а т0 откуда знаеш?"
 
 #. comic83 panel p3
 #. slot: middle bubble
 #. images: rhead.gif, dude.gif
 #: kidradd/comic83.htm:191
+#, fuzzy
 msgctxt "comic83#p3.1"
 msgid "Ain't no words here. Really."
-msgstr ""
+msgstr "Тут нет никаких слов. Правда."
 
 #. comic83 panel p3
 #. slot: imsert images on this line
 #. images: rhead.gif, dude.gif
 #: kidradd/comic83.htm:201
+#, fuzzy
 msgctxt "comic83#p3.2"
 msgid "hikarusan: You prolly like \"hercule.\""
-msgstr ""
+msgstr "hikarusan: Тебе небось и «Геркулес» нравится."
 
 #. comic83 panel p3
 #. slot: imsert images on this line
 #. images: rhead.gif, dude.gif
 #: kidradd/comic83.htm:202
+#, fuzzy
 msgctxt "comic83#p3.3"
 msgid "krillin: DBZ r0X0rz my b0X0rz"
-msgstr ""
+msgstr "krillin: DBZ р0Х0рит мега р0Х0рно"
 
 #. comic83 panel p4
 #. slot: middle bubble
 #. images: thought.gif, rheadugh.gif, dude.gif
 #: kidradd/comic83.htm:245
+#, fuzzy
 msgctxt "comic83#p4.1"
 msgid "Shoot me. Please."
-msgstr ""
+msgstr "Пристрелите меня. Пожалуйста."
 
 #. comic83 panel p4
 #. slot: imsert images on this line
 #. images: thought.gif, rheadugh.gif, dude.gif
 #: kidradd/comic83.htm:255
+#, fuzzy
 msgctxt "comic83#p4.2"
 msgid "hikarusan: Go home and watch smurfs!"
-msgstr ""
+msgstr "hikarusan: Иди домой смотри смурфиков!"
 
 #. comic83 panel p4
 #. slot: imsert images on this line
 #. images: thought.gif, rheadugh.gif, dude.gif
 #: kidradd/comic83.htm:256
+#, fuzzy
 msgctxt "comic83#p4.3"
 msgid "krillin: grr! special beam canon!"
-msgstr ""
+msgstr "krillin: ррр! спецальная лучевая пушька!"
 
 #. comic84 panel title
 #. slot: background color and image
 #: kidradd/comic84.htm:36
+#, fuzzy
 msgctxt "comic84#title.1"
 msgid "\"TALKING HEADS\""
-msgstr ""
+msgstr "«ГОВОРЯЩИЕ ГОЛОВЫ»"
 
 #. comic84 panel p1
 #. slot: middle bubble
 #. images: thought.gif, rhead.gif, dude.gif
 #: kidradd/comic84.htm:79
+#, fuzzy
 msgctxt "comic84#p1.1"
 msgid "Stay calm, keep cool..."
-msgstr ""
+msgstr "Спокойно, не теряй самообладания..."
 
 #. comic84 panel p1
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, dude.gif
 #: kidradd/comic84.htm:89
+#, fuzzy
 msgctxt "comic84#p1.2"
 msgid "hikarusan: Dubs suck."
-msgstr ""
+msgstr "hikarusan: Дубляж отстой."
 
 #. comic84 panel p1
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, dude.gif
 #: kidradd/comic84.htm:90
+#, fuzzy
 msgctxt "comic84#p1.3"
 msgid "krillin: i cant afford subs"
-msgstr ""
+msgstr "krillin: у мя нет денег на сабы"
 
 #. comic84 panel p2
 #. slot: middle bubble
 #. images: thought.gif, rheadmad.gif, dude.gif
 #: kidradd/comic84.htm:138
+#, fuzzy
 msgctxt "comic84#p2.1"
 msgid "Try to ignore the stupid blather..."
-msgstr ""
+msgstr "Не обращай внимания на тупую болтовню..."
 
 #. comic84 panel p2
 #. slot: imsert images on this line
 #. images: thought.gif, rheadmad.gif, dude.gif
 #: kidradd/comic84.htm:148
+#, fuzzy
 msgctxt "comic84#p2.2"
 msgid "hikarusan: True otakus never use dubs"
-msgstr ""
+msgstr "hikarusan: Настоящие отаку дубляж не смотрят"
 
 #. comic84 panel p2
 #. slot: imsert images on this line
 #. images: thought.gif, rheadmad.gif, dude.gif
 #: kidradd/comic84.htm:149
+#, fuzzy
 msgctxt "comic84#p2.3"
 msgid "krillin: j00 know otaku aint a prop, right?"
-msgstr ""
+msgstr "krillin: т0 ты в курсе что отаку это не комплимент?"
 
 #. comic84 panel p3
 #. slot: middle bubble
 #. images: thought.gif, rheadack.gif, dude.gif
 #: kidradd/comic84.htm:191
+#, fuzzy
 msgctxt "comic84#p3.1"
 msgid "Argh! I can't take it anymore!"
-msgstr ""
+msgstr "Аргх! Я больше не могу!"
 
 #. comic84 panel p3
 #. slot: imsert images on this line
 #. images: thought.gif, rheadack.gif, dude.gif
 #: kidradd/comic84.htm:201
+#, fuzzy
 msgctxt "comic84#p3.2"
 msgid "hikarusan: Shove off."
-msgstr ""
+msgstr "hikarusan: Отвали."
 
 #. comic84 panel p3
 #. slot: imsert images on this line
 #. images: thought.gif, rheadack.gif, dude.gif
 #: kidradd/comic84.htm:202
+#, fuzzy
 msgctxt "comic84#p3.3"
 msgid "krillin: how duz your avi change faces?"
-msgstr ""
+msgstr "krillin: а как у тя аватарка лица меняет?"
 
 #. comic84 panel p4
 #. slot: middle bubble
 #. images: thought.gif, rhead.gif, dude.gif
 #: kidradd/comic84.htm:245
+#, fuzzy
 msgctxt "comic84#p4.1"
 msgid "Whoops. Forgot my poker face."
-msgstr ""
+msgstr "Упс. Забыл про покерфейс."
 
 #. comic84 panel p4
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, dude.gif
 #: kidradd/comic84.htm:255
+#, fuzzy
 msgctxt "comic84#p4.2"
 msgid "hikarusan: ...I'm not doing it."
-msgstr ""
+msgstr "hikarusan: ...Это не я."
 
 #. comic84 panel p4
 #. slot: imsert images on this line
 #. images: thought.gif, rhead.gif, dude.gif
 #: kidradd/comic84.htm:256
+#, fuzzy
 msgctxt "comic84#p4.3"
 msgid "krillin: spooky!"
-msgstr ""
+msgstr "krillin: жуть!"
 
 #. comic85 panel title
 #. slot: background color and image
 #: kidradd/comic85.htm:37
+#, fuzzy
 msgctxt "comic85#title.1"
 msgid "\"FOOL'S GAME\""
-msgstr ""
+msgstr "«ИГРА ДЛЯ ДУРАКОВ»"
 
 #. comic85 panel p1
 #. slot: left bubble
 #. images: raddback.gif, barkeep2.gif
 #: kidradd/comic85.htm:78
+#, fuzzy
 msgctxt "comic85#p1.1"
 msgid "Gimme a strong one."
-msgstr ""
+msgstr "Налей покрепче."
 
 #. comic85 panel p1
 #. slot: right bubble
 #. images: raddback.gif, barkeep2.gif
 #: kidradd/comic85.htm:82
+#, fuzzy
 msgctxt "comic85#p1.2"
 msgid "Gotcha."
-msgstr ""
+msgstr "Сделаем."
 
 #. comic85 panel p2
 #. slot: left bubble
 #. images: bigbogey2.gif, raddtable3.gif, megap.gif
 #: kidradd/comic85.htm:135
+#, fuzzy
 msgctxt "comic85#p2.1"
 msgid "Rough day?"
-msgstr ""
+msgstr "Тяжёлый день?"
 
 #. comic85 panel p2
 #. slot: right bubble
 #. images: bigbogey2.gif, raddtable3.gif, megap.gif
 #: kidradd/comic85.htm:139
+#, fuzzy
 msgctxt "comic85#p2.2"
 msgid "Rough week."
-msgstr ""
+msgstr "Тяжёлая неделя."
 
 #. comic85 panel p3
 #. slot: right bubble
 #. images: bogeytabled.gif, raddtable3.gif
 #: kidradd/comic85.htm:189
+#, fuzzy
 msgctxt "comic85#p3.1"
 msgid "The humans are incoherent, immature and sometimes just plain stupid. All my illusions about them are shattered."
-msgstr ""
+msgstr "Люди несут бессвязную чушь, они незрелые, а иногда просто тупые. Все мои иллюзии насчёт них разбиты."
 
 #. comic85 panel p4
 #. slot: left bubble
 #. images: raddback.gif, bogeyup2.gif
 #: kidradd/comic85.htm:236
+#, fuzzy
 msgctxt "comic85#p4.1"
 msgid "I used to think they had wise, cosmic reasons for creating us. But it's like, to them we're just..."
-msgstr ""
+msgstr "Я думал, у них были мудрые, вселенские причины нас создать. А выходит, для них мы просто..."
 
 #. comic85 panel p4
 #. slot: right bubble
 #. images: raddback.gif, bogeyup2.gif
 #: kidradd/comic85.htm:240
+#, fuzzy
 msgctxt "comic85#p4.2"
 msgid "A game?"
-msgstr ""
+msgstr "Игра?"
 
 #. comic85 panel p5
 #. slot: left bubble
 #. images: raddright.gif, bogeyupt2.gif
 #: kidradd/comic85.htm:291
+#, fuzzy
 msgctxt "comic85#p5.1"
 msgid "Yeah..."
-msgstr ""
+msgstr "Ага..."
 
 #. comic85 panel p5
 #. slot: right bubble
 #. images: raddright.gif, bogeyupt2.gif
 #: kidradd/comic85.htm:295
+#, fuzzy
 msgctxt "comic85#p5.2"
 msgid "Well, duh!"
-msgstr ""
+msgstr "Ну ясное дело!"
