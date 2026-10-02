@@ -794,7 +794,7 @@ msgstr "Что значила эта маленькая «1»?"
 #, fuzzy
 msgctxt "comic324#p3.2"
 msgid "That's how much HP you removed."
-msgstr "Столько ХП ты у него снял."
+msgstr "Столько HP ты у него снял."
 
 #. comic324 panel p4
 #. slot: left bubble
@@ -803,7 +803,7 @@ msgstr "Столько ХП ты у него снял."
 #, fuzzy
 msgctxt "comic324#p4.1"
 msgid "Oh, HP, that's like a lifemeter, right? So how much more HP's this guy got?"
-msgstr "А, ХП — это типа полоски жизни, да? И сколько ещё ХП у этого типа?"
+msgstr "А, HP — это типа полоски жизни, да? И сколько ещё HP у этого типа?"
 
 #. comic324 panel p5
 #. slot: left bubble
@@ -978,7 +978,7 @@ msgstr "Нам не по зубам?"
 #, fuzzy
 msgctxt "comic326#p7.1"
 msgid "It's like a Yu-Gi-Oh episode."
-msgstr "Прям как в «Югио»."
+msgstr "Прям как в «Ю-Ги-О»."
 
 #. comic326 panel p7
 #. slot: middle bubble

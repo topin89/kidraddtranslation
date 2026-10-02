@@ -2225,7 +2225,7 @@ msgstr "Последний бой: Бяка против Хикару"
 #, fuzzy
 msgctxt "comic299#p1.2"
 msgid "I must warn you, I am skilled in the Touch of Death."
-msgstr "Учти: я владею Касанием Смерти."
+msgstr "Учти: я владею смертельным касанием."
 
 #. comic299 panel p1
 #. slot: right bubble
@@ -2764,7 +2764,7 @@ msgstr "О, поверь, ударю."
 #, fuzzy
 msgctxt "comic305#p2.1"
 msgid "You shall now taste my signature move, the <b>Super Freezeplay DX!</b>"
-msgstr "Сейчас ты отведаешь мой коронный приём — <b>Супер Ледяной Пас DX!</b>"
+msgstr "Сейчас ты отведаешь мой коронный приём — <b>Супер-Заморозка DX!</b>"
 
 #. comic305 panel p3
 #. slot: left bubble
