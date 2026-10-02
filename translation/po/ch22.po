@@ -1,0 +1,667 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kid Radd RU — Chapter 22: IB, QB, & GI\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: kidradd tools/extract.py\n"
+
+#. comic411 panel title
+#. slot: background color and image
+#: kidradd/comic411.htm:34
+msgctxt "comic411#title.1"
+msgid "\"EYE TO EYE\""
+msgstr ""
+
+#. comic411 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic411.htm:71
+msgctxt "comic411#p1.1"
+msgid "Back in the Hopetown Server:"
+msgstr ""
+
+#. comic411 panel p1
+#. slot: right bubble
+#: kidradd/comic411.htm:81
+msgctxt "comic411#p1.2"
+msgid "Whew! We made it!"
+msgstr ""
+
+#. comic411 panel p2
+#. slot: left bubble
+#. images: ib.gif, qbstand2.gif
+#: kidradd/comic411.htm:132
+msgctxt "comic411#p2.1"
+msgid "Made it out of Mod HQ, ya mean. We still ain't escaped this system yet."
+msgstr ""
+
+#. comic411 panel p2
+#. slot: right bubble
+#. images: ib.gif, qbstand2.gif
+#: kidradd/comic411.htm:136
+msgctxt "comic411#p2.2"
+msgid "But we will. The hardest part's done with."
+msgstr ""
+
+#. comic411 panel p3
+#. slot: left bubble
+#. images: ibmad2.gif, qbtalk2.gif
+#: kidradd/comic411.htm:184
+msgctxt "comic411#p3.1"
+msgid "Whatever. Geez, why do we bother running? I doubt there's anyplace free left anymore."
+msgstr ""
+
+#. comic411 panel p3
+#. slot: right bubble
+#. images: ibmad2.gif, qbtalk2.gif
+#: kidradd/comic411.htm:188
+msgctxt "comic411#p3.2"
+msgid "Don't worry, there will be - after we find Radd!"
+msgstr ""
+
+#. comic411 panel p4
+#. slot: left bubble
+#. images: ibmad.gif, qbfront.gif
+#: kidradd/comic411.htm:237
+msgctxt "comic411#p4.1"
+msgid "Oh, that's right - The doofus kid'll solve everything..."
+msgstr ""
+
+#. comic411 panel p4
+#. slot: right bubble
+#. images: ibmad.gif, qbfront.gif
+#: kidradd/comic411.htm:241
+msgctxt "comic411#p4.2"
+msgid "Exactly what I was gonna say! I'm so glad we're on the same wavelength!"
+msgstr ""
+
+#. comic412 panel title
+#. slot: background color and image
+#: kidradd/comic412.htm:46
+msgctxt "comic412#title.1"
+msgid "\"OUT OF THE SHADOWS\""
+msgstr ""
+
+#. comic412 panel p1
+#. slot: left bubble
+#: kidradd/comic412.htm:87
+msgctxt "comic412#p1.1"
+msgid "So why's Radd so dangerous to Crystal?"
+msgstr ""
+
+#. comic412 panel p1
+#. slot: middle bubble
+#: kidradd/comic412.htm:89
+msgctxt "comic412#p1.2"
+msgid "Um, I don't know exactly..."
+msgstr ""
+
+#. comic412 panel p2
+#. slot: left bubble
+#. images: ib.gif, qbstand2.gif
+#: kidradd/comic412.htm:142
+msgctxt "comic412#p2.1"
+msgid "I can't say that surprises me."
+msgstr ""
+
+#. comic412 panel p2
+#. slot: right bubble
+#. images: ib.gif, qbstand2.gif
+#: kidradd/comic412.htm:146
+msgctxt "comic412#p2.2"
+msgid "Well, I overheard her mumble something about \"infinite power...\""
+msgstr ""
+
+#. comic412 panel p3
+#. slot: left bubble
+#. images: ibmad.gif, qbfront.gif
+#: kidradd/comic412.htm:194
+msgctxt "comic412#p3.1"
+msgid "<i>Radd?</i> Powerful? Even if that's true, how the heck do we find him?"
+msgstr ""
+
+#. comic412 panel p3
+#. slot: right bubble
+#. images: ibmad.gif, qbfront.gif
+#: kidradd/comic412.htm:198
+msgctxt "comic412#p3.2"
+msgid "I have no idea!"
+msgstr ""
+
+#. comic412 panel p4
+#. slot: narration (if any, else cut)
+#: kidradd/comic412.htm:243
+msgctxt "comic412#p4.1"
+msgid "\"Again, I'm not surprised.\""
+msgstr ""
+
+#. comic412 panel p4
+#. slot: narration (if any, else cut)
+#: kidradd/comic412.htm:244
+msgctxt "comic412#p4.2"
+msgid "\"I'd like to say 'winging it' has worked for me so far, but...\""
+msgstr ""
+
+#. comic413 panel title
+#. slot: background color and image
+#: kidradd/comic413.htm:48
+msgctxt "comic413#title.1"
+msgid "\"DANGEROUS WORDS\""
+msgstr ""
+
+#. comic413 panel p1
+#. slot: middle bubble
+#. images: approach.gif
+#: kidradd/comic413.htm:92
+msgctxt "comic413#p1.1"
+msgid "Hello boys, I couldn't help but overhear you..."
+msgstr ""
+
+#. comic413 panel p2
+#. slot: left bubble
+#. images: ib.gif, qbtalk.gif, giguy2.gif
+#: kidradd/comic413.htm:147
+msgctxt "comic413#p2.1"
+msgid "Gah! A Mod! A really hideous one..."
+msgstr ""
+
+#. comic413 panel p2
+#. slot: middle bubble
+#. images: ib.gif, qbtalk.gif, giguy2.gif
+#: kidradd/comic413.htm:149
+msgctxt "comic413#p2.2"
+msgid "Sir! It's <b>you!</b>"
+msgstr ""
+
+#. comic413 panel p3
+#. slot: left bubble
+#. images: ib.gif, qbstand2.gif, giguy2.gif
+#: kidradd/comic413.htm:199
+msgctxt "comic413#p3.1"
+msgid "Who?"
+msgstr ""
+
+#. comic413 panel p3
+#. slot: middle bubble
+#. images: ib.gif, qbstand2.gif, giguy2.gif
+#: kidradd/comic413.htm:201
+msgctxt "comic413#p3.2"
+msgid "This is G.I. Guy, the founder and original leader of the Moderators!"
+msgstr ""
+
+#. comic413 panel p3
+#. slot: right bubble
+#. images: ib.gif, qbstand2.gif, giguy2.gif
+#: kidradd/comic413.htm:203
+msgctxt "comic413#p3.3"
+msgid "Quite right..."
+msgstr ""
+
+#. comic413 panel p4
+#. slot: middle bubble
+#. images: gihead.gif
+#: kidradd/comic413.htm:254
+msgctxt "comic413#p4.1"
+msgid "And I'd be very willing to help you find this \"Radd\" fellow, if he can assist me in my vengeance against Crystal."
+msgstr ""
+
+#. comic413 panel p5
+#. slot: left bubble
+#. images: ibmad.gif, qbtalk2.gif, gisigh2.gif
+#: kidradd/comic413.htm:307
+msgctxt "comic413#p5.1"
+msgid "I have a rule against helping people who use words like \"vengeance.\" Or \"fellow.\""
+msgstr ""
+
+#. comic413 panel p5
+#. slot: middle bubble
+#. images: ibmad.gif, qbtalk2.gif, gisigh2.gif
+#: kidradd/comic413.htm:309
+msgctxt "comic413#p5.2"
+msgid "Aw c'mon, I use \"fellow\" all the time."
+msgstr ""
+
+#. comic413 panel p5
+#. slot: right bubble
+#. images: ibmad.gif, qbtalk2.gif, gisigh2.gif
+#: kidradd/comic413.htm:311
+msgctxt "comic413#p5.3"
+msgid "Sigh, it's the skull face isn't it? It always is..."
+msgstr ""
+
+#. comic414 panel title
+#. slot: background color and image
+#: kidradd/comic414.htm:48
+msgctxt "comic414#title.1"
+msgid "\"HOW'S IT GONNA BE?\""
+msgstr ""
+
+#. comic414 panel p1
+#. slot: middle bubble
+#. images: triotalk.gif
+#: kidradd/comic414.htm:92
+msgctxt "comic414#p1.1"
+msgid "Listen up guys, here's the plan..."
+msgstr ""
+
+#. comic414 panel p2
+#. slot: middle bubble
+#: kidradd/comic414.htm:150
+msgctxt "comic414#p2.1"
+msgid "In the dead of night, we'll slip back into Mod HQ to steal a ship. It'll be risky of course, but together we can do it."
+msgstr ""
+
+#. comic414 panel p3
+#. slot: middle bubble
+#. images: gihead.gif
+#: kidradd/comic414.htm:203
+msgctxt "comic414#p3.1"
+msgid "Q.B., I'll need you to forge a false security clearance. I.B., I'm relying on you to cut the power. Meanwhile, I'll be slipping past the primary security force, taking advantage of the guards' midnight change of shift..."
+msgstr ""
+
+#. comic414 panel p4
+#. slot: right bubble
+#. images: ibsigh.gif, qbstand2.gif, giguy2.gif
+#: kidradd/comic414.htm:258
+msgctxt "comic414#p4.1"
+msgid "...<b>Or</b> we could just use the ship in my inventory."
+msgstr ""
+
+#. comic414 panel p5
+#. slot: left bubble
+#: kidradd/comic414.htm:308
+msgctxt "comic414#p5.1"
+msgid "Uh, right. That was plan B."
+msgstr ""
+
+#. comic414 panel p5
+#. slot: middle bubble
+#: kidradd/comic414.htm:310
+msgctxt "comic414#p5.2"
+msgid "A whole ship? That's gotta be uncomfortable."
+msgstr ""
+
+#. comic414 panel p5
+#. slot: right bubble
+#: kidradd/comic414.htm:312
+msgctxt "comic414#p5.3"
+msgid "Consider yourself lucky, in the game it would've cost 9800 G."
+msgstr ""
+
+#. comic415 panel title
+#. slot: background color and image
+#: kidradd/comic415.htm:34
+msgctxt "comic415#title.1"
+msgid "\"TAKE FLIGHT\""
+msgstr ""
+
+#. comic415 panel p1
+#. slot: left bubble
+#. images: ibship.gif
+#: kidradd/comic415.htm:75
+msgctxt "comic415#p1.1"
+msgid "Well, this ship certainly isn't what I expected. What weapons does it have?"
+msgstr ""
+
+#. comic415 panel p1
+#. slot: right bubble
+#. images: ibship.gif
+#: kidradd/comic415.htm:79
+msgctxt "comic415#p1.2"
+msgid "Absolutely none."
+msgstr ""
+
+#. comic415 panel p2
+#. slot: left bubble
+#. images: qbtalk.gif, ibsmile2.gif, giguy2.gif
+#: kidradd/comic415.htm:129
+msgctxt "comic415#p2.1"
+msgid "Nifty, we... <b>what?</b> No weapons? Why?"
+msgstr ""
+
+#. comic415 panel p2
+#. slot: right bubble
+#. images: qbtalk.gif, ibsmile2.gif, giguy2.gif
+#: kidradd/comic415.htm:133
+msgctxt "comic415#p2.2"
+msgid "It's just for transport. A game plot device, y'know."
+msgstr ""
+
+#. comic415 panel p3
+#. slot: middle bubble
+#. images: ibshipd.gif
+#: kidradd/comic415.htm:183
+msgctxt "comic415#p3.1"
+msgid "We'll never get through the netspace portal! The security's tighter than-"
+msgstr ""
+
+#. comic415 panel p3
+#. slot: insert ground "tiles" on this line
+#. images: ibshipd.gif
+#: kidradd/comic415.htm:196
+msgctxt "comic415#p3.2"
+msgid "<b>HALT!</b> Unidentified vessel! Prepare to be boarded!"
+msgstr ""
+
+#. comic415 panel p4
+#. slot: left bubble
+#. images: qbno.gif, ibpoint2.gif, giburn.gif
+#: kidradd/comic415.htm:237
+msgctxt "comic415#p4.1"
+msgid "We're doomed."
+msgstr ""
+
+#. comic415 panel p4
+#. slot: middle bubble
+#. images: qbno.gif, ibpoint2.gif, giburn.gif
+#: kidradd/comic415.htm:239
+msgctxt "comic415#p4.2"
+msgid "No, we're right where we wanna be."
+msgstr ""
+
+#. comic415 panel p4
+#. slot: right bubble
+#. images: qbno.gif, ibpoint2.gif, giburn.gif
+#: kidradd/comic415.htm:241
+msgctxt "comic415#p4.3"
+msgid "Ooh, this'll be <i>fun</i>..."
+msgstr ""
+
+#. comic416 panel title
+#. slot: background color and image
+#: kidradd/comic416.htm:46
+msgctxt "comic416#title.1"
+msgid "\"RARIN' TO GO\""
+msgstr ""
+
+#. comic416 panel p1
+#. slot: middle bubble
+#. images: ibshipd.gif
+#: kidradd/comic416.htm:89
+msgctxt "comic416#p1.1"
+msgid "If they had any clue who we were, they'd have tried to shoot us down. But being greedy, they'll search us to see what cargo we have."
+msgstr ""
+
+#. comic416 panel p2
+#. slot: left bubble
+#. images: qbtalk.gif, ibsmile2.gif, giguy2.gif
+#: kidradd/comic416.htm:142
+msgctxt "comic416#p2.1"
+msgid "And you think we can take 'em?"
+msgstr ""
+
+#. comic416 panel p2
+#. slot: right bubble
+#. images: qbtalk.gif, ibsmile2.gif, giguy2.gif
+#: kidradd/comic416.htm:146
+msgctxt "comic416#p2.2"
+msgid "Absolutely. At most, there'd be only fifty Mods at this checkpoint."
+msgstr ""
+
+#. comic416 panel p3
+#. slot: left bubble
+#. images: qbscared.gif, ibpoint2.gif, giguy2.gif
+#: kidradd/comic416.htm:194
+msgctxt "comic416#p3.1"
+msgid "FIFTY?!"
+msgstr ""
+
+#. comic416 panel p3
+#. slot: right bubble
+#. images: qbscared.gif, ibpoint2.gif, giguy2.gif
+#: kidradd/comic416.htm:198
+msgctxt "comic416#p3.2"
+msgid "C'mon, show some of that fighter sprite spirit! You should be good at this."
+msgstr ""
+
+#. comic416 panel p4
+#. slot: narration (if any, else cut)
+#: kidradd/comic416.htm:243
+msgctxt "comic416#p4.1"
+msgid "\"Yeah, but in my game people only fought one-on-one...\""
+msgstr ""
+
+#. comic416 panel p4
+#. slot: narration (if any, else cut)
+#: kidradd/comic416.htm:244
+msgctxt "comic416#p4.2"
+msgid "\"Don't worry. Forget what you've heard about NPCs, cuz <i>this</i> one packs a whallop...\""
+msgstr ""
+
+#. comic416 panel p4
+#. slot: narration (if any, else cut)
+#: kidradd/comic416.htm:245
+msgctxt "comic416#p4.3"
+msgid "\"Here they come...\""
+msgstr ""
+
+#. comic417 panel title
+#. slot: background color and image
+#: kidradd/comic417.htm:34
+msgctxt "comic417#title.1"
+msgid "\"DEAD OR ALIVE\""
+msgstr ""
+
+#. comic417 panel p1
+#. slot: middle bubble
+#. images: lottamod.gif
+#: kidradd/comic417.htm:77
+msgctxt "comic417#p1.1"
+msgid "What the? Captain QB? <i>GI Guy?</i>"
+msgstr ""
+
+#. comic417 panel p2
+#. slot: left bubble
+#. images: shipdeck.gif
+#: kidradd/comic417.htm:128
+msgctxt "comic417#p2.1"
+msgid "But you guys are dead! Or supposed to be..."
+msgstr ""
+
+#. comic417 panel p2
+#. slot: right bubble
+#. images: shipdeck.gif
+#: kidradd/comic417.htm:132
+msgctxt "comic417#p2.2"
+msgid "\"Supposed to be\" is right."
+msgstr ""
+
+#. comic417 panel p3
+#. slot: left bubble
+#. images: shipdeck.gif
+#: kidradd/comic417.htm:178
+msgctxt "comic417#p3.1"
+msgid "Gee, I'm sorry sir, but we have very specific orders."
+msgstr ""
+
+#. comic417 panel p3
+#. slot: right bubble
+#. images: shipdeck.gif
+#: kidradd/comic417.htm:182
+msgctxt "comic417#p3.2"
+msgid "Is that so?"
+msgstr ""
+
+#. comic417 panel p4
+#. slot: left bubble
+#. images: shipdeck2.gif
+#: kidradd/comic417.htm:230
+msgctxt "comic417#p4.1"
+msgid "Crystal said to kill any dead people that come here."
+msgstr ""
+
+#. comic417 panel p4
+#. slot: right bubble
+#. images: shipdeck2.gif
+#: kidradd/comic417.htm:234
+msgctxt "comic417#p4.2"
+msgid "And it starts..."
+msgstr ""
+
+#. comic418 panel title
+#. slot: background color and image
+#: kidradd/comic418.htm:61
+msgctxt "comic418#title.1"
+msgid "\"UNFAIR ADVANTAGE?\""
+msgstr ""
+
+#. comic418 panel p1
+#. slot: middle bubble
+#: kidradd/comic418.htm:104
+msgctxt "comic418#p1.1"
+msgid "This post is slightly more manned than I'd expected. Heh, more fun for me."
+msgstr ""
+
+#. comic418 panel p2
+#. slot: middle bubble
+#: kidradd/comic418.htm:160
+msgctxt "comic418#p2.1"
+msgid "These guys are way too easy."
+msgstr ""
+
+#. comic418 panel p3
+#. slot: middle bubble
+#. images: qbrun.gif
+#: kidradd/comic418.htm:212
+msgctxt "comic418#p3.1"
+msgid "Ow! Getting - Ow! - Hurt here! Ow!"
+msgstr ""
+
+#. comic418 panel p4
+#. slot: left bubble
+#: kidradd/comic418.htm:262
+msgctxt "comic418#p4.1"
+msgid "No worries. I've got unlimited<br>power-ups, remember? <b>Cure Max!</b>"
+msgstr ""
+
+#. comic418 panel p5
+#. slot: left bubble
+#. images: ibshipf.gif
+#: kidradd/comic418.htm:314
+msgctxt "comic418#p5.1"
+msgid "Wow! You're like a white mage that can kick butt!"
+msgstr ""
+
+#. comic418 panel p5
+#. slot: right bubble
+#. images: ibshipf.gif
+#: kidradd/comic418.htm:318
+msgctxt "comic418#p5.2"
+msgid "Uh, don't ever call me a \"white mage\" again."
+msgstr ""
+
+#. comic419 panel title
+#. slot: background color and image
+#: kidradd/comic419.htm:53
+msgctxt "comic419#title.1"
+msgid "\"PLAYIN' DIRTY\""
+msgstr ""
+
+#. comic419 panel p1
+#. slot: middle bubble
+#: kidradd/comic419.htm:96
+msgctxt "comic419#p1.1"
+msgid "Stee - rike!"
+msgstr ""
+
+#. comic419 panel p2
+#. slot: right bubble
+#. images: madmod.gif
+#: kidradd/comic419.htm:154
+msgctxt "comic419#p2.1"
+msgid "They're too powerful! We'll only win if we gang up on one at a time!<br><b>Get Captain QB!</b>"
+msgstr ""
+
+#. comic419 panel p3
+#. slot: middle bubble
+#: kidradd/comic419.htm:203
+msgctxt "comic419#p3.1"
+msgid "Stay back! Or I'll -<br><b>Ultimate Freezeplay TD!</b>"
+msgstr ""
+
+#. comic419 panel p3
+#. slot: insert ground "tiles" on this line
+#: kidradd/comic419.htm:214
+msgctxt "comic419#p3.2"
+msgid "Definitely more than fifty."
+msgstr ""
+
+#. comic419 panel p4
+#. slot: left bubble
+#. images: wewon.gif
+#: kidradd/comic419.htm:253
+msgctxt "comic419#p4.1"
+msgid "Good going, QB! Looks like we won."
+msgstr ""
+
+#. comic419 panel p4
+#. slot: right bubble
+#. images: wewon.gif
+#: kidradd/comic419.htm:257
+msgctxt "comic419#p4.2"
+msgid "We did? Uh, where'd GI go?"
+msgstr ""
+
+#. comic419 panel p5
+#. slot: left bubble
+#. images: heyib.gif
+#: kidradd/comic419.htm:306
+msgctxt "comic419#p5.1"
+msgid "Hey, IB! Can you put one of those babies in your inventory?"
+msgstr ""
+
+#. comic419 panel p5
+#. slot: right bubble
+#. images: heyib.gif
+#: kidradd/comic419.htm:310
+msgctxt "comic419#p5.2"
+msgid "You're welcome, hmph. I'm charging you rent for it..."
+msgstr ""
+
+#. comic420 panel title
+#. slot: background color and image
+#: kidradd/comic420.htm:46
+msgctxt "comic420#title.1"
+msgid "\"THE FALL GUY\""
+msgstr ""
+
+#. comic420 panel p1
+#. slot: right bubble
+#. images: office5b.gif
+#: kidradd/comic420.htm:91
+msgctxt "comic420#p1.1"
+msgid "So, um, about the portal incident today..."
+msgstr ""
+
+#. comic420 panel p3
+#. slot: left bubble
+#: kidradd/comic420.htm:192
+msgctxt "comic420#p3.1"
+msgid "Gratuitous pain now, huh?"
+msgstr ""
+
+#. comic420 panel p3
+#. slot: right bubble
+#: kidradd/comic420.htm:196
+msgctxt "comic420#p3.2"
+msgid "Why thank you, that sounds like fun!"
+msgstr ""
+
+#. comic420 panel p4
+#. slot: left bubble
+#. images: office9b.gif
+#: kidradd/comic420.htm:244
+msgctxt "comic420#p4.1"
+msgid "Aspirin..."
+msgstr ""
+
+#. comic420 panel p4
+#. slot: right bubble
+#. images: office9b.gif
+#: kidradd/comic420.htm:248
+msgctxt "comic420#p4.2"
+msgid "Yes, I could use some. Oh, and call for someone with more HP. Lots more."
+msgstr ""

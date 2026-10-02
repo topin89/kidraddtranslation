@@ -1,0 +1,1020 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kid Radd RU — Chapter 6: Sheena's Job\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: kidradd tools/extract.py\n"
+
+#. comic86 panel title
+#. slot: background color and image
+#: kidradd/comic86.htm:36
+msgctxt "comic86#title.1"
+msgid "\"BREAKTHROUGH\""
+msgstr ""
+
+#. comic86 panel p1
+#. slot: narration (if any, else cut)
+#. images: sheenatables.gif
+#: kidradd/comic86.htm:73
+msgctxt "comic86#p1.1"
+msgid "<font size=\"4\" face=\"arial\" color=\"ffffff\"><b>Sheena!</b></font><br><font size=\"2\" face=\"arial\" color=\"ffffff\"><b>The Moderators' Newest Cadet</b></font>"
+msgstr ""
+
+#. comic86 panel p1
+#. slot: middle bubble
+#. images: sheenatables.gif
+#: kidradd/comic86.htm:81
+msgctxt "comic86#p1.2"
+msgid "Greetings."
+msgstr ""
+
+#. comic86 panel p2
+#. slot: narration (if any, else cut)
+#. images: sheenastare.gif
+#: kidradd/comic86.htm:132
+msgctxt "comic86#p2.1"
+msgid "Today Sheena will tackle her first attempt to liberate a game!"
+msgstr ""
+
+#. comic86 panel p2
+#. slot: middle bubble
+#. images: sheenastare.gif
+#: kidradd/comic86.htm:140
+msgctxt "comic86#p2.2"
+msgid "Wish me luck."
+msgstr ""
+
+#. comic86 panel p3
+#. slot: narration (if any, else cut)
+#. images: game.gif, sheenatable.gif
+#: kidradd/comic86.htm:186
+msgctxt "comic86#p3.1"
+msgid "And there's the game targeted in her mission."
+msgstr ""
+
+#. comic86 panel p3
+#. slot: left bubble
+#. images: game.gif, sheenatable.gif
+#: kidradd/comic86.htm:192
+msgctxt "comic86#p3.2"
+msgid "Huh, they look smaller on the outside."
+msgstr ""
+
+#. comic86 panel p4
+#. slot: narration (if any, else cut)
+#. images: game.gif, sheenatables.gif
+#: kidradd/comic86.htm:239
+msgctxt "comic86#p4.1"
+msgid "The Moderators will now use their portal technology to enter."
+msgstr ""
+
+#. comic86 panel p4
+#. slot: left bubble
+#. images: game.gif, sheenatables.gif
+#: kidradd/comic86.htm:245
+msgctxt "comic86#p4.2"
+msgid "Cool."
+msgstr ""
+
+#. comic86 panel p5
+#. slot: left bubble
+#. images: game.gif, corkscrew.gif, sheenatable.gif, qbtable2.gif
+#: kidradd/comic86.htm:296
+msgctxt "comic86#p5.1"
+msgid "Uh, it's not quite what I expected."
+msgstr ""
+
+#. comic86 panel p5
+#. slot: right bubble
+#. images: game.gif, corkscrew.gif, sheenatable.gif, qbtable2.gif
+#: kidradd/comic86.htm:300
+msgctxt "comic86#p5.2"
+msgid "Impressive, huh?"
+msgstr ""
+
+#. comic87 panel title
+#. slot: background color and image
+#: kidradd/comic87.htm:36
+msgctxt "comic87#title.1"
+msgid "\"SURESHOT\""
+msgstr ""
+
+#. comic87 panel p1
+#. slot: left bubble
+#. images: qbstand.gif, sheenastand2.gif
+#: kidradd/comic87.htm:77
+msgctxt "comic87#p1.1"
+msgid "Now Sheena, the game we're sending you into is a space shooter."
+msgstr ""
+
+#. comic87 panel p1
+#. slot: right bubble
+#. images: qbstand.gif, sheenastand2.gif
+#: kidradd/comic87.htm:81
+msgctxt "comic87#p1.2"
+msgid "Okay."
+msgstr ""
+
+#. comic87 panel p2
+#. slot: middle bubble
+#. images: qbhead2.gif
+#: kidradd/comic87.htm:136
+msgctxt "comic87#p2.1"
+msgid "This type of game is highly dangerous for most sprites. That's why we need to send in someone invulnerable like you."
+msgstr ""
+
+#. comic87 panel p3
+#. slot: left bubble
+#. images: qbstand.gif, sheenastand2.gif
+#: kidradd/comic87.htm:186
+msgctxt "comic87#p3.1"
+msgid "Remember, you've only got a couple of hours to get everyone out before the game collapses."
+msgstr ""
+
+#. comic87 panel p3
+#. slot: right bubble
+#. images: qbstand.gif, sheenastand2.gif
+#: kidradd/comic87.htm:190
+msgctxt "comic87#p3.2"
+msgid "Understood. I'm ready."
+msgstr ""
+
+#. comic87 panel p4
+#. slot: left bubble
+#. images: game2.gif, cannon.gif, qbtablet.gif
+#: kidradd/comic87.htm:238
+msgctxt "comic87#p4.1"
+msgid "Prepare for transport!"
+msgstr ""
+
+#. comic87 panel p4
+#. slot: right bubble
+#. images: game2.gif, cannon.gif, qbtablet.gif
+#: kidradd/comic87.htm:242
+msgctxt "comic87#p4.2"
+msgid "This'll take some getting used to..."
+msgstr ""
+
+#. comic88 panel title
+#. slot: background color and image
+#: kidradd/comic88.htm:36
+msgctxt "comic88#title.1"
+msgid "\"SPACE ODDITY\""
+msgstr ""
+
+#. comic88 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic88.htm:73
+msgctxt "comic88#p1.1"
+msgid "Space, infinite and vast."
+msgstr ""
+
+#. comic88 panel p2
+#. slot: narration (if any, else cut)
+#: kidradd/comic88.htm:130
+msgctxt "comic88#p2.1"
+msgid "This is the setting of Bludius, the shooter game Sheena has entered."
+msgstr ""
+
+#. comic88 panel p3
+#. slot: narration (if any, else cut)
+#. images: sheenastand.gif
+#: kidradd/comic88.htm:182
+msgctxt "comic88#p3.1"
+msgid "Its backdrop is nothing but the empty black yonder."
+msgstr ""
+
+#. comic88 panel p3
+#. slot: right bubble
+#. images: sheenastand.gif
+#: kidradd/comic88.htm:192
+msgctxt "comic88#p3.2"
+msgid "Man, what a dirty floor."
+msgstr ""
+
+#. comic88 panel p4
+#. slot: narration (if any, else cut)
+#. images: sheenastare2.gif
+#: kidradd/comic88.htm:236
+msgctxt "comic88#p4.1"
+msgid "<i>(Ahem.)</i> Well, at very least it <i>looks</i> like space."
+msgstr ""
+
+#. comic88 panel p4
+#. slot: right bubble
+#. images: sheenastare2.gif
+#: kidradd/comic88.htm:246
+msgctxt "comic88#p4.2"
+msgid "Anybody got a broom?"
+msgstr ""
+
+#. comic89 panel title
+#. slot: background color and image
+#: kidradd/comic89.htm:36
+msgctxt "comic89#title.1"
+msgid "\"RESCUE ME\""
+msgstr ""
+
+#. comic89 panel p1
+#. slot: right bubble
+#. images: sheenawalk.gif
+#: kidradd/comic89.htm:81
+msgctxt "comic89#p1.1"
+msgid "Hey everybody, where are you? Where the heck are this game's sprites?"
+msgstr ""
+
+#. comic89 panel p2
+#. slot: right bubble
+#. images: sheenastand.gif
+#: kidradd/comic89.htm:138
+msgctxt "comic89#p2.1"
+msgid "Come on out! You're all free now, understand?"
+msgstr ""
+
+#. comic89 panel p3
+#. slot: left bubble
+#. images: ufo.gif, sheenatback.gif
+#: kidradd/comic89.htm:186
+msgctxt "comic89#p3.1"
+msgid "Ah, here they come. Follow me, guys! To freedom!"
+msgstr ""
+
+#. comic89 panel p4
+#. slot: narration (if any, else cut)
+#. images: thought.gif, onslaught.gif
+#: kidradd/comic89.htm:233
+msgctxt "comic89#p4.1"
+msgid "And so, Sheena rescues her first set of game sprites."
+msgstr ""
+
+#. comic89 panel p4
+#. slot: left bubble
+#. images: thought.gif, onslaught.gif
+#: kidradd/comic89.htm:239
+msgctxt "comic89#p4.2"
+msgid "Oh yeah, they're grateful."
+msgstr ""
+
+#. comic89 panel p4
+#. slot: right bubble
+#. images: thought.gif, onslaught.gif
+#: kidradd/comic89.htm:243
+msgctxt "comic89#p4.3"
+msgid "Die! Die!"
+msgstr ""
+
+#. comic90 panel title
+#. slot: background color and image
+#: kidradd/comic90.htm:36
+msgctxt "comic90#title.1"
+msgid "\"FREE FOR ALL\""
+msgstr ""
+
+#. comic90 panel p1
+#. slot: narration (if any, else cut)
+#. images: skullguy.gif, sheenablink2.gif
+#: kidradd/comic90.htm:73
+msgctxt "comic90#p1.1"
+msgid "Sheena quickly becomes a respected Moderator..."
+msgstr ""
+
+#. comic90 panel p1
+#. slot: left bubble
+#. images: skullguy.gif, sheenablink2.gif
+#: kidradd/comic90.htm:79
+msgctxt "comic90#p1.2"
+msgid "Thanks for saving us from that horrible game!"
+msgstr ""
+
+#. comic90 panel p1
+#. slot: right bubble
+#. images: skullguy.gif, sheenablink2.gif
+#: kidradd/comic90.htm:83
+msgctxt "comic90#p1.3"
+msgid "Aw shucks, it's my job."
+msgstr ""
+
+#. comic90 panel p2
+#. slot: narration (if any, else cut)
+#. images: heroguy.gif, sheenastand2.gif
+#: kidradd/comic90.htm:131
+msgctxt "comic90#p2.1"
+msgid "...Liberating sprites, whether they like it or not."
+msgstr ""
+
+#. comic90 panel p2
+#. slot: left bubble
+#. images: heroguy.gif, sheenastand2.gif
+#: kidradd/comic90.htm:137
+msgctxt "comic90#p2.2"
+msgid "What do you mean, I can't kill stuff anymore?"
+msgstr ""
+
+#. comic90 panel p2
+#. slot: right bubble
+#. images: heroguy.gif, sheenastand2.gif
+#: kidradd/comic90.htm:141
+msgctxt "comic90#p2.3"
+msgid "<font size=\"1\" face=\"arial\">(Silly hero sprites.) </font><font size=\"2\" face=\"arial\"> Don't worry, you'll adjust to freedom.</font>"
+msgstr ""
+
+#. comic90 panel p3
+#. slot: narration (if any, else cut)
+#: kidradd/comic90.htm:184
+msgctxt "comic90#p3.1"
+msgid "Fortunately, most sprites are happy to escape their game."
+msgstr ""
+
+#. comic90 panel p3
+#. slot: left bubble
+#: kidradd/comic90.htm:190
+msgctxt "comic90#p3.2"
+msgid "Free at last! I can finally conquer other worlds! <b>MWA HA HA HA!!!</b>"
+msgstr ""
+
+#. comic90 panel p4
+#. slot: left bubble
+#: kidradd/comic90.htm:242
+msgctxt "comic90#p4.1"
+msgid "Uh, I mean, thank you for rescuing me."
+msgstr ""
+
+#. comic90 panel p4
+#. slot: right bubble
+#: kidradd/comic90.htm:246
+msgctxt "comic90#p4.2"
+msgid "No... problem?"
+msgstr ""
+
+#. comic91 panel title
+#. slot: background color and image
+#: kidradd/comic91.htm:37
+msgctxt "comic91#title.1"
+msgid "\"DIGITAL BLUES\""
+msgstr ""
+
+#. comic91 panel p1
+#. slot: left bubble
+#. images: raddright.gif, bogeyupt2.gif
+#: kidradd/comic91.htm:78
+msgctxt "comic91#p1.1"
+msgid "Check it out, Bogey! My first paycheck!"
+msgstr ""
+
+#. comic91 panel p1
+#. slot: right bubble
+#. images: raddright.gif, bogeyupt2.gif
+#: kidradd/comic91.htm:82
+msgctxt "comic91#p1.2"
+msgid "Cool. How much?"
+msgstr ""
+
+#. comic91 panel p2
+#. slot: left bubble
+#. images: raddblink.gif, check.gif, bogeyup2.gif
+#: kidradd/comic91.htm:135
+msgctxt "comic91#p2.1"
+msgid "It's awesome - An even 1000 bucks for just a week!"
+msgstr ""
+
+#. comic91 panel p2
+#. slot: right bubble
+#. images: raddblink.gif, check.gif, bogeyup2.gif
+#: kidradd/comic91.htm:139
+msgctxt "comic91#p2.2"
+msgid "Um..."
+msgstr ""
+
+#. comic91 panel p3
+#. slot: left bubble
+#. images: raddwink.gif, check.gif, bogeyup2.gif
+#: kidradd/comic91.htm:186
+msgctxt "comic91#p3.1"
+msgid "Pretty sweet, huh?"
+msgstr ""
+
+#. comic91 panel p3
+#. slot: right bubble
+#. images: raddwink.gif, check.gif, bogeyup2.gif
+#: kidradd/comic91.htm:190
+msgctxt "comic91#p3.2"
+msgid "Radd, that's a binary number. One-zero-zero-zero is eight bucks."
+msgstr ""
+
+#. comic91 panel p4
+#. slot: left bubble
+#. images: raddargh.gif, check.gif, bogeyupt2.gif
+#: kidradd/comic91.htm:238
+msgctxt "comic91#p4.1"
+msgid "WHAT???"
+msgstr ""
+
+#. comic91 panel p4
+#. slot: right bubble
+#. images: raddargh.gif, check.gif, bogeyupt2.gif
+#: kidradd/comic91.htm:242
+msgctxt "comic91#p4.2"
+msgid "Perhaps if you worked more than two hours a week, this wouldn't happen."
+msgstr ""
+
+#. comic92 panel title
+#. slot: background color and image
+#: kidradd/comic92.htm:37
+msgctxt "comic92#title.1"
+msgid "\"ROXANNE\""
+msgstr ""
+
+#. comic92 panel p1
+#. slot: left bubble
+#. images: raddtable2.gif, bogeytable.gif
+#: kidradd/comic92.htm:78
+msgctxt "comic92#p1.1"
+msgid "Life outside of the games is really hard."
+msgstr ""
+
+#. comic92 panel p1
+#. slot: right bubble
+#. images: raddtable2.gif, bogeytable.gif
+#: kidradd/comic92.htm:82
+msgctxt "comic92#p1.2"
+msgid "Tell me about it."
+msgstr ""
+
+#. comic92 panel p2
+#. slot: left bubble
+#. images: raddtable.gif, bigbogey2.gif
+#: kidradd/comic92.htm:135
+msgctxt "comic92#p2.1"
+msgid "What have you been doing to survive?"
+msgstr ""
+
+#. comic92 panel p2
+#. slot: right bubble
+#. images: raddtable.gif, bigbogey2.gif
+#: kidradd/comic92.htm:139
+msgctxt "comic92#p2.2"
+msgid "Prostitution, mostly. Big pimpin'."
+msgstr ""
+
+#. comic92 panel p3
+#. slot: right bubble
+#. images: bogeyupt2.gif
+#: kidradd/comic92.htm:190
+msgctxt "comic92#p3.1"
+msgid "That was a <b>joke!</b> Sheesh."
+msgstr ""
+
+#. comic93 panel title
+#. slot: background color and image
+#: kidradd/comic93.htm:37
+msgctxt "comic93#title.1"
+msgid "\"WORKING FOR A LIVING\""
+msgstr ""
+
+#. comic93 panel p1
+#. slot: left bubble
+#. images: raddright.gif, bogeyupt2.gif
+#: kidradd/comic93.htm:78
+msgctxt "comic93#p1.1"
+msgid "Has anyone ever told you you're a pervert?"
+msgstr ""
+
+#. comic93 panel p1
+#. slot: right bubble
+#. images: raddright.gif, bogeyupt2.gif
+#: kidradd/comic93.htm:82
+msgctxt "comic93#p1.2"
+msgid "Twice daily, and even moreso at night."
+msgstr ""
+
+#. comic93 panel p2
+#. slot: left bubble
+#. images: raddstand.gif, bogeyup2.gif
+#: kidradd/comic93.htm:135
+msgctxt "comic93#p2.1"
+msgid "Seriously, what <i>are</i> you doing for money?"
+msgstr ""
+
+#. comic93 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, bogeyup2.gif
+#: kidradd/comic93.htm:139
+msgctxt "comic93#p2.2"
+msgid "I run the local energy plant."
+msgstr ""
+
+#. comic93 panel p3
+#. slot: left bubble
+#. images: raddstand.gif, bogeyup2.gif
+#: kidradd/comic93.htm:186
+msgctxt "comic93#p3.1"
+msgid "Whoa. You're in charge of the energy plant?"
+msgstr ""
+
+#. comic93 panel p3
+#. slot: right bubble
+#. images: raddstand.gif, bogeyup2.gif
+#: kidradd/comic93.htm:190
+msgctxt "comic93#p3.2"
+msgid "No, I <i>run</i> the energy plant, along with my brethren."
+msgstr ""
+
+#. comic93 panel p4
+#. slot: narration (if any, else cut)
+#. images: bogeywalk.gif, floor6.gif
+#: kidradd/comic93.htm:234
+msgctxt "comic93#p4.1"
+msgid "<b>Faster!</b> Get those turbines going!"
+msgstr ""
+
+#. comic93 panel p4
+#. slot: middle bubble
+#. images: bogeywalk.gif, floor6.gif
+#: kidradd/comic93.htm:242
+msgctxt "comic93#p4.2"
+msgid "It's a living."
+msgstr ""
+
+#. comic94 panel title
+#. slot: background color and image
+#: kidradd/comic94.htm:36
+msgctxt "comic94#title.1"
+msgid "\"SAVE ME\""
+msgstr ""
+
+#. comic94 panel p1
+#. slot: left bubble
+#. images: bogeystand2.gif, raddright.gif
+#: kidradd/comic94.htm:77
+msgctxt "comic94#p1.1"
+msgid "See ya later, Radd."
+msgstr ""
+
+#. comic94 panel p1
+#. slot: right bubble
+#. images: bogeystand2.gif, raddright.gif
+#: kidradd/comic94.htm:81
+msgctxt "comic94#p1.2"
+msgid "Later, Bogey."
+msgstr ""
+
+#. comic94 panel p2
+#. slot: left bubble
+#. images: raddwalk.gif, sidewalkw.gif
+#: kidradd/comic94.htm:134
+msgctxt "comic94#p2.1"
+msgid "And now for the most embarassing part of the day. I've got nowhere to crash for the night..."
+msgstr ""
+
+#. comic94 panel p3
+#. slot: left bubble
+#. images: raddright.gif
+#: kidradd/comic94.htm:185
+msgctxt "comic94#p3.1"
+msgid "So I go back to Moderators HQ, to park myself in the public \"Save\" files."
+msgstr ""
+
+#. comic94 panel p4
+#. slot: narration (if any, else cut)
+#. images: rhead.gif
+#: kidradd/comic94.htm:233
+msgctxt "comic94#p4.1"
+msgid "Would you like to save?"
+msgstr ""
+
+#. comic94 panel p4
+#. slot: narration (if any, else cut)
+#. images: rhead.gif
+#: kidradd/comic94.htm:233
+msgctxt "comic94#p4.2"
+msgid "Yes &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No"
+msgstr ""
+
+#. comic94 panel p4
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic94.htm:241
+msgctxt "comic94#p4.3"
+msgid "Unfortunately, there is no \"Retry\" option."
+msgstr ""
+
+#. comic95 panel title
+#. slot: background color and image
+#: kidradd/comic95.htm:36
+msgctxt "comic95#title.1"
+msgid "\"IT TAKES TWO\""
+msgstr ""
+
+#. comic95 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic95.htm:73
+msgctxt "comic95#p1.1"
+msgid "Sheena reports for duty at the Mod HQ."
+msgstr ""
+
+#. comic95 panel p2
+#. slot: left bubble
+#. images: sheenastand.gif, qbtalk2.gif
+#: kidradd/comic95.htm:135
+msgctxt "comic95#p2.1"
+msgid "Hi, Captain! Good to see you again."
+msgstr ""
+
+#. comic95 panel p2
+#. slot: right bubble
+#. images: sheenastand.gif, qbtalk2.gif
+#: kidradd/comic95.htm:139
+msgctxt "comic95#p2.2"
+msgid "Just in time! We've got an assignment together."
+msgstr ""
+
+#. comic95 panel p3
+#. slot: left bubble
+#. images: sheenastand.gif, qbtalk2.gif
+#: kidradd/comic95.htm:187
+msgctxt "comic95#p3.1"
+msgid "Oh, wow. Don't most assignments just require one agent?"
+msgstr ""
+
+#. comic95 panel p3
+#. slot: right bubble
+#. images: sheenastand.gif, qbtalk2.gif
+#: kidradd/comic95.htm:191
+msgctxt "comic95#p3.2"
+msgid "Usually, but this one's a special case. It's a puzzle game."
+msgstr ""
+
+#. comic95 panel p4
+#. slot: left bubble
+#. images: sheenastand.gif, qbstand2.gif
+#: kidradd/comic95.htm:239
+msgctxt "comic95#p4.1"
+msgid "What's a puzzle game?"
+msgstr ""
+
+#. comic95 panel p4
+#. slot: right bubble
+#. images: sheenastand.gif, qbstand2.gif
+#: kidradd/comic95.htm:243
+msgctxt "comic95#p4.2"
+msgid "See, that's why you need help."
+msgstr ""
+
+#. comic96 panel title
+#. slot: background color and image
+#: kidradd/comic96.htm:36
+msgctxt "comic96#title.1"
+msgid "\"FEELS LIKE FALLING\""
+msgstr ""
+
+#. comic96 panel p1
+#. slot: left bubble
+#. images: sheenastand.gif, qbstand2.gif
+#: kidradd/comic96.htm:77
+msgctxt "comic96#p1.1"
+msgid "What a strange game. Kinda small."
+msgstr ""
+
+#. comic96 panel p1
+#. slot: right bubble
+#. images: sheenastand.gif, qbstand2.gif
+#: kidradd/comic96.htm:81
+msgctxt "comic96#p1.2"
+msgid "Most puzzles are."
+msgstr ""
+
+#. comic96 panel p2
+#. slot: left bubble
+#. images: sheenastand.gif, qbtalk2.gif
+#: kidradd/comic96.htm:133
+msgctxt "comic96#p2.1"
+msgid "There's nobody here to rescue."
+msgstr ""
+
+#. comic96 panel p2
+#. slot: right bubble
+#. images: sheenastand.gif, qbtalk2.gif
+#: kidradd/comic96.htm:137
+msgctxt "comic96#p2.2"
+msgid "Sure there is."
+msgstr ""
+
+#. comic96 panel p3
+#. slot: left bubble
+#. images: sheenastand.gif, qbstand2.gif
+#: kidradd/comic96.htm:184
+msgctxt "comic96#p3.1"
+msgid "Where?"
+msgstr ""
+
+#. comic96 panel p3
+#. slot: right bubble
+#. images: sheenastand.gif, qbstand2.gif
+#: kidradd/comic96.htm:188
+msgctxt "comic96#p3.2"
+msgid "They'll be dropping in soon. Literally."
+msgstr ""
+
+#. comic96 panel p4
+#. slot: narration (if any, else cut)
+#. images: pgreen1.gif, sheenastand.gif, qbstand.gif
+#: kidradd/comic96.htm:231
+msgctxt "comic96#p4.1"
+msgid "play game!"
+msgstr ""
+
+#. comic96 panel p4
+#. slot: left bubble
+#. images: pgreen1.gif, sheenastand.gif, qbstand.gif
+#: kidradd/comic96.htm:237
+msgctxt "comic96#p4.2"
+msgid "Uh..."
+msgstr ""
+
+#. comic96 panel p4
+#. slot: middle bubble
+#. images: pgreen1.gif, sheenastand.gif, qbstand.gif
+#: kidradd/comic96.htm:239
+msgctxt "comic96#p4.3"
+msgid "There's one now!"
+msgstr ""
+
+#. comic97 panel title
+#. slot: background color and image
+#: kidradd/comic97.htm:36
+msgctxt "comic97#title.1"
+msgid "\"WICKED GAME\""
+msgstr ""
+
+#. comic97 panel p1
+#. slot: left bubble
+#. images: sheenastand.gif, qbstand.gif, 2block.gif
+#: kidradd/comic97.htm:79
+msgctxt "comic97#p1.1"
+msgid "These guys sure have a one-track mind."
+msgstr ""
+
+#. comic97 panel p1
+#. slot: middle bubble
+#. images: sheenastand.gif, qbstand.gif, 2block.gif
+#: kidradd/comic97.htm:81
+msgctxt "comic97#p1.2"
+msgid "Yep."
+msgstr ""
+
+#. comic97 panel p1
+#. slot: right bubble
+#. images: sheenastand.gif, qbstand.gif, 2block.gif
+#: kidradd/comic97.htm:83
+msgctxt "comic97#p1.3"
+msgid "play game!<br>match color!"
+msgstr ""
+
+#. comic97 panel p2
+#. slot: left bubble
+#. images: sheenatable.gif, qbtable2.gif
+#: kidradd/comic97.htm:135
+msgctxt "comic97#p2.1"
+msgid "They can't move on their own, can they?"
+msgstr ""
+
+#. comic97 panel p2
+#. slot: right bubble
+#. images: sheenatable.gif, qbtable2.gif
+#: kidradd/comic97.htm:139
+msgctxt "comic97#p2.2"
+msgid "No. That's why they're stacking up."
+msgstr ""
+
+#. comic97 panel p3
+#. slot: right bubble
+#. images: sheenatable.gif, qbtablet2.gif
+#: kidradd/comic97.htm:190
+msgctxt "comic97#p3.1"
+msgid "The user moves them as they fall. When three of the same color touch... they annihilate each other."
+msgstr ""
+
+#. comic97 panel p4
+#. slot: left bubble
+#. images: pred1.gif, sheenano.gif, qbstand2.gif, 2block.gif
+#: kidradd/comic97.htm:239
+msgctxt "comic97#p4.1"
+msgid "How cruel!"
+msgstr ""
+
+#. comic97 panel p4
+#. slot: middle bubble
+#. images: pred1.gif, sheenano.gif, qbstand2.gif, 2block.gif
+#: kidradd/comic97.htm:241
+msgctxt "comic97#p4.2"
+msgid "Humans get their kicks in twisted ways."
+msgstr ""
+
+#. comic97 panel p4
+#. slot: right bubble
+#. images: pred1.gif, sheenano.gif, qbstand2.gif, 2block.gif
+#: kidradd/comic97.htm:243
+msgctxt "comic97#p4.3"
+msgid "play game!<br>match color!"
+msgstr ""
+
+#. comic98 panel title
+#. slot: background color and image
+#: kidradd/comic98.htm:53
+msgctxt "comic98#title.1"
+msgid "\"WIPEOUT\""
+msgstr ""
+
+#. comic98 panel p1
+#. slot: left bubble
+#. images: pred1.gif, sheenastand.gif, qbstand2.gif, 3block.gif
+#: kidradd/comic98.htm:94
+msgctxt "comic98#p1.1"
+msgid "So what do we do?"
+msgstr ""
+
+#. comic98 panel p1
+#. slot: middle bubble
+#. images: pred1.gif, sheenastand.gif, qbstand2.gif, 3block.gif
+#: kidradd/comic98.htm:96
+msgctxt "comic98#p1.2"
+msgid "Well, first I suppose we should -"
+msgstr ""
+
+#. comic98 panel p2
+#. slot: left bubble
+#. images: sheenano.gif, qbtalk.gif
+#: kidradd/comic98.htm:149
+msgctxt "comic98#p2.1"
+msgid "LOOK OUT!!!"
+msgstr ""
+
+#. comic98 panel p2
+#. slot: middle bubble
+#. images: sheenano.gif, qbtalk.gif
+#: kidradd/comic98.htm:151
+msgctxt "comic98#p2.2"
+msgid "What? Oh, <b>NO!!!</b>"
+msgstr ""
+
+#. comic98 panel p3
+#. slot: right bubble
+#. images: sheenatabled.gif, qbtable2.gif
+#: kidradd/comic98.htm:204
+msgctxt "comic98#p3.1"
+msgid "Damn! Just by dumb luck, those poor sprites got themselves killed. Oh, the waste..."
+msgstr ""
+
+#. comic98 panel p4
+#. slot: left bubble
+#. images: pred1.gif, sheenastand.gif, qbstand.gif, 1block.gif
+#: kidradd/comic98.htm:251
+msgctxt "comic98#p4.1"
+msgid "Wait a minute... Isn't that one of the same sprites again?"
+msgstr ""
+
+#. comic98 panel p4
+#. slot: middle bubble
+#. images: pred1.gif, sheenastand.gif, qbstand.gif, 1block.gif
+#: kidradd/comic98.htm:253
+msgctxt "comic98#p4.2"
+msgid "I dunno, they all look the same to me."
+msgstr ""
+
+#. comic98 panel p4
+#. slot: right bubble
+#. images: pred1.gif, sheenastand.gif, qbstand.gif, 1block.gif
+#: kidradd/comic98.htm:255
+msgctxt "comic98#p4.3"
+msgid "play game!"
+msgstr ""
+
+#. comic99 panel title
+#. slot: background color and image
+#: kidradd/comic99.htm:36
+msgctxt "comic99#title.1"
+msgid "\"WHAT'S YOUR POINT?\""
+msgstr ""
+
+#. comic99 panel p1
+#. slot: left bubble
+#. images: sheenastand.gif, qbstand.gif, 2block.gif
+#: kidradd/comic99.htm:79
+msgctxt "comic99#p1.1"
+msgid "Scoring points and disappearing doesn't hurt these creatures!"
+msgstr ""
+
+#. comic99 panel p1
+#. slot: right bubble
+#. images: sheenastand.gif, qbstand.gif, 2block.gif
+#: kidradd/comic99.htm:83
+msgctxt "comic99#p1.2"
+msgid "Maybe not..."
+msgstr ""
+
+#. comic99 panel p2
+#. slot: left bubble
+#. images: sheenatable.gif, qbtable2.gif
+#: kidradd/comic99.htm:135
+msgctxt "comic99#p2.1"
+msgid "They just recycle back to the top of the screen, ready for more!"
+msgstr ""
+
+#. comic99 panel p2
+#. slot: right bubble
+#. images: sheenatable.gif, qbtable2.gif
+#: kidradd/comic99.htm:139
+msgctxt "comic99#p2.2"
+msgid "Seems true."
+msgstr ""
+
+#. comic99 panel p3
+#. slot: left bubble
+#. images: sheenatable.gif, qbtable2.gif
+#: kidradd/comic99.htm:186
+msgctxt "comic99#p3.1"
+msgid "In fact, they love it! They're having the time of their lives!"
+msgstr ""
+
+#. comic99 panel p3
+#. slot: right bubble
+#. images: sheenatable.gif, qbtable2.gif
+#: kidradd/comic99.htm:190
+msgctxt "comic99#p3.2"
+msgid "Probably right."
+msgstr ""
+
+#. comic99 panel p4
+#. slot: right bubble
+#. images: sheenatablem.gif, qbtablet2.gif
+#: kidradd/comic99.htm:241
+msgctxt "comic99#p4.1"
+msgid "So are you gonna help me rescue them or what?"
+msgstr ""
+
+#. comic100 panel title
+#. slot: background color and image
+#: kidradd/comic100.htm:36
+msgctxt "comic100#title.1"
+msgid "\"NO OPTIONS\""
+msgstr ""
+
+#. comic100 panel p1
+#. slot: left bubble
+#. images: sheenastand.gif, qbtalk2.gif, 3block.gif
+#: kidradd/comic100.htm:79
+msgctxt "comic100#p1.1"
+msgid "<i>Rescue</i> them?"
+msgstr ""
+
+#. comic100 panel p1
+#. slot: right bubble
+#. images: sheenastand.gif, qbtalk2.gif, 3block.gif
+#: kidradd/comic100.htm:83
+msgctxt "comic100#p1.2"
+msgid "Yeah, just start tossing 'em throught the portal. Piece of cake."
+msgstr ""
+
+#. comic100 panel p2
+#. slot: left bubble
+#. images: sheenatable.gif, qbtable2.gif
+#: kidradd/comic100.htm:135
+msgctxt "comic100#p2.1"
+msgid "But they're <i>happy</i> here."
+msgstr ""
+
+#. comic100 panel p2
+#. slot: right bubble
+#. images: sheenatable.gif, qbtable2.gif
+#: kidradd/comic100.htm:139
+msgctxt "comic100#p2.2"
+msgid "I agree."
+msgstr ""
+
+#. comic100 panel p3
+#. slot: right bubble
+#. images: sheenatable.gif, qbtablet2.gif
+#: kidradd/comic100.htm:190
+msgctxt "comic100#p3.1"
+msgid "However, you forget that when the portal closes, it'll destroy this game. ...And anyone who's inside."
+msgstr ""
+
+#. comic100 panel p4
+#. slot: left bubble
+#. images: sheenatabled.gif, qbtable.gif
+#: kidradd/comic100.htm:237
+msgctxt "comic100#p4.1"
+msgid "Oh, yeah."
+msgstr ""
+
+#. comic100 panel p4
+#. slot: right bubble
+#. images: sheenatabled.gif, qbtable.gif
+#: kidradd/comic100.htm:241
+msgctxt "comic100#p4.2"
+msgid "So come on, let's get heroic!"
+msgstr ""

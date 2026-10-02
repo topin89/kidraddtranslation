@@ -1,0 +1,474 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kid Radd RU — Chapter 27: Fourth Wall Week IV\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: kidradd tools/extract.py\n"
+
+#. comic546 panel title
+#. slot: background color and image
+#: kidradd/comic546.htm:54
+msgctxt "comic546#title.1"
+msgid "\"OLFACTORY SENSIBILITY\""
+msgstr ""
+
+#. comic546 panel p1
+#. slot: left bubble
+#. images: raddblink.gif, bogeystand2.gif
+#: kidradd/comic546.htm:95
+msgctxt "comic546#p1.1"
+msgid "Okay people, before taking this story into its final stretch, we've decided to detour and give you one more <b>Fourth Wall Week!</b>"
+msgstr ""
+
+#. comic546 panel p1
+#. slot: right bubble
+#. images: raddblink.gif, bogeystand2.gif
+#: kidradd/comic546.htm:99
+msgctxt "comic546#p1.2"
+msgid "Um, yay?"
+msgstr ""
+
+#. comic546 panel p2
+#. slot: left bubble
+#. images: raddstare.gif, bogeysigh2.gif
+#: kidradd/comic546.htm:151
+msgctxt "comic546#p2.1"
+msgid "I'll start us off with a little bit of philosophy, just some human knowledge picked up from my countless hours in chatrooms."
+msgstr ""
+
+#. comic546 panel p2
+#. slot: right bubble
+#. images: raddstare.gif, bogeysigh2.gif
+#: kidradd/comic546.htm:155
+msgctxt "comic546#p2.2"
+msgid "Alright, enlighten us."
+msgstr ""
+
+#. comic546 panel p4
+#. slot: left bubble
+#. images: raddblink.gif, bogeystand2.gif
+#: kidradd/comic546.htm:233
+msgctxt "comic546#p4.1"
+msgid "Profound, huh?"
+msgstr ""
+
+#. comic546 panel p4
+#. slot: right bubble
+#. images: raddblink.gif, bogeystand2.gif
+#: kidradd/comic546.htm:237
+msgctxt "comic546#p4.2"
+msgid "Well it certainly sounds deep, but what's a nose?"
+msgstr ""
+
+#. comic546 panel p5
+#. slot: left bubble
+#. images: raddnose.gif, bogeysneer2.gif
+#: kidradd/comic546.htm:287
+msgctxt "comic546#p5.1"
+msgid "What's a nose? Oh come on, it's that thing in the middle of your... uh, in the middle of my... uh..."
+msgstr ""
+
+#. comic546 panel p5
+#. slot: right bubble
+#. images: raddnose.gif, bogeysneer2.gif
+#: kidradd/comic546.htm:291
+msgctxt "comic546#p5.2"
+msgid "You don't know, do you?"
+msgstr ""
+
+#. comic546 panel p6
+#. slot: left bubble
+#: kidradd/comic546.htm:337
+msgctxt "comic546#p6.1"
+msgid "It just occurred to me - none of the characters in this strip seem to have noses! How bizarre..."
+msgstr ""
+
+#. comic546 panel p6
+#. slot: right bubble
+#: kidradd/comic546.htm:341
+msgctxt "comic546#p6.2"
+msgid "Well, never mind what a nose <i>is</i> then. Just tell me what the saying <i>means.</i>"
+msgstr ""
+
+#. comic546 panel p7
+#. slot: left bubble
+#. images: raddright.gif, bogeycross.gif
+#: kidradd/comic546.htm:389
+msgctxt "comic546#p7.1"
+msgid "Oh, right. I think it means, \"You can't choose a nose for your friend.\""
+msgstr ""
+
+#. comic546 panel p7
+#. slot: right bubble
+#. images: raddright.gif, bogeycross.gif
+#: kidradd/comic546.htm:393
+msgctxt "comic546#p7.2"
+msgid "Ah, yes. Well, that's certainly true."
+msgstr ""
+
+#. comic546 panel p8
+#. slot: left bubble
+#. images: raddblink.gif, bogeytalk2.gif, sheenaoff.gif
+#: kidradd/comic546.htm:440
+msgctxt "comic546#p8.1"
+msgid "But if it makes any difference, I'd certainly let let you pick my nose, ol' buddy."
+msgstr ""
+
+#. comic546 panel p8
+#. slot: middle bubble
+#. images: raddblink.gif, bogeytalk2.gif, sheenaoff.gif
+#: kidradd/comic546.htm:442
+msgctxt "comic546#p8.2"
+msgid "Why thank you, Radd. I'm truly honored."
+msgstr ""
+
+#. comic546 panel p8
+#. slot: right bubble
+#. images: raddblink.gif, bogeytalk2.gif, sheenaoff.gif
+#: kidradd/comic546.htm:444
+msgctxt "comic546#p8.3"
+msgid "What the hell is wrong with you guys???"
+msgstr ""
+
+#. comic547 panel title
+#. slot: background color and image
+#: kidradd/comic547.htm:46
+msgctxt "comic547#title.1"
+msgid "\"ONE MORE DAMN MATRIX PARODY\""
+msgstr ""
+
+#. comic547 panel p1
+#. slot: middle bubble
+#. images: mbuilding.gif
+#: kidradd/comic547.htm:89
+msgctxt "comic547#p1.1"
+msgid "This is your last chance. After this there is no turning back."
+msgstr ""
+
+#. comic547 panel p2
+#. slot: middle bubble
+#. images: choice.gif
+#: kidradd/comic547.htm:146
+msgctxt "comic547#p2.1"
+msgid "You take the <b>blue pill,</b> the story ends, you wake up in your bed and believe whatever you want to believe."
+msgstr ""
+
+#. comic547 panel p3
+#. slot: middle bubble
+#. images: redblue.gif
+#: kidradd/comic547.htm:198
+msgctxt "comic547#p3.1"
+msgid "You take the <b>red pill,</b> you stay in Wonderland, and I show you how deep the rabbit hole goes..."
+msgstr ""
+
+#. comic547 panel p4
+#. slot: middle bubble
+#. images: purpleorg.gif
+#: kidradd/comic547.htm:250
+msgctxt "comic547#p4.1"
+msgid "Or take the <b>purple pill</b> to relieve your acid indigestion. Or perhaps the <b>orange pill</b> to reduce your cholesterol."
+msgstr ""
+
+#. comic547 panel p5
+#. slot: middle bubble
+#. images: greenyel.gif
+#: kidradd/comic547.htm:304
+msgctxt "comic547#p5.1"
+msgid "Then there's the <b>green pill</b> for your receding hairline. And of course the <b>yellow pill</b> for... well, that's kinda personal."
+msgstr ""
+
+#. comic547 panel p6
+#. slot: left bubble
+#. images: thepills.gif
+#: kidradd/comic547.htm:352
+msgctxt "comic547#p6.1"
+msgid "Uh, and I just take one of these?"
+msgstr ""
+
+#. comic547 panel p6
+#. slot: right bubble
+#. images: thepills.gif
+#: kidradd/comic547.htm:356
+msgctxt "comic547#p6.2"
+msgid "No Radd, first you <b>ask your doctor</b> if they're right for you."
+msgstr ""
+
+#. comic547 panel p7
+#. slot: left bubble
+#. images: thepills2.gif
+#: kidradd/comic547.htm:404
+msgctxt "comic547#p7.1"
+msgid "Man, this really isn't what I expected."
+msgstr ""
+
+#. comic547 panel p7
+#. slot: right bubble
+#. images: thepills2.gif
+#: kidradd/comic547.htm:408
+msgctxt "comic547#p7.2"
+msgid "Think what you will; it pays the bills."
+msgstr ""
+
+#. comic547 panel p8
+#. slot: left bubble
+#. images: thepills3.gif
+#: kidradd/comic547.htm:455
+msgctxt "comic547#p8.1"
+msgid "You know, the readers were probably expecting some cool rotational shots or something."
+msgstr ""
+
+#. comic547 panel p8
+#. slot: right bubble
+#. images: thepills3.gif
+#: kidradd/comic547.htm:459
+msgctxt "comic547#p8.2"
+msgid "Oh, no prob. Gotcha covered."
+msgstr ""
+
+#. comic547 panel p9
+#. slot: middle bubble
+#: kidradd/comic547.htm:508
+msgctxt "comic547#p9.1"
+msgid "Here, have a cereal bar!"
+msgstr ""
+
+#. comic547 panel p9
+#. slot: insert ground "tiles" on this line
+#: kidradd/comic547.htm:519
+msgctxt "comic547#p9.2"
+msgid "The best I could approximate that crappy ad."
+msgstr ""
+
+#. comic547 panel p10
+#. slot: left bubble
+#. images: cdrip.gif
+#: kidradd/comic547.htm:557
+msgctxt "comic547#p10.1"
+msgid "TV commercials have officially killed bullet time."
+msgstr ""
+
+#. comic547 panel p10
+#. slot: right bubble
+#. images: cdrip.gif
+#: kidradd/comic547.htm:561
+msgctxt "comic547#p10.2"
+msgid "Eh, they did the same to morph effects after Terminator 2. Deal."
+msgstr ""
+
+#. comic548 panel title
+#. slot: background color and image
+#: kidradd/comic548.htm:51
+msgctxt "comic548#title.1"
+msgid "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">\"DIGGIN'\"</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Warning: Midi music ahead)<br><br></font>"
+msgstr ""
+
+#. comic548 panel p1
+#. slot: left bubble
+#. images: raddright.gif, bogeytalk2.gif
+#: kidradd/comic548.htm:93
+msgctxt "comic548#p1.1"
+msgid "Well, you're certainly in a good mood today."
+msgstr ""
+
+#. comic548 panel p1
+#. slot: right bubble
+#. images: raddright.gif, bogeytalk2.gif
+#: kidradd/comic548.htm:97
+msgctxt "comic548#p1.2"
+msgid "I oughta be - I've finally hit the big time!"
+msgstr ""
+
+#. comic548 panel p2
+#. slot: left bubble
+#. images: raddstare.gif, bogeyjoy.gif
+#: kidradd/comic548.htm:149
+msgctxt "comic548#p2.1"
+msgid "Somehow, I'm afraid to ask..."
+msgstr ""
+
+#. comic548 panel p2
+#. slot: right bubble
+#. images: raddstare.gif, bogeyjoy.gif
+#: kidradd/comic548.htm:153
+msgctxt "comic548#p2.2"
+msgid "You don't have to. Just take a gander at <b>this!</b>"
+msgstr ""
+
+#. comic548 panel p4
+#. slot: left bubble
+#. images: raddstare.gif, bogeyjoy.gif
+#: kidradd/comic548.htm:231
+msgctxt "comic548#p4.1"
+msgid "Wow. Betcha that'll be on video before the trailers finish showing."
+msgstr ""
+
+#. comic548 panel p4
+#. slot: right bubble
+#. images: raddstare.gif, bogeyjoy.gif
+#: kidradd/comic548.htm:235
+msgctxt "comic548#p4.2"
+msgid "You're just jealous cuz you ain't gettin' any royalties."
+msgstr ""
+
+#. comic549 panel title
+#. slot: middle bubble
+#. images: qbhead2.gif
+#: kidradd/comic549.htm:43
+msgctxt "comic549#title.1"
+msgid "Warning! The following statements may not bear any resemblance to reality, or worse yet they might in:"
+msgstr ""
+
+#. comic549 panel title
+#. slot: bubble "stems"
+#. images: qbhead2.gif
+#: kidradd/comic549.htm:49
+msgctxt "comic549#title.2"
+msgid "QB's Conspiracy Corner"
+msgstr ""
+
+#. comic549 panel p1
+#. slot: right bubble
+#. images: qbstand.gif
+#: kidradd/comic549.htm:101
+msgctxt "comic549#p1.1"
+msgid "Fans of shonen manga have long been used to stories peppered with lengthy expository sequences. Being a written medium, these narratives are expected and often necessary to explain the non-animated action."
+msgstr ""
+
+#. comic549 panel p2
+#. slot: middle bubble
+#. images: transition.gif
+#: kidradd/comic549.htm:155
+msgctxt "comic549#p2.1"
+msgid "However, when these stories make the jump to the television screen a problem arises. One issue of a manga isn't nearly long enough to equate a script for one episode of a TV show. What's the solution?"
+msgstr ""
+
+#. comic549 panel p3
+#. slot: middle bubble
+#. images: dbz.gif
+#: kidradd/comic549.htm:206
+msgctxt "comic549#p3.1"
+msgid "Quite often, it's to expand the expository sequences. Stretching out the expogab fills time and saves on the animation budget since real action sequences tend not to happen during such rambles."
+msgstr ""
+
+#. comic549 panel p4
+#. slot: middle bubble
+#. images: qbclose.gif
+#: kidradd/comic549.htm:257
+msgctxt "comic549#p4.1"
+msgid "Here's where the conspiracy comes in:<br>I, Captain QB, have uncovered a far-reaching plot against otaku everywhere! Pay attention!"
+msgstr ""
+
+#. comic549 panel p5
+#. slot: middle bubble
+#. images: qbcharts.gif
+#: kidradd/comic549.htm:311
+msgctxt "comic549#p5.1"
+msgid "There has been a gradual but deliberate rise in the expogab over the past two decades, slowly increasing talk-time to fight-time by over 4 to 1!"
+msgstr ""
+
+#. comic549 panel p6
+#. slot: right bubble
+#. images: qbfront.gif
+#: kidradd/comic549.htm:362
+msgctxt "comic549#p6.1"
+msgid "The critical step came when Japanese TV execs began an experiment to see if expogab could not only supplement the action, but <i>replace it completely.</i>"
+msgstr ""
+
+#. comic549 panel p7
+#. slot: middle bubble
+#. images: yugikaiba.gif
+#: kidradd/comic549.htm:412
+msgctxt "comic549#p7.1"
+msgid "Surely enough, it worked! Yu-Gi-Oh was born, the first \"action\" series where nothing resembling action took place. Talk could indeed replace action and many audience members couldn't tell the difference."
+msgstr ""
+
+#. comic549 panel p8
+#. slot: middle bubble
+#. images: qbclose.gif
+#: kidradd/comic549.htm:463
+msgctxt "comic549#p8.1"
+msgid "From there, it's only a matter of time. Over the next several years, the talk will increase and the animation will slowly decrease, desensitizing the audience until the ultimate goal is acheived..."
+msgstr ""
+
+#. comic549 panel p9
+#. slot: middle bubble
+#. images: lou.gif
+#: kidradd/comic549.htm:514
+msgctxt "comic549#p9.1"
+msgid "Viewers will watch a program consisting only of a still frame of Lou Ferrigno, while a voice-over reads the dictionary.<br><i>It will be mankind's most successful television program ever.</i>"
+msgstr ""
+
+#. comic549 panel p10
+#. slot: left bubble
+#. images: fansubs.gif
+#: kidradd/comic549.htm:562
+msgctxt "comic549#p10.1"
+msgid "Thanks QB, that was... informative.<br>I think."
+msgstr ""
+
+#. comic549 panel p10
+#. slot: right bubble
+#. images: fansubs.gif
+#: kidradd/comic549.htm:566
+msgctxt "comic549#p10.2"
+msgid "Check it out, my \"Ferrigno Taisen\" fansubs have arrived!"
+msgstr ""
+
+#. comic549 panel p11
+#. slot: left bubble
+#. images: subsooh.gif
+#: kidradd/comic549.htm:613
+msgctxt "comic549#p11.1"
+msgid "I am never, ever watching TV again..."
+msgstr ""
+
+#. comic549 panel p11
+#. slot: right bubble
+#. images: subsooh.gif
+#: kidradd/comic549.htm:617
+msgctxt "comic549#p11.2"
+msgid "Sweet! I've got up to the episode where they reach letter G!"
+msgstr ""
+
+#. comic550 panel title
+#. slot: background color and image
+#: kidradd/comic550.htm:52
+msgctxt "comic550#title.1"
+msgid "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, arial\" size=\"3\">\"GO YOUR OWN WAY\"</font> <br><font color=\"ffffff\" face=\"arial\" size=\"1\">(Warning: Midi music ahead)<br><br></font>"
+msgstr ""
+
+#. comic550 panel p1
+#. slot: middle bubble
+#. images: bogeymad2.gif, tv2.gif
+#: kidradd/comic550.htm:96
+msgctxt "comic550#p1.1"
+msgid "Today I'd like to provide a rebuttal to yesterday's highly inaccurate depiction of shonen anime. That QB has no idea what he's talking about."
+msgstr ""
+
+#. comic550 panel p2
+#. slot: middle bubble
+#. images: bogeytalk.gif, tv2.gif
+#: kidradd/comic550.htm:151
+msgctxt "comic550#p2.1"
+msgid "I've watched plenty of action shows aimed at boys, and none of that lengthy exposition stuff ever occurs! Look, here's an example."
+msgstr ""
+
+#. comic550 panel p7
+#. slot: left bubble
+#. images: bogeytalk.gif, tv2.gif, sheenamad.gif
+#: kidradd/comic550.htm:229
+msgctxt "comic550#p7.1"
+msgid "See? Absolutely nothing was explained! Though I suppose this might be the wrong kind of \"action\"..."
+msgstr ""
+
+#. comic550 panel p7
+#. slot: right bubble
+#. images: bogeytalk.gif, tv2.gif, sheenamad.gif
+#: kidradd/comic550.htm:233
+msgctxt "comic550#p7.2"
+msgid "If I kill Bogey now, it doesn't affect the real continuity, right? Please?"
+msgstr ""

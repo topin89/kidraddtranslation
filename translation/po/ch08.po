@@ -1,0 +1,372 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kid Radd RU — Chapter 8: Fourth Wall Week\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: kidradd tools/extract.py\n"
+
+#. comic116 panel title
+#. slot: background color and image
+#: kidradd/comic116.htm:36
+msgctxt "comic116#title.1"
+msgid "\"THE WALL\""
+msgstr ""
+
+#. comic116 panel p1
+#. slot: narration (if any, else cut)
+#. images: bogeytable3.gif
+#: kidradd/comic116.htm:73
+msgctxt "comic116#p1.1"
+msgid "Welcome to Fourth Wall Week!"
+msgstr ""
+
+#. comic116 panel p1
+#. slot: middle bubble
+#. images: bogeytable3.gif
+#: kidradd/comic116.htm:81
+msgctxt "comic116#p1.2"
+msgid "Since Radd so rudely shattered the fourth wall last week, we've decided to keep it broken for now, and just have some fun this week."
+msgstr ""
+
+#. comic116 panel p2
+#. slot: left bubble
+#. images: raddright.gif, bogeytalk2.gif
+#: kidradd/comic116.htm:137
+msgctxt "comic116#p2.1"
+msgid "Fourth what?"
+msgstr ""
+
+#. comic116 panel p2
+#. slot: right bubble
+#. images: raddright.gif, bogeytalk2.gif
+#: kidradd/comic116.htm:141
+msgctxt "comic116#p2.2"
+msgid "\"Fourth wall.\" It means we're breaking the rules of storytelling, and we're aware of the readers at home."
+msgstr ""
+
+#. comic116 panel p3
+#. slot: left bubble
+#. images: raddstand.gif, bogeystand2.gif
+#: kidradd/comic116.htm:190
+msgctxt "comic116#p3.1"
+msgid "I don't get it."
+msgstr ""
+
+#. comic116 panel p3
+#. slot: right bubble
+#. images: raddstand.gif, bogeystand2.gif
+#: kidradd/comic116.htm:194
+msgctxt "comic116#p3.2"
+msgid "There's nothing to \"get.\" Just say something to the folks out there."
+msgstr ""
+
+#. comic116 panel p4
+#. slot: left bubble
+#. images: raddwink.gif, bogeysigh.gif
+#: kidradd/comic116.htm:245
+msgctxt "comic116#p4.1"
+msgid "Hey everybody! Can someone lend me a twenty?"
+msgstr ""
+
+#. comic116 panel p4
+#. slot: right bubble
+#. images: raddwink.gif, bogeysigh.gif
+#: kidradd/comic116.htm:249
+msgctxt "comic116#p4.2"
+msgid "Never mind."
+msgstr ""
+
+#. comic117 panel title
+#. slot: background color and image
+#: kidradd/comic117.htm:36
+msgctxt "comic117#title.1"
+msgid "\"LOVE IS BLIND\""
+msgstr ""
+
+#. comic117 panel p1
+#. slot: narration (if any, else cut)
+#. images: raddstare.gif
+#: kidradd/comic117.htm:73
+msgctxt "comic117#p1.1"
+msgid "Fourth Wall Week continues!"
+msgstr ""
+
+#. comic117 panel p1
+#. slot: middle bubble
+#. images: raddstare.gif
+#: kidradd/comic117.htm:81
+msgctxt "comic117#p1.2"
+msgid "During this week's event, I'd like to take the opportunity to talk about my relationship with Sheena."
+msgstr ""
+
+#. comic117 panel p2
+#. slot: left bubble
+#. images: raddtable3.gif
+#: kidradd/comic117.htm:136
+msgctxt "comic117#p2.1"
+msgid "Am I a lucky S.O.B. or what? It's painfully obvious that I'm destined to end up with that chick."
+msgstr ""
+
+#. comic117 panel p3
+#. slot: middle bubble
+#. images: raddrock.gif, sheenamad2.gif, bg3.gif
+#: kidradd/comic117.htm:188
+msgctxt "comic117#p3.1"
+msgid "First off, we seem to hate other. All you anime fans know what that old cliche means."
+msgstr ""
+
+#. comic117 panel p4
+#. slot: left bubble
+#. images: raddtable.gif, shead.gif
+#: kidradd/comic117.htm:238
+msgctxt "comic117#p4.1"
+msgid "Plus, she's the only eligible female in the strip, and I'm the lead male character. Who else would I go with?"
+msgstr ""
+
+#. comic117 panel p5
+#. slot: middle bubble
+#. images: rheadjoy.gif
+#: kidradd/comic117.htm:292
+msgctxt "comic117#p5.1"
+msgid "Face it, it's only a matter of time before I'm on the receiving end of muchas smoochas. Heh heh!"
+msgstr ""
+
+#. comic117 panel p6
+#. slot: left bubble
+#. images: raddstare.gif, bogeyhug.gif
+#: kidradd/comic117.htm:343
+msgctxt "comic117#p6.1"
+msgid "Unless, of course, the writer of this strip is more warped than I'd thought."
+msgstr ""
+
+#. comic117 panel p6
+#. slot: right bubble
+#. images: raddstare.gif, bogeyhug.gif
+#: kidradd/comic117.htm:347
+msgctxt "comic117#p6.2"
+msgid "You're sooooo cute!"
+msgstr ""
+
+#. comic118 panel title
+#. slot: background color and image
+#: kidradd/comic118.htm:36
+msgctxt "comic118#title.1"
+msgid "\"CENTERFOLD\""
+msgstr ""
+
+#. comic118 panel p1
+#. slot: narration (if any, else cut)
+#. images: raddblink.gif
+#: kidradd/comic118.htm:73
+msgctxt "comic118#p1.1"
+msgid "More Fourth Wall Week hilarity!"
+msgstr ""
+
+#. comic118 panel p1
+#. slot: left bubble
+#. images: raddblink.gif
+#: kidradd/comic118.htm:79
+msgctxt "comic118#p1.2"
+msgid "And now, as a publicity stunt, here's something you've all been dying to see!"
+msgstr ""
+
+#. comic118 panel p1
+#. slot: middle bubble
+#. images: raddblink.gif
+#: kidradd/comic118.htm:81
+msgctxt "comic118#p1.3"
+msgid "\"All?\""
+msgstr ""
+
+#. comic118 panel p2
+#. slot: left bubble
+#. images: raddrock.gif
+#: kidradd/comic118.htm:137
+msgctxt "comic118#p2.1"
+msgid "Well, three or four of you anyway. I now proudly present - -"
+msgstr ""
+
+#. comic118 panel p2
+#. slot: middle bubble
+#. images: raddrock.gif
+#: kidradd/comic118.htm:139
+msgctxt "comic118#p2.2"
+msgid "Oh brother."
+msgstr ""
+
+#. comic118 panel p3
+#. slot: middle bubble
+#. images: sheenaswim.gif, floor2.gif
+#: kidradd/comic118.htm:192
+msgctxt "comic118#p3.1"
+msgid "- - Sheena in swimwear!"
+msgstr ""
+
+#. comic118 panel p3
+#. slot: right bubble
+#. images: sheenaswim.gif, floor2.gif
+#: kidradd/comic118.htm:194
+msgctxt "comic118#p3.2"
+msgid "This is stupid."
+msgstr ""
+
+#. comic118 panel p4
+#. slot: left bubble
+#. images: raddwink.gif
+#: kidradd/comic118.htm:244
+msgctxt "comic118#p4.1"
+msgid "But don't worry ladies, we didn't forget about you. Prepare yourself for a peek at the hottest male bod in the strip..."
+msgstr ""
+
+#. comic118 panel p5
+#. slot: middle bubble
+#. images: bogeyswim.gif, floor2.gif
+#: kidradd/comic118.htm:297
+msgctxt "comic118#p5.1"
+msgid "...Bogey in a speedo!"
+msgstr ""
+
+#. comic118 panel p5
+#. slot: right bubble
+#. images: bogeyswim.gif, floor2.gif
+#: kidradd/comic118.htm:299
+msgctxt "comic118#p5.2"
+msgid "This is almost as embarassing as it is painful."
+msgstr ""
+
+#. comic119 panel title
+#. slot: background color and image
+#: kidradd/comic119.htm:55
+msgctxt "comic119#title.1"
+msgid "\"SAMURAI\""
+msgstr ""
+
+#. comic119 panel p1
+#. slot: middle bubble
+#. images: sheenastare.gif
+#: kidradd/comic119.htm:98
+msgctxt "comic119#p1.1"
+msgid "Since our game was destroyed, we at Kid Radd have not provided many exciting action sequences lately. But we can remedy that."
+msgstr ""
+
+#. comic119 panel p2
+#. slot: middle bubble
+#. images: sheenablink.gif
+#: kidradd/comic119.htm:155
+msgctxt "comic119#p2.1"
+msgid "To supply you with some purely gratuitous violence, Radd and Bogey shall now have a Kurosawa-style sword duel. Enjoy!"
+msgstr ""
+
+#. comic119 panel p3
+#. slot: insert ground "tiles" on this line
+#: kidradd/comic119.htm:217
+msgctxt "comic119#p3.1"
+msgid "Pseudo-widescreen makes anything cool."
+msgstr ""
+
+#. comic119 panel p4
+#. slot: right bubble
+#. images: duelend.gif
+#: kidradd/comic119.htm:261
+msgctxt "comic119#p4.1"
+msgid "Next time, maybe we'll train them first."
+msgstr ""
+
+#. comic119 panel p4
+#. slot: insert ground "tiles" on this line
+#. images: duelend.gif
+#: kidradd/comic119.htm:270
+msgctxt "comic119#p4.2"
+msgid "Where's my other leg?"
+msgstr ""
+
+#. comic119 panel p4
+#. slot: insert ground "tiles" on this line
+#. images: duelend.gif
+#: kidradd/comic119.htm:270
+msgctxt "comic119#p4.3"
+msgid "A ass is you."
+msgstr ""
+
+#. comic120 panel title
+#. slot: background color and image
+#: kidradd/comic120.htm:50
+msgctxt "comic120#title.1"
+msgid "\"PARTY LIKE IT'S 1989\""
+msgstr ""
+
+#. comic120 panel p1
+#. slot: narration (if any, else cut)
+#. images: raddblink.gif
+#: kidradd/comic120.htm:87
+msgctxt "comic120#p1.1"
+msgid "Fourth Wall Week finale!"
+msgstr ""
+
+#. comic120 panel p1
+#. slot: middle bubble
+#. images: raddblink.gif
+#: kidradd/comic120.htm:95
+msgctxt "comic120#p1.2"
+msgid "To finish the week, I've declared this the Radd Dance Party! Click 'next' to <b>start the music! </b></font><font size=\"1\" face=\"arial\"> (Unless you're at work and don't wanna make noise, I suppose.)</font>"
+msgstr ""
+
+#. comic120 panel p2
+#. slot: narration (if any, else cut)
+#. images: sdance1.gif, raddrock.gif, bdance1.gif, a.gif, b.gif, x.gif, y.gif
+#: kidradd/comic120.htm:146
+msgctxt "comic120#p2.1"
+msgid "Click the red buttons to dance!<br>Click 'next' to quit."
+msgstr ""
+
+#. comic120 panel p3
+#. slot: narration (if any, else cut)
+#. images: sheenawalk.gif, raddwalk2.gif, bogeywalk.gif, a.gif, b.gif, x.gif, y.gif
+#: kidradd/comic120.htm:199
+msgctxt "comic120#p3.1"
+msgid "Click the red buttons to dance!<br>Click 'next' to quit."
+msgstr ""
+
+#. comic120 panel p4
+#. slot: narration (if any, else cut)
+#. images: sdance2.gif, raddspin.gif, bdance2.gif, a.gif, b.gif, x.gif, y.gif
+#: kidradd/comic120.htm:252
+msgctxt "comic120#p4.1"
+msgid "Click the red buttons to dance!<br>Click 'next' to quit."
+msgstr ""
+
+#. comic120 panel p5
+#. slot: narration (if any, else cut)
+#. images: sheenawalk2.gif, raddwalk.gif, bogeywalk2.gif, a.gif, b.gif, x.gif, y.gif
+#: kidradd/comic120.htm:305
+msgctxt "comic120#p5.1"
+msgid "Click the red buttons to dance!<br>Click 'next' to quit."
+msgstr ""
+
+#. comic120 panel p6
+#. slot: left bubble
+#. images: sheenastare.gif, raddstare2.gif, bogeysigh.gif
+#: kidradd/comic120.htm:362
+msgctxt "comic120#p6.1"
+msgid "Wow, that was a short party."
+msgstr ""
+
+#. comic120 panel p6
+#. slot: right bubble
+#. images: sheenastare.gif, raddstare2.gif, bogeysigh.gif
+#: kidradd/comic120.htm:366
+msgctxt "comic120#p6.2"
+msgid "I guess the reader's John Ashcroft."
+msgstr ""
+
+#. comic120 panel p6
+#. slot: insert ground "tiles" on this line
+#. images: sheenastare.gif, raddstare2.gif, bogeysigh.gif
+#: kidradd/comic120.htm:375
+msgctxt "comic120#p6.3"
+msgid "Next week: Plot! I promise!"
+msgstr ""

@@ -1,0 +1,2539 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kid Radd RU — Chapter 1: The Game\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: kidradd tools/extract.py\n"
+
+#. comic1 panel title
+#. slot: background color and image
+#: kidradd/comic1.htm:32
+#, fuzzy
+msgctxt "comic1#title.1"
+msgid "\"COLOR ME RADD\""
+msgstr "«ЗОВИТЕ МЕНЯ УЛЁТ»"
+
+#. comic1 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic1.htm:66
+#, fuzzy
+msgctxt "comic1#p1.1"
+msgid "Welcome to the world of the classic video game Kid Radd."
+msgstr "Добро пожаловать в мир классической видеоигры «Улёт-парень»."
+
+#. comic1 panel p2
+#. slot: narration (if any, else cut)
+#. images: raddstare.gif, floor2.gif
+#: kidradd/comic1.htm:107
+#, fuzzy
+msgctxt "comic1#p2.1"
+msgid "Meet Radd, the hero of the game."
+msgstr "Знакомьтесь: Улёт, герой игры."
+
+#. comic1 panel p2
+#. slot: middle bubble
+#. images: raddstare.gif, floor2.gif
+#: kidradd/comic1.htm:115
+#, fuzzy
+msgctxt "comic1#p2.2"
+msgid "Hey."
+msgstr "Привет."
+
+#. comic1 panel p3
+#. slot: narration (if any, else cut)
+#. images: raddstare.gif, floor2.gif
+#: kidradd/comic1.htm:162
+#, fuzzy
+msgctxt "comic1#p3.1"
+msgid "This strip will follow the exploits of Radd, heroic dude and all-around cool guy."
+msgstr "Этот комикс расскажет о подвигах Улёта — героического парня и просто крутого чувака."
+
+#. comic1 panel p3
+#. slot: middle bubble
+#. images: raddstare.gif, floor2.gif
+#: kidradd/comic1.htm:170
+#, fuzzy
+msgctxt "comic1#p3.2"
+msgid "Awesome."
+msgstr "Зашибись."
+
+#. comic1 panel p4
+#. slot: narration (if any, else cut)
+#. images: raddrock.gif, floor2.gif
+#: kidradd/comic1.htm:217
+#, fuzzy
+msgctxt "comic1#p4.1"
+msgid "Of course by \"cool,\" we mean by mid-1980's standards."
+msgstr "Разумеется, «крутого» — по меркам середины восьмидесятых."
+
+#. comic1 panel p4
+#. slot: middle bubble
+#. images: raddrock.gif, floor2.gif
+#: kidradd/comic1.htm:225
+#, fuzzy
+msgctxt "comic1#p4.2"
+msgid "Air guitar! Woo!"
+msgstr "Воздушная гитара! Ю-ху!"
+
+#. comic2 panel title
+#. slot: background color and image
+#: kidradd/comic2.htm:34
+#, fuzzy
+msgctxt "comic2#title.1"
+msgid "\"PUPPET MASTER\""
+msgstr "«КУКЛОВОД»"
+
+#. comic2 panel p1
+#. slot: narration (if any, else cut)
+#. images: raddstare.gif, floor2.gif
+#: kidradd/comic2.htm:71
+#, fuzzy
+msgctxt "comic2#p1.1"
+msgid "Radd is a hero sprite, also known as a player character."
+msgstr "Улёт — спрайт-герой, иначе говоря, персонаж игрока."
+
+#. comic2 panel p1
+#. slot: middle bubble
+#. images: raddstare.gif, floor2.gif
+#: kidradd/comic2.htm:79
+#, fuzzy
+msgctxt "comic2#p1.2"
+msgid "Say what?"
+msgstr "Чего-чего?"
+
+#. comic2 panel p2
+#. slot: narration (if any, else cut)
+#. images: raddwalk.gif, floor2walk.gif
+#: kidradd/comic2.htm:128
+#, fuzzy
+msgctxt "comic2#p2.1"
+msgid "All of Radd's actions are controlled by the <i>player,</i> the person playing Kid Radd."
+msgstr "Всеми действиями Улёта управляет <i>игрок,</i> то есть человек, который играет в «Улёт-парень»."
+
+#. comic2 panel p2
+#. slot: middle bubble
+#. images: raddwalk.gif, floor2walk.gif
+#: kidradd/comic2.htm:136
+#, fuzzy
+msgctxt "comic2#p2.2"
+msgid "Oh."
+msgstr "А-а."
+
+#. comic2 panel p3
+#. slot: narration (if any, else cut)
+#. images: raddwalk.gif, floor2walk.gif
+#: kidradd/comic2.htm:182
+#, fuzzy
+msgctxt "comic2#p3.1"
+msgid "Radd cannot do anything on his own; his every move is commanded by the player."
+msgstr "Сам по себе Улёт ничего не может: каждое его движение — приказ игрока."
+
+#. comic2 panel p3
+#. slot: middle bubble
+#. images: raddwalk.gif, floor2walk.gif
+#: kidradd/comic2.htm:190
+#, fuzzy
+msgctxt "comic2#p3.2"
+msgid "That sucks."
+msgstr "Отстой."
+
+#. comic2 panel p4
+#. slot: narration (if any, else cut)
+#. images: raddmstare.gif, floor2.gif
+#: kidradd/comic2.htm:236
+#, fuzzy
+msgctxt "comic2#p4.1"
+msgid "In short, he's the player's little - -"
+msgstr "Короче говоря, он у игрока — маленькая послушная с- -"
+
+#. comic2 panel p4
+#. slot: middle bubble
+#. images: raddmstare.gif, floor2.gif
+#: kidradd/comic2.htm:244
+#, fuzzy
+msgctxt "comic2#p4.2"
+msgid "<b>Don't</b> say it."
+msgstr "<b>Не</b> договаривай."
+
+#. comic3 panel title
+#. slot: background color and image
+#: kidradd/comic3.htm:54
+#, fuzzy
+msgctxt "comic3#title.1"
+msgid "\"APPETITE FOR DESTRUCTION\""
+msgstr "«ЖАЖДА РАЗРУШЕНИЯ»"
+
+#. comic3 panel p1
+#. slot: narration (if any, else cut)
+#. images: raddrun.gif, floor2run.gif
+#: kidradd/comic3.htm:91
+#, fuzzy
+msgctxt "comic3#p1.1"
+msgid "Radd is under complete control of the player."
+msgstr "Улёт полностью подчиняется игроку."
+
+#. comic3 panel p1
+#. slot: middle bubble
+#. images: raddrun.gif, floor2run.gif
+#: kidradd/comic3.htm:99
+#, fuzzy
+msgctxt "comic3#p1.2"
+msgid "You already told them that."
+msgstr "Ты это уже говорил."
+
+#. comic3 panel p2
+#. slot: narration (if any, else cut)
+#. images: raddrun.gif, floor2run.gif
+#: kidradd/comic3.htm:148
+#, fuzzy
+msgctxt "comic3#p2.1"
+msgid "For example, if the player wants Radd to fight deadly enemies, he has to obey."
+msgstr "Например, если игрок велит драться со смертельно опасными врагами — Улёт подчинится."
+
+#. comic3 panel p2
+#. slot: middle bubble
+#. images: raddrun.gif, floor2run.gif
+#: kidradd/comic3.htm:156
+#, fuzzy
+msgctxt "comic3#p2.2"
+msgid "They get it already."
+msgstr "Да поняли они уже."
+
+#. comic3 panel p3
+#. slot: narration (if any, else cut)
+#: kidradd/comic3.htm:202
+#, fuzzy
+msgctxt "comic3#p3.1"
+msgid "Or, if the player decides to run Radd into a bottomless pit..."
+msgstr "Или, если игрок решит направить Улёта прямиком в бездонную пропасть..."
+
+#. comic3 panel p3
+#. slot: middle bubble
+#: kidradd/comic3.htm:210
+#, fuzzy
+msgctxt "comic3#p3.2"
+msgid "I watched a lot of Roadrunner cartoons as a kid."
+msgstr "В детстве я пересмотрел кучу мультиков про Дорожного Бегуна."
+
+#. comic3 panel p4
+#. slot: narration (if any, else cut)
+#: kidradd/comic3.htm:256
+#, fuzzy
+msgctxt "comic3#p4.1"
+msgid "...Radd will follow this suicidal command."
+msgstr "...Улёт выполнит и этот самоубийственный приказ."
+
+#. comic3 panel p4
+#. slot: middle bubble
+#: kidradd/comic3.htm:264
+#, fuzzy
+msgctxt "comic3#p4.2"
+msgid "STOP GIVING HIM IDEAS!"
+msgstr "ХВАТИТ ПОДКИДЫВАТЬ ЕМУ ИДЕИ!"
+
+#. comic4 panel title
+#. slot: background color and image
+#: kidradd/comic4.htm:54
+#, fuzzy
+msgctxt "comic4#title.1"
+msgid "\"KING OF PAIN\""
+msgstr "«КОРОЛЬ БОЛИ»"
+
+#. comic4 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic4.htm:91
+#, fuzzy
+msgctxt "comic4#p1.1"
+msgid "The player fears nothing as he steers Radd through the perils of his game."
+msgstr "Игрок ничего не боится, проводя Улёта через опасности игры."
+
+#. comic4 panel p2
+#. slot: narration (if any, else cut)
+#. images: raddwalk.gif, floor3walk.gif
+#: kidradd/comic4.htm:131
+#, fuzzy
+msgctxt "comic4#p2.1"
+msgid "After all, it's Radd who has to suffer, not the player."
+msgstr "В конце концов, страдать-то приходится Улёту, а не игроку."
+
+#. comic4 panel p3
+#. slot: narration (if any, else cut)
+#. images: flower.gif, floor3.gif
+#: kidradd/comic4.htm:185
+#, fuzzy
+msgctxt "comic4#p3.1"
+msgid "The player feels all the excitement of the adventure, while Radd feels all the pain."
+msgstr "Игроку достаётся весь азарт приключения, а Улёту — вся боль."
+
+#. comic4 panel p4
+#. slot: narration (if any, else cut)
+#. images: flower.gif, raddmstare.gif, floor3.gif
+#: kidradd/comic4.htm:239
+#, fuzzy
+msgctxt "comic4#p4.1"
+msgid "Pretty sweet deal, huh?"
+msgstr "Неплохо устроились, а?"
+
+#. comic4 panel p4
+#. slot: middle bubble
+#. images: flower.gif, raddmstare.gif, floor3.gif
+#: kidradd/comic4.htm:247
+#, fuzzy
+msgctxt "comic4#p4.2"
+msgid "Not for me!"
+msgstr "Только не я!"
+
+#. comic5 panel title
+#. slot: background color and image
+#: kidradd/comic5.htm:34
+#, fuzzy
+msgctxt "comic5#title.1"
+msgid "\"SWEET EMOTION\""
+msgstr "«СЛАДКОЕ ЧУВСТВО»"
+
+#. comic5 panel p1
+#. slot: narration (if any, else cut)
+#. images: raddrun.gif, floor1run.gif
+#: kidradd/comic5.htm:71
+#, fuzzy
+msgctxt "comic5#p1.1"
+msgid "You may be wondering why Radd goes through all of this."
+msgstr "Возможно, вы задаётесь вопросом, зачем Улёт всё это терпит."
+
+#. comic5 panel p1
+#. slot: middle bubble
+#. images: raddrun.gif, floor1run.gif
+#: kidradd/comic5.htm:79
+#, fuzzy
+msgctxt "comic5#p1.2"
+msgid "You aren't alone."
+msgstr "Вы не одиноки."
+
+#. comic5 panel p2
+#. slot: narration (if any, else cut)
+#. images: rhead.gif
+#: kidradd/comic5.htm:130
+#, fuzzy
+msgctxt "comic5#p2.1"
+msgid "It is Radd's duty to strive for the game's ultimate goal:"
+msgstr "Долг Улёта — стремиться к главной цели игры:"
+
+#. comic5 panel p2
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic5.htm:138
+#, fuzzy
+msgctxt "comic5#p2.2"
+msgid "Which is?..."
+msgstr "А именно?.."
+
+#. comic5 panel p3
+#. slot: narration (if any, else cut)
+#. images: rheadwow.gif
+#: kidradd/comic5.htm:184
+#, fuzzy
+msgctxt "comic5#p3.1"
+msgid "To rescue his \"babe-ular\" girlfriend, Sheena."
+msgstr "Спасти свою «сногсшибательную» подружку Шину."
+
+#. comic5 panel p3
+#. slot: middle bubble
+#. images: rheadwow.gif
+#: kidradd/comic5.htm:192
+#, fuzzy
+msgctxt "comic5#p3.2"
+msgid "Dude!"
+msgstr "Чувак!"
+
+#. comic5 panel p4
+#. slot: narration (if any, else cut)
+#. images: raddrun.gif, floor1run.gif
+#: kidradd/comic5.htm:238
+#, fuzzy
+msgctxt "comic5#p4.1"
+msgid "Good luck, Radd."
+msgstr "Удачи, Улёт."
+
+#. comic5 panel p4
+#. slot: middle bubble
+#. images: raddrun.gif, floor1run.gif
+#: kidradd/comic5.htm:246
+#, fuzzy
+msgctxt "comic5#p4.2"
+msgid "I didn't know I had a girlfriend! Awesome!"
+msgstr "Я и не знал, что у меня есть подружка! Круто!"
+
+#. comic6 panel title
+#. slot: background color and image
+#: kidradd/comic6.htm:34
+#, fuzzy
+msgctxt "comic6#title.1"
+msgid "\"READY FOR LOVE\""
+msgstr "«ГОТОВ К ЛЮБВИ»"
+
+#. comic6 panel p1
+#. slot: middle bubble
+#. images: raddrun.gif, floor1run.gif
+#: kidradd/comic6.htm:77
+#, fuzzy
+msgctxt "comic6#p1.1"
+msgid "Okay, so the player's making me do all sorts of dangerous stuff."
+msgstr "Ладно, игрок заставляет меня делать всякие опасные штуки."
+
+#. comic6 panel p2
+#. slot: middle bubble
+#. images: raddrun.gif, floor1run.gif
+#: kidradd/comic6.htm:134
+#, fuzzy
+msgctxt "comic6#p2.1"
+msgid "But man, it'll be worth it when I rescue my girlfriend, Sheena."
+msgstr "Но, блин, всё окупится, когда я спасу свою подружку Шину."
+
+#. comic6 panel p3
+#. slot: middle bubble
+#. images: rheadjoy.gif
+#: kidradd/comic6.htm:186
+#, fuzzy
+msgctxt "comic6#p3.1"
+msgid "Heh heh, I'll bet she'll be super grateful. Muchas smoochas, here I come!"
+msgstr "Хе-хе, спорим, она будет ну очень благодарна. Чмоки-чмоки, я иду!"
+
+#. comic6 panel p4
+#. slot: middle bubble
+#. images: raddrun.gif, floor1run.gif
+#: kidradd/comic6.htm:238
+#, fuzzy
+msgctxt "comic6#p4.1"
+msgid "Hm, I wonder what she looks like?..."
+msgstr "Хм, интересно, как она выглядит?.."
+
+#. comic7 panel title
+#. slot: background color and image
+#: kidradd/comic7.htm:54
+#, fuzzy
+msgctxt "comic7#title.1"
+msgid "\"ME WISE MAGIC\""
+msgstr "«МОЯ МУДРАЯ МАГИЯ»"
+
+#. comic7 panel p1
+#. slot: narration (if any, else cut)
+#. images: raddrock.gif
+#: kidradd/comic7.htm:91
+#, fuzzy
+msgctxt "comic7#p1.1"
+msgid "Be amazed as Radd demonstrates his special powers."
+msgstr "Приготовьтесь изумляться: Улёт демонстрирует свои особые способности."
+
+#. comic7 panel p1
+#. slot: middle bubble
+#. images: raddrock.gif
+#: kidradd/comic7.htm:99
+#, fuzzy
+msgctxt "comic7#p1.2"
+msgid "Yessir, I rock!"
+msgstr "Йес, я рулю!"
+
+#. comic7 panel p2
+#. slot: middle bubble
+#. images: raddblast.gif
+#: kidradd/comic7.htm:156
+#, fuzzy
+msgctxt "comic7#p2.1"
+msgid "Like most kids, I can throw Radd Beams to zap my uncool enemies."
+msgstr "Как и большинство ребят, я умею стрелять Улёт-лучами, чтобы поджаривать неклёвых врагов."
+
+#. comic7 panel p3
+#. slot: middle bubble
+#. images: charge.gif
+#: kidradd/comic7.htm:208
+#, fuzzy
+msgctxt "comic7#p3.1"
+msgid "However, when the player holds down the attack button, I charge up my famous Mega Radd."
+msgstr "А если игрок зажмёт кнопку атаки, я заряжаю свой знаменитый Мега-Улёт."
+
+#. comic7 panel p4
+#. slot: middle bubble
+#: kidradd/comic7.htm:259
+#, fuzzy
+msgctxt "comic7#p4.1"
+msgid "If the user holds it down for ten seconds, I can reach a max attack of 255!"
+msgstr "Если держать её десять секунд, я выдам максимальную атаку — 255!"
+
+#. comic7 panel p5
+#. slot: narration (if any, else cut)
+#. images: raddrock.gif
+#: kidradd/comic7.htm:307
+#, fuzzy
+msgctxt "comic7#p5.1"
+msgid "So... why 255?"
+msgstr "Так... а почему 255?"
+
+#. comic7 panel p5
+#. slot: middle bubble
+#. images: raddrock.gif
+#: kidradd/comic7.htm:315
+#, fuzzy
+msgctxt "comic7#p5.2"
+msgid "Hey, do I have to explain everything?"
+msgstr "Эй, мне что, всё объяснять надо?"
+
+#. comic8 panel title
+#. slot: background color and image
+#: kidradd/comic8.htm:34
+#, fuzzy
+msgctxt "comic8#title.1"
+msgid "\"CAN'T STAND LOSING\""
+msgstr "«НЕ ВЫНОШУ ПРОИГРЫВАТЬ»"
+
+#. comic8 panel p1
+#. slot: narration (if any, else cut)
+#. images: raddback.gif
+#: kidradd/comic8.htm:71
+#, fuzzy
+msgctxt "comic8#p1.1"
+msgid "Of course, Radd can take damage as well as give it."
+msgstr "Разумеется, Улёт умеет не только наносить урон, но и получать его."
+
+#. comic8 panel p1
+#. slot: middle bubble
+#. images: raddback.gif
+#: kidradd/comic8.htm:79
+#, fuzzy
+msgctxt "comic8#p1.2"
+msgid "Sigh, do we hafta talk about that?"
+msgstr "Эх, обязательно об этом говорить?"
+
+#. comic8 panel p2
+#. slot: middle bubble
+#. images: raddmeter.gif, rheadugh.gif
+#: kidradd/comic8.htm:138
+#, fuzzy
+msgctxt "comic8#p2.1"
+msgid "My lifemeter is represented by my name, which the player sees at the top of the screen."
+msgstr "Моя шкала жизни — это моё имя, которое игрок видит вверху экрана."
+
+#. comic8 panel p3
+#. slot: middle bubble
+#. images: radmeter.gif, rheadack.gif
+#: kidradd/comic8.htm:192
+#, fuzzy
+msgctxt "comic8#p3.1"
+msgid "When I take damage, I lose letters until they're gone, and then I lose a life."
+msgstr "Когда меня ранят, я теряю по букве, а когда они кончаются — теряю жизнь."
+
+#. comic8 panel p4
+#. slot: narration (if any, else cut)
+#. images: raddmstare.gif
+#: kidradd/comic8.htm:238
+#, fuzzy
+msgctxt "comic8#p4.1"
+msgid "And trust us, Radd knows plenty about losing lives."
+msgstr "И поверьте, о потере жизней Улёт знает немало."
+
+#. comic8 panel p4
+#. slot: middle bubble
+#. images: raddmstare.gif
+#: kidradd/comic8.htm:246
+#, fuzzy
+msgctxt "comic8#p4.2"
+msgid "Can I help it if my player really sucks?"
+msgstr "Я что, виноват, что мой игрок — полный лох?"
+
+#. comic9 panel title
+#. slot: background color and image
+#: kidradd/comic9.htm:54
+#, fuzzy
+msgctxt "comic9#title.1"
+msgid "\"DEJA VU\""
+msgstr "«ДЕЖАВЮ»"
+
+#. comic9 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic9.htm:91
+#, fuzzy
+msgctxt "comic9#p1.1"
+msgid "Radd's journey continues."
+msgstr "Путешествие Улёта продолжается."
+
+#. comic9 panel p1
+#. slot: middle bubble
+#: kidradd/comic9.htm:99
+#, fuzzy
+msgctxt "comic9#p1.2"
+msgid "Sigh..."
+msgstr "Эх..."
+
+#. comic9 panel p2
+#. slot: middle bubble
+#. images: raddrun.gif, floor4run.gif
+#: kidradd/comic9.htm:155
+#, fuzzy
+msgctxt "comic9#p2.1"
+msgid "C'mon player, stop making so many dumb mistakes! Sheena's waiting."
+msgstr "Давай, игрок, хватит делать столько тупых ошибок! Шина ждёт."
+
+#. comic9 panel p3
+#. slot: middle bubble
+#. images: radddrop9.gif
+#: kidradd/comic9.htm:207
+#, fuzzy
+msgctxt "comic9#p3.1"
+msgid "No, not this way! You tried this already!"
+msgstr "Нет, не сюда! Ты тут уже пробовал!"
+
+#. comic9 panel p4
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic9.htm:259
+#, fuzzy
+msgctxt "comic9#p4.1"
+msgid "Man, it's gonna be a long game..."
+msgstr "Блин, это будет долгая игра..."
+
+#. comic9 panel p4
+#. slot: bubble "stems"
+#. images: rhead.gif
+#: kidradd/comic9.htm:264
+#, fuzzy
+msgctxt "comic9#p4.2"
+msgid "GET READY!"
+msgstr "ПРИГОТОВЬСЯ!"
+
+#. comic9 panel p4
+#. slot: imsert images on this line
+#. images: rhead.gif
+#: kidradd/comic9.htm:268
+#, fuzzy
+msgctxt "comic9#p4.3"
+msgid "X 2"
+msgstr "X 2"
+
+#. comic10 panel title
+#. slot: background color and image
+#: kidradd/comic10.htm:34
+#, fuzzy
+msgctxt "comic10#title.1"
+msgid "\"STOP ME UP\""
+msgstr "«ВЫКЛЮЧИ МЕНЯ»"
+
+#. comic10 panel p1
+#. slot: narration (if any, else cut)
+#. images: rhead.gif
+#: kidradd/comic10.htm:71
+#, fuzzy
+msgctxt "comic10#p1.1"
+msgid "And so, having lost another game, the player quits and shuts off his game system."
+msgstr "И вот, проиграв очередную партию, игрок сдаётся и выключает приставку."
+
+#. comic10 panel p1
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic10.htm:79
+#, fuzzy
+msgctxt "comic10#p1.2"
+msgid "GAME OVER"
+msgstr "КОНЕЦ ИГРЫ"
+
+#. comic10 panel p1
+#. slot: bubble "stems"
+#. images: rhead.gif
+#: kidradd/comic10.htm:84
+#, fuzzy
+msgctxt "comic10#p1.3"
+msgid "CONTINUE?"
+msgstr "ПРОДОЛЖИТЬ?"
+
+#. comic10 panel p1
+#. slot: imsert images on this line
+#. images: rhead.gif
+#: kidradd/comic10.htm:88
+#, fuzzy
+msgctxt "comic10#p1.4"
+msgid "YES &nbsp;&nbsp;&nbsp;<img width=\"19\" height=\"16\" src=\"rhead.gif\">NO"
+msgstr "ДА &nbsp;&nbsp;&nbsp;<img width=\"19\" height=\"16\" src=\"rhead.gif\">НЕТ"
+
+#. comic10 panel p2
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic10.htm:136
+#, fuzzy
+msgctxt "comic10#p2.1"
+msgid "Everytime the system's off, I find myself in this strange empty place."
+msgstr "Каждый раз, когда приставку выключают, я оказываюсь в этом странном пустом месте."
+
+#. comic10 panel p3
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic10.htm:188
+#, fuzzy
+msgctxt "comic10#p3.1"
+msgid "What is this endless void? Is it the great beyond? Is it where deleted data goes?"
+msgstr "Что это за бесконечная пустота? Загробный мир? Место, куда попадают удалённые данные?"
+
+#. comic10 panel p4
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic10.htm:239
+#, fuzzy
+msgctxt "comic10#p4.1"
+msgid "Is time passing while I'm here? Am I still technically alive, or even conscious right now? If not, then why do I sense this place at all?"
+msgstr "Идёт ли здесь время? Жив ли я технически и вообще в сознании ли сейчас? А если нет, то почему я вообще ощущаю это место?"
+
+#. comic10 panel p5
+#. slot: narration (if any, else cut)
+#. images: rhead.gif
+#: kidradd/comic10.htm:287
+#, fuzzy
+msgctxt "comic10#p5.1"
+msgid "Careful Radd, you're starting to sound deep."
+msgstr "Осторожнее, Улёт, ты начинаешь рассуждать глубокомысленно."
+
+#. comic10 panel p5
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic10.htm:295
+#, fuzzy
+msgctxt "comic10#p5.2"
+msgid "I mean... This is bogus! Uncool! Non-gnarly! Or something..."
+msgstr "В смысле... Это отстой! Некруто! Неотпадно! Или типа того..."
+
+#. comic11 panel title
+#. slot: background color and image
+#: kidradd/comic11.htm:34
+#, fuzzy
+msgctxt "comic11#title.1"
+msgid "\"WHAT DO YOU WANT FROM ME\""
+msgstr "«ЧЕГО ТЫ ОТ МЕНЯ ХОЧЕШЬ»"
+
+#. comic11 panel p1
+#. slot: narration (if any, else cut)
+#. images: raddblast.gif, floor3.gif
+#: kidradd/comic11.htm:71
+#, fuzzy
+msgctxt "comic11#p1.1"
+msgid "Radd continues in game after game..."
+msgstr "Улёт проходит игру за игрой..."
+
+#. comic11 panel p1
+#. slot: middle bubble
+#. images: raddblast.gif, floor3.gif
+#: kidradd/comic11.htm:79
+#, fuzzy
+msgctxt "comic11#p1.2"
+msgid "I must've died a thousand deaths in the last few weeks, but I've seen most of the game."
+msgstr "За последние недели я умер тысячу раз, но зато видел почти всю игру."
+
+#. comic11 panel p2
+#. slot: middle bubble
+#. images: raddwalk.gif, floor3walk.gif
+#: kidradd/comic11.htm:136
+#, fuzzy
+msgctxt "comic11#p2.1"
+msgid "The player's getting a lot better, and soon he'll beat the game. Maybe then I'll get a vacation or something."
+msgstr "Игрок становится всё лучше, скоро он пройдёт игру. Может, тогда мне дадут отпуск или типа того."
+
+#. comic11 panel p3
+#. slot: narration (if any, else cut)
+#. images: raddmeter.gif, raddrock.gif, flower.gif
+#: kidradd/comic11.htm:182
+#, fuzzy
+msgctxt "comic11#p3.1"
+msgid "LEVEL COMPLETE!"
+msgstr "УРОВЕНЬ ПРОЙДЕН!"
+
+#. comic11 panel p3
+#. slot: middle bubble
+#. images: raddmeter.gif, raddrock.gif, flower.gif
+#: kidradd/comic11.htm:190
+#, fuzzy
+msgctxt "comic11#p3.2"
+msgid "Righteous! Wonder what comes next?"
+msgstr "Зашибись! Интересно, что дальше?"
+
+#. comic11 panel p4
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic11.htm:242
+#, fuzzy
+msgctxt "comic11#p4.1"
+msgid "This is just wrong..."
+msgstr "Это просто неправильно..."
+
+#. comic11 panel p4
+#. slot: bubble "stems"
+#. images: rhead.gif
+#: kidradd/comic11.htm:247
+#, fuzzy
+msgctxt "comic11#p4.2"
+msgid "SHARP PAINFUL OBJECT LAND"
+msgstr "СТРАНА ОСТРЫХ БОЛЮЧИХ ШТУК"
+
+#. comic11 panel p4
+#. slot: imsert images on this line
+#. images: rhead.gif
+#: kidradd/comic11.htm:251
+#, fuzzy
+msgctxt "comic11#p4.3"
+msgid "X 2"
+msgstr "X 2"
+
+#. comic12 panel title
+#. slot: background color and image
+#: kidradd/comic12.htm:52
+#, fuzzy
+msgctxt "comic12#title.1"
+msgid "\"MOVING IN STEREO\""
+msgstr "«ДВИЖЕНИЕ В СТЕРЕО»"
+
+#. comic12 panel p1
+#. slot: narration (if any, else cut)
+#. images: raddright.gif, board.gif, floor4.gif
+#: kidradd/comic12.htm:89
+#, fuzzy
+msgctxt "comic12#p1.1"
+msgid "Radd has found a Rocketboard."
+msgstr "Улёт нашёл Ракетоборд."
+
+#. comic12 panel p1
+#. slot: middle bubble
+#. images: raddright.gif, board.gif, floor4.gif
+#: kidradd/comic12.htm:97
+#, fuzzy
+msgctxt "comic12#p1.2"
+msgid "All right!"
+msgstr "Йес!"
+
+#. comic12 panel p2
+#. slot: narration (if any, else cut)
+#. images: raddboard.gif, floor5walk.gif
+#: kidradd/comic12.htm:148
+#, fuzzy
+msgctxt "comic12#p2.1"
+msgid "This device allows Radd to cross large gaps."
+msgstr "Это устройство позволяет Улёту перелетать через широкие пропасти."
+
+#. comic12 panel p2
+#. slot: middle bubble
+#. images: raddboard.gif, floor5walk.gif
+#: kidradd/comic12.htm:156
+#, fuzzy
+msgctxt "comic12#p2.2"
+msgid "Tubular!"
+msgstr "Клёво!"
+
+#. comic12 panel p3
+#. slot: narration (if any, else cut)
+#. images: raddboard.gif, floor5walk.gif
+#: kidradd/comic12.htm:204
+#, fuzzy
+msgctxt "comic12#p3.1"
+msgid "It has a fuel supply of ten seconds."
+msgstr "Топлива в нём хватает на десять секунд."
+
+#. comic12 panel p3
+#. slot: middle bubble
+#. images: raddboard.gif, floor5walk.gif
+#: kidradd/comic12.htm:212
+#, fuzzy
+msgctxt "comic12#p3.2"
+msgid "Say <i>what?</i>"
+msgstr "Чего-<i>чего?</i>"
+
+#. comic12 panel p4
+#. slot: narration (if any, else cut)
+#. images: floor5walk.gif
+#: kidradd/comic12.htm:259
+#, fuzzy
+msgctxt "comic12#p4.1"
+msgid "After which it self-destructs."
+msgstr "После чего он самоуничтожается."
+
+#. comic12 panel p5
+#. slot: narration (if any, else cut)
+#. images: rhead.gif
+#: kidradd/comic12.htm:313
+#, fuzzy
+msgctxt "comic12#p5.1"
+msgid "The makers of Rocketboard probably have a million lawsuits pending."
+msgstr "На производителей Ракетоборда наверняка подан миллион исков."
+
+#. comic12 panel p5
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic12.htm:321
+#, fuzzy
+msgctxt "comic12#p5.2"
+msgid "A million and one."
+msgstr "Миллион и один."
+
+#. comic12 panel p5
+#. slot: bubble "stems"
+#. images: rhead.gif
+#: kidradd/comic12.htm:326
+#, fuzzy
+msgctxt "comic12#p5.3"
+msgid "GAME OVER"
+msgstr "КОНЕЦ ИГРЫ"
+
+#. comic12 panel p5
+#. slot: imsert images on this line
+#. images: rhead.gif
+#: kidradd/comic12.htm:330
+#, fuzzy
+msgctxt "comic12#p5.4"
+msgid "X 0"
+msgstr "X 0"
+
+#. comic13 panel title
+#. slot: background color and image
+#: kidradd/comic13.htm:52
+#, fuzzy
+msgctxt "comic13#title.1"
+msgid "\"HURTS SO GOOD\""
+msgstr "«ТАК СЛАДКО БОЛИТ»"
+
+#. comic13 panel p1
+#. slot: left bubble
+#. images: raddright.gif, ninja.gif, floor4.gif
+#: kidradd/comic13.htm:93
+#, fuzzy
+msgctxt "comic13#p1.1"
+msgid "Oh man, this guy looks dangerous."
+msgstr "Ох, блин, этот тип выглядит опасным."
+
+#. comic13 panel p2
+#. slot: left bubble
+#. images: floor4.gif
+#: kidradd/comic13.htm:150
+#, fuzzy
+msgctxt "comic13#p2.1"
+msgid "Bogus!!!"
+msgstr "Отстой!!!"
+
+#. comic13 panel p3
+#. slot: middle bubble
+#. images: radmeter.gif, rheadmad.gif
+#: kidradd/comic13.htm:208
+#, fuzzy
+msgctxt "comic13#p3.1"
+msgid "What the? - Getting stabbed by a flying knife isn't fatal? It took away one letter, just like everything else does."
+msgstr "Что за?.. От летящего ножа не умирают? Он отнял всего одну букву, как и всё остальное."
+
+#. comic13 panel p4
+#. slot: middle bubble
+#. images: radmeter.gif, bogeywalk2.gif, axe.gif, rheadwow.gif, ninja.gif, apple.gif
+#: kidradd/comic13.htm:262
+#, fuzzy
+msgctxt "comic13#p4.1"
+msgid "It's ridiculous but every attack, from apples to axes, hurts me equally!"
+msgstr "Бред, но любая атака, от яблок до топоров, ранит меня одинаково!"
+
+#. comic13 panel p5
+#. slot: narration (if any, else cut)
+#. images: raddready.gif, zook.gif, floor4.gif
+#: kidradd/comic13.htm:308
+#, fuzzy
+msgctxt "comic13#p5.1"
+msgid "And so..."
+msgstr "И поэтому..."
+
+#. comic13 panel p5
+#. slot: left bubble
+#. images: raddready.gif, zook.gif, floor4.gif
+#: kidradd/comic13.htm:314
+#, fuzzy
+msgctxt "comic13#p5.2"
+msgid "Bring it on!"
+msgstr "Ну, давай!"
+
+#. comic14 panel title
+#. slot: background color and image
+#: kidradd/comic14.htm:36
+#, fuzzy
+msgctxt "comic14#title.1"
+msgid "\"JUST THE TWO OF US\""
+msgstr "«ТОЛЬКО МЫ ВДВОЁМ»"
+
+#. comic14 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic14.htm:73
+#, fuzzy
+msgctxt "comic14#p1.1"
+msgid "As the player becomes skilled, Radd becomes more confident."
+msgstr "Чем опытнее становится игрок, тем увереннее становится Улёт."
+
+#. comic14 panel p1
+#. slot: middle bubble
+#: kidradd/comic14.htm:81
+#, fuzzy
+msgctxt "comic14#p1.2"
+msgid "Eat this!"
+msgstr "Получай!"
+
+#. comic14 panel p2
+#. slot: narration (if any, else cut)
+#: kidradd/comic14.htm:131
+#, fuzzy
+msgctxt "comic14#p2.1"
+msgid "Radd finds himself enjoying the games now, even respecting the player."
+msgstr "Теперь Улёту даже нравится играть, он начинает уважать игрока."
+
+#. comic14 panel p3
+#. slot: narration (if any, else cut)
+#. images: raddstare.gif
+#: kidradd/comic14.htm:184
+#, fuzzy
+msgctxt "comic14#p3.1"
+msgid "So now Radd and the player form a sort of partnership."
+msgstr "Так что теперь Улёт и игрок — что-то вроде партнёров."
+
+#. comic14 panel p3
+#. slot: left bubble
+#. images: raddstare.gif
+#: kidradd/comic14.htm:190
+#, fuzzy
+msgctxt "comic14#p3.2"
+msgid "Uh... but I still like chicks, okay?"
+msgstr "Э-э... но мне всё ещё нравятся девчонки, лады?"
+
+#. comic14 panel p4
+#. slot: narration (if any, else cut)
+#. images: raddstare.gif
+#: kidradd/comic14.htm:238
+#, fuzzy
+msgctxt "comic14#p4.1"
+msgid "...The player being the more mature partner, of course."
+msgstr "...Причём игрок, конечно, более зрелый партнёр."
+
+#. comic14 panel p4
+#. slot: left bubble
+#. images: raddstare.gif
+#: kidradd/comic14.htm:244
+#, fuzzy
+msgctxt "comic14#p4.2"
+msgid "I mean it! We're just friends!"
+msgstr "Я серьёзно! Мы просто друзья!"
+
+#. comic15 panel title
+#. slot: background color and image
+#: kidradd/comic15.htm:34
+#, fuzzy
+msgctxt "comic15#title.1"
+msgid "\"I DID IT ALL FOR THE...\""
+msgstr "«Я ВСЁ ЭТО РАДИ...»"
+
+#. comic15 panel p1
+#. slot: narration (if any, else cut)
+#. images: rmeter.gif, raddback.gif
+#: kidradd/comic15.htm:71
+#, fuzzy
+msgctxt "comic15#p1.1"
+msgid "LEVEL COMPLETE!"
+msgstr "УРОВЕНЬ ПРОЙДЕН!"
+
+#. comic15 panel p1
+#. slot: middle bubble
+#. images: rmeter.gif, raddback.gif
+#: kidradd/comic15.htm:79
+#, fuzzy
+msgctxt "comic15#p1.2"
+msgid "All right! Could this be...?"
+msgstr "Йес! Неужели это...?"
+
+#. comic15 panel p2
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic15.htm:136
+#, fuzzy
+msgctxt "comic15#p2.1"
+msgid "Yes! The final level!"
+msgstr "Да! Последний уровень!"
+
+#. comic15 panel p2
+#. slot: bubble "stems"
+#. images: rhead.gif
+#: kidradd/comic15.htm:141
+#, fuzzy
+msgctxt "comic15#p2.2"
+msgid "GNARL'S OFFICE"
+msgstr "ОФИС ОТПАДА"
+
+#. comic15 panel p2
+#. slot: imsert images on this line
+#. images: rhead.gif
+#: kidradd/comic15.htm:145
+#, fuzzy
+msgctxt "comic15#p2.3"
+msgid "X 2"
+msgstr "X 2"
+
+#. comic15 panel p3
+#. slot: narration (if any, else cut)
+#: kidradd/comic15.htm:182
+#, fuzzy
+msgctxt "comic15#p3.1"
+msgid "Congratulations Radd. Your journey is nearly over."
+msgstr "Поздравляем, Улёт. Твоё путешествие почти окончено."
+
+#. comic15 panel p3
+#. slot: middle bubble
+#: kidradd/comic15.htm:190
+#, fuzzy
+msgctxt "comic15#p3.2"
+msgid "Yeah! Almost time for muchas smoochas!"
+msgstr "Йес! Скоро чмоки-чмоки!"
+
+#. comic15 panel p4
+#. slot: narration (if any, else cut)
+#: kidradd/comic15.htm:236
+#, fuzzy
+msgctxt "comic15#p4.1"
+msgid "Sheena, our deepest sympathy goes out to you."
+msgstr "Шина, примите наши глубочайшие соболезнования."
+
+#. comic15 panel p4
+#. slot: middle bubble
+#: kidradd/comic15.htm:244
+#, fuzzy
+msgctxt "comic15#p4.2"
+msgid "Very funny."
+msgstr "Очень смешно."
+
+#. comic16 panel title
+#. slot: background color and image
+#: kidradd/comic16.htm:36
+#, fuzzy
+msgctxt "comic16#title.1"
+msgid "\"HE AIN'T HEAVY...\""
+msgstr "«ОН НЕ ТЯЖЁЛЫЙ...»"
+
+#. comic16 panel p1
+#. slot: left bubble
+#. images: raddstand.gif
+#: kidradd/comic16.htm:77
+#, fuzzy
+msgctxt "comic16#p1.1"
+msgid "I've finally reached the lair of my nemesis, the evil Gnarl."
+msgstr "Наконец-то я добрался до логова моего заклятого врага, злого Отпада."
+
+#. comic16 panel p2
+#. slot: left bubble
+#. images: raddstand.gif
+#: kidradd/comic16.htm:133
+#, fuzzy
+msgctxt "comic16#p2.1"
+msgid "Actually, I don't know much about the guy. I wonder -"
+msgstr "Вообще-то я мало что о нём знаю. Интересно —"
+
+#. comic16 panel p2
+#. slot: right bubble
+#. images: raddstand.gif
+#: kidradd/comic16.htm:137
+#, fuzzy
+msgctxt "comic16#p2.2"
+msgid "Radd... I am your..."
+msgstr "Улёт... Я твой..."
+
+#. comic16 panel p3
+#. slot: right bubble
+#. images: raddstand.gif, gnarlstand2.gif
+#: kidradd/comic16.htm:188
+#, fuzzy
+msgctxt "comic16#p3.1"
+msgid "...brother. I'm your evil <i>older brother.</i>"
+msgstr "...брат. Я твой злой <i>старший брат.</i>"
+
+#. comic16 panel p4
+#. slot: left bubble
+#. images: raddstand.gif, gnarlstand2.gif
+#: kidradd/comic16.htm:236
+#, fuzzy
+msgctxt "comic16#p4.1"
+msgid "Dude, that is <b>so</b> lame."
+msgstr "Чувак, это <b>так</b> убого."
+
+#. comic16 panel p4
+#. slot: right bubble
+#. images: raddstand.gif, gnarlstand2.gif
+#: kidradd/comic16.htm:240
+#, fuzzy
+msgctxt "comic16#p4.2"
+msgid "What? I didn't write this!"
+msgstr "Что? Не я же сценарий писал!"
+
+#. comic17 panel title
+#. slot: background color and image
+#: kidradd/comic17.htm:36
+#, fuzzy
+msgctxt "comic17#title.1"
+msgid "\"TAKING CARE OF BUSINESS\""
+msgstr "«ДЕЛО ЕСТЬ ДЕЛО»"
+
+#. comic17 panel p1
+#. slot: left bubble
+#. images: raddstand.gif, gnarlstand2.gif
+#: kidradd/comic17.htm:77
+#, fuzzy
+msgctxt "comic17#p1.1"
+msgid "Where's Sheena?"
+msgstr "Где Шина?"
+
+#. comic17 panel p1
+#. slot: right bubble
+#. images: raddstand.gif, gnarlstand2.gif
+#: kidradd/comic17.htm:81
+#, fuzzy
+msgctxt "comic17#p1.2"
+msgid "The damsel in distress? She's standing over in the corner of the room."
+msgstr "Дева в беде? Стоит вон там, в углу комнаты."
+
+#. comic17 panel p2
+#. slot: middle bubble
+#. images: sheenastand2.gif
+#: kidradd/comic17.htm:137
+#, fuzzy
+msgctxt "comic17#p2.1"
+msgid "Oh <b>wow!</b> She is indeed a vision in minimal pixelage."
+msgstr "Ух <b>ты!</b> Воистину видение в минимуме пикселей."
+
+#. comic17 panel p3
+#. slot: left bubble
+#. images: raddstand.gif, gnarlstand.gif, sheenastand2.gif
+#: kidradd/comic17.htm:189
+#, fuzzy
+msgctxt "comic17#p3.1"
+msgid "Um, I thought you'd be tied up or something."
+msgstr "Эм, я думал, ты будешь связана или типа того."
+
+#. comic17 panel p3
+#. slot: right bubble
+#. images: raddstand.gif, gnarlstand.gif, sheenastand2.gif
+#: kidradd/comic17.htm:193
+#, fuzzy
+msgctxt "comic17#p3.2"
+msgid "You wish. You know it's my job to stand here and get rescued, just like it's your job to be controlled by the player."
+msgstr "Размечтался. Ты же знаешь: моя работа — стоять здесь и ждать спасения, как твоя — слушаться игрока."
+
+#. comic17 panel p4
+#. slot: middle bubble
+#. images: raddstand.gif, gnarlstand2.gif, sheenastand2.gif
+#: kidradd/comic17.htm:243
+#, fuzzy
+msgctxt "comic17#p4.1"
+msgid "Just like it's my job to kill you. ...Repeatedly."
+msgstr "А моя работа — убивать тебя. ...Раз за разом."
+
+#. comic17 panel p5
+#. slot: left bubble
+#. images: rheadmad.gif, sheadmad.gif, gheadjoy.gif
+#: kidradd/comic17.htm:293
+#, fuzzy
+msgctxt "comic17#p5.1"
+msgid "I hate my job."
+msgstr "Ненавижу свою работу."
+
+#. comic17 panel p5
+#. slot: right bubble
+#. images: rheadmad.gif, sheadmad.gif, gheadjoy.gif
+#: kidradd/comic17.htm:297
+#, fuzzy
+msgctxt "comic17#p5.2"
+msgid "I love my job."
+msgstr "Обожаю свою работу."
+
+#. comic18 panel title
+#. slot: background color and image
+#: kidradd/comic18.htm:36
+#, fuzzy
+msgctxt "comic18#title.1"
+msgid "\"DON'T TELL ME NO\""
+msgstr "«НЕ ГОВОРИ МНЕ „НЕТ“»"
+
+#. comic18 panel p1
+#. slot: left bubble
+#. images: raddstand.gif, gnarlstand2.gif
+#: kidradd/comic18.htm:77
+#, fuzzy
+msgctxt "comic18#p1.1"
+msgid "So you'd really kill me, your own brother?"
+msgstr "Ты правда убьёшь родного брата?"
+
+#. comic18 panel p1
+#. slot: right bubble
+#. images: raddstand.gif, gnarlstand2.gif
+#: kidradd/comic18.htm:81
+#, fuzzy
+msgctxt "comic18#p1.2"
+msgid "Maybe. But first, I hafta try to turn you to the dark side."
+msgstr "Может быть. Но сперва я попробую переманить тебя на тёмную сторону."
+
+#. comic18 panel p2
+#. slot: left bubble
+#. images: raddstand.gif, gnarlfist2.gif
+#: kidradd/comic18.htm:133
+#, fuzzy
+msgctxt "comic18#p2.1"
+msgid "Um, okay..."
+msgstr "Эм, ладно..."
+
+#. comic18 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, gnarlfist2.gif
+#: kidradd/comic18.htm:137
+#, fuzzy
+msgctxt "comic18#p2.2"
+msgid "Join me, and we will rule my multinational corporation with evil! Mwa ha ha!"
+msgstr "Присоединяйся ко мне, и мы будем творить зло в моей транснациональной корпорации! Муа-ха-ха!"
+
+#. comic18 panel p3
+#. slot: left bubble
+#. images: raddback.gif, gnarlmad2.gif
+#: kidradd/comic18.htm:184
+#, fuzzy
+msgctxt "comic18#p3.1"
+msgid "Again, lame."
+msgstr "И снова убого."
+
+#. comic18 panel p3
+#. slot: right bubble
+#. images: raddback.gif, gnarlmad2.gif
+#: kidradd/comic18.htm:188
+#, fuzzy
+msgctxt "comic18#p3.2"
+msgid "You have the urge to do some accounting..."
+msgstr "Тебя охватывает желание заняться бухгалтерией..."
+
+#. comic18 panel p4
+#. slot: left bubble
+#. images: raddtie.gif, gnarlstand2.gif
+#: kidradd/comic18.htm:236
+#, fuzzy
+msgctxt "comic18#p4.1"
+msgid "...I have the urge to do some accounting."
+msgstr "...Меня охватывает желание заняться бухгалтерией."
+
+#. comic18 panel p4
+#. slot: right bubble
+#. images: raddtie.gif, gnarlstand2.gif
+#: kidradd/comic18.htm:240
+#, fuzzy
+msgctxt "comic18#p4.2"
+msgid "Works every time."
+msgstr "Срабатывает каждый раз."
+
+#. comic19 panel title
+#. slot: background color and image
+#: kidradd/comic19.htm:36
+#, fuzzy
+msgctxt "comic19#title.1"
+msgid "\"BREAKAWAY\""
+msgstr "«ВЫРВАТЬСЯ НА СВОБОДУ»"
+
+#. comic19 panel p1
+#. slot: left bubble
+#. images: raddtie2.gif, gnarlstand.gif, sheenastand2.gif
+#: kidradd/comic19.htm:77
+#, fuzzy
+msgctxt "comic19#p1.1"
+msgid "...Where is the looseleaf paper?"
+msgstr "...Где бумага для скоросшивателя?"
+
+#. comic19 panel p1
+#. slot: middle bubble
+#. images: raddtie2.gif, gnarlstand.gif, sheenastand2.gif
+#: kidradd/comic19.htm:79
+#, fuzzy
+msgctxt "comic19#p1.2"
+msgid "Heheh."
+msgstr "Хе-хе."
+
+#. comic19 panel p1
+#. slot: right bubble
+#. images: raddtie2.gif, gnarlstand.gif, sheenastand2.gif
+#: kidradd/comic19.htm:81
+#, fuzzy
+msgctxt "comic19#p1.3"
+msgid "What have you done to Radd???"
+msgstr "Что ты сделал с Улётом???"
+
+#. comic19 panel p2
+#. slot: left bubble
+#. images: raddtie.gif, gnarlfist.gif, sheenano2.gif
+#: kidradd/comic19.htm:133
+#, fuzzy
+msgctxt "comic19#p2.1"
+msgid "Must... collate..."
+msgstr "Надо... подшить..."
+
+#. comic19 panel p2
+#. slot: middle bubble
+#. images: raddtie.gif, gnarlfist.gif, sheenano2.gif
+#: kidradd/comic19.htm:135
+#, fuzzy
+msgctxt "comic19#p2.2"
+msgid "He's under my power now, as a mere office flunkie."
+msgstr "Теперь он в моей власти — простая офисная шестёрка."
+
+#. comic19 panel p2
+#. slot: right bubble
+#. images: raddtie.gif, gnarlfist.gif, sheenano2.gif
+#: kidradd/comic19.htm:137
+#, fuzzy
+msgctxt "comic19#p2.3"
+msgid "You <i>fiend!</i> Fight it, Radd!"
+msgstr "Ах ты <i>изверг!</i> Сопротивляйся, Улёт!"
+
+#. comic19 panel p3
+#. slot: left bubble
+#. images: raddtie.gif, gnarlstand2.gif, sheenano2.gif
+#: kidradd/comic19.htm:184
+#, fuzzy
+msgctxt "comic19#p3.1"
+msgid "Need... toner..."
+msgstr "Нужен... тонер..."
+
+#. comic19 panel p3
+#. slot: middle bubble
+#. images: raddtie.gif, gnarlstand2.gif, sheenano2.gif
+#: kidradd/comic19.htm:186
+#, fuzzy
+msgctxt "comic19#p3.2"
+msgid "Don't waste your time, he's beyond help."
+msgstr "Не трать время, ему уже не помочь."
+
+#. comic19 panel p3
+#. slot: right bubble
+#. images: raddtie.gif, gnarlstand2.gif, sheenano2.gif
+#: kidradd/comic19.htm:188
+#, fuzzy
+msgctxt "comic19#p3.3"
+msgid "Break free, Radd! Pound the buttons or something!"
+msgstr "Вырывайся, Улёт! Жми на кнопки или типа того!"
+
+#. comic19 panel p4
+#. slot: left bubble
+#. images: raddrock.gif, gnarlstand.gif, sheenastand2.gif
+#: kidradd/comic19.htm:236
+#, fuzzy
+msgctxt "comic19#p4.1"
+msgid "I'M BACK! YESSS!!!"
+msgstr "Я ВЕРНУЛСЯ! ЙЕС!!!"
+
+#. comic19 panel p4
+#. slot: middle bubble
+#. images: raddrock.gif, gnarlstand.gif, sheenastand2.gif
+#: kidradd/comic19.htm:238
+#, fuzzy
+msgctxt "comic19#p4.2"
+msgid "\"Pound the buttons?\" What the hell does that mean?"
+msgstr "«Жми на кнопки»? Это ещё что, чёрт возьми, значит?"
+
+#. comic19 panel p4
+#. slot: right bubble
+#. images: raddrock.gif, gnarlstand.gif, sheenastand2.gif
+#: kidradd/comic19.htm:240
+#, fuzzy
+msgctxt "comic19#p4.3"
+msgid "I dunno, really..."
+msgstr "Сама не знаю..."
+
+#. comic20 panel title
+#. slot: background color and image
+#: kidradd/comic20.htm:52
+#, fuzzy
+msgctxt "comic20#title.1"
+msgid "\"LET'S GO\""
+msgstr "«ПОЕХАЛИ»"
+
+#. comic20 panel p1
+#. slot: left bubble
+#. images: raddmad.gif, gnarlstand2.gif
+#: kidradd/comic20.htm:93
+#, fuzzy
+msgctxt "comic20#p1.1"
+msgid "No more mind games!."
+msgstr "Хватит пудрить мне мозги!."
+
+#. comic20 panel p1
+#. slot: right bubble
+#. images: raddmad.gif, gnarlstand2.gif
+#: kidradd/comic20.htm:97
+#, fuzzy
+msgctxt "comic20#p1.2"
+msgid "As you wish."
+msgstr "Как пожелаешь."
+
+#. comic20 panel p3
+#. slot: left bubble
+#. images: raddstand.gif, gnarlstand2.gif
+#: kidradd/comic20.htm:201
+#, fuzzy
+msgctxt "comic20#p3.1"
+msgid "It seems we're evenly matched."
+msgstr "Похоже, силы у нас равны."
+
+#. comic20 panel p3
+#. slot: right bubble
+#. images: raddstand.gif, gnarlstand2.gif
+#: kidradd/comic20.htm:205
+#, fuzzy
+msgctxt "comic20#p3.2"
+msgid "Actually, that was my weakest attack."
+msgstr "Вообще-то это была моя самая слабая атака."
+
+#. comic20 panel p4
+#. slot: left bubble
+#. images: raddstare.gif, gnarlcharge2.gif
+#: kidradd/comic20.htm:254
+#, fuzzy
+msgctxt "comic20#p4.1"
+msgid "Oh, crap..."
+msgstr "Ой, блин..."
+
+#. comic20 panel p4
+#. slot: right bubble
+#. images: raddstare.gif, gnarlcharge2.gif
+#: kidradd/comic20.htm:258
+#, fuzzy
+msgctxt "comic20#p4.2"
+msgid "Here comes a \"medium.\""
+msgstr "А вот и «средняя»."
+
+#. comic21 panel title
+#. slot: background color and image
+#: kidradd/comic21.htm:52
+#, fuzzy
+msgctxt "comic21#title.1"
+msgid "\"SHOWDOWN\""
+msgstr "«РЕШАЮЩАЯ СХВАТКА»"
+
+#. comic21 panel p1
+#. slot: narration (if any, else cut)
+#. images: raddright.gif, gnarlstand2.gif
+#: kidradd/comic21.htm:89
+#, fuzzy
+msgctxt "comic21#p1.1"
+msgid "The game's final showdown has begun: Radd and Gnarl engage in a battle to the death."
+msgstr "Начинается финальная схватка игры: Улёт и Отпад сходятся в битве насмерть."
+
+#. comic21 panel p2
+#. slot: insert ground "tiles" on this line
+#: kidradd/comic21.htm:164
+#, fuzzy
+msgctxt "comic21#p2.1"
+msgid "Widescreen, y'all! Woot!"
+msgstr "Широкий экран, народ! Йу-ху!"
+
+#. comic21 panel p3
+#. slot: narration (if any, else cut)
+#. images: raddmstare.gif, gnarldown.gif
+#: kidradd/comic21.htm:198
+#, fuzzy
+msgctxt "comic21#p3.1"
+msgid "Well, if this weren't an 8-bit game, it might look like that."
+msgstr "Ну, если бы это была не 8-битная игра, всё могло бы выглядеть так."
+
+#. comic21 panel p3
+#. slot: left bubble
+#. images: raddmstare.gif, gnarldown.gif
+#: kidradd/comic21.htm:204
+#, fuzzy
+msgctxt "comic21#p3.2"
+msgid "Shaddup! I'm winning here!"
+msgstr "Цыц! Я тут вообще-то побеждаю!"
+
+#. comic21 panel p3
+#. slot: right bubble
+#. images: raddmstare.gif, gnarldown.gif
+#: kidradd/comic21.htm:208
+#, fuzzy
+msgctxt "comic21#p3.3"
+msgid "Ack..."
+msgstr "Ай..."
+
+#. comic22 panel title
+#. slot: background color and image
+#: kidradd/comic22.htm:36
+#, fuzzy
+msgctxt "comic22#title.1"
+msgid "\"CH-CH-CHANGES\""
+msgstr "«ПЕ-ПЕ-ПЕРЕМЕНЫ»"
+
+#. comic22 panel p1
+#. slot: left bubble
+#. images: gnarldown.gif, raddstand.gif, sheenastand2.gif
+#: kidradd/comic22.htm:77
+#, fuzzy
+msgctxt "comic22#p1.1"
+msgid "Ow..."
+msgstr "Ой..."
+
+#. comic22 panel p1
+#. slot: middle bubble
+#. images: gnarldown.gif, raddstand.gif, sheenastand2.gif
+#: kidradd/comic22.htm:79
+#, fuzzy
+msgctxt "comic22#p1.2"
+msgid "Mission accomplished!"
+msgstr "Миссия выполнена!"
+
+#. comic22 panel p1
+#. slot: right bubble
+#. images: gnarldown.gif, raddstand.gif, sheenastand2.gif
+#: kidradd/comic22.htm:81
+#, fuzzy
+msgctxt "comic22#p1.3"
+msgid "Indeed."
+msgstr "Именно."
+
+#. comic22 panel p2
+#. slot: left bubble
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic22.htm:133
+#, fuzzy
+msgctxt "comic22#p2.1"
+msgid "My kidney..."
+msgstr "Моя почка..."
+
+#. comic22 panel p2
+#. slot: middle bubble
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic22.htm:135
+#, fuzzy
+msgctxt "comic22#p2.2"
+msgid "So, \"girlfriend,\" what say you and me?..."
+msgstr "Ну что, «подружка», как насчёт нас с тобой?.."
+
+#. comic22 panel p2
+#. slot: right bubble
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic22.htm:137
+#, fuzzy
+msgctxt "comic22#p2.3"
+msgid "Um, don't you think that battle was awfully easy?"
+msgstr "Эм, тебе не кажется, что битва была подозрительно лёгкой?"
+
+#. comic22 panel p3
+#. slot: left bubble
+#. images: raddrock.gif, sheenastand2.gif
+#: kidradd/comic22.htm:184
+#, fuzzy
+msgctxt "comic22#p3.1"
+msgid "Must... transform..."
+msgstr "Пора... меняться..."
+
+#. comic22 panel p3
+#. slot: middle bubble
+#. images: raddrock.gif, sheenastand2.gif
+#: kidradd/comic22.htm:186
+#, fuzzy
+msgctxt "comic22#p3.2"
+msgid "Hey, when you're rad, you're bad."
+msgstr "Кто улётный — тот и крутой."
+
+#. comic22 panel p3
+#. slot: right bubble
+#. images: raddrock.gif, sheenastand2.gif
+#: kidradd/comic22.htm:188
+#, fuzzy
+msgctxt "comic22#p3.3"
+msgid "I mean, maybe that wasn't the boss's..."
+msgstr "Может, это была ещё не последняя..."
+
+#. comic22 panel p4
+#. slot: left bubble
+#. images: gnarlbot2.gif, raddwow2.gif, sheenastand2.gif, bg3.gif
+#: kidradd/comic22.htm:236
+#, fuzzy
+msgctxt "comic22#p4.1"
+msgid "Heeeeere's Gnarly!"
+msgstr "А вооот и Отпадушка!"
+
+#. comic22 panel p4
+#. slot: middle bubble
+#. images: gnarlbot2.gif, raddwow2.gif, sheenastand2.gif, bg3.gif
+#: kidradd/comic22.htm:238
+#, fuzzy
+msgctxt "comic22#p4.2"
+msgid "Wak!"
+msgstr "Ой-ё!"
+
+#. comic22 panel p4
+#. slot: right bubble
+#. images: gnarlbot2.gif, raddwow2.gif, sheenastand2.gif, bg3.gif
+#: kidradd/comic22.htm:240
+#, fuzzy
+msgctxt "comic22#p4.3"
+msgid "...final form."
+msgstr "...форма босса."
+
+#. comic23 panel title
+#. slot: background color and image
+#: kidradd/comic23.htm:36
+#, fuzzy
+msgctxt "comic23#title.1"
+msgid "\"JANIE'S GOT A GUN\""
+msgstr "«У ДЖЕЙНИ ЕСТЬ ПУШКА»"
+
+#. comic23 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic23.htm:73
+#, fuzzy
+msgctxt "comic23#p1.1"
+msgid "Radd's evil brother Gnarl has just transformed into his ultimate mode: the Gnarlborg 2000. (...Yeah, I know, just go with it.)"
+msgstr "Злой брат Улёта, Отпад, только что превратился в свою высшую форму — Отпадборг 2000. (...Да-да, знаю, просто смиритесь.)"
+
+#. comic23 panel p2
+#. slot: left bubble
+#. images: gnarlbot2.gif, raddstand2.gif, bg3.gif
+#: kidradd/comic23.htm:135
+#, fuzzy
+msgctxt "comic23#p2.1"
+msgid "And now, dear brother, you shall learn true pain..."
+msgstr "А теперь, дорогой брат, ты узнаешь, что такое настоящая боль..."
+
+#. comic23 panel p2
+#. slot: right bubble
+#. images: gnarlbot2.gif, raddstand2.gif, bg3.gif
+#: kidradd/comic23.htm:139
+#, fuzzy
+msgctxt "comic23#p2.2"
+msgid "Uh huh. *snicker*"
+msgstr "Ага. *хи-хи*"
+
+#. comic23 panel p3
+#. slot: left bubble
+#. images: gnarlbot2.gif, raddblink2.gif, bg3.gif
+#: kidradd/comic23.htm:186
+#, fuzzy
+msgctxt "comic23#p3.1"
+msgid "What? Dare you not take my threat seriously?"
+msgstr "Что? Ты смеешь не принимать мою угрозу всерьёз?"
+
+#. comic23 panel p3
+#. slot: right bubble
+#. images: gnarlbot2.gif, raddblink2.gif, bg3.gif
+#: kidradd/comic23.htm:190
+#, fuzzy
+msgctxt "comic23#p3.2"
+msgid "I do! Pbbt!"
+msgstr "Принимаю! Пф-ф!"
+
+#. comic23 panel p4
+#. slot: left bubble
+#. images: gnarlbot2.gif, raddstand2.gif, bg3.gif
+#: kidradd/comic23.htm:238
+#, fuzzy
+msgctxt "comic23#p4.1"
+msgid "What? <b>WHAT???</b>"
+msgstr "Что? <b>ЧТО???</b>"
+
+#. comic23 panel p4
+#. slot: right bubble
+#. images: gnarlbot2.gif, raddstand2.gif, bg3.gif
+#: kidradd/comic23.htm:242
+#, fuzzy
+msgctxt "comic23#p4.2"
+msgid "Nothing, I mean it's just - - you realize that you don't exist below the waist, right? You're half a man."
+msgstr "Ничего, просто — - ты же в курсе, что ниже пояса тебя нет? Ты — полмужика."
+
+#. comic23 panel p5
+#. slot: left bubble
+#. images: gbotgun.gif, raddblink2.gif, bg3.gif
+#: kidradd/comic23.htm:290
+#, fuzzy
+msgctxt "comic23#p5.1"
+msgid "Ooh, you're gonna pay for that!"
+msgstr "У-у, ты за это заплатишь!"
+
+#. comic23 panel p5
+#. slot: right bubble
+#. images: gbotgun.gif, raddblink2.gif, bg3.gif
+#: kidradd/comic23.htm:294
+#, fuzzy
+msgctxt "comic23#p5.2"
+msgid "Hmph, well at least you got one big gun..."
+msgstr "Хм, ну хоть одна большая пушка у тебя есть..."
+
+#. comic24 panel title
+#. slot: background color and image
+#: kidradd/comic24.htm:36
+#, fuzzy
+msgctxt "comic24#title.1"
+msgid "\"HELP\""
+msgstr "«ПОМОГИТЕ»"
+
+#. comic24 panel p1
+#. slot: left bubble
+#. images: gbotgun.gif, raddstand2.gif, bg3.gif
+#: kidradd/comic24.htm:77
+#, fuzzy
+msgctxt "comic24#p1.1"
+msgid "Say goodbye, blue boy."
+msgstr "Прощайся, синенький."
+
+#. comic24 panel p1
+#. slot: right bubble
+#. images: gbotgun.gif, raddstand2.gif, bg3.gif
+#: kidradd/comic24.htm:81
+#, fuzzy
+msgctxt "comic24#p1.2"
+msgid "Yikes."
+msgstr "Ой-ой."
+
+#. comic24 panel p2
+#. slot: left bubble
+#. images: raddstand.gif, sheenastand2.gif, bg3.gif
+#: kidradd/comic24.htm:133
+#, fuzzy
+msgctxt "comic24#p2.1"
+msgid "No use running..."
+msgstr "Бежать бесполезно..."
+
+#. comic24 panel p2
+#. slot: middle bubble
+#. images: raddstand.gif, sheenastand2.gif, bg3.gif
+#: kidradd/comic24.htm:135
+#, fuzzy
+msgctxt "comic24#p2.2"
+msgid "Sheena, give me a little help here?"
+msgstr "Шина, не поможешь мне тут немножко?"
+
+#. comic24 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, sheenastand2.gif, bg3.gif
+#: kidradd/comic24.htm:137
+#, fuzzy
+msgctxt "comic24#p2.3"
+msgid "Not my job.I'm strictly a non-player character."
+msgstr "Не моя работа. Я строго неигровой персонаж."
+
+#. comic24 panel p3
+#. slot: middle bubble
+#. images: raddblink.gif, sheenastand2.gif, bg3.gif
+#: kidradd/comic24.htm:186
+#, fuzzy
+msgctxt "comic24#p3.1"
+msgid "C'mon please? Pleeeease?"
+msgstr "Ну пожалуйста? Пожа-а-алуйста?"
+
+#. comic24 panel p3
+#. slot: right bubble
+#. images: raddblink.gif, sheenastand2.gif, bg3.gif
+#: kidradd/comic24.htm:188
+#, fuzzy
+msgctxt "comic24#p3.2"
+msgid "Look kid, I'm a very limited sprite. I can't move at all, so I just hafta stay put."
+msgstr "Слушай, малыш, я очень примитивный спрайт. Я не умею двигаться, вот и стою на месте."
+
+#. comic24 panel p4
+#. slot: middle bubble
+#. images: raddstand.gif, sheenamad2.gif, bg3.gif
+#: kidradd/comic24.htm:238
+#, fuzzy
+msgctxt "comic24#p4.1"
+msgid "You know, some guys would consider you an ideal girlfriend."
+msgstr "Знаешь, некоторые парни сочли бы тебя идеальной девушкой."
+
+#. comic24 panel p4
+#. slot: right bubble
+#. images: raddstand.gif, sheenamad2.gif, bg3.gif
+#: kidradd/comic24.htm:240
+#, fuzzy
+msgctxt "comic24#p4.2"
+msgid "Gnarl, make him pay."
+msgstr "Отпад, пусть он заплатит."
+
+#. comic25 panel title
+#. slot: background color and image
+#: kidradd/comic25.htm:36
+#, fuzzy
+msgctxt "comic25#title.1"
+msgid "\"ROLL WITH IT\""
+msgstr "«ПЛЫВИ ПО ТЕЧЕНИЮ»"
+
+#. comic25 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic25.htm:73
+#, fuzzy
+msgctxt "comic25#p1.1"
+msgid "Things don't look good for Radd in his fight against the Gnarlborg."
+msgstr "В бою с Отпадборгом дела у Улёта идут неважно."
+
+#. comic25 panel p2
+#. slot: middle bubble
+#. images: raddrun.gif
+#: kidradd/comic25.htm:137
+#, fuzzy
+msgctxt "comic25#p2.1"
+msgid "Stupid player keeps getting me killed! And just when I'm so close to Sheena!"
+msgstr "Тупой игрок всё время меня убивает! И как раз когда я так близко к Шине!"
+
+#. comic25 panel p3
+#. slot: middle bubble
+#. images: gnarlbot2.gif, bg3.gif
+#: kidradd/comic25.htm:188
+#, fuzzy
+msgctxt "comic25#p3.1"
+msgid "Quit whining! At least you got multiple lives. I only have to lose once, and the game ends."
+msgstr "Хватит ныть! У тебя хоть несколько жизней. А мне достаточно проиграть один раз — и игре конец."
+
+#. comic25 panel p4
+#. slot: left bubble
+#. images: raddstand.gif, gnarlbot2.gif, bg3.gif
+#: kidradd/comic25.htm:238
+#, fuzzy
+msgctxt "comic25#p4.1"
+msgid "Wow, I never thought of it that way."
+msgstr "Ух ты, никогда об этом так не думал."
+
+#. comic25 panel p4
+#. slot: right bubble
+#. images: raddstand.gif, gnarlbot2.gif, bg3.gif
+#: kidradd/comic25.htm:242
+#, fuzzy
+msgctxt "comic25#p4.2"
+msgid "Well, you should, so be grateful."
+msgstr "А стоило бы, так что будь благодарен."
+
+#. comic25 panel p5
+#. slot: left bubble
+#. images: raddash.gif, gbotgun2.gif, bg3.gif
+#: kidradd/comic25.htm:290
+#, fuzzy
+msgctxt "comic25#p5.1"
+msgid "*Cough, cough.* Thank you..."
+msgstr "*Кхе-кхе.* Спасибо..."
+
+#. comic25 panel p5
+#. slot: right bubble
+#. images: raddash.gif, gbotgun2.gif, bg3.gif
+#: kidradd/comic25.htm:294
+#, fuzzy
+msgctxt "comic25#p5.2"
+msgid "Hey, no problem."
+msgstr "Эй, не за что."
+
+#. comic26 panel title
+#. slot: background color and image
+#: kidradd/comic26.htm:52
+#, fuzzy
+msgctxt "comic26#title.1"
+msgid "\"THE FINAL COUNTDOWN\""
+msgstr "«ПОСЛЕДНИЙ ОТСЧЁТ»"
+
+#. comic26 panel p1
+#. slot: narration (if any, else cut)
+#. images: runcharge.gif
+#: kidradd/comic26.htm:89
+#, fuzzy
+msgctxt "comic26#p1.1"
+msgid "Fortunately for Radd, the player catches his stride."
+msgstr "К счастью для Улёта, игрок наконец входит в ритм."
+
+#. comic26 panel p1
+#. slot: middle bubble
+#. images: runcharge.gif
+#: kidradd/comic26.htm:97
+#, fuzzy
+msgctxt "comic26#p1.2"
+msgid "That's it! Charge up while you dodge!"
+msgstr "Так держать! Уклоняйся и заряжай!"
+
+#. comic26 panel p2
+#. slot: insert ground "tiles" on this line
+#: kidradd/comic26.htm:164
+#, fuzzy
+msgctxt "comic26#p2.1"
+msgid "It's like a DVD! Sort of..."
+msgstr "Прямо как DVD! Ну, почти..."
+
+#. comic26 panel p3
+#. slot: left bubble
+#. images: explode.gif
+#: kidradd/comic26.htm:202
+#, fuzzy
+msgctxt "comic26#p3.1"
+msgid "Did I?...."
+msgstr "Неужели я?.."
+
+#. comic26 panel p3
+#. slot: right bubble
+#. images: explode.gif
+#: kidradd/comic26.htm:206
+#, fuzzy
+msgctxt "comic26#p3.2"
+msgid "Did he?..."
+msgstr "Неужели он?.."
+
+#. comic27 panel title
+#. slot: background color and image
+#: kidradd/comic27.htm:36
+#, fuzzy
+msgctxt "comic27#title.1"
+msgid "\"YOU DROPPED A BOMB ON ME\""
+msgstr "«ТЫ СБРОСИЛА НА МЕНЯ БОМБУ»"
+
+#. comic27 panel p1
+#. slot: left bubble
+#. images: explode.gif
+#: kidradd/comic27.htm:77
+#, fuzzy
+msgctxt "comic27#p1.1"
+msgid "I did it! I won!"
+msgstr "Я сделал это! Я победил!"
+
+#. comic27 panel p1
+#. slot: right bubble
+#. images: explode.gif
+#: kidradd/comic27.htm:81
+#, fuzzy
+msgctxt "comic27#p1.2"
+msgid "Sonuva..."
+msgstr "Ах ты ж..."
+
+#. comic27 panel p2
+#. slot: narration (if any, else cut)
+#. images: raddrock.gif, sheenastand2.gif
+#: kidradd/comic27.htm:129
+#, fuzzy
+msgctxt "comic27#p2.1"
+msgid "(Cue ending sequence...)"
+msgstr "(Включаем финальную заставку...)"
+
+#. comic27 panel p2
+#. slot: left bubble
+#. images: raddrock.gif, sheenastand2.gif
+#: kidradd/comic27.htm:135
+#, fuzzy
+msgctxt "comic27#p2.2"
+msgid "I've dreamed of this day for so long! Kiss me, baby!"
+msgstr "Я так долго мечтал об этом дне! Поцелуй меня, детка!"
+
+#. comic27 panel p2
+#. slot: right bubble
+#. images: raddrock.gif, sheenastand2.gif
+#: kidradd/comic27.htm:139
+#, fuzzy
+msgctxt "comic27#p2.3"
+msgid "Uh, I hardly know you..."
+msgstr "Эм, я тебя почти не знаю..."
+
+#. comic27 panel p2
+#. slot: insert ground "tiles" on this line
+#. images: raddrock.gif, sheenastand2.gif
+#: kidradd/comic27.htm:149
+#, fuzzy
+msgctxt "comic27#p2.4"
+msgid "AND SO SHEENA WAS SAVED"
+msgstr "И ТАК ШИНА БЫЛА СПАСЕНА"
+
+#. comic27 panel p3
+#. slot: narration (if any, else cut)
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic27.htm:183
+#, fuzzy
+msgctxt "comic27#p3.1"
+msgid "Don't read this. Please?"
+msgstr "Не читайте это. Пожалуйста!"
+
+#. comic27 panel p3
+#. slot: left bubble
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic27.htm:189
+#, fuzzy
+msgctxt "comic27#p3.2"
+msgid "C'mon, I've died a thousand deaths for you!"
+msgstr "Да ладно, я ради тебя тысячу раз умирал!"
+
+#. comic27 panel p3
+#. slot: right bubble
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic27.htm:193
+#, fuzzy
+msgctxt "comic27#p3.3"
+msgid "As if you had a choice, sigh. Alright, just wait five seconds."
+msgstr "Как будто у тебя был выбор, эх. Ладно, подожди пять секунд."
+
+#. comic27 panel p3
+#. slot: insert ground "tiles" on this line
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic27.htm:203
+#, fuzzy
+msgctxt "comic27#p3.4"
+msgid "THANKS TO KID RADD"
+msgstr "СПАСИБО УЛЁТУ-ПАРНЮ"
+
+#. comic27 panel p4
+#. slot: narration (if any, else cut)
+#. images: raddstand.gif, sheenabl2.gif
+#: kidradd/comic27.htm:238
+#, fuzzy
+msgctxt "comic27#p4.1"
+msgid "Don't read this. Please?"
+msgstr "Не читайте это. Пожалуйста!"
+
+#. comic27 panel p4
+#. slot: left bubble
+#. images: raddstand.gif, sheenabl2.gif
+#: kidradd/comic27.htm:244
+#, fuzzy
+msgctxt "comic27#p4.2"
+msgid "Five seconds? What's in five seconds?"
+msgstr "Пять секунд? А что будет через пять секунд?"
+
+#. comic27 panel p4
+#. slot: right bubble
+#. images: raddstand.gif, sheenabl2.gif
+#: kidradd/comic27.htm:248
+#, fuzzy
+msgctxt "comic27#p4.3"
+msgid "You'll see..."
+msgstr "Сам увидишь..."
+
+#. comic27 panel p4
+#. slot: insert ground "tiles" on this line
+#. images: raddstand.gif, sheenabl2.gif
+#: kidradd/comic27.htm:258
+#, fuzzy
+msgctxt "comic27#p4.4"
+msgid "THE END"
+msgstr "КОНЕЦ"
+
+#. comic27 panel p5
+#. slot: narration (if any, else cut)
+#: kidradd/comic27.htm:293
+#, fuzzy
+msgctxt "comic27#p5.1"
+msgid "That Radd is one bad mutha..."
+msgstr "Этот Улёт — крутой сукин с..."
+
+#. comic27 panel p5
+#. slot: left bubble
+#: kidradd/comic27.htm:299
+#, fuzzy
+msgctxt "comic27#p5.2"
+msgid "Hey!"
+msgstr "Эй!"
+
+#. comic27 panel p5
+#. slot: right bubble
+#: kidradd/comic27.htm:303
+#, fuzzy
+msgctxt "comic27#p5.3"
+msgid "*Whew!*"
+msgstr "*Фух!*"
+
+#. comic27 panel p5
+#. slot: insert ground "tiles" on this line
+#: kidradd/comic27.htm:313
+#, fuzzy
+msgctxt "comic27#p5.4"
+msgid "CREDITS<br><br><br><br> PRODUCER<br><br> NOBUYUKI MASAKI<br> ATARU MOROBOSHI"
+msgstr "АВТОРЫ<br><br><br><br> ПРОДЮСЕРЫ<br><br> НОБУЮКИ МАСАКИ<br> АТАРУ МОРОБОСИ"
+
+#. comic28 panel title
+#. slot: background color and image
+#: kidradd/comic28.htm:34
+#, fuzzy
+msgctxt "comic28#title.1"
+msgid "\"ALONE AGAIN\""
+msgstr "«СНОВА ОДИН»"
+
+#. comic28 panel p1
+#. slot: narration (if any, else cut)
+#. images: rhead.gif
+#: kidradd/comic28.htm:71
+#, fuzzy
+msgctxt "comic28#p1.1"
+msgid "The game finally won, the player again shuts down his system."
+msgstr "Игра наконец пройдена, и игрок снова выключает приставку."
+
+#. comic28 panel p1
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic28.htm:79
+#, fuzzy
+msgctxt "comic28#p1.2"
+msgid "THANKS FOR PLAYING"
+msgstr "СПАСИБО ЗА ИГРУ"
+
+#. comic28 panel p1
+#. slot: imsert images on this line
+#. images: rhead.gif
+#: kidradd/comic28.htm:88
+#, fuzzy
+msgctxt "comic28#p1.3"
+msgid "&copy;1987 SOSUMI CORP"
+msgstr "&copy;1987 SOSUMI CORP"
+
+#. comic28 panel p2
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic28.htm:136
+#, fuzzy
+msgctxt "comic28#p2.1"
+msgid "What? I'm back in the void again?"
+msgstr "Что? Я снова в пустоте?"
+
+#. comic28 panel p3
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic28.htm:188
+#, fuzzy
+msgctxt "comic28#p3.1"
+msgid "So I still get down time, even when I win. I guess winning doesn't let me escape the game."
+msgstr "Значит, простой у меня бывает, даже когда я выигрываю. Похоже, победа не освобождает меня от игры."
+
+#. comic28 panel p4
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic28.htm:239
+#, fuzzy
+msgctxt "comic28#p4.1"
+msgid "It's strange but... I always thought the game was a test for me. I assumed when I won it'd be over; maybe I'd pass to a higher plane of existence or something."
+msgstr "Странно, но... Я всегда думал, что игра — это испытание для меня. Думал, когда выиграю, всё закончится; может, я перейду на высший уровень бытия или типа того."
+
+#. comic28 panel p5
+#. slot: narration (if any, else cut)
+#. images: rhead.gif
+#: kidradd/comic28.htm:287
+#, fuzzy
+msgctxt "comic28#p5.1"
+msgid "Sorry Radd, no such luck. But as a consolation, you will get to beat up Gnarl some more."
+msgstr "Прости, Улёт, не выйдет. Зато в утешение тебе ещё не раз доведётся надрать Отпаду зад."
+
+#. comic28 panel p5
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic28.htm:295
+#, fuzzy
+msgctxt "comic28#p5.2"
+msgid "I can live with that."
+msgstr "С этим я как-нибудь проживу."
+
+#. comic29 panel title
+#. slot: background color and image
+#: kidradd/comic29.htm:36
+#, fuzzy
+msgctxt "comic29#title.1"
+msgid "\"LIFE'S BEEN GOOD TO ME SO FAR\""
+msgstr "«ЖИЗНЬ ПОКА ЧТО КО МНЕ ДОБРА»"
+
+#. comic29 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic29.htm:73
+#, fuzzy
+msgctxt "comic29#p1.1"
+msgid "The player has now mastered the game."
+msgstr "Игрок полностью освоил игру."
+
+#. comic29 panel p2
+#. slot: narration (if any, else cut)
+#. images: raddrock.gif, gnarlbot2.gif, bg3.gif
+#: kidradd/comic29.htm:131
+#, fuzzy
+msgctxt "comic29#p2.1"
+msgid "Radd now rarely loses lives, and always wins the game."
+msgstr "Теперь Улёт редко теряет жизни и всегда выигрывает."
+
+#. comic29 panel p2
+#. slot: left bubble
+#. images: raddrock.gif, gnarlbot2.gif, bg3.gif
+#: kidradd/comic29.htm:137
+#, fuzzy
+msgctxt "comic29#p2.2"
+msgid "Hi, I'm back again to kick your butt! Oops, that's right, you don't have one."
+msgstr "Привет, я снова пришёл надрать тебе зад! Ой, точно, у тебя же его нет."
+
+#. comic29 panel p2
+#. slot: right bubble
+#. images: raddrock.gif, gnarlbot2.gif, bg3.gif
+#: kidradd/comic29.htm:141
+#, fuzzy
+msgctxt "comic29#p2.3"
+msgid "Rrgh..."
+msgstr "Р-р-р..."
+
+#. comic29 panel p3
+#. slot: narration (if any, else cut)
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic29.htm:184
+#, fuzzy
+msgctxt "comic29#p3.1"
+msgid "Needless to say, Radd is having the time of his life."
+msgstr "Нечего и говорить, Улёт отрывается по полной."
+
+#. comic29 panel p3
+#. slot: left bubble
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic29.htm:190
+#, fuzzy
+msgctxt "comic29#p3.2"
+msgid "Please?"
+msgstr "Ну пожалуйста?"
+
+#. comic29 panel p3
+#. slot: right bubble
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic29.htm:194
+#, fuzzy
+msgctxt "comic29#p3.3"
+msgid "No."
+msgstr "Нет."
+
+#. comic29 panel p3
+#. slot: insert ground "tiles" on this line
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic29.htm:204
+#, fuzzy
+msgctxt "comic29#p3.4"
+msgid "THANKS TO KID RADD"
+msgstr "СПАСИБО УЛЁТУ-ПАРНЮ"
+
+#. comic29 panel p4
+#. slot: narration (if any, else cut)
+#: kidradd/comic29.htm:239
+#, fuzzy
+msgctxt "comic29#p4.1"
+msgid "But what will happen to Radd when the player gets bored with him?"
+msgstr "Но что станет с Улётом, когда он надоест игроку?"
+
+#. comic29 panel p4
+#. slot: middle bubble
+#: kidradd/comic29.htm:247
+#, fuzzy
+msgctxt "comic29#p4.2"
+msgid "Like that could happen. Sheesh."
+msgstr "Ага, как же. Тоже мне."
+
+#. comic29 panel p4
+#. slot: insert ground "tiles" on this line
+#: kidradd/comic29.htm:259
+#, fuzzy
+msgctxt "comic29#p4.3"
+msgid "CREDITS<br><br><br><br> PRODUCER<br><br> NOBUYUKI MASAKI<br> ATARU MOROBOSHI"
+msgstr "АВТОРЫ<br><br><br><br> ПРОДЮСЕРЫ<br><br> НОБУЮКИ МАСАКИ<br> АТАРУ МОРОБОСИ"
+
+#. comic30 panel title
+#. slot: background color and image
+#: kidradd/comic30.htm:36
+#, fuzzy
+msgctxt "comic30#title.1"
+msgid "\"WICKED GAME\""
+msgstr "«ЖЕСТОКАЯ ИГРА»"
+
+#. comic30 panel p2
+#. slot: narration (if any, else cut)
+#. images: raddrock.gif, sheenastand2.gif
+#: kidradd/comic30.htm:77
+#, fuzzy
+msgctxt "comic30#p2.1"
+msgid "The player wins yet again..."
+msgstr "Игрок снова побеждает..."
+
+#. comic30 panel p2
+#. slot: left bubble
+#. images: raddrock.gif, sheenastand2.gif
+#: kidradd/comic30.htm:83
+#, fuzzy
+msgctxt "comic30#p2.2"
+msgid "C'mon, don't I deserve a kiss?"
+msgstr "Ну давай, разве я не заслужил поцелуй?"
+
+#. comic30 panel p2
+#. slot: right bubble
+#. images: raddrock.gif, sheenastand2.gif
+#: kidradd/comic30.htm:87
+#, fuzzy
+msgctxt "comic30#p2.3"
+msgid "Sigh, Radd..."
+msgstr "Эх, Улёт..."
+
+#. comic30 panel p2
+#. slot: insert ground "tiles" on this line
+#. images: raddrock.gif, sheenastand2.gif
+#: kidradd/comic30.htm:97
+#, fuzzy
+msgctxt "comic30#p2.4"
+msgid "AND SO SHEENA WAS SAVED"
+msgstr "И ТАК ШИНА БЫЛА СПАСЕНА"
+
+#. comic30 panel p3
+#. slot: narration (if any, else cut)
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic30.htm:131
+#, fuzzy
+msgctxt "comic30#p3.1"
+msgid "Don't read this. Please?"
+msgstr "Не читайте это. Пожалуйста!"
+
+#. comic30 panel p3
+#. slot: left bubble
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic30.htm:137
+#, fuzzy
+msgctxt "comic30#p3.2"
+msgid "Well, why not?"
+msgstr "А почему нет?"
+
+#. comic30 panel p3
+#. slot: right bubble
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic30.htm:141
+#, fuzzy
+msgctxt "comic30#p3.3"
+msgid "Radd, this is a pre-programmed scene of the game. We can't change it."
+msgstr "Улёт, это заранее запрограммированная сцена игры. Мы не можем её изменить."
+
+#. comic30 panel p3
+#. slot: insert ground "tiles" on this line
+#. images: raddwink.gif, sheenastand2.gif
+#: kidradd/comic30.htm:151
+#, fuzzy
+msgctxt "comic30#p3.4"
+msgid "THANKS TO KID RADD"
+msgstr "СПАСИБО УЛЁТУ-ПАРНЮ"
+
+#. comic30 panel p4
+#. slot: narration (if any, else cut)
+#. images: raddstand.gif, sheenabl2.gif
+#: kidradd/comic30.htm:186
+#, fuzzy
+msgctxt "comic30#p4.1"
+msgid "Don't read this. Please?"
+msgstr "Не читайте это. Пожалуйста!"
+
+#. comic30 panel p4
+#. slot: left bubble
+#. images: raddstand.gif, sheenabl2.gif
+#: kidradd/comic30.htm:192
+#, fuzzy
+msgctxt "comic30#p4.2"
+msgid "We can't?"
+msgstr "Не можем?"
+
+#. comic30 panel p4
+#. slot: right bubble
+#. images: raddstand.gif, sheenabl2.gif
+#: kidradd/comic30.htm:196
+#, fuzzy
+msgctxt "comic30#p4.3"
+msgid "If I didn't kiss you the first time, I won't kiss you the second, third, or thirty-third time."
+msgstr "Если я не поцеловала тебя в первый раз, то не поцелую ни во второй, ни в третий, ни в тридцать третий."
+
+#. comic30 panel p4
+#. slot: insert ground "tiles" on this line
+#. images: raddstand.gif, sheenabl2.gif
+#: kidradd/comic30.htm:206
+#, fuzzy
+msgctxt "comic30#p4.4"
+msgid "THE END"
+msgstr "КОНЕЦ"
+
+#. comic30 panel p5
+#. slot: narration (if any, else cut)
+#: kidradd/comic30.htm:241
+#, fuzzy
+msgctxt "comic30#p5.1"
+msgid "That Radd is still one bad mutha..."
+msgstr "Этот Улёт — всё ещё крутой сукин с..."
+
+#. comic30 panel p5
+#. slot: left bubble
+#: kidradd/comic30.htm:247
+#, fuzzy
+msgctxt "comic30#p5.2"
+msgid "NOOOOO!!!"
+msgstr "НЕЕЕЕТ!!!"
+
+#. comic30 panel p5
+#. slot: right bubble
+#: kidradd/comic30.htm:251
+#, fuzzy
+msgctxt "comic30#p5.3"
+msgid "Life ain't fair, huh?"
+msgstr "Жизнь несправедлива, а?"
+
+#. comic30 panel p5
+#. slot: insert ground "tiles" on this line
+#: kidradd/comic30.htm:261
+#, fuzzy
+msgctxt "comic30#p5.4"
+msgid "CREDITS<br><br><br><br> PRODUCER<br><br> NOBUYUKI MASAKI<br> ATARU MOROBOSHI"
+msgstr "АВТОРЫ<br><br><br><br> ПРОДЮСЕРЫ<br><br> НОБУЮКИ МАСАКИ<br> АТАРУ МОРОБОСИ"
+
+#. comic31 panel title
+#. slot: background color and image
+#: kidradd/comic31.htm:34
+#, fuzzy
+msgctxt "comic31#title.1"
+msgid "\"DON'T GIVE UP\""
+msgstr "«НЕ СДАВАЙСЯ»"
+
+#. comic31 panel p1
+#. slot: narration (if any, else cut)
+#. images: rhead.gif
+#: kidradd/comic31.htm:71
+#, fuzzy
+msgctxt "comic31#p1.1"
+msgid "Though the player always wins now, Radd finds himself troubled."
+msgstr "Хотя игрок теперь всегда побеждает, Улёта что-то тревожит."
+
+#. comic31 panel p1
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic31.htm:79
+#, fuzzy
+msgctxt "comic31#p1.2"
+msgid "THANKS FOR PLAYING"
+msgstr "СПАСИБО ЗА ИГРУ"
+
+#. comic31 panel p1
+#. slot: imsert images on this line
+#. images: rhead.gif
+#: kidradd/comic31.htm:88
+#, fuzzy
+msgctxt "comic31#p1.3"
+msgid "&copy;1987 SOSUMI CORP"
+msgstr "&copy;1987 SOSUMI CORP"
+
+#. comic31 panel p2
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic31.htm:136
+#, fuzzy
+msgctxt "comic31#p2.1"
+msgid "It's tough to sense time in the void, but I'd swear I'm spending longer here."
+msgstr "В пустоте сложно чувствовать время, но, клянусь, я провожу здесь всё больше и больше."
+
+#. comic31 panel p3
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic31.htm:188
+#, fuzzy
+msgctxt "comic31#p3.1"
+msgid "Sigh, should I even care if there's more down time? The game's pointless anyway."
+msgstr "Эх, да какая мне разница, дольше ли простой? Игра всё равно бессмысленна."
+
+#. comic31 panel p4
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic31.htm:239
+#, fuzzy
+msgctxt "comic31#p4.1"
+msgid "It's not like playing good or bad changes anything. The game is always the same, and Sheena'll never really be my girlfriend."
+msgstr "Играю я хорошо или плохо — ничего не меняется. Игра всегда одна и та же, и Шина никогда по-настоящему не станет моей девушкой."
+
+#. comic31 panel p5
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic31.htm:293
+#, fuzzy
+msgctxt "comic31#p5.1"
+msgid "But even knowing that... the game's better than the void. It sure gets lonely here..."
+msgstr "Но даже зная это... игра лучше, чем пустота. Тут так одиноко..."

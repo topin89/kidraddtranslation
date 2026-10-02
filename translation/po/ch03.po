@@ -1,0 +1,311 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kid Radd RU — Chapter 3: Enemy Sprite Preserve\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: kidradd tools/extract.py\n"
+
+#. comic50 panel title
+#. slot: background color and image
+#: kidradd/comic50.htm:36
+msgctxt "comic50#title.1"
+msgid "\"WALK OF LIFE\""
+msgstr ""
+
+#. comic50 panel p1
+#. slot: left bubble
+#. images: bogeytalk.gif, qbstand.gif
+#: kidradd/comic50.htm:77
+msgctxt "comic50#p1.1"
+msgid "What kind of job can I get?"
+msgstr ""
+
+#. comic50 panel p1
+#. slot: right bubble
+#. images: bogeytalk.gif, qbstand.gif
+#: kidradd/comic50.htm:81
+msgctxt "comic50#p1.2"
+msgid "Um, that's a touchy subject. Come with me, please."
+msgstr ""
+
+#. comic50 panel p2
+#. slot: middle bubble
+#. images: qbhead.gif
+#: kidradd/comic50.htm:136
+msgctxt "comic50#p2.1"
+msgid "Minor enemy sprites aren't usually very useful as workers. They often lack mobility, motivation, ...and hands. There's just not a lot you guys can do."
+msgstr ""
+
+#. comic50 panel p3
+#. slot: middle bubble
+#. images: qbhead2.gif
+#: kidradd/comic50.htm:187
+msgctxt "comic50#p3.1"
+msgid "So out of kindness </font><font size=\"1\" face=\"arial\">(and so we wouldn't have to look at you)</font><font size=\"2\" face=\"arial\"> we set aside a place for you guys. Sort of an enemy sprite preserve."
+msgstr ""
+
+#. comic50 panel p5
+#. slot: left bubble
+#. images: bogeytalk.gif, qbtalk2.gif
+#: kidradd/comic50.htm:290
+msgctxt "comic50#p5.1"
+msgid "Sign me up!"
+msgstr ""
+
+#. comic50 panel p5
+#. slot: right bubble
+#. images: bogeytalk.gif, qbtalk2.gif
+#: kidradd/comic50.htm:294
+msgctxt "comic50#p5.2"
+msgid "My pleasure."
+msgstr ""
+
+#. comic51 panel title
+#. slot: background color and image
+#: kidradd/comic51.htm:36
+msgctxt "comic51#title.1"
+msgid "\"RUN WITH THE PACK\""
+msgstr ""
+
+#. comic51 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic51.htm:73
+msgctxt "comic51#p1.1"
+msgid "Bogey joins his siblings on the enemy sprite preserve."
+msgstr ""
+
+#. comic51 panel p3
+#. slot: narration (if any, else cut)
+#. images: bgbump4.gif
+#: kidradd/comic51.htm:183
+msgctxt "comic51#p3.1"
+msgid "No hidden text here."
+msgstr ""
+
+#. comic51 panel p4
+#. slot: narration (if any, else cut)
+#. images: bgsmile.gif
+#: kidradd/comic51.htm:237
+msgctxt "comic51#p4.1"
+msgid "No hidden text here."
+msgstr ""
+
+#. comic51 panel p4
+#. slot: left bubble
+#. images: bgsmile.gif
+#: kidradd/comic51.htm:243
+msgctxt "comic51#p4.2"
+msgid "This is the life!"
+msgstr ""
+
+#. comic52 panel title
+#. slot: background color and image
+#: kidradd/comic52.htm:36
+msgctxt "comic52#title.1"
+msgid "\"BADFINGER\""
+msgstr ""
+
+#. comic52 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic52.htm:73
+msgctxt "comic52#p1.1"
+msgid "Day 2 for Bogey on the enemy sprite preserve."
+msgstr ""
+
+#. comic52 panel p3
+#. slot: narration (if any, else cut)
+#. images: bgbump4.gif
+#: kidradd/comic52.htm:183
+msgctxt "comic52#p3.1"
+msgid "No hidden text here."
+msgstr ""
+
+#. comic52 panel p4
+#. slot: narration (if any, else cut)
+#. images: bgsmile.gif
+#: kidradd/comic52.htm:237
+msgctxt "comic52#p4.1"
+msgid "No hidden text here."
+msgstr ""
+
+#. comic52 panel p4
+#. slot: left bubble
+#. images: bgsmile.gif
+#: kidradd/comic52.htm:243
+msgctxt "comic52#p4.2"
+msgid "It's like an orgy!"
+msgstr ""
+
+#. comic53 panel title
+#. slot: background color and image
+#: kidradd/comic53.htm:36
+msgctxt "comic53#title.1"
+msgid "\"RENDEZVOUS\""
+msgstr ""
+
+#. comic53 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic53.htm:73
+msgctxt "comic53#p1.1"
+msgid "Day 3 for Bogey on the enemy sprite preserve."
+msgstr ""
+
+#. comic53 panel p3
+#. slot: narration (if any, else cut)
+#. images: bgbump4.gif
+#: kidradd/comic53.htm:183
+msgctxt "comic53#p3.1"
+msgid "No hidden text here."
+msgstr ""
+
+#. comic53 panel p4
+#. slot: narration (if any, else cut)
+#. images: bgbump4.gif
+#: kidradd/comic53.htm:237
+msgctxt "comic53#p4.1"
+msgid "No hidden text here."
+msgstr ""
+
+#. comic53 panel p4
+#. slot: left bubble
+#. images: bgbump4.gif
+#: kidradd/comic53.htm:243
+msgctxt "comic53#p4.2"
+msgid "Have I met you somewhere?"
+msgstr ""
+
+#. comic54 panel title
+#. slot: background color and image
+#: kidradd/comic54.htm:36
+msgctxt "comic54#title.1"
+msgid "\"DRAW THE LINE\""
+msgstr ""
+
+#. comic54 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic54.htm:73
+msgctxt "comic54#p1.1"
+msgid "Yep, Bogey is still on the enemy sprite preserve."
+msgstr ""
+
+#. comic54 panel p2
+#. slot: narration (if any, else cut)
+#. images: bgbump4.gif
+#: kidradd/comic54.htm:132
+msgctxt "comic54#p2.1"
+msgid "No hidden text here."
+msgstr ""
+
+#. comic54 panel p3
+#. slot: narration (if any, else cut)
+#. images: bgbump4.gif
+#: kidradd/comic54.htm:185
+msgctxt "comic54#p3.1"
+msgid "No hidden text here."
+msgstr ""
+
+#. comic54 panel p3
+#. slot: left bubble
+#. images: bgbump4.gif
+#: kidradd/comic54.htm:191
+msgctxt "comic54#p3.2"
+msgid "Wait a minute..."
+msgstr ""
+
+#. comic54 panel p4
+#. slot: narration (if any, else cut)
+#. images: bgwhoopsb.gif
+#: kidradd/comic54.htm:239
+msgctxt "comic54#p4.1"
+msgid "No hidden text here."
+msgstr ""
+
+#. comic54 panel p4
+#. slot: left bubble
+#. images: bgwhoopsb.gif
+#: kidradd/comic54.htm:245
+msgctxt "comic54#p4.2"
+msgid "This is... <b>boring!</b>"
+msgstr ""
+
+#. comic55 panel title
+#. slot: background color and image
+#: kidradd/comic55.htm:36
+msgctxt "comic55#title.1"
+msgid "\"JUMP\""
+msgstr ""
+
+#. comic55 panel p1
+#. slot: narration (if any, else cut)
+#. images: bgwhoopsa.gif
+#: kidradd/comic55.htm:73
+msgctxt "comic55#p1.1"
+msgid "No hidden text here."
+msgstr ""
+
+#. comic55 panel p1
+#. slot: left bubble
+#. images: bgwhoopsa.gif
+#: kidradd/comic55.htm:79
+msgctxt "comic55#p1.2"
+msgid "Hey, I don't wanna be here anymore."
+msgstr ""
+
+#. comic55 panel p2
+#. slot: narration (if any, else cut)
+#. images: bgwhoopsa.gif
+#: kidradd/comic55.htm:132
+msgctxt "comic55#p2.1"
+msgid "No hidden text here."
+msgstr ""
+
+#. comic55 panel p2
+#. slot: left bubble
+#. images: bgwhoopsa.gif
+#: kidradd/comic55.htm:138
+msgctxt "comic55#p2.2"
+msgid "But... I'm blocked in!"
+msgstr ""
+
+#. comic55 panel p3
+#. slot: narration (if any, else cut)
+#. images: bgwhoopsb.gif
+#: kidradd/comic55.htm:185
+msgctxt "comic55#p3.1"
+msgid "No hidden text here."
+msgstr ""
+
+#. comic55 panel p3
+#. slot: left bubble
+#. images: bgwhoopsb.gif
+#: kidradd/comic55.htm:191
+msgctxt "comic55#p3.2"
+msgid "HOW DO I GET OUT OF HERE???"
+msgstr ""
+
+#. comic55 panel p4
+#. slot: middle bubble
+#: kidradd/comic55.htm:245
+msgctxt "comic55#p4.1"
+msgid "Dude, just<br>jump out."
+msgstr ""
+
+#. comic55 panel p5
+#. slot: left bubble
+#. images: bogeywalk.gif, raddwalk.gif, sidewalkw.gif
+#: kidradd/comic55.htm:298
+msgctxt "comic55#p5.1"
+msgid "I'll never get used to this \"3-D\" crap."
+msgstr ""
+
+#. comic55 panel p5
+#. slot: right bubble
+#. images: bogeywalk.gif, raddwalk.gif, sidewalkw.gif
+#: kidradd/comic55.htm:302
+msgctxt "comic55#p5.2"
+msgid "Tell me about it."
+msgstr ""

@@ -1,0 +1,2111 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kid Radd RU — Chapter 9: Playland\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: kidradd tools/extract.py\n"
+
+#. comic121 panel title
+#. slot: background color and image
+#: kidradd/comic121.htm:36
+msgctxt "comic121#title.1"
+msgid "\"GOOD TIMES\""
+msgstr ""
+
+#. comic121 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic121.htm:73
+msgctxt "comic121#p1.1"
+msgid "Back at Bogey's apartment, Radd continues to be a sponge."
+msgstr ""
+
+#. comic121 panel p1
+#. slot: left bubble
+#: kidradd/comic121.htm:79
+msgctxt "comic121#p1.2"
+msgid "Previously on BattleOrb Q..."
+msgstr ""
+
+#. comic121 panel p2
+#. slot: left bubble
+#. images: tv.gif, raddsit2.gif
+#: kidradd/comic121.htm:136
+msgctxt "comic121#p2.1"
+msgid "...there was a lot of punching, with some really cool explosions."
+msgstr ""
+
+#. comic121 panel p2
+#. slot: middle bubble
+#. images: tv.gif, raddsit2.gif
+#: kidradd/comic121.htm:138
+msgctxt "comic121#p2.2"
+msgid "It doesn't get any better than this."
+msgstr ""
+
+#. comic121 panel p2
+#. slot: right bubble
+#. images: tv.gif, raddsit2.gif
+#: kidradd/comic121.htm:140
+msgctxt "comic121#p2.3"
+msgid "I respectfully disagree..."
+msgstr ""
+
+#. comic121 panel p3
+#. slot: left bubble
+#. images: tv.gif, raddsit2.gif, bogeysigh2.gif
+#: kidradd/comic121.htm:187
+msgctxt "comic121#p3.1"
+msgid "...but, nothing happened to advance the plot."
+msgstr ""
+
+#. comic121 panel p3
+#. slot: right bubble
+#. images: tv.gif, raddsit2.gif, bogeysigh2.gif
+#: kidradd/comic121.htm:191
+msgctxt "comic121#p3.2"
+msgid "You could be watching your own TV, eating your own nachos, instead of leeching off mine."
+msgstr ""
+
+#. comic121 panel p4
+#. slot: left bubble
+#. images: tv.gif, raddsit2.gif, bogeymad2.gif
+#: kidradd/comic121.htm:239
+msgctxt "comic121#p4.1"
+msgid "On today's episode,<br> more of the same."
+msgstr ""
+
+#. comic121 panel p4
+#. slot: right bubble
+#. images: tv.gif, raddsit2.gif, bogeymad2.gif
+#: kidradd/comic121.htm:243
+msgctxt "comic121#p4.2"
+msgid "I suppose so, but...<br><b>why?</b>"
+msgstr ""
+
+#. comic121 panel p5
+#. slot: left bubble
+#. images: raddrun.gif, sidewalkr.gif
+#: kidradd/comic121.htm:292
+msgctxt "comic121#p5.1"
+msgid "Come back here and let me kill you!"
+msgstr ""
+
+#. comic121 panel p5
+#. slot: right bubble
+#. images: raddrun.gif, sidewalkr.gif
+#: kidradd/comic121.htm:296
+msgctxt "comic121#p5.2"
+msgid "Well, I guess that's a reason..."
+msgstr ""
+
+#. comic122 panel title
+#. slot: background color and image
+#: kidradd/comic122.htm:36
+msgctxt "comic122#title.1"
+msgid "\"DON'T TALK TO STRANGERS\""
+msgstr ""
+
+#. comic122 panel p1
+#. slot: left bubble
+#. images: raddsigh2.gif
+#: kidradd/comic122.htm:77
+msgctxt "comic122#p1.1"
+msgid "Man, I better stay outta the apartment until Bogey cools off. Whatta drag."
+msgstr ""
+
+#. comic122 panel p2
+#. slot: right bubble
+#. images: raddstare2.gif
+#: kidradd/comic122.htm:137
+msgctxt "comic122#p2.1"
+msgid "Psst! Hey kid, wanna have a good time?"
+msgstr ""
+
+#. comic122 panel p3
+#. slot: left bubble
+#. images: raddstand.gif, shady.gif
+#: kidradd/comic122.htm:184
+msgctxt "comic122#p3.1"
+msgid "Um, you're not my type."
+msgstr ""
+
+#. comic122 panel p3
+#. slot: right bubble
+#. images: raddstand.gif, shady.gif
+#: kidradd/comic122.htm:188
+msgctxt "comic122#p3.2"
+msgid "Very funny. I'm talking about adventure. <b>Games,</b> man."
+msgstr ""
+
+#. comic122 panel p4
+#. slot: left bubble
+#. images: raddblink.gif, shady.gif
+#: kidradd/comic122.htm:236
+msgctxt "comic122#p4.1"
+msgid "Riiiiight. The only game I ever liked was destroyed."
+msgstr ""
+
+#. comic122 panel p4
+#. slot: right bubble
+#. images: raddblink.gif, shady.gif
+#: kidradd/comic122.htm:240
+msgctxt "comic122#p4.2"
+msgid "Then find a new game. Or even another copy of the old one. It's all good."
+msgstr ""
+
+#. comic122 panel p5
+#. slot: left bubble
+#. images: raddstand.gif, shady.gif
+#: kidradd/comic122.htm:288
+msgctxt "comic122#p5.1"
+msgid "I shouldn't trust you, should I?"
+msgstr ""
+
+#. comic122 panel p5
+#. slot: right bubble
+#. images: raddstand.gif, shady.gif
+#: kidradd/comic122.htm:292
+msgctxt "comic122#p5.2"
+msgid "Probably not. But play along anyway."
+msgstr ""
+
+#. comic123 panel title
+#. slot: background color and image
+#: kidradd/comic123.htm:36
+msgctxt "comic123#title.1"
+msgid "\"BREAKING THE LAW\""
+msgstr ""
+
+#. comic123 panel p1
+#. slot: left bubble
+#. images: raddright.gif, shady.gif
+#: kidradd/comic123.htm:77
+msgctxt "comic123#p1.1"
+msgid "You're saying you can get me into a game?"
+msgstr ""
+
+#. comic123 panel p1
+#. slot: right bubble
+#. images: raddright.gif, shady.gif
+#: kidradd/comic123.htm:81
+msgctxt "comic123#p1.2"
+msgid "I can sneak you into over 100 different ROMs, man."
+msgstr ""
+
+#. comic123 panel p2
+#. slot: left bubble
+#. images: raddstand.gif, shady.gif
+#: kidradd/comic123.htm:133
+msgctxt "comic123#p2.1"
+msgid "That's bogus. Everyone knows you can't get into a game without destroying it."
+msgstr ""
+
+#. comic123 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, shady.gif
+#: kidradd/comic123.htm:137
+msgctxt "comic123#p2.2"
+msgid "Moderator lies, man. It's real easy."
+msgstr ""
+
+#. comic123 panel p3
+#. slot: left bubble
+#. images: game.gif, shady.gif
+#: kidradd/comic123.htm:184
+msgctxt "comic123#p3.1"
+msgid "You want inside a game, don't force your way in, like the Mods do. Instead, trick the game into thinking you're part of it."
+msgstr ""
+
+#. comic123 panel p4
+#. slot: left bubble
+#. images: shady.gif
+#: kidradd/comic123.htm:236
+msgctxt "comic123#p4.1"
+msgid "All I gotta do is make some minor changes to your source code, and you're in."
+msgstr ""
+
+#. comic123 panel p5
+#. slot: left bubble
+#. images: raddstand.gif, shady.gif
+#: kidradd/comic123.htm:288
+msgctxt "comic123#p5.1"
+msgid "Is that safe?"
+msgstr ""
+
+#. comic123 panel p5
+#. slot: right bubble
+#. images: raddstand.gif, shady.gif
+#: kidradd/comic123.htm:292
+msgctxt "comic123#p5.2"
+msgid "Uh... yeah. But pay in advance."
+msgstr ""
+
+#. comic124 panel title
+#. slot: background color and image
+#: kidradd/comic124.htm:36
+msgctxt "comic124#title.1"
+msgid "\"CHOICES, CHOICES\""
+msgstr ""
+
+#. comic124 panel p1
+#. slot: left bubble
+#. images: shady2.gif, raddstand2.gif
+#: kidradd/comic124.htm:77
+msgctxt "comic124#p1.1"
+msgid "So what kinda game you wanna enter? Shoot 'em up? RPG?"
+msgstr ""
+
+#. comic124 panel p1
+#. slot: right bubble
+#. images: shady2.gif, raddstand2.gif
+#: kidradd/comic124.htm:81
+msgctxt "comic124#p1.2"
+msgid "Got any sidescrolling platformers?"
+msgstr ""
+
+#. comic124 panel p2
+#. slot: left bubble
+#. images: shady3.gif, raddleft.gif
+#: kidradd/comic124.htm:134
+msgctxt "comic124#p2.1"
+msgid "Old school, huh? Check out my selection of titles."
+msgstr ""
+
+#. comic124 panel p2
+#. slot: right bubble
+#. images: shady3.gif, raddleft.gif
+#: kidradd/comic124.htm:138
+msgctxt "comic124#p2.2"
+msgid "Hm, that one sounds cool."
+msgstr ""
+
+#. comic124 panel p3
+#. slot: left bubble
+#. images: shady2.gif, raddstand2.gif
+#: kidradd/comic124.htm:185
+msgctxt "comic124#p3.1"
+msgid "Interesting choice. Now, how're you gonna pay for this?"
+msgstr ""
+
+#. comic124 panel p3
+#. slot: right bubble
+#. images: shady2.gif, raddstand2.gif
+#: kidradd/comic124.htm:189
+msgctxt "comic124#p3.2"
+msgid "Is credit scan okay?"
+msgstr ""
+
+#. comic124 panel p4
+#. slot: left bubble
+#. images: shady2.gif, raddstand2.gif
+#: kidradd/comic124.htm:236
+msgctxt "comic124#p4.1"
+msgid "Sure. Your name?"
+msgstr ""
+
+#. comic124 panel p4
+#. slot: right bubble
+#. images: shady2.gif, raddstand2.gif
+#: kidradd/comic124.htm:240
+msgctxt "comic124#p4.2"
+msgid "Bogey. That's <br>\"B-O-G-E-Y.\""
+msgstr ""
+
+#. comic125 panel title
+#. slot: background color and image
+#: kidradd/comic125.htm:36
+msgctxt "comic125#title.1"
+msgid "\"ALMOST PARADISE\""
+msgstr ""
+
+#. comic125 panel p1
+#. slot: left bubble
+#. images: raddstand.gif, shady.gif
+#: kidradd/comic125.htm:77
+msgctxt "comic125#p1.1"
+msgid "So how do I get into the game?"
+msgstr ""
+
+#. comic125 panel p1
+#. slot: right bubble
+#. images: raddstand.gif, shady.gif
+#: kidradd/comic125.htm:81
+msgctxt "comic125#p1.2"
+msgid "Go downtown, and take a data transport to Section 112. There you'll find a folder titled \"Joe's Junk.\""
+msgstr ""
+
+#. comic125 panel p2
+#. slot: left bubble
+#. images: shady3.gif, code.gif
+#: kidradd/comic125.htm:134
+msgctxt "comic125#p2.1"
+msgid "The human \"Joe\" keeps his games there, and the stupid Mods ain't found out yet. Find the right game, and then use <b>this.</b>"
+msgstr ""
+
+#. comic125 panel p3
+#. slot: left bubble
+#. images: raddright.gif, code.gif, shady.gif
+#: kidradd/comic125.htm:185
+msgctxt "comic125#p3.1"
+msgid "What... is it?"
+msgstr ""
+
+#. comic125 panel p3
+#. slot: right bubble
+#. images: raddright.gif, code.gif, shady.gif
+#: kidradd/comic125.htm:189
+msgctxt "comic125#p3.2"
+msgid "Some pirated source code. It'll make the game think you're one of its' sprites, so you'll be let in."
+msgstr ""
+
+#. comic125 panel p4
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic125.htm:238
+msgctxt "comic125#p4.1"
+msgid "Wow, I'll really be in a game again... No more worries about money or life, just playtime forevermore. It sounds almost too good to be true."
+msgstr ""
+
+#. comic125 panel p5
+#. slot: left bubble
+#. images: raddmad.gif, shady.gif
+#: kidradd/comic125.htm:288
+msgctxt "comic125#p5.1"
+msgid "Wait a minute -- If this is so good, why aren't <b>you</b> in a game?"
+msgstr ""
+
+#. comic125 panel p5
+#. slot: right bubble
+#. images: raddmad.gif, shady.gif
+#: kidradd/comic125.htm:292
+msgctxt "comic125#p5.2"
+msgid "Would you believe I'm a good Samaritan?"
+msgstr ""
+
+#. comic126 panel title
+#. slot: background color and image
+#: kidradd/comic126.htm:49
+msgctxt "comic126#title.1"
+msgid "\"SLOW RIDE\""
+msgstr ""
+
+#. comic126 panel p1
+#. slot: narration (if any, else cut)
+#. images: transport.gif
+#: kidradd/comic126.htm:86
+msgctxt "comic126#p1.1"
+msgid "So Radd takes a data transport to find his new game."
+msgstr ""
+
+#. comic126 panel p2
+#. slot: left bubble
+#. images: thought.gif, raddstand2.gif, goomba.gif
+#: kidradd/comic126.htm:148
+msgctxt "comic126#p2.1"
+msgid "Man, I hate public transportation. All hero sprites hate crowds."
+msgstr ""
+
+#. comic126 panel p3
+#. slot: left bubble
+#. images: thought.gif, raddstare2.gif, goomba.gif
+#: kidradd/comic126.htm:199
+msgctxt "comic126#p3.1"
+msgid "All it takes is one accidental nudge and --"
+msgstr ""
+
+#. comic126 panel p4
+#. slot: right bubble
+#. images: radmeter.gif
+#: kidradd/comic126.htm:257
+msgctxt "comic126#p4.1"
+msgid "\"Oops!\" ...sorry Mac."
+msgstr ""
+
+#. comic126 panel p5
+#. slot: left bubble
+#. images: raddmad2.gif, goomba.gif
+#: kidradd/comic126.htm:305
+msgctxt "comic126#p5.1"
+msgid "I <b>hate</b> public transportation."
+msgstr ""
+
+#. comic126 panel p5
+#. slot: right bubble
+#. images: raddmad2.gif, goomba.gif
+#: kidradd/comic126.htm:309
+msgctxt "comic126#p5.2"
+msgid "Careful, this's a really bumpy ride. <font size=\"1\" face=\"arial\">Heh heh.</font>"
+msgstr ""
+
+#. comic127 panel title
+#. slot: background color and image
+#: kidradd/comic127.htm:35
+msgctxt "comic127#title.1"
+msgid "\"KNOCK KNOCK KNOCKIN'\""
+msgstr ""
+
+#. comic127 panel p1
+#. slot: narration (if any, else cut)
+#. images: transport.gif
+#: kidradd/comic127.htm:72
+msgctxt "comic127#p1.1"
+msgid "A few stops later, the transport nears section 112."
+msgstr ""
+
+#. comic127 panel p2
+#. slot: left bubble
+#. images: thought.gif, raddstand2.gif, goomba2.gif
+#: kidradd/comic127.htm:134
+msgctxt "comic127#p2.1"
+msgid "Oh good, I think this is my stop."
+msgstr ""
+
+#. comic127 panel p2
+#. slot: middle bubble
+#. images: thought.gif, raddstand2.gif, goomba2.gif
+#: kidradd/comic127.htm:136
+msgctxt "comic127#p2.2"
+msgid "Ow..."
+msgstr ""
+
+#. comic127 panel p3
+#. slot: narration (if any, else cut)
+#. images: icon.gif, raddwalk2.gif
+#: kidradd/comic127.htm:181
+msgctxt "comic127#p3.1"
+msgid "<font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" height=\"10\" src=\"icon.gif\"><b> My Documents</font><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> - Mi'growsoft Xplorer</b></font>"
+msgstr ""
+
+#. comic127 panel p3
+#. slot: left bubble
+#. images: icon.gif, raddwalk2.gif
+#: kidradd/comic127.htm:187
+msgctxt "comic127#p3.2"
+msgid "What the hell kinda place is this? And I thought my neighborhood was weird."
+msgstr ""
+
+#. comic127 panel p4
+#. slot: left bubble
+#. images: folder.gif, raddleft.gif
+#: kidradd/comic127.htm:239
+msgctxt "comic127#p4.1"
+msgid "Now, how was I supposed to get in?<br>Oh yeah, the secret knock."
+msgstr ""
+
+#. comic127 panel p5
+#. slot: middle bubble
+#. images: folder.gif, raddargh2.gif
+#: kidradd/comic127.htm:293
+msgctxt "comic127#p5.1"
+msgid "(click-click!)"
+msgstr ""
+
+#. comic128 panel title
+#. slot: background color and image
+#: kidradd/comic128.htm:49
+msgctxt "comic128#title.1"
+msgid "\"MAKE THAT CHANGE\""
+msgstr ""
+
+#. comic128 panel p1
+#. slot: right bubble
+#. images: game.gif, raddtable2.gif
+#: kidradd/comic128.htm:94
+msgctxt "comic128#p1.1"
+msgid "I found it! This's definitely the \"Joe's Junk\" folder; there's tons of games!"
+msgstr ""
+
+#. comic128 panel p2
+#. slot: left bubble
+#. images: game.gif, raddleft.gif
+#: kidradd/comic128.htm:146
+msgctxt "comic128#p2.1"
+msgid "Here's the one! Just gotta use the code..."
+msgstr ""
+
+#. comic128 panel p4
+#. slot: right bubble
+#. images: raddblink.gif
+#: kidradd/comic128.htm:254
+msgctxt "comic128#p4.1"
+msgid "Oog, maybe I shouldn't have had that grande burrito before doing that..."
+msgstr ""
+
+#. comic129 panel title
+#. slot: background color and image
+#: kidradd/comic129.htm:49
+msgctxt "comic129#title.1"
+msgid "\"GOTTA KNOCK A LITTLE HARDER\""
+msgstr ""
+
+#. comic129 panel p1
+#. slot: left bubble
+#. images: game.gif, raddleft.gif
+#: kidradd/comic129.htm:90
+msgctxt "comic129#p1.1"
+msgid "Okay game! I've got your code, now let me in!"
+msgstr ""
+
+#. comic129 panel p2
+#. slot: right bubble
+#. images: raddback.gif
+#: kidradd/comic129.htm:151
+msgctxt "comic129#p2.1"
+msgid "Um, please?...<br>Albierto?<br>Open sesame?<br>Walt sent me?"
+msgstr ""
+
+#. comic129 panel p3
+#. slot: right bubble
+#. images: raddbutt.gif
+#: kidradd/comic129.htm:201
+msgctxt "comic129#p3.1"
+msgid "Just great. Well, I'm not giving up. After all this work I'm not gotta just <b>run</b>."
+msgstr ""
+
+#. comic130 panel title
+#. slot: background color and image
+#: kidradd/comic130.htm:36
+msgctxt "comic130#title.1"
+msgid "\"MUSTA GOT LOST\""
+msgstr ""
+
+#. comic130 panel p1
+#. slot: narration (if any, else cut)
+#. images: raddstand2.gif
+#: kidradd/comic130.htm:73
+msgctxt "comic130#p1.1"
+msgid "Radd finds himself... somewhere."
+msgstr ""
+
+#. comic130 panel p1
+#. slot: left bubble
+#. images: raddstand2.gif
+#: kidradd/comic130.htm:79
+msgctxt "comic130#p1.2"
+msgid "Where am I? Am I in the game?"
+msgstr ""
+
+#. comic130 panel p1
+#. slot: right bubble
+#. images: raddstand2.gif
+#: kidradd/comic130.htm:83
+msgctxt "comic130#p1.3"
+msgid "A newcomer! _"
+msgstr ""
+
+#. comic130 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, benny2.gif, floor8.gif
+#: kidradd/comic130.htm:140
+msgctxt "comic130#p2.1"
+msgid "Hello! I'm Benny DaBunny, this game's hero sprite. Welcome to my world!"
+msgstr ""
+
+#. comic130 panel p3
+#. slot: middle bubble
+#. images: bennysmile.gif, raddstand2.gif, chick2.gif, floor8.gif
+#: kidradd/comic130.htm:190
+msgctxt "comic130#p3.1"
+msgid "Um, hi."
+msgstr ""
+
+#. comic130 panel p3
+#. slot: right bubble
+#. images: bennysmile.gif, raddstand2.gif, chick2.gif, floor8.gif
+#: kidradd/comic130.htm:192
+msgctxt "comic130#p3.2"
+msgid "And we're the Chicklings, that Benny has to rescue! Pleased to meetcha!"
+msgstr ""
+
+#. comic130 panel p4
+#. slot: middle bubble
+#. images: bennysmile.gif, raddstand.gif, chick2.gif, floor8.gif
+#: kidradd/comic130.htm:241
+msgctxt "comic130#p4.1"
+msgid "I gotta say, this isn't what I imagined at all."
+msgstr ""
+
+#. comic130 panel p4
+#. slot: right bubble
+#. images: bennysmile.gif, raddstand.gif, chick2.gif, floor8.gif
+#: kidradd/comic130.htm:243
+msgctxt "comic130#p4.2"
+msgid "Oh?"
+msgstr ""
+
+#. comic130 panel p5
+#. slot: left bubble
+#. images: benny.gif, raddsigh2.gif, chick2.gif, floor8.gif
+#: kidradd/comic130.htm:293
+msgctxt "comic130#p5.1"
+msgid "What did you expect from a game called<br>\"Bunny and Chick Playland?\""
+msgstr ""
+
+#. comic130 panel p5
+#. slot: right bubble
+#. images: benny.gif, raddsigh2.gif, chick2.gif, floor8.gif
+#: kidradd/comic130.htm:295
+msgctxt "comic130#p5.2"
+msgid "Uh..."
+msgstr ""
+
+#. comic131 panel title
+#. slot: background color and image
+#: kidradd/comic131.htm:36
+msgctxt "comic131#title.1"
+msgid "\"WHAT A WONDERFUL WORLD\""
+msgstr ""
+
+#. comic131 panel p1
+#. slot: left bubble
+#. images: raddstand.gif, benny2.gif, chick2.gif, floor8.gif
+#: kidradd/comic131.htm:77
+msgctxt "comic131#p1.1"
+msgid "So, you guys know about the outside world?"
+msgstr ""
+
+#. comic131 panel p1
+#. slot: middle bubble
+#. images: raddstand.gif, benny2.gif, chick2.gif, floor8.gif
+#: kidradd/comic131.htm:79
+msgctxt "comic131#p1.2"
+msgid "Yes, certainly."
+msgstr ""
+
+#. comic131 panel p1
+#. slot: right bubble
+#. images: raddstand.gif, benny2.gif, chick2.gif, floor8.gif
+#: kidradd/comic131.htm:81
+msgctxt "comic131#p1.3"
+msgid "All about it."
+msgstr ""
+
+#. comic131 panel p2
+#. slot: left bubble
+#. images: raddback2.gif, benny2.gif, chick2.gif, floor8.gif
+#: kidradd/comic131.htm:134
+msgctxt "comic131#p2.1"
+msgid "In my game, I was clueless that other worlds existed."
+msgstr ""
+
+#. comic131 panel p2
+#. slot: middle bubble
+#. images: raddback2.gif, benny2.gif, chick2.gif, floor8.gif
+#: kidradd/comic131.htm:136
+msgctxt "comic131#p2.2"
+msgid "Truthfully, so were we."
+msgstr ""
+
+#. comic131 panel p2
+#. slot: right bubble
+#. images: raddback2.gif, benny2.gif, chick2.gif, floor8.gif
+#: kidradd/comic131.htm:138
+msgctxt "comic131#p2.3"
+msgid "At first."
+msgstr ""
+
+#. comic131 panel p3
+#. slot: left bubble
+#. images: raddright.gif, benny2.gif, chick2.gif, floor8.gif
+#: kidradd/comic131.htm:186
+msgctxt "comic131#p3.1"
+msgid "But, how?..."
+msgstr ""
+
+#. comic131 panel p3
+#. slot: middle bubble
+#. images: raddright.gif, benny2.gif, chick2.gif, floor8.gif
+#: kidradd/comic131.htm:188
+msgctxt "comic131#p3.2"
+msgid "You're not the first visitor here."
+msgstr ""
+
+#. comic131 panel p3
+#. slot: right bubble
+#. images: raddright.gif, benny2.gif, chick2.gif, floor8.gif
+#: kidradd/comic131.htm:190
+msgctxt "comic131#p3.3"
+msgid "Someone else got here first."
+msgstr ""
+
+#. comic131 panel p4
+#. slot: left bubble
+#. images: elfman.gif, raddstand2.gif, bennysmile2.gif, chick2.gif, floor8.gif
+#: kidradd/comic131.htm:237
+msgctxt "comic131#p4.1"
+msgid "The name's Elfman. Welcome to hell."
+msgstr ""
+
+#. comic131 panel p4
+#. slot: right bubble
+#. images: elfman.gif, raddstand2.gif, bennysmile2.gif, chick2.gif, floor8.gif
+#: kidradd/comic131.htm:241
+msgctxt "comic131#p4.2"
+msgid "He's got such a sense of humor!"
+msgstr ""
+
+#. comic132 panel title
+#. slot: background color and image
+#: kidradd/comic132.htm:36
+msgctxt "comic132#title.1"
+msgid "\"HOT-BLOODED\""
+msgstr ""
+
+#. comic132 panel p1
+#. slot: left bubble
+#. images: elfman.gif, raddmad2.gif, floor8.gif
+#: kidradd/comic132.htm:77
+msgctxt "comic132#p1.1"
+msgid "Lemme guess, kid. You came here thinking -"
+msgstr ""
+
+#. comic132 panel p1
+#. slot: right bubble
+#. images: elfman.gif, raddmad2.gif, floor8.gif
+#: kidradd/comic132.htm:81
+msgctxt "comic132#p1.2"
+msgid "Don't say it..."
+msgstr ""
+
+#. comic132 panel p2
+#. slot: left bubble
+#. images: elfman.gif, raddblink2.gif, floor8.gif
+#: kidradd/comic132.htm:134
+msgctxt "comic132#p2.1"
+msgid "- That \"Bunny and Chick Playland\"..."
+msgstr ""
+
+#. comic132 panel p2
+#. slot: right bubble
+#. images: elfman.gif, raddblink2.gif, floor8.gif
+#: kidradd/comic132.htm:138
+msgctxt "comic132#p2.2"
+msgid "...Would have some babe-ular girls in it. Sigh..."
+msgstr ""
+
+#. comic132 panel p3
+#. slot: left bubble
+#. images: elfman.gif, raddsigh.gif, floor8.gif
+#: kidradd/comic132.htm:186
+msgctxt "comic132#p3.1"
+msgid "Heh heh, you loser."
+msgstr ""
+
+#. comic132 panel p3
+#. slot: right bubble
+#. images: elfman.gif, raddsigh.gif, floor8.gif
+#: kidradd/comic132.htm:190
+msgctxt "comic132#p3.2"
+msgid "Oh, shut up."
+msgstr ""
+
+#. comic132 panel p4
+#. slot: left bubble
+#. images: elfman.gif, raddargh.gif, benny2.gif, floor8.gif
+#: kidradd/comic132.htm:236
+msgctxt "comic132#p4.1"
+msgid "Everyone knows the girls are in Playland 2."
+msgstr ""
+
+#. comic132 panel p4
+#. slot: middle bubble
+#. images: elfman.gif, raddargh.gif, benny2.gif, floor8.gif
+#: kidradd/comic132.htm:238
+msgctxt "comic132#p4.2"
+msgid "ARGH!"
+msgstr ""
+
+#. comic132 panel p4
+#. slot: right bubble
+#. images: elfman.gif, raddargh.gif, benny2.gif, floor8.gif
+#: kidradd/comic132.htm:240
+msgctxt "comic132#p4.3"
+msgid "\"Bad Hare Day.\""
+msgstr ""
+
+#. comic133 panel title
+#. slot: background color and image
+#: kidradd/comic133.htm:36
+msgctxt "comic133#title.1"
+msgid "\"SOY UN PERDIDOR\""
+msgstr ""
+
+#. comic133 panel p1
+#. slot: left bubble
+#. images: raddmad.gif, elfman2.gif, floor8.gif
+#: kidradd/comic133.htm:77
+msgctxt "comic133#p1.1"
+msgid "Hey, don't you call me a loser. <b>You</b> came here, too!"
+msgstr ""
+
+#. comic133 panel p1
+#. slot: right bubble
+#. images: raddmad.gif, elfman2.gif, floor8.gif
+#: kidradd/comic133.htm:81
+msgctxt "comic133#p1.2"
+msgid "Well..."
+msgstr ""
+
+#. comic133 panel p2
+#. slot: left bubble
+#. images: raddstand.gif, elfman2.gif, floor8.gif
+#: kidradd/comic133.htm:134
+msgctxt "comic133#p2.1"
+msgid "In fact, you came to this kiddie game <b>intentionally!</b> Now that's a loser!"
+msgstr ""
+
+#. comic133 panel p2
+#. slot: right bubble
+#. images: raddstand.gif, elfman2.gif, floor8.gif
+#: kidradd/comic133.htm:138
+msgctxt "comic133#p2.2"
+msgid "Hey!"
+msgstr ""
+
+#. comic133 panel p3
+#. slot: right bubble
+#. images: elfman2.gif
+#: kidradd/comic133.htm:191
+msgctxt "comic133#p3.1"
+msgid "I didn't mean to come here! I wanted Part 2, but that shyster sold me the wrong code!"
+msgstr ""
+
+#. comic133 panel p5
+#. slot: right bubble
+#. images: raddstand.gif, elffront.gif, floor8.gif
+#: kidradd/comic133.htm:296
+msgctxt "comic133#p5.1"
+msgid "Yeah, I'm a loser."
+msgstr ""
+
+#. comic134 panel title
+#. slot: background color and image
+#: kidradd/comic134.htm:36
+msgctxt "comic134#title.1"
+msgid "\"RUNNING SCARED\""
+msgstr ""
+
+#. comic134 panel p1
+#. slot: left bubble
+#. images: chick.gif, elfman2.gif, raddstand2.gif
+#: kidradd/comic134.htm:77
+msgctxt "comic134#p1.1"
+msgid "Game sign!"
+msgstr ""
+
+#. comic134 panel p1
+#. slot: middle bubble
+#. images: chick.gif, elfman2.gif, raddstand2.gif
+#: kidradd/comic134.htm:79
+msgctxt "comic134#p1.2"
+msgid "Oh crap. We gotta move."
+msgstr ""
+
+#. comic134 panel p1
+#. slot: right bubble
+#. images: chick.gif, elfman2.gif, raddstand2.gif
+#: kidradd/comic134.htm:81
+msgctxt "comic134#p1.3"
+msgid "What?"
+msgstr ""
+
+#. comic134 panel p2
+#. slot: left bubble
+#. images: elfman.gif, raddblink2.gif, floor8.gif
+#: kidradd/comic134.htm:134
+msgctxt "comic134#p2.1"
+msgid "The player's starting a game. We hafta hide."
+msgstr ""
+
+#. comic134 panel p2
+#. slot: right bubble
+#. images: elfman.gif, raddblink2.gif, floor8.gif
+#: kidradd/comic134.htm:138
+msgctxt "comic134#p2.2"
+msgid "Aw, phooey. I ain't running."
+msgstr ""
+
+#. comic134 panel p3
+#. slot: left bubble
+#. images: elfman.gif, raddstand2.gif, floor8.gif
+#: kidradd/comic134.htm:187
+msgctxt "comic134#p3.1"
+msgid "Are you suicidal or just nuts?!"
+msgstr ""
+
+#. comic134 panel p3
+#. slot: right bubble
+#. images: elfman.gif, raddstand2.gif, floor8.gif
+#: kidradd/comic134.htm:191
+msgctxt "comic134#p3.2"
+msgid "It's only a game. Even if the player blasts me, I'll revive after it's over."
+msgstr ""
+
+#. comic134 panel p4
+#. slot: left bubble
+#. images: raddright.gif, elfman.gif, floor8.gif
+#: kidradd/comic134.htm:238
+msgctxt "comic134#p4.1"
+msgid "Where are you going?"
+msgstr ""
+
+#. comic134 panel p4
+#. slot: right bubble
+#. images: raddright.gif, elfman.gif, floor8.gif
+#: kidradd/comic134.htm:242
+msgctxt "comic134#p4.2"
+msgid "Away from you, you freak. I'm gonna live."
+msgstr ""
+
+#. comic134 panel p5
+#. slot: left bubble
+#. images: raddstand.gif, chick2.gif, elfman.gif
+#: kidradd/comic134.htm:292
+msgctxt "comic134#p5.1"
+msgid "Is he always this paranoid?"
+msgstr ""
+
+#. comic134 panel p5
+#. slot: right bubble
+#. images: raddstand.gif, chick2.gif, elfman.gif
+#: kidradd/comic134.htm:296
+msgctxt "comic134#p5.2"
+msgid "I gotta get to my stage. Later."
+msgstr ""
+
+#. comic135 panel title
+#. slot: background color and image
+#: kidradd/comic135.htm:36
+msgctxt "comic135#title.1"
+msgid "\"MAGIC MAN\""
+msgstr ""
+
+#. comic135 panel p1
+#. slot: left bubble
+#. images: sbenny.gif, raddblink2.gif, floor8.gif
+#: kidradd/comic135.htm:77
+msgctxt "comic135#p1.1"
+msgid "Run, Radd! Get out of here!"
+msgstr ""
+
+#. comic135 panel p1
+#. slot: right bubble
+#. images: sbenny.gif, raddblink2.gif, floor8.gif
+#: kidradd/comic135.htm:81
+msgctxt "comic135#p1.2"
+msgid "I fear nothing. I am Radd."
+msgstr ""
+
+#. comic135 panel p2
+#. slot: left bubble
+#. images: sbenny.gif
+#: kidradd/comic135.htm:134
+msgctxt "comic135#p2.1"
+msgid "Any second now, the player will control me. And when that happens, he'll assume you're a new enemy."
+msgstr ""
+
+#. comic135 panel p2
+#. slot: right bubble
+#. images: sbenny.gif
+#: kidradd/comic135.htm:138
+msgctxt "comic135#p2.2"
+msgid "So?"
+msgstr ""
+
+#. comic135 panel p3
+#. slot: left bubble
+#. images: sbenny.gif, raddstand2.gif, floor8.gif
+#: kidradd/comic135.htm:186
+msgctxt "comic135#p3.1"
+msgid "He'll make me throw my magic eggs at you!"
+msgstr ""
+
+#. comic135 panel p4
+#. slot: left bubble
+#. images: sbenny.gif, rlaugh.gif, floor8.gif
+#: kidradd/comic135.htm:237
+msgctxt "comic135#p4.1"
+msgid "I'm a killing machine! I swear!"
+msgstr ""
+
+#. comic136 panel title
+#. slot: background color and image
+#: kidradd/comic136.htm:36
+msgctxt "comic136#title.1"
+msgid "\"DON'T LOOK BACK\""
+msgstr ""
+
+#. comic136 panel p1
+#. slot: left bubble
+#. images: sbenny.gif, raddblink2.gif, floor8.gif
+#: kidradd/comic136.htm:77
+msgctxt "comic136#p1.1"
+msgid "For the last time Radd, run! The player'll make me kill you!"
+msgstr ""
+
+#. comic136 panel p1
+#. slot: right bubble
+#. images: sbenny.gif, raddblink2.gif, floor8.gif
+#: kidradd/comic136.htm:81
+msgctxt "comic136#p1.2"
+msgid "Big deal. We all know video game deaths aren't permanent."
+msgstr ""
+
+#. comic136 panel p2
+#. slot: left bubble
+#. images: sbenny.gif, raddwink2.gif, floor8.gif
+#: kidradd/comic136.htm:134
+msgctxt "comic136#p2.1"
+msgid "Only in your original game! You're not from here!"
+msgstr ""
+
+#. comic136 panel p2
+#. slot: right bubble
+#. images: sbenny.gif, raddwink2.gif, floor8.gif
+#: kidradd/comic136.htm:138
+msgctxt "comic136#p2.2"
+msgid "The game thinks I am. I got the code, remember?"
+msgstr ""
+
+#. comic136 panel p3
+#. slot: left bubble
+#. images: sbenny.gif
+#: kidradd/comic136.htm:186
+msgctxt "comic136#p3.1"
+msgid "That only fooled the game into letting you in. Trust me, if you get killed here, the game can't bring you back!"
+msgstr ""
+
+#. comic136 panel p3
+#. slot: right bubble
+#. images: sbenny.gif
+#: kidradd/comic136.htm:190
+msgctxt "comic136#p3.2"
+msgid "No way!"
+msgstr ""
+
+#. comic136 panel p4
+#. slot: left bubble
+#. images: sbenny.gif, raddstand2.gif, floor8.gif
+#: kidradd/comic136.htm:237
+msgctxt "comic136#p4.1"
+msgid "Yes way! Now run before it's too -"
+msgstr ""
+
+#. comic136 panel p5
+#. slot: middle bubble
+#. images: chick.gif
+#: kidradd/comic136.htm:292
+msgctxt "comic136#p5.1"
+msgid "- late."
+msgstr ""
+
+#. comic136 panel p5
+#. slot: bubble "stems"
+#. images: chick.gif
+#: kidradd/comic136.htm:297
+msgctxt "comic136#p5.2"
+msgid "GAME START!"
+msgstr ""
+
+#. comic137 panel title
+#. slot: background color and image
+#: kidradd/comic137.htm:36
+msgctxt "comic137#title.1"
+msgid "\"THE BUNNYMAN COMETH\""
+msgstr ""
+
+#. comic137 panel p1
+#. slot: bubble "stems"
+#. images: chick.gif
+#: kidradd/comic137.htm:84
+msgctxt "comic137#p1.1"
+msgid "NOW IS THE START OF A WONDERFUL STORY!"
+msgstr ""
+
+#. comic137 panel p2
+#. slot: bubble "stems"
+#. images: chick.gif
+#: kidradd/comic137.htm:141
+msgctxt "comic137#p2.1"
+msgid "LET US JOURNEY TO THE LAND OF BUNNY AND CHICK!"
+msgstr ""
+
+#. comic137 panel p3
+#. slot: right bubble
+#. images: benny.gif, raddstand2.gif, floor8b.gif
+#: kidradd/comic137.htm:191
+msgctxt "comic137#p3.1"
+msgid "Uh, Benny?"
+msgstr ""
+
+#. comic137 panel p4
+#. slot: right bubble
+#. images: bennyrun.gif, eggthrow.gif, raddrun.gif, floor8run.gif
+#: kidradd/comic137.htm:247
+msgctxt "comic137#p4.1"
+msgid "BOGUS!!!"
+msgstr ""
+
+#. comic138 panel title
+#. slot: background color and image
+#: kidradd/comic138.htm:49
+msgctxt "comic138#title.1"
+msgid "\"WRONG AGAIN\""
+msgstr ""
+
+#. comic138 panel p1
+#. slot: right bubble
+#. images: bennyrun.gif, eggthrow.gif, raddrun.gif, floor8run.gif
+#: kidradd/comic138.htm:97
+msgctxt "comic138#p1.1"
+msgid "How did I get into this?"
+msgstr ""
+
+#. comic138 panel p2
+#. slot: right bubble
+#. images: bennyrun.gif, eggthrow.gif, raddrun.gif, floor8run.gif
+#: kidradd/comic138.htm:156
+msgctxt "comic138#p2.1"
+msgid "I'm about to be killed by a big rabbit who's lobbing eggs at me."
+msgstr ""
+
+#. comic138 panel p3
+#. slot: right bubble
+#. images: bennyrun.gif, eggthrow.gif, raddrun.gif, floor8run.gif
+#: kidradd/comic138.htm:211
+msgctxt "comic138#p3.1"
+msgid "There can't possibly be a more humiliating way to die."
+msgstr ""
+
+#. comic138 panel p5
+#. slot: narration (if any, else cut)
+#. images: benny.gif, raddstare.gif, boomc.gif, floor8b.gif
+#: kidradd/comic138.htm:307
+msgctxt "comic138#p5.1"
+msgid "BOSS: BOOM CHICKA"
+msgstr ""
+
+#. comic138 panel p5
+#. slot: left bubble
+#. images: benny.gif, raddstare.gif, boomc.gif, floor8b.gif
+#: kidradd/comic138.htm:313
+msgctxt "comic138#p5.2"
+msgid "Once again, I stand corrected."
+msgstr ""
+
+#. comic138 panel p5
+#. slot: right bubble
+#. images: benny.gif, raddstare.gif, boomc.gif, floor8b.gif
+#: kidradd/comic138.htm:317
+msgctxt "comic138#p5.3"
+msgid "cheep."
+msgstr ""
+
+#. comic139 panel title
+#. slot: background color and image
+#: kidradd/comic139.htm:36
+msgctxt "comic139#title.1"
+msgid "\"MIND STARTS TO WANDER\""
+msgstr ""
+
+#. comic139 panel p1
+#. slot: narration (if any, else cut)
+#. images: thought.gif, benny.gif, raddback.gif, boomc.gif, floor8b.gif
+#: kidradd/comic139.htm:74
+msgctxt "comic139#p1.1"
+msgid "BOSS: BOOM CHICKA"
+msgstr ""
+
+#. comic139 panel p1
+#. slot: left bubble
+#. images: thought.gif, benny.gif, raddback.gif, boomc.gif, floor8b.gif
+#: kidradd/comic139.htm:80
+msgctxt "comic139#p1.2"
+msgid "Well, looks like this is it."
+msgstr ""
+
+#. comic139 panel p2
+#. slot: left bubble
+#. images: thought.gif, raddtable2.gif, bhead.gif
+#: kidradd/comic139.htm:137
+msgctxt "comic139#p2.1"
+msgid "As I face the final \"game over,\" I think of my friends. Well, my one friend. Acquaintance really. Damn, don't I know anybody else?"
+msgstr ""
+
+#. comic139 panel p3
+#. slot: left bubble
+#. images: thought.gif, raddtable3.gif, sheenaswim.gif
+#: kidradd/comic139.htm:188
+msgctxt "comic139#p3.1"
+msgid "Oh yeah, there's Sheena. The girl I would've liked to love... Or at least get to second base with. She can degauss my pixels anytime. Rrrowr!"
+msgstr ""
+
+#. comic139 panel p5
+#. slot: left bubble
+#. images: thought.gif, raddstare.gif, bennyrun.gif, eggs.gif, boomcx.gif, floor8b.gif
+#: kidradd/comic139.htm:292
+msgctxt "comic139#p5.1"
+msgid "Um, I kinda lost my train of thought."
+msgstr ""
+
+#. comic140 panel title
+#. slot: background color and image
+#: kidradd/comic140.htm:48
+msgctxt "comic140#title.1"
+msgid "\"STARTING OVER AGAIN\""
+msgstr ""
+
+#. comic140 panel p1
+#. slot: left bubble
+#. images: thought.gif, raddright.gif, bennyrun.gif, eggs.gif, boomcx.gif, floor8b.gif
+#: kidradd/comic140.htm:90
+msgctxt "comic140#p1.1"
+msgid "What a break! The player's fighting that monster, and is too busy to worry about me!"
+msgstr ""
+
+#. comic140 panel p2
+#. slot: middle bubble
+#. images: thought.gif, rheadjoy.gif
+#: kidradd/comic140.htm:149
+msgctxt "comic140#p2.1"
+msgid "With a little luck, the player will lose the game, and I'll be safe again! Sweet!"
+msgstr ""
+
+#. comic140 panel p3
+#. slot: left bubble
+#. images: thought.gif, raddstand.gif, benny.gif, floor8b.gif
+#: kidradd/comic140.htm:198
+msgctxt "comic140#p3.1"
+msgid "Uh-oh."
+msgstr ""
+
+#. comic140 panel p4
+#. slot: bubble "stems"
+#. images: chick.gif
+#: kidradd/comic140.htm:256
+msgctxt "comic140#p4.1"
+msgid "NEATO!<br>START LEVEL 2"
+msgstr ""
+
+#. comic140 panel p5
+#. slot: right bubble
+#. images: bennyrun.gif, eggthrow.gif, raddrun.gif, floor9run.gif
+#: kidradd/comic140.htm:308
+msgctxt "comic140#p5.1"
+msgid "Bogus..."
+msgstr ""
+
+#. comic141 panel title
+#. slot: background color and image
+#: kidradd/comic141.htm:48
+msgctxt "comic141#title.1"
+msgid "\"MY LIFE\""
+msgstr ""
+
+#. comic141 panel p1
+#. slot: right bubble
+#. images: bennyrun.gif, eggthrow.gif, raddrun.gif, floor9run.gif
+#: kidradd/comic141.htm:96
+msgctxt "comic141#p1.1"
+msgid "Way, way, way not cool! The player's gonna chase me through the whole game!"
+msgstr ""
+
+#. comic141 panel p2
+#. slot: narration (if any, else cut)
+#. images: benny.gif, raddright.gif, doomc.gif, floor9.gif
+#: kidradd/comic141.htm:145
+msgctxt "comic141#p2.1"
+msgid "BOSS: DOOM CHICKA"
+msgstr ""
+
+#. comic141 panel p2
+#. slot: left bubble
+#. images: benny.gif, raddright.gif, doomc.gif, floor9.gif
+#: kidradd/comic141.htm:151
+msgctxt "comic141#p2.2"
+msgid "Whew, another boss! Maybe this one'll finish him."
+msgstr ""
+
+#. comic141 panel p3
+#. slot: left bubble
+#. images: floor9.gif
+#: kidradd/comic141.htm:202
+msgctxt "comic141#p3.1"
+msgid "<b>Yes!</b> The boss killed him! It's finally over!"
+msgstr ""
+
+#. comic141 panel p4
+#. slot: bubble "stems"
+#. images: chick.gif
+#: kidradd/comic141.htm:260
+msgctxt "comic141#p4.1"
+msgid "LIVES REMAINING: 2"
+msgstr ""
+
+#. comic141 panel p5
+#. slot: right bubble
+#. images: bennyrun.gif, eggthrow.gif, raddrun.gif, floor9run.gif
+#: kidradd/comic141.htm:312
+msgctxt "comic141#p5.1"
+msgid "DAMMIT!!!"
+msgstr ""
+
+#. comic142 panel title
+#. slot: background color and image
+#: kidradd/comic142.htm:48
+msgctxt "comic142#title.1"
+msgid "\"LOVE SHACK\""
+msgstr ""
+
+#. comic142 panel p1
+#. slot: right bubble
+#. images: jump.gif
+#: kidradd/comic142.htm:94
+msgctxt "comic142#p1.1"
+msgid "So tired...<br><i>*pant, pant*</i><br> Can't...<br><i>*pant, pant*</i><br> Complete sentences..."
+msgstr ""
+
+#. comic142 panel p3
+#. slot: left bubble
+#. images: raddsit.gif, elfman2.gif
+#: kidradd/comic142.htm:195
+msgctxt "comic142#p3.1"
+msgid "Wh-? Where am I?"
+msgstr ""
+
+#. comic142 panel p3
+#. slot: right bubble
+#. images: raddsit.gif, elfman2.gif
+#: kidradd/comic142.htm:199
+msgctxt "comic142#p3.2"
+msgid "In a bonus stage the player never discovered. You're safe here."
+msgstr ""
+
+#. comic142 panel p4
+#. slot: left bubble
+#. images: raddsit.gif, elfman2.gif
+#: kidradd/comic142.htm:248
+msgctxt "comic142#p4.1"
+msgid "Thanks, I uh, er, uh-oh..."
+msgstr ""
+
+#. comic142 panel p5
+#. slot: right bubble
+#. images: raddstand.gif, elffront.gif
+#: kidradd/comic142.htm:307
+msgctxt "comic142#p5.1"
+msgid "Oh, all this, um -- Well I figured if a girl sprite ever came to this game, I'd be ready..."
+msgstr ""
+
+#. comic143 panel title
+#. slot: background color and image
+#: kidradd/comic143.htm:35
+msgctxt "comic143#title.1"
+msgid "\"RUNAWAY\""
+msgstr ""
+
+#. comic143 panel p1
+#. slot: left bubble
+#. images: elfman.gif, raddstand.gif
+#: kidradd/comic143.htm:79
+msgctxt "comic143#p1.1"
+msgid "So why are you running, kid? Don't you have special powers or something?"
+msgstr ""
+
+#. comic143 panel p1
+#. slot: right bubble
+#. images: elfman.gif, raddstand.gif
+#: kidradd/comic143.htm:83
+msgctxt "comic143#p1.2"
+msgid "Not really..."
+msgstr ""
+
+#. comic143 panel p2
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic143.htm:138
+msgctxt "comic143#p2.1"
+msgid "I mean, my player did all the work. I don't have much experience using the moves on my own."
+msgstr ""
+
+#. comic143 panel p3
+#. slot: left bubble
+#. images: elfman.gif, raddmad2.gif
+#: kidradd/comic143.htm:190
+msgctxt "comic143#p3.1"
+msgid "So you're a wuss."
+msgstr ""
+
+#. comic143 panel p3
+#. slot: right bubble
+#. images: elfman.gif, raddmad2.gif
+#: kidradd/comic143.htm:194
+msgctxt "comic143#p3.2"
+msgid "Hey!"
+msgstr ""
+
+#. comic143 panel p4
+#. slot: left bubble
+#. images: elfman.gif, raddblink2.gif
+#: kidradd/comic143.htm:243
+msgctxt "comic143#p4.1"
+msgid "It's no big deal. I'm pretty wussy myself."
+msgstr ""
+
+#. comic143 panel p4
+#. slot: right bubble
+#. images: elfman.gif, raddblink2.gif
+#: kidradd/comic143.htm:247
+msgctxt "comic143#p4.2"
+msgid "Y'know, some of us have this thing called \"pride\"..."
+msgstr ""
+
+#. comic144 panel title
+#. slot: background color and image
+#: kidradd/comic144.htm:35
+msgctxt "comic144#title.1"
+msgid "\"RUNNING ON EMPTY\""
+msgstr ""
+
+#. comic144 panel p1
+#. slot: bubble "stems"
+#. images: chick.gif
+#: kidradd/comic144.htm:84
+msgctxt "comic144#p1.1"
+msgid "LIVES REMAINING: 1"
+msgstr ""
+
+#. comic144 panel p2
+#. slot: left bubble
+#. images: elfman.gif, raddblink2.gif
+#: kidradd/comic144.htm:136
+msgctxt "comic144#p2.1"
+msgid "Didja catch that? The player's on their last life."
+msgstr ""
+
+#. comic144 panel p2
+#. slot: right bubble
+#. images: elfman.gif, raddblink2.gif
+#: kidradd/comic144.htm:140
+msgctxt "comic144#p2.2"
+msgid "Good. I'll be glad when it's over."
+msgstr ""
+
+#. comic144 panel p3
+#. slot: left bubble
+#. images: benny2.gif
+#: kidradd/comic144.htm:188
+msgctxt "comic144#p3.1"
+msgid "What the- ?"
+msgstr ""
+
+#. comic144 panel p3
+#. slot: right bubble
+#. images: benny2.gif
+#: kidradd/comic144.htm:192
+msgctxt "comic144#p3.2"
+msgid "Oh, crap! The player found us!"
+msgstr ""
+
+#. comic144 panel p4
+#. slot: left bubble
+#. images: raddright.gif, elfman.gif, bennyleft.gif
+#: kidradd/comic144.htm:241
+msgctxt "comic144#p4.1"
+msgid "We gotta get outta here!"
+msgstr ""
+
+#. comic144 panel p4
+#. slot: middle bubble
+#. images: raddright.gif, elfman.gif, bennyleft.gif
+#: kidradd/comic144.htm:243
+msgctxt "comic144#p4.2"
+msgid "Kid, the only exit is behind Benny there."
+msgstr ""
+
+#. comic144 panel p5
+#. slot: left bubble
+#. images: raddargh.gif, elfman2.gif, eggthrow2.gif, bennyrun2.gif
+#: kidradd/comic144.htm:297
+msgctxt "comic144#p5.1"
+msgid "We're gonna die!!!"
+msgstr ""
+
+#. comic144 panel p5
+#. slot: middle bubble
+#. images: raddargh.gif, elfman2.gif, eggthrow2.gif, bennyrun2.gif
+#: kidradd/comic144.htm:299
+msgctxt "comic144#p5.2"
+msgid "Well, duh."
+msgstr ""
+
+#. comic145 panel title
+#. slot: background color and image
+#: kidradd/comic145.htm:35
+msgctxt "comic145#title.1"
+msgid "\"LITTLE BLACK EGG\""
+msgstr ""
+
+#. comic145 panel p1
+#. slot: left bubble
+#. images: elfman.gif, raddright.gif, eggthrow2.gif, bennyrun2.gif
+#: kidradd/comic145.htm:79
+msgctxt "comic145#p1.1"
+msgid "Fight 'im! It's our only chance!"
+msgstr ""
+
+#. comic145 panel p1
+#. slot: middle bubble
+#. images: elfman.gif, raddright.gif, eggthrow2.gif, bennyrun2.gif
+#: kidradd/comic145.htm:81
+msgctxt "comic145#p1.2"
+msgid "Groan..."
+msgstr ""
+
+#. comic145 panel p2
+#. slot: right bubble
+#. images: rameter.gif, thought.gif, raddhurt.gif
+#: kidradd/comic145.htm:142
+msgctxt "comic145#p2.1"
+msgid "<b>Ow!</b> Dammit, why does everything hurt me the same? I coulda been killed by a missile or machine gun, but instead I'm gonna die by <b>an egg???</b>"
+msgstr ""
+
+#. comic145 panel p3
+#. slot: right bubble
+#. images: thought.gif, raddtableargh.gif
+#: kidradd/comic145.htm:196
+msgctxt "comic145#p3.1"
+msgid "It doesn't even make sense! I mean, how the hell can an egg kill you? Am I supposed to get salmonella or something? This sucks!!!"
+msgstr ""
+
+#. comic145 panel p4
+#. slot: left bubble
+#. images: elfman.gif, raddstare.gif
+#: kidradd/comic145.htm:240
+msgctxt "comic145#p4.1"
+msgid "Kid, you are aware that time passes while you stand there, right? While you're having your little internal monologue, the player's throwing more eggs at you."
+msgstr ""
+
+#. comic145 panel p5
+#. slot: middle bubble
+#. images: rmeter.gif, thought.gif, raddhurt.gif, eggs2.gif, bennyrun2.gif
+#: kidradd/comic145.htm:298
+msgctxt "comic145#p5.1"
+msgid "DAMMIT!"
+msgstr ""
+
+#. comic146 panel title
+#. slot: background color and image
+#: kidradd/comic146.htm:48
+msgctxt "comic146#title.1"
+msgid "\"HELP IS ON ITS WAY\""
+msgstr ""
+
+#. comic146 panel p1
+#. slot: left bubble
+#. images: elfman.gif, raddright.gif, eggthrow2.gif, bennyrun2.gif
+#: kidradd/comic146.htm:92
+msgctxt "comic146#p1.1"
+msgid "What are you doing??? Shoot him or something!"
+msgstr ""
+
+#. comic146 panel p2
+#. slot: right bubble
+#. images: thought.gif, raddtablem.gif
+#: kidradd/comic146.htm:155
+msgctxt "comic146#p2.1"
+msgid "The very worst part of this mess is knowing that I'm getting killed by such a mediocre player."
+msgstr ""
+
+#. comic146 panel p3
+#. slot: left bubble
+#. images: thought.gif, ready.gif
+#: kidradd/comic146.htm:200
+msgctxt "comic146#p3.1"
+msgid "This guy's just not that good. I know exactly what my old player would've done to him."
+msgstr ""
+
+#. comic146 panel p5
+#. slot: left bubble
+#. images: thought2.gif, raddkneel.gif
+#: kidradd/comic146.htm:302
+msgctxt "comic146#p5.1"
+msgid "Something like that."
+msgstr ""
+
+#. comic146 panel p5
+#. slot: imsert images on this line
+#. images: thought2.gif, raddkneel.gif
+#: kidradd/comic146.htm:313
+msgctxt "comic146#p5.2"
+msgid "<font color=\"white\" size=\"5\" face=\"arial\">-</font><font color=\"white\" size=\"1\" face=\"arial\">&nbsp;Holy sh**!<br><br></font>"
+msgstr ""
+
+#. comic147 panel title
+#. slot: background color and image
+#: kidradd/comic147.htm:35
+msgctxt "comic147#title.1"
+msgid "\"UNBELIEVABLE\""
+msgstr ""
+
+#. comic147 panel p1
+#. slot: bubble "stems"
+#. images: sbenny.gif
+#: kidradd/comic147.htm:84
+msgctxt "comic147#p1.1"
+msgid "GAME OVER"
+msgstr ""
+
+#. comic147 panel p2
+#. slot: left bubble
+#. images: elfman.gif, raddkneel.gif
+#: kidradd/comic147.htm:136
+msgctxt "comic147#p2.1"
+msgid "You did it! You ended the game!"
+msgstr ""
+
+#. comic147 panel p2
+#. slot: right bubble
+#. images: elfman.gif, raddkneel.gif
+#: kidradd/comic147.htm:140
+msgctxt "comic147#p2.2"
+msgid "I did?"
+msgstr ""
+
+#. comic147 panel p3
+#. slot: left bubble
+#. images: elfman.gif, raddstand.gif
+#: kidradd/comic147.htm:190
+msgctxt "comic147#p3.1"
+msgid "That was incredible! Why didn't you do that earlier?"
+msgstr ""
+
+#. comic147 panel p3
+#. slot: right bubble
+#. images: elfman.gif, raddstand.gif
+#: kidradd/comic147.htm:194
+msgctxt "comic147#p3.2"
+msgid "I -- I didn't think I could."
+msgstr ""
+
+#. comic147 panel p4
+#. slot: middle bubble
+#. images: rhead.gif
+#: kidradd/comic147.htm:243
+msgctxt "comic147#p4.1"
+msgid "Is it... Could it be possible... That I'm capable of performing all those kickass moves without a player?"
+msgstr ""
+
+#. comic147 panel p5
+#. slot: left bubble
+#. images: elfman.gif, raddfront.gif
+#: kidradd/comic147.htm:298
+msgctxt "comic147#p5.1"
+msgid "Nothing gets by you, Sherlock."
+msgstr ""
+
+#. comic147 panel p5
+#. slot: right bubble
+#. images: elfman.gif, raddfront.gif
+#: kidradd/comic147.htm:302
+msgctxt "comic147#p5.2"
+msgid "Maybe even without a turbo controller?..."
+msgstr ""
+
+#. comic148 panel title
+#. slot: background color and image
+#: kidradd/comic148.htm:36
+msgctxt "comic148#title.1"
+msgid "\"YOU CAN CHECK OUT ANYTIME YOU LIKE, BUT...\""
+msgstr ""
+
+#. comic148 panel p1
+#. slot: left bubble
+#. images: benny.gif, raddstand2.gif, elfman2.gif, chick2.gif, floor8.gif
+#: kidradd/comic148.htm:77
+msgctxt "comic148#p1.1"
+msgid "Radd, I'm so glad you're okay! Please forgive my actions."
+msgstr ""
+
+#. comic148 panel p1
+#. slot: right bubble
+#. images: benny.gif, raddstand2.gif, elfman2.gif, chick2.gif, floor8.gif
+#: kidradd/comic148.htm:81
+msgctxt "comic148#p1.2"
+msgid "Uh, sure. </font><font size=\"1\" face=\"arial\">(The guy I killed wants my forgiveness? Sheesh.)</font>"
+msgstr ""
+
+#. comic148 panel p2
+#. slot: left bubble
+#. images: benny.gif, raddstand2.gif, elfman2.gif, chick2.gif, floor8.gif
+#: kidradd/comic148.htm:134
+msgctxt "comic148#p2.1"
+msgid "Is there anything we can do to make your stay more comfortable?"
+msgstr ""
+
+#. comic148 panel p2
+#. slot: right bubble
+#. images: benny.gif, raddstand2.gif, elfman2.gif, chick2.gif, floor8.gif
+#: kidradd/comic148.htm:138
+msgctxt "comic148#p2.2"
+msgid "Thanks, but I think I'll be leaving now."
+msgstr ""
+
+#. comic148 panel p3
+#. slot: right bubble
+#. images: raddwow.gif, elfman2.gif
+#: kidradd/comic148.htm:190
+msgctxt "comic148#p3.1"
+msgid "Leaving? Yeah, right. Do you think <b>I</b> would have stayed here if it were possible to leave?"
+msgstr ""
+
+#. comic148 panel p4
+#. slot: left bubble
+#. images: raddbeg.gif, elfman2.gif, chick2.gif, floor8.gif
+#: kidradd/comic148.htm:237
+msgctxt "comic148#p4.1"
+msgid "Why? <b>WHY???</b>"
+msgstr ""
+
+#. comic148 panel p4
+#. slot: middle bubble
+#. images: raddbeg.gif, elfman2.gif, chick2.gif, floor8.gif
+#: kidradd/comic148.htm:239
+msgctxt "comic148#p4.2"
+msgid "I hate to see a grown man cry."
+msgstr ""
+
+#. comic148 panel p4
+#. slot: right bubble
+#. images: raddbeg.gif, elfman2.gif, chick2.gif, floor8.gif
+#: kidradd/comic148.htm:241
+msgctxt "comic148#p4.3"
+msgid "Or him, too."
+msgstr ""
+
+#. comic149 panel title
+#. slot: background color and image
+#: kidradd/comic149.htm:36
+msgctxt "comic149#title.1"
+msgid "\"DANGEROUS\""
+msgstr ""
+
+#. comic149 panel p1
+#. slot: left bubble
+#. images: chick.gif, lolly.gif, raddsits.gif, floor8.gif
+#: kidradd/comic149.htm:77
+msgctxt "comic149#p1.1"
+msgid "Here, have a powerup. You'll feel better."
+msgstr ""
+
+#. comic149 panel p1
+#. slot: right bubble
+#. images: chick.gif, lolly.gif, raddsits.gif, floor8.gif
+#: kidradd/comic149.htm:81
+msgctxt "comic149#p1.2"
+msgid "Thanks..."
+msgstr ""
+
+#. comic149 panel p2
+#. slot: right bubble
+#. images: raddmeter.gif, thought.gif, raddsit.gif, floor8.gif
+#: kidradd/comic149.htm:140
+msgctxt "comic149#p2.1"
+msgid "Boy, am I screwed. I'm stuck in this sissy game forever."
+msgstr ""
+
+#. comic149 panel p3
+#. slot: right bubble
+#. images: thought.gif, raddsit.gif, floor8.gif
+#: kidradd/comic149.htm:192
+msgctxt "comic149#p3.1"
+msgid "No more of the diner, no more TV or nachos, and certainly no shot at meeting any girls."
+msgstr ""
+
+#. comic149 panel p4
+#. slot: right bubble
+#. images: chick.gif, raddsitw.gif, floor8.gif
+#: kidradd/comic149.htm:243
+msgctxt "comic149#p4.1"
+msgid "You know, you're kinda cute."
+msgstr ""
+
+#. comic149 panel p5
+#. slot: narration (if any, else cut)
+#. images: elffrontt.gif
+#: kidradd/comic149.htm:288
+msgctxt "comic149#p5.1"
+msgid "AAAAARRGH!!!"
+msgstr ""
+
+#. comic149 panel p5
+#. slot: right bubble
+#. images: elffrontt.gif
+#: kidradd/comic149.htm:298
+msgctxt "comic149#p5.2"
+msgid "Sure, he's reluctant now, but give it a few weeks."
+msgstr ""
+
+#. comic150 panel title
+#. slot: background color and image
+#: kidradd/comic150.htm:35
+msgctxt "comic150#title.1"
+msgid "\"CELEBRATE\""
+msgstr ""
+
+#. comic150 panel p1
+#. slot: left bubble
+#. images: elfman.gif, raddback.gif, floor8.gif
+#: kidradd/comic150.htm:77
+msgctxt "comic150#p1.1"
+msgid "Sorry you're stuck here, kid."
+msgstr ""
+
+#. comic150 panel p1
+#. slot: right bubble
+#. images: elfman.gif, raddback.gif, floor8.gif
+#: kidradd/comic150.htm:81
+msgctxt "comic150#p1.2"
+msgid "It's my fault, I guess."
+msgstr ""
+
+#. comic150 panel p2
+#. slot: left bubble
+#. images: elffront.gif, raddsigh.gif, floor8.gif
+#: kidradd/comic150.htm:134
+msgctxt "comic150#p2.1"
+msgid "Boy, if I could get my hands on the creep who got us here..."
+msgstr ""
+
+#. comic150 panel p2
+#. slot: right bubble
+#. images: elffront.gif, raddsigh.gif, floor8.gif
+#: kidradd/comic150.htm:138
+msgctxt "comic150#p2.2"
+msgid "Grr, you and me both."
+msgstr ""
+
+#. comic150 panel p3
+#. slot: left bubble
+#. images: elfman.gif, raddstand2.gif, floor8.gif
+#: kidradd/comic150.htm:187
+msgctxt "comic150#p3.1"
+msgid "What's that noise?"
+msgstr ""
+
+#. comic150 panel p3
+#. slot: middle bubble
+#. images: elfman.gif, raddstand2.gif, floor8.gif
+#: kidradd/comic150.htm:189
+msgctxt "comic150#p3.2"
+msgid "beep!<br>beep!"
+msgstr ""
+
+#. comic150 panel p3
+#. slot: right bubble
+#. images: elfman.gif, raddstand2.gif, floor8.gif
+#: kidradd/comic150.htm:191
+msgctxt "comic150#p3.3"
+msgid "Oh, I'm being paged. A human needs a chatroom avatar and -"
+msgstr ""
+
+#. comic150 panel p4
+#. slot: middle bubble
+#. images: rheadwow.gif
+#: kidradd/comic150.htm:240
+msgctxt "comic150#p4.1"
+msgid "- wants to beam me outta here!"
+msgstr ""
+
+#. comic150 panel p5
+#. slot: left bubble
+#. images: raddrock.gif, elfman.gif, chick2.gif
+#: kidradd/comic150.htm:293
+msgctxt "comic150#p5.1"
+msgid "Celllllebrate good times, come ON!"
+msgstr ""
+
+#. comic150 panel p5
+#. slot: middle bubble
+#. images: raddrock.gif, elfman.gif, chick2.gif
+#: kidradd/comic150.htm:295
+msgctxt "comic150#p5.2"
+msgid "I swear, dumb luck both causes and cures every problem for that kid."
+msgstr ""
+
+#. comic150 panel p5
+#. slot: right bubble
+#. images: raddrock.gif, elfman.gif, chick2.gif
+#: kidradd/comic150.htm:297
+msgctxt "comic150#p5.3"
+msgid "Deus ex machina."
+msgstr ""
+
+#. comic151 panel title
+#. slot: background color and image
+#: kidradd/comic151.htm:53
+msgctxt "comic151#title.1"
+msgid "\"RETURN OF THE MACK\""
+msgstr ""
+
+#. comic151 panel p1
+#. slot: left bubble
+#. images: raddstand.gif, elfman2.gif, chick.gif
+#: kidradd/comic151.htm:95
+msgctxt "comic151#p1.1"
+msgid "Bye Elfman. I wish I could take you with me."
+msgstr ""
+
+#. comic151 panel p1
+#. slot: middle bubble
+#. images: raddstand.gif, elfman2.gif, chick.gif
+#: kidradd/comic151.htm:97
+msgctxt "comic151#p1.2"
+msgid "I'll be okay. The chicks here need me."
+msgstr ""
+
+#. comic151 panel p1
+#. slot: right bubble
+#. images: raddstand.gif, elfman2.gif, chick.gif
+#: kidradd/comic151.htm:99
+msgctxt "comic151#p1.3"
+msgid "As if."
+msgstr ""
+
+#. comic151 panel p2
+#. slot: imsert images on this line
+#. images: floor8.gif
+#: kidradd/comic151.htm:163
+msgctxt "comic151#p2.1"
+msgid "Adios,<br>amigos!"
+msgstr ""
+
+#. comic151 panel p3
+#. slot: middle bubble
+#. images: raddspin.gif
+#: kidradd/comic151.htm:206
+msgctxt "comic151#p3.1"
+msgid "After the chat, I'll be beamed to my default location, which I've set as Bogey's apartment."
+msgstr ""
+
+#. comic151 panel p4
+#. slot: middle bubble
+#. images: thought.gif, rheadjoy.gif
+#: kidradd/comic151.htm:257
+msgctxt "comic151#p4.1"
+msgid "Sweetness! I never thought I'd be so glad to be here!"
+msgstr ""
+
+#. comic151 panel p4
+#. slot: imsert images on this line
+#. images: thought.gif, rheadjoy.gif
+#: kidradd/comic151.htm:267
+msgctxt "comic151#p4.2"
+msgid "romanZ: <i>Enters the room...</i>"
+msgstr ""
+
+#. comic151 panel p5
+#. slot: narration (if any, else cut)
+#. images: thought.gif, rheadwow.gif, dude.gif
+#: kidradd/comic151.htm:307
+msgctxt "comic151#p5.1"
+msgid "Two minutes later..."
+msgstr ""
+
+#. comic151 panel p5
+#. slot: middle bubble
+#. images: thought.gif, rheadwow.gif, dude.gif
+#: kidradd/comic151.htm:315
+msgctxt "comic151#p5.2"
+msgid "Let me out! <b>LET ME OUT!!!</b>"
+msgstr ""
+
+#. comic151 panel p5
+#. slot: imsert images on this line
+#. images: thought.gif, rheadwow.gif, dude.gif
+#: kidradd/comic151.htm:325
+msgctxt "comic151#p5.3"
+msgid "romanZ: jesus sends the ufos"
+msgstr ""
+
+#. comic151 panel p5
+#. slot: imsert images on this line
+#. images: thought.gif, rheadwow.gif, dude.gif
+#: kidradd/comic151.htm:326
+msgctxt "comic151#p5.4"
+msgid "bud: no the devil does"
+msgstr ""
+
+#. comic152 panel title
+#. slot: background color and image
+#: kidradd/comic152.htm:53
+msgctxt "comic152#title.1"
+msgid "\"HELLO IT'S ME\""
+msgstr ""
+
+#. comic152 panel p1
+#. slot: middle bubble
+#. images: raddspin.gif
+#: kidradd/comic152.htm:97
+msgctxt "comic152#p1.1"
+msgid "Whew, they're done. I'm finally going home!"
+msgstr ""
+
+#. comic152 panel p2
+#. slot: imsert images on this line
+#: kidradd/comic152.htm:163
+msgctxt "comic152#p2.1"
+msgid "Poor Bogey, I'll<br>bet he was<br>worried sick<br>about me."
+msgstr ""
+
+#. comic152 panel p3
+#. slot: left bubble
+#. images: raddblink.gif, bogeymad2.gif
+#: kidradd/comic152.htm:204
+msgctxt "comic152#p3.1"
+msgid "Bogey! I'm back! Be happy!"
+msgstr ""
+
+#. comic152 panel p3
+#. slot: right bubble
+#. images: raddblink.gif, bogeymad2.gif
+#: kidradd/comic152.htm:208
+msgctxt "comic152#p3.2"
+msgid "Sheesh. Were you even gone an hour?"
+msgstr ""
+
+#. comic152 panel p4
+#. slot: left bubble
+#. images: raddstand.gif, bogeysigh2.gif
+#: kidradd/comic152.htm:255
+msgctxt "comic152#p4.1"
+msgid "Um, you're still angry at me?"
+msgstr ""
+
+#. comic152 panel p4
+#. slot: right bubble
+#. images: raddstand.gif, bogeysigh2.gif
+#: kidradd/comic152.htm:259
+msgctxt "comic152#p4.2"
+msgid "Not at all."
+msgstr ""
+
+#. comic152 panel p5
+#. slot: middle bubble
+#. images: closet.gif, bogeytalk.gif
+#: kidradd/comic152.htm:312
+msgctxt "comic152#p5.1"
+msgid "Then why am I back in the closet?"
+msgstr ""
+
+#. comic152 panel p5
+#. slot: right bubble
+#. images: closet.gif, bogeytalk.gif
+#: kidradd/comic152.htm:314
+msgctxt "comic152#p5.2"
+msgid "For old times' sake."
+msgstr ""

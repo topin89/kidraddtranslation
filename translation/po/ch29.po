@@ -1,0 +1,802 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Kid Radd RU — Chapter 29: The End\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: kidradd tools/extract.py\n"
+
+#. comic590 panel title
+#. slot: background color and image
+#: kidradd/comic590.htm:46
+msgctxt "comic590#title.1"
+msgid "\"BEEN HERE BEFORE\""
+msgstr ""
+
+#. comic590 panel p1
+#. slot: left bubble
+#. images: thought2.gif
+#: kidradd/comic590.htm:87
+msgctxt "comic590#p1.1"
+msgid "So, now comes the hard part: Trying to return life to some semblance of normalcy."
+msgstr ""
+
+#. comic590 panel p2
+#. slot: narration (if any, else cut)
+#: kidradd/comic590.htm:138
+msgctxt "comic590#p2.1"
+msgid "\"Sheena, QB and Amp are trying to re-create the Moderators with slightly less totalitarian tendencies. There's plenty of job openings, most of which are being grabbed by NPCs.\""
+msgstr ""
+
+#. comic590 panel p3
+#. slot: right bubble
+#. images: thought2.gif, raddstand.gif
+#: kidradd/comic590.htm:202
+msgctxt "comic590#p3.1"
+msgid "Which reminds me, I should find a job myself. I guess I can no longer leech off of... Bogey..."
+msgstr ""
+
+#. comic590 panel p4
+#. slot: right bubble
+#. images: thought.gif, raddsitd.gif
+#: kidradd/comic590.htm:254
+msgctxt "comic590#p4.1"
+msgid "It's all so futile. Despite how much we want to change, it seems we're still destined to play out our roles. Heroes being heroes, villains being villains... and little minor enemy sprites existing for the sole purpose of being killed."
+msgstr ""
+
+#. comic590 panel p5
+#. slot: right bubble
+#. images: thought.gif, gicurse.gif
+#: kidradd/comic590.htm:307
+msgctxt "comic590#p5.1"
+msgid "Our natures are so hard to change that this peace can only be temporary. I can almost hear GI Guy cursing me, \"Fool! You know it was for nothing. Sooner or later, the fighting will start again.\""
+msgstr ""
+
+#. comic591 panel title
+#. slot: background color and image
+#: kidradd/comic591.htm:34
+msgctxt "comic591#title.1"
+msgid "\"MORE THAN WORDS\""
+msgstr ""
+
+#. comic591 panel p1
+#. slot: left bubble
+#: kidradd/comic591.htm:75
+msgctxt "comic591#p1.1"
+msgid "Wow, you've slipped back into business quickly."
+msgstr ""
+
+#. comic591 panel p1
+#. slot: right bubble
+#: kidradd/comic591.htm:79
+msgctxt "comic591#p1.2"
+msgid "Eh, it comes naturally."
+msgstr ""
+
+#. comic591 panel p2
+#. slot: left bubble
+#. images: ibhalf.gif, sheenaleft.gif
+#: kidradd/comic591.htm:130
+msgctxt "comic591#p2.1"
+msgid "So what's new?"
+msgstr ""
+
+#. comic591 panel p2
+#. slot: right bubble
+#. images: ibhalf.gif, sheenaleft.gif
+#: kidradd/comic591.htm:134
+msgctxt "comic591#p2.2"
+msgid "I'm kind of worried about Radd lately. He's been taking Bogey's death rather hard..."
+msgstr ""
+
+#. comic591 panel p3
+#. slot: left bubble
+#. images: duocry.gif
+#: kidradd/comic591.htm:184
+msgctxt "comic591#p3.1"
+msgid "And you haven't?"
+msgstr ""
+
+#. comic591 panel p3
+#. slot: right bubble
+#. images: duocry.gif
+#: kidradd/comic591.htm:188
+msgctxt "comic591#p3.2"
+msgid "Well, I... Okay, I'm not exactly great either..."
+msgstr ""
+
+#. comic591 panel p4
+#. slot: right bubble
+#. images: sheenablink.gif, barkeep1.gif
+#: kidradd/comic591.htm:241
+msgctxt "comic591#p4.1"
+msgid "But somehow I've got to convince him that life must go on... Even if I'm not sure why... If only I knew a way to cheer him up..."
+msgstr ""
+
+#. comic591 panel p6
+#. slot: left bubble
+#. images: sheenamad.gif, ibnah.gif
+#: kidradd/comic591.htm:342
+msgctxt "comic591#p6.1"
+msgid "No."
+msgstr ""
+
+#. comic591 panel p6
+#. slot: right bubble
+#. images: sheenamad.gif, ibnah.gif
+#: kidradd/comic591.htm:346
+msgctxt "comic591#p6.2"
+msgid "I didn't say anything!"
+msgstr ""
+
+#. comic592 panel title
+#. slot: background color and image
+#: kidradd/comic592.htm:46
+msgctxt "comic592#title.1"
+msgid "\"BRIAN WILSON\""
+msgstr ""
+
+#. comic592 panel p1
+#. slot: narration (if any, else cut)
+#. images: bedrotate.gif
+#: kidradd/comic592.htm:83
+msgctxt "comic592#p1.1"
+msgid "That night, Radd is unable to rest."
+msgstr ""
+
+#. comic592 panel p1
+#. slot: middle bubble
+#. images: bedrotate.gif
+#: kidradd/comic592.htm:91
+msgctxt "comic592#p1.2"
+msgid "Why did the humans make us this way? Why are they themselves so violent? Is there any hope of anyone, us or them, truly making a change?"
+msgstr ""
+
+#. comic592 panel p2
+#. slot: middle bubble
+#. images: thought2.gif, raddlie.gif
+#: kidradd/comic592.htm:145
+msgctxt "comic592#p2.1"
+msgid "Well, maybe I already have. Oh Bogey, killing guys like you was exactly what I was made for, yet I doubt I can ever commit such an act again."
+msgstr ""
+
+#. comic592 panel p3
+#. slot: middle bubble
+#. images: thought.gif, raddlie2.gif
+#: kidradd/comic592.htm:199
+msgctxt "comic592#p3.1"
+msgid "If only we were back in our game, where such violence was so easily undone..."
+msgstr ""
+
+#. comic592 panel p4
+#. slot: middle bubble
+#. images: notgood.gif
+#: kidradd/comic592.htm:252
+msgctxt "comic592#p4.1"
+msgid "Fools! This is only a game death! I'll still exist, and will still destroy the world!"
+msgstr ""
+
+#. comic592 panel p5
+#. slot: middle bubble
+#. images: gimuse.gif
+#: kidradd/comic592.htm:307
+msgctxt "comic592#p5.1"
+msgid "Most of the time when sprites battle, they're just playing with each others' programming... Live or die, no code is actually damaged."
+msgstr ""
+
+#. comic592 panel p6
+#. slot: left bubble
+#. images: raddsigh.gif, koba2.gif
+#: kidradd/comic592.htm:356
+msgctxt "comic592#p6.1"
+msgid "How did you \"half\" kill somebody?"
+msgstr ""
+
+#. comic592 panel p6
+#. slot: right bubble
+#. images: raddsigh.gif, koba2.gif
+#: kidradd/comic592.htm:360
+msgctxt "comic592#p6.2"
+msgid "Um, he got better."
+msgstr ""
+
+#. comic592 panel p7
+#. slot: middle bubble
+#. images: thought.gif
+#: kidradd/comic592.htm:411
+msgctxt "comic592#p7.1"
+msgid "No, it can't be... Do I dare raise my hopes one more time?..."
+msgstr ""
+
+#. comic593 panel title
+#. slot: background color and image
+#: kidradd/comic593.htm:34
+msgctxt "comic593#title.1"
+msgid "\"WISH YOU HADN'T ASKED\""
+msgstr ""
+
+#. comic593 panel p1
+#. slot: left bubble
+#. images: raddstand.gif, amp2.gif
+#: kidradd/comic593.htm:75
+msgctxt "comic593#p1.1"
+msgid "Dr. Amp, I think I figured something out. ...But somehow I think you already know. Bogey isn't really dead, is he?"
+msgstr ""
+
+#. comic593 panel p1
+#. slot: right bubble
+#. images: raddstand.gif, amp2.gif
+#: kidradd/comic593.htm:79
+msgctxt "comic593#p1.2"
+msgid "That depends on what you mean by \"dead.\""
+msgstr ""
+
+#. comic593 panel p2
+#. slot: left bubble
+#. images: raddtablem.gif, amptable2.gif
+#: kidradd/comic593.htm:130
+msgctxt "comic593#p2.1"
+msgid "I mean, game deaths aren't the same as deletion, are they?"
+msgstr ""
+
+#. comic593 panel p2
+#. slot: right bubble
+#. images: raddtablem.gif, amptable2.gif
+#: kidradd/comic593.htm:134
+msgctxt "comic593#p2.2"
+msgid "Very perceptive, you're correct. The code of Bogey and everyone who \"died\" out there still exists."
+msgstr ""
+
+#. comic593 panel p3
+#. slot: left bubble
+#. images: raddright.gif, amp2.gif
+#: kidradd/comic593.htm:181
+msgctxt "comic593#p3.1"
+msgid "But if you knew this, why didn't you try to do something?"
+msgstr ""
+
+#. comic593 panel p3
+#. slot: right bubble
+#. images: raddright.gif, amp2.gif
+#: kidradd/comic593.htm:185
+msgctxt "comic593#p3.2"
+msgid "Because I can't. None of us can."
+msgstr ""
+
+#. comic593 panel p4
+#. slot: left bubble
+#. images: raddergh.gif, amp2.gif
+#: kidradd/comic593.htm:233
+msgctxt "comic593#p4.1"
+msgid "But you're the king of that sort of miracle shullbit!!!"
+msgstr ""
+
+#. comic593 panel p4
+#. slot: right bubble
+#. images: raddergh.gif, amp2.gif
+#: kidradd/comic593.htm:237
+msgctxt "comic593#p4.2"
+msgid "Well thanks, I think."
+msgstr ""
+
+#. comic594 panel title
+#. slot: background color and image
+#: kidradd/comic594.htm:46
+msgctxt "comic594#title.1"
+msgid "\"THE MECHANICS OF GAME OVER\""
+msgstr ""
+
+#. comic594 panel p1
+#. slot: left bubble
+#. images: raddright.gif, amp2.gif
+#: kidradd/comic594.htm:87
+msgctxt "comic594#p1.1"
+msgid "If a sprite's code is damaged, it faces deletion. But typical sprite \"fighting\" doesn't damage code, merely changes variables and triggers subroutines - including the \"death\" subroutine."
+msgstr ""
+
+#. comic594 panel p2
+#. slot: middle bubble
+#: kidradd/comic594.htm:144
+msgctxt "comic594#p2.1"
+msgid "Usually when a sprite \"dies,\" it goes into a sort of stealth mode, with many of its variables turned off. It becomes temporarily invisible and intangible to other sprites."
+msgstr ""
+
+#. comic594 panel p3
+#. slot: left bubble
+#. images: raddright.gif, amp2.gif
+#: kidradd/comic594.htm:196
+msgctxt "comic594#p3.1"
+msgid "At that point, the game usually retrieves the sprite and stores it until it's next needed. But of course, we're outside of our games now, so that doesn't happen."
+msgstr ""
+
+#. comic594 panel p4
+#. slot: middle bubble
+#. images: ldesktor.gif
+#: kidradd/comic594.htm:250
+msgctxt "comic594#p4.1"
+msgid "Like a ghost, the sprite is left to wander among us, able to see yet never interact with its friends. It must be a sad, lonely existence."
+msgstr ""
+
+#. comic594 panel p5
+#. slot: left bubble
+#. images: raddback2.gif, amp2.gif
+#: kidradd/comic594.htm:302
+msgctxt "comic594#p5.1"
+msgid "That... stupid... lucky... sunova..."
+msgstr ""
+
+#. comic594 panel p5
+#. slot: right bubble
+#. images: raddback2.gif, amp2.gif
+#: kidradd/comic594.htm:306
+msgctxt "comic594#p5.2"
+msgid "Er... what?"
+msgstr ""
+
+#. comic594 panel p6
+#. slot: left bubble
+#. images: sscrub.gif
+#: kidradd/comic594.htm:352
+msgctxt "comic594#p6.1"
+msgid "Oh, nothing. I just have an active imagination."
+msgstr ""
+
+#. comic594 panel p6
+#. slot: right bubble
+#. images: sscrub.gif
+#: kidradd/comic594.htm:356
+msgctxt "comic594#p6.2"
+msgid "You know, I'd rather not ask."
+msgstr ""
+
+#. comic594 panel p6
+#. slot: insert ground "tiles" on this line
+#. images: sscrub.gif
+#: kidradd/comic594.htm:366
+msgctxt "comic594#p6.3"
+msgid "Undoubtedly the lowest this strip has stooped."
+msgstr ""
+
+#. comic595 panel title
+#. slot: background color and image
+#: kidradd/comic595.htm:53
+msgctxt "comic595#title.1"
+msgid "\"ONLY HUMAN\""
+msgstr ""
+
+#. comic595 panel p1
+#. slot: left bubble
+#. images: butif.gif
+#: kidradd/comic595.htm:94
+msgctxt "comic595#p1.1"
+msgid "So if death's just some fakey mode, you can play around with Bogey's variables to resurrect him, right?"
+msgstr ""
+
+#. comic595 panel p1
+#. slot: right bubble
+#. images: butif.gif
+#: kidradd/comic595.htm:98
+msgctxt "comic595#p1.2"
+msgid "I'd like to, but it's too complicated. I'd probably damage his code and then he'd really be gone."
+msgstr ""
+
+#. comic595 panel p2
+#. slot: left bubble
+#: kidradd/comic595.htm:147
+msgctxt "comic595#p2.1"
+msgid "I've got it - Use a KR game! Beam us into one, restart it, and all the sprites inside get reset, right?"
+msgstr ""
+
+#. comic595 panel p2
+#. slot: right bubble
+#: kidradd/comic595.htm:151
+msgctxt "comic595#p2.2"
+msgid "Well yeah, <i>if</i> we could restart the ROM. We can't. Ever seen an emulator?"
+msgstr ""
+
+#. comic595 panel p3
+#. slot: left bubble
+#. images: raddright.gif, amp2.gif
+#: kidradd/comic595.htm:200
+msgctxt "comic595#p3.1"
+msgid "Uh... Now that you mention it..."
+msgstr ""
+
+#. comic595 panel p3
+#. slot: right bubble
+#. images: raddright.gif, amp2.gif
+#: kidradd/comic595.htm:204
+msgctxt "comic595#p3.2"
+msgid "That's because most human programs don't intersect our plane of cyberspace. Hell, even Chimera only crossed our reality by a quirk."
+msgstr ""
+
+#. comic595 panel p4
+#. slot: left bubble
+#. images: icon.gif, raddwalk2.gif
+#: kidradd/comic595.htm:252
+msgctxt "comic595#p4.1"
+msgid "But I've been to other planes! It was part of my chatroom job, remember?"
+msgstr ""
+
+#. comic595 panel p4
+#. slot: right bubble
+#. images: icon.gif, raddwalk2.gif
+#: kidradd/comic595.htm:256
+msgctxt "comic595#p4.2"
+msgid "But that was only possible with the help of the humans. It was <i>their</i> power, not ours."
+msgstr ""
+
+#. comic595 panel p4
+#. slot: imsert images on this line
+#. images: icon.gif, raddwalk2.gif
+#: kidradd/comic595.htm:264
+msgctxt "comic595#p4.3"
+msgid "<font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" height=\"10\" src=\"icon.gif\"><b> My Documents</font><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> - Mi'growsoft Xplorer</b></font>"
+msgstr ""
+
+#. comic595 panel p5
+#. slot: left bubble
+#. images: raddrights.gif, ampnback.gif
+#: kidradd/comic595.htm:307
+msgctxt "comic595#p5.1"
+msgid "So you're saying... that there really is no way for us to bring Bogey back?"
+msgstr ""
+
+#. comic595 panel p5
+#. slot: right bubble
+#. images: raddrights.gif, ampnback.gif
+#: kidradd/comic595.htm:311
+msgctxt "comic595#p5.2"
+msgid "I'm sorry, Radd. Only humans have that kind of ability."
+msgstr ""
+
+#. comic595 panel p6
+#. slot: middle bubble
+#: kidradd/comic595.htm:359
+msgctxt "comic595#p6.1"
+msgid "Dr. Amp, after all that I've been through, I can't give up now. \"Impossible\" is meaningless anymore. If only a human can save Bogey, then a human will. In fact, I know just who to talk to..."
+msgstr ""
+
+#. comic596 panel title
+#. slot: background color and image
+#: kidradd/comic596.htm:46
+msgctxt "comic596#title.1"
+msgid "\"INSTANT KARMA\""
+msgstr ""
+
+#. comic596 panel p1
+#. slot: narration (if any, else cut)
+#: kidradd/comic596.htm:83
+msgctxt "comic596#p1.1"
+msgid "Somewhere in the real world, a human surfs his favorite websites..."
+msgstr ""
+
+#. comic596 panel p3
+#. slot: begin voice bubbles (cut td's bgcolor when empty)
+#: kidradd/comic596.htm:172
+msgctxt "comic596#p3.1"
+msgid "<font face=\"verdana\" size=\"1\" color=\"ff0000\"><br><b>enlightened1: </b> No. Should I?</font><br> <font face=\"verdana\" size=\"1\" color=\"0000ff\"><br><b>Radd: </b> Probably not, even though we were good friends. At least, I'd like to think we were.</font>"
+msgstr ""
+
+#. comic596 panel p4
+#. slot: left bubble
+#. images: saback.gif, rdeep.gif
+#: kidradd/comic596.htm:212
+msgctxt "comic596#p4.1"
+msgid "Well, patching into the IM feed seems to be working."
+msgstr ""
+
+#. comic596 panel p4
+#. slot: right bubble
+#. images: saback.gif, rdeep.gif
+#: kidradd/comic596.htm:216
+msgctxt "comic596#p4.2"
+msgid "So it does. But I don't get why he thinks he can convince some random human to do him a favor."
+msgstr ""
+
+#. comic596 panel p5
+#. slot: narration (if any, else cut)
+#. images: raddfront.gif
+#: kidradd/comic596.htm:262
+msgctxt "comic596#p5.1"
+msgid "\"Don't you understand? That's not just any human - that's <i>his</i> human, his player from long ago.\""
+msgstr ""
+
+#. comic596 panel p5
+#. slot: insert ground "tiles" on this line
+#. images: raddfront.gif
+#: kidradd/comic596.htm:281
+msgctxt "comic596#p5.2"
+msgid "Boy, where do I begin?..."
+msgstr ""
+
+#. comic597 panel title
+#. slot: background color and image
+#: kidradd/comic597.htm:34
+msgctxt "comic597#title.1"
+msgid "\"I CAN READ YOUR MIND\""
+msgstr ""
+
+#. comic597 panel p1
+#. slot: begin voice bubbles (cut td's bgcolor when empty)
+#: kidradd/comic597.htm:72
+msgctxt "comic597#p1.1"
+msgid "<font face=\"verdana\" size=\"1\" color=\"0000ff\"><br><b>Radd: </b> So, I know you ripped a new ROM of Kid Radd awhile ago.</font><br> <font face=\"verdana\" size=\"1\" color=\"ff0000\"><br><b>enlightened1: </b> Uh, yeah?...</font>"
+msgstr ""
+
+#. comic597 panel p2
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic597.htm:117
+msgctxt "comic597#p2.1"
+msgid "Which of course, you <i>had</i> to do. I mean, your old copy along with all the other ROMs in that folder mysteriously stopped working, am I right?"
+msgstr ""
+
+#. comic597 panel p2
+#. slot: insert ground "tiles" on this line
+#. images: raddfront.gif
+#: kidradd/comic597.htm:129
+msgctxt "comic597#p2.2"
+msgid "Cute, hacker. I have no idea how you know that, especially when I'm on an old dialup connection."
+msgstr ""
+
+#. comic597 panel p3
+#. slot: middle bubble
+#. images: raddblink.gif
+#: kidradd/comic597.htm:172
+msgctxt "comic597#p3.1"
+msgid "Hacker, me? I'm flattered, but no, I just sort of live in the neighborhood. The one in your server."
+msgstr ""
+
+#. comic597 panel p3
+#. slot: insert ground "tiles" on this line
+#. images: raddblink.gif
+#: kidradd/comic597.htm:184
+msgctxt "comic597#p3.2"
+msgid "What the hell are you talking about?"
+msgstr ""
+
+#. comic597 panel p4
+#. slot: middle bubble
+#. images: raddrock.gif
+#: kidradd/comic597.htm:225
+msgctxt "comic597#p4.1"
+msgid "I'm Radd. Remember playing with me? Saving Sheena and stuff?"
+msgstr ""
+
+#. comic597 panel p4
+#. slot: insert ground "tiles" on this line
+#. images: raddrock.gif
+#: kidradd/comic597.htm:237
+msgctxt "comic597#p4.2"
+msgid "So you're psychic <i>and</i> nuts. That's a scary combination."
+msgstr ""
+
+#. comic598 panel title
+#. slot: background color and image
+#: kidradd/comic598.htm:34
+msgctxt "comic598#title.1"
+msgid "\"CONNECTION\""
+msgstr ""
+
+#. comic598 panel p1
+#. slot: left bubble
+#. images: sheenaright.gif, ampstand.gif
+#: kidradd/comic598.htm:75
+msgctxt "comic598#p1.1"
+msgid "How's it going?"
+msgstr ""
+
+#. comic598 panel p1
+#. slot: right bubble
+#. images: sheenaright.gif, ampstand.gif
+#: kidradd/comic598.htm:79
+msgctxt "comic598#p1.2"
+msgid "Taking awhile, but I think he's breaking through."
+msgstr ""
+
+#. comic598 panel p2
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic598.htm:133
+msgctxt "comic598#p2.1"
+msgid "Yeah, that was definitely your best trick. Heck, it's helped me outside of the game several times."
+msgstr ""
+
+#. comic598 panel p2
+#. slot: insert ground "tiles" on this line
+#. images: raddfront.gif
+#: kidradd/comic598.htm:145
+msgctxt "comic598#p2.2"
+msgid "Incredible."
+msgstr ""
+
+#. comic598 panel p3
+#. slot: middle bubble
+#. images: raddblink2.gif
+#: kidradd/comic598.htm:187
+msgctxt "comic598#p3.1"
+msgid "Maybe it's cuz it's two in the morning and I've had a few too many beers, but... Man, this is crazy. I think I believe you."
+msgstr ""
+
+#. comic598 panel p3
+#. slot: insert ground "tiles" on this line
+#. images: raddblink2.gif
+#: kidradd/comic598.htm:199
+msgctxt "comic598#p3.2"
+msgid "I have an honest face."
+msgstr ""
+
+#. comic598 panel p4
+#. slot: begin voice bubbles (cut td's bgcolor when empty)
+#: kidradd/comic598.htm:235
+msgctxt "comic598#p4.1"
+msgid "<font face=\"verdana\" size=\"1\" color=\"ff0000\"><br><b>enlightened1: </b> You don't have any face, from here at least. But it's like there's some bizarre connection between us... I feel like I really know you.</font><br> <font face=\"verdana\" size=\"1\" color=\"0000ff\"><br><b>Radd: </b> Of course. We used to form a great partnership.</font>"
+msgstr ""
+
+#. comic598 panel p5
+#. slot: middle bubble
+#. images: raddwink2.gif
+#: kidradd/comic598.htm:279
+msgctxt "comic598#p5.1"
+msgid "But I still like chicks, okay?"
+msgstr ""
+
+#. comic598 panel p5
+#. slot: insert ground "tiles" on this line
+#. images: raddwink2.gif
+#: kidradd/comic598.htm:291
+msgctxt "comic598#p5.2"
+msgid "Understood. Totally."
+msgstr ""
+
+#. comic599 panel title
+#. slot: background color and image
+#: kidradd/comic599.htm:34
+msgctxt "comic599#title.1"
+msgid "\"THE ANSWER, MY FRIEND\""
+msgstr ""
+
+#. comic599 panel p1
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic599.htm:77
+msgctxt "comic599#p1.1"
+msgid "Listen, I've never had a direct conversation with a human like this and, well, I can't pass up the opportunity to ask some big questions."
+msgstr ""
+
+#. comic599 panel p1
+#. slot: insert ground "tiles" on this line
+#. images: raddfront.gif
+#: kidradd/comic599.htm:89
+msgctxt "comic599#p1.2"
+msgid "I don't know how informative I can be, but ask away."
+msgstr ""
+
+#. comic599 panel p2
+#. slot: left bubble
+#. images: rdeep.gif
+#: kidradd/comic599.htm:132
+msgctxt "comic599#p2.1"
+msgid "You humans created us, but you don't seem to know that we're alive. Alive and in pain, constantly fighting and killing each other for no reason other than that it's our nature."
+msgstr ""
+
+#. comic599 panel p3
+#. slot: left bubble
+#. images: rdeep.gif
+#: kidradd/comic599.htm:185
+msgctxt "comic599#p3.1"
+msgid "In short, we act just like you do; we are echoes of the human race. The vices of humanity are etched into our souls, and it seems that neither of us can overcome them."
+msgstr ""
+
+#. comic599 panel p4
+#. slot: middle bubble
+#. images: rdeep2.gif
+#: kidradd/comic599.htm:239
+msgctxt "comic599#p4.1"
+msgid "Wow. Uh, what's the question?..."
+msgstr ""
+
+#. comic599 panel p4
+#. slot: imsert images on this line
+#. images: rdeep2.gif
+#: kidradd/comic599.htm:249
+msgctxt "comic599#p4.2"
+msgid "No, what's the <i>answer?</i> Tell me, please?"
+msgstr ""
+
+#. comic600 panel title
+#. slot: background color and image
+#: kidradd/comic600.htm:43
+msgctxt "comic600#title.1"
+msgid "\"THE FIRST STEP\""
+msgstr ""
+
+#. comic600 panel p1
+#. slot: middle bubble
+#. images: raddfrontd.gif
+#: kidradd/comic600.htm:86
+msgctxt "comic600#p1.1"
+msgid "Radd... I don't have any answers to give you. None that are any more certain than personal beliefs, anyway. If I had such answers - if any human did - things would be rather different."
+msgstr ""
+
+#. comic600 panel p1
+#. slot: insert ground "tiles" on this line
+#. images: raddfrontd.gif
+#: kidradd/comic600.htm:98
+msgctxt "comic600#p1.2"
+msgid "I kind of figured it was like that. Sorry, had to ask."
+msgstr ""
+
+#. comic600 panel p2
+#. slot: begin voice bubbles (cut td's bgcolor when empty)
+#: kidradd/comic600.htm:137
+msgctxt "comic600#p2.1"
+msgid "<b>enlightened1: </b> I guess in a sense, we humans have our own \"programming,\" and some of it ain't pretty.<br><br>We seem to have natural tendencies toward violence, bigotry, xenophobia... and genocide."
+msgstr ""
+
+#. comic600 panel p3
+#. slot: middle bubble
+#. images: raddfront.gif
+#: kidradd/comic600.htm:179
+msgctxt "comic600#p3.1"
+msgid "Will it always be that way?"
+msgstr ""
+
+#. comic600 panel p3
+#. slot: insert ground "tiles" on this line
+#. images: raddfront.gif
+#: kidradd/comic600.htm:191
+msgctxt "comic600#p3.2"
+msgid "Who knows? I'd like to believe we can advance beyond it, but we seem to have so far to go. It might be futile."
+msgstr ""
+
+#. comic600 panel p4
+#. slot: middle bubble
+#. images: rwhy.gif
+#: kidradd/comic600.htm:232
+msgctxt "comic600#p4.1"
+msgid "Then why even try?"
+msgstr ""
+
+#. comic600 panel p4
+#. slot: insert ground "tiles" on this line
+#. images: rwhy.gif
+#: kidradd/comic600.htm:246
+msgctxt "comic600#p4.2"
+msgid "Because we <i>have</i> to. If there's just the slightest chance we can make ourselves into something better, not trying would be a far greater evil than our inborn prejudices."
+msgstr ""
+
+#. comic600 panel p5
+#. slot: left bubble
+#. images: rdeep2.gif
+#: kidradd/comic600.htm:289
+msgctxt "comic600#p5.1"
+msgid "For now, I can't save humanity, or perhaps even myself, but if I can<br>save your friend... well, that'll be one small step towards bettering this<br>world. It's a long road toward that<br>goal, but all journeys are traveled one step at a time, aren't they?"
+msgstr ""
+
+#. comic600 panel p6
+#. slot: middle bubble
+#. images: rthanks.gif
+#: kidradd/comic600.htm:341
+msgctxt "comic600#p6.1"
+msgid "I think I understand... Well, maybe not. But thanks."
+msgstr ""
+
+#. comic600 panel p6
+#. slot: insert ground "tiles" on this line
+#. images: rthanks.gif
+#: kidradd/comic600.htm:355
+msgctxt "comic600#p6.2"
+msgid "Good luck, my counterpart. Now, you needed me to start a game or something, right?"
+msgstr ""
+
+#. comic601 panel title
+#. slot: background color and image
+#: kidradd/comic601.htm:70
+msgctxt "comic601#title.1"
+msgid "\"THE REST IS UP TO YOU\""
+msgstr ""

@@ -1,0 +1,45 @@
+/* Russian edition additions. Loaded after radd.css on every translated page. */
+
+/* The original VAG Rundschrift has no Cyrillic; VAG Round Cyrillic matches it. */
+@font-face {
+	font-family: VAGRoundCyr;
+	src: url('vag_round_cyr.ttf');
+}
+.rundschrift, font[face^="VAG"] {
+	font-family: VAGRoundCyr, VAGRundschriftD, arial !important;
+}
+
+/* "next" arrow pulses once a long play-once animation has finished. */
+@keyframes kr-pulse {
+	0%, 100% { transform: scale(1); filter: none; }
+	50% { transform: scale(1.18); filter: drop-shadow(0 0 2px #00c8ff) drop-shadow(0 0 5px #00c8ff); }
+}
+img.kr-pulse { animation: kr-pulse 0.9s ease-in-out infinite; }
+
+/* Translator Notes button, drawn like the "zoom" / "list" buttons. */
+.kr-notes-btn { cursor: pointer; color: #00ffff; }
+.kr-notes-off .kr-notes-btn { cursor: default; color: #bbbbbb; }
+.kr-notes-off { opacity: 0.45; }
+
+/* Notes popup. Attached to <html>, not <body>, so body.zoom's transform
+   doesn't break position: fixed. */
+#kr-note-overlay {
+	display: none; position: fixed; inset: 0; z-index: 1000;
+	background: rgba(0, 0, 32, 0.6);
+	align-items: center; justify-content: center;
+	image-rendering: auto;
+}
+#kr-note-overlay.open { display: flex; }
+#kr-note {
+	box-sizing: border-box; max-width: min(460px, calc(100vw - 32px)); max-height: calc(100vh - 32px);
+	overflow: auto; background: #ffff99; color: #000066; border: 3px solid #000066;
+	font: 14px/1.45 arial, sans-serif; padding: 10px 14px 12px;
+	box-shadow: 0 0 0 6px #ffffff, 0 8px 30px rgba(0,0,0,.5);
+}
+#kr-note h3 { margin: 0 0 6px; font-size: 14px; }
+#kr-note p { margin: 0 0 8px; }
+#kr-note a { color: #0000cc; text-decoration: underline; }
+#kr-note .kr-note-close {
+	display: block; margin: 6px 0 0 auto; font: bold 12px verdana, sans-serif;
+	background: #000066; color: #ffff99; border: 0; padding: 3px 10px; cursor: pointer;
+}

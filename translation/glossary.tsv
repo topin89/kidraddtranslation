@@ -1,0 +1,14 @@
+# Glossary: English regex <TAB> Russian regex that must appear in the translation <TAB> comment
+# tools/check.py warns when a msgid matches column 1 but the msgstr doesn't match column 2.
+# Russian patterns are stems so any case form passes (Шина/Шины/Шину...). Patterns are case-sensitive.
+\bRadd\b	Ул[её]т	Radd -> Улёт (writing «Улет» without ё is tolerated by the check)
+\bSheena\b	Шин	Sheena -> Шина
+\bBogey\b	Бяк	Bogey -> Бяка
+\bGnarl\b	Отпад	Gnarl -> Отпад
+\bCool Ragnarok\b	Отпадн\w+ Коллапс	Cool Ragnarok -> Отпадный Коллапс
+\bC\.R\.	О\.Ко	C.R. -> О.Ко
+\bSeer\b	Ок[оа]	Seer -> Око
+\bKobayashi\b	Кобаяси	Kobayashi -> Кобаяси (indeclinable)
+(?i)\bdiscount ninja\b	[Вв]торосортн\w* ниндзя	Discount Ninja -> второсортный ниндзя (Кобаяси — второсортный ниндзя)
+\bKielbasa\b	Кулебяси	Kielbasa (Radd's nickname) -> Кулебяси
+\bKid Radd\b	Ул[её]т\w*-парн|Ул[её]т-парень	Kid Radd (game title) -> «Улёт-парень» (provisional); both halves decline: Улёту-парню
