@@ -5,8 +5,8 @@
  *    panel's bottom bar. Greyed out when the panel has no note.
  *    Data: window.KR_NOTES = {panelName: "<p>html</p>", ...} (inlined per page).
  * 2. Animation-end cue: when the visible panel shows a play-once GIF that runs
- *    for at least ANIM_THRESHOLD_MS, the "next" arrow starts pulsing once the
- *    animation reaches its last frame.
+ *    for at least ANIM_THRESHOLD_MS, the "next" arrow is faded while it plays
+ *    and starts pulsing once the animation reaches its last frame.
  *    Data: window.KR_ANIM = {"file.gif": msUntilLastFrame, ...} (kr-anim.js).
  */
 (function($) {
@@ -80,7 +80,7 @@
 
 	function onPanelShown() {
 		clearTimeout(timer);
-		$('img.kr-pulse').removeClass('kr-pulse');
+		$('img.kr-pulse, img.kr-wait').removeClass('kr-pulse kr-wait');
 		closeNote();
 		var panel = $('a.panel.visible').first();
 		if (!panel.length) return;
@@ -98,8 +98,10 @@
 			if (ms > longest) longest = ms;
 		});
 		if (longest >= ANIM_THRESHOLD_MS) {
+			// Faded while the animation plays, pulsing once it has finished.
+			var next = panel.find('img[src="next.gif"]').addClass('kr-wait');
 			timer = setTimeout(function() {
-				panel.find('img[src="next.gif"]').addClass('kr-pulse');
+				next.removeClass('kr-wait').addClass('kr-pulse');
 			}, longest);
 		}
 	}

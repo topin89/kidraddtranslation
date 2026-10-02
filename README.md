@@ -63,7 +63,8 @@ show a greyed-out button.
 ### Animation cue
 
 When a panel plays a one-shot GIF animation that lasts 3 s or more, the **next**
-arrow starts pulsing once the animation reaches its last frame. `build.py` reads
+arrow is faded while it plays and starts pulsing once the animation reaches its
+last frame. `build.py` reads
 the durations from the GIF files (`ru/kr-anim.js`). The threshold is
 `ANIM_THRESHOLD_MS` in `translation/overlay/ru.js`.
 
