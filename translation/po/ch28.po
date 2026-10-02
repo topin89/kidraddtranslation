@@ -556,7 +556,7 @@ msgstr "В этом мире есть лишь два типа людей: те,
 #, fuzzy
 msgctxt "comic559#p3.1"
 msgid "So I kicked that idiot's ass all over the place and locked him up in the RAM Warehouse. Yeah, I know, killing him would've been smarter."
-msgstr "Так что я отделала этого идиота по полной и заперла его на RAM-складе. Да знаю я, убить его было бы умнее."
+msgstr "Так что я отделала этого идиота по полной и заперла его на складе ОЗУ. Да знаю я, убить его было бы умнее."
 
 #. comic559 panel p4
 #. slot: middle bubble
@@ -906,7 +906,7 @@ msgstr "Ух ты, это было невероятно просто."
 #, fuzzy
 msgctxt "comic564#p2.1"
 msgid "Wait a sec. This'd be the moment on BattleOrb Q when the smoke would clear and the enemy would step forth and say something snide, like..."
-msgstr "Минутку. В «БатлОрб Кью» сейчас рассеялся бы дым, враг шагнул бы вперёд и сказал бы что-нибудь язвительное, вроде..."
+msgstr "Минутку. В «Боевой Сфере Q» сейчас рассеялся бы дым, враг шагнул бы вперёд и сказал бы что-нибудь язвительное, вроде..."
 
 #. comic564 panel p3
 #. slot: middle bubble

@@ -272,7 +272,7 @@ msgstr "Хм?"
 #, fuzzy
 msgctxt "comic103#p3.1"
 msgid "How'd you like to adopt one of these cute little puzzle sprites?"
-msgstr "Как насчёт того, чтобы приютить одного из этих милых спрайтиков из головоломки?"
+msgstr "Как насчёт того, чтобы приютить одного из этих милых спрайтиков-головоломок?"
 
 #. comic103 panel p3
 #. slot: right bubble
@@ -521,7 +521,7 @@ msgstr "«Я ИСЧЕЗАЮ»"
 #, fuzzy
 msgctxt "comic106#p1.1"
 msgid "I guess you guys don't want any puzzle sprites, then."
-msgstr "Значит, спрайты из головоломки вам не нужны."
+msgstr "Значит, спрайты-головоломки вам не нужны."
 
 #. comic106 panel p1
 #. slot: right bubble
@@ -601,7 +601,7 @@ msgstr "«БЕЗ СОМНЕНИЙ»"
 #, fuzzy
 msgctxt "comic107#p1.1"
 msgid "Well, that was a waste. The boys didn't want any puzzle sprites."
-msgstr "Ну, зря сходила. Мальчикам спрайты из головоломки не нужны."
+msgstr "Ну, зря сходила. Мальчикам спрайты-головоломки не нужны."
 
 #. comic107 panel p2
 #. slot: left bubble
@@ -1187,7 +1187,7 @@ msgstr "«ОДНОИМЁННЫЙ АЛЬБОМ»"
 #, fuzzy
 msgctxt "comic115#p1.1"
 msgid "So Dr. Amp agrees to research and look after the puzzle sprites."
-msgstr "Итак, доктор Амп соглашается изучить спрайты из головоломки и присмотреть за ними."
+msgstr "Итак, доктор Амп соглашается изучить спрайты-головоломки и присмотреть за ними."
 
 #. comic115 panel p1
 #. slot: left bubble

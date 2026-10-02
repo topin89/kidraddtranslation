@@ -166,7 +166,7 @@ msgstr "Это что..."
 #, fuzzy
 msgctxt "comic155#p3.2"
 msgid "The code to Playland 2. Much more fun, I promise"
-msgstr "Код от Плейленда 2. Там гораздо веселее, обещаю"
+msgstr "Код от «Игроландии 2». Там гораздо веселее, обещаю"
 
 #. comic155 panel p4
 #. slot: left bubble
@@ -210,7 +210,7 @@ msgstr "«ЯД»"
 #, fuzzy
 msgctxt "comic156#p1.1"
 msgid "Playland 2, here I come! Sweetness!"
-msgstr "Плейленд 2, я иду! Кайф!"
+msgstr "«Игроландия 2», я иду! Кайф!"
 
 #. comic156 panel p2
 #. slot: right bubble

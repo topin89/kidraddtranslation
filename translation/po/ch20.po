@@ -2371,7 +2371,7 @@ msgstr "Ну, есть кого завербовать в новых город�
 #, fuzzy
 msgctxt "comic383#p1.2"
 msgid "Not many. And we've got a lot of disobedient citizens in the jail, er, RAM Warehouse."
-msgstr "Немного. А в тюрьме, э-э, на RAM-складе полно непослушных граждан."
+msgstr "Немного. А в тюрьме, э-э, на складе ОЗУ полно непослушных граждан."
 
 #. comic383 panel p2
 #. slot: left bubble
@@ -2556,7 +2556,7 @@ msgstr "Цыц, она услышит!"
 #, fuzzy
 msgctxt "comic385#p3.1"
 msgid "And so, Itty Bitty is left in the RAM Warehouse."
-msgstr "И вот Итти Битти остаётся на RAM-складе."
+msgstr "И вот Итти Битти остаётся на складе ОЗУ."
 
 #. comic385 panel p3
 #. slot: right bubble

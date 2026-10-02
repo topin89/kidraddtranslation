@@ -1109,7 +1109,7 @@ msgstr "«УЛЫБАЙСЯ ДАЛЬШЕ»"
 #, fuzzy
 msgctxt "comic511#p1.1"
 msgid "The Chimera program was apparently an unfinished project of the human who made it: Some Game Wizard-style program for altering individual sprites."
-msgstr "Программа «Химера», видимо, была незаконченным проектом её создателя-человека: что-то вроде Game Wizard для изменения отдельных спрайтов."
+msgstr "Программа «Химера», видимо, была незаконченным проектом её создателя-человека: что-то вроде «Игрового Волшебника» для изменения отдельных спрайтов."
 
 #. comic511 panel p2
 #. slot: narration (if any, else cut)
