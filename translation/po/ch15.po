@@ -919,7 +919,7 @@ msgstr "Смотрите, вон там вход, и я пойду одна. П�
 #, fuzzy
 msgctxt "comic252#p3.1"
 msgid "Whew, I was afraid that one accidental teleport had doomed us all!"
-msgstr "Фух, я уж боялся, что тот случайный телепорт нас всех погубит!"
+msgstr "Фух, я уж думал, тот телепорт нас всех погубил!"
 
 #. comic252 panel p3
 #. slot: middle bubble
@@ -928,7 +928,7 @@ msgstr "Фух, я уж боялся, что тот случайный теле�
 #, fuzzy
 msgctxt "comic252#p3.2"
 msgid "Me too. What a relief..."
-msgstr "Я тоже. Вот так облегчение..."
+msgstr "Я тоже. Уф..."
 
 #. comic252 panel p3
 #. slot: right bubble
@@ -937,7 +937,7 @@ msgstr "Я тоже. Вот так облегчение..."
 #, fuzzy
 msgctxt "comic252#p3.3"
 msgid "Well rest easy, it's not gonna happen again."
-msgstr "Расслабьтесь, больше такого не будет."
+msgstr "Спокойно, больше не повторится."
 
 #. comic253 panel title
 #. slot: background color and image
@@ -2352,7 +2352,7 @@ msgstr "Мне так нравилось палить во всё подряд, 
 #, fuzzy
 msgctxt "comic270#p2.1"
 msgid "Radd, I don't know what to say. Maybe I can't truly sympathize, since my kind are usually incapable of violence."
-msgstr "Улёт, не знаю, что сказать. Может, мне тебя до конца не понять: такие, как я, обычно не способны на насилие."
+msgstr "Улёт, не знаю, что и сказать. Может, мне не понять: мы, НПС, обычно не способны на насилие."
 
 #. comic270 panel p3
 #. slot: left bubble

@@ -51,7 +51,7 @@ msgstr "«Меня бесит, что мы не знаем, какая игра 
 #, fuzzy
 msgctxt "comic315#p4.1"
 msgid "\"Not that Radd or Bogey really care.\""
-msgstr "«Не то чтобы Улёта и Бяку это парило»."
+msgstr "«Хотя Улёту и Бяке всё равно»."
 
 #. comic315 panel p4
 #. slot: left bubble
@@ -69,7 +69,7 @@ msgstr "Кому я сегодня надеру зад?"
 #, fuzzy
 msgctxt "comic315#p4.3"
 msgid "I wonder if this folder has any dating sims?"
-msgstr "А тут есть симуляторы свиданий?"
+msgstr "А тут есть игры про свидания?"
 
 #. comic316 panel title
 #. slot: background color and image
@@ -1395,7 +1395,7 @@ msgstr "Ой, заткнись. Очнёшься, когда кто-нибудь
 #, fuzzy
 msgctxt "comic331#p4.1"
 msgid "Um, that could be a long wait."
-msgstr "Эм, ждать, может, долго."
+msgstr "Это может быть долго."
 
 #. comic331 panel p4
 #. slot: middle bubble
@@ -1404,7 +1404,7 @@ msgstr "Эм, ждать, может, долго."
 #, fuzzy
 msgctxt "comic331#p4.2"
 msgid "Good. Maybe now he'll learn that violence is never the answer."
-msgstr "Вот и хорошо. Может, теперь поймёт, что насилие — не выход."
+msgstr "Вот и славно. Пусть поймёт, что насилие — не выход."
 
 #. comic331 panel p4
 #. slot: right bubble
@@ -1818,7 +1818,7 @@ msgstr "<b>Настолько</b> больше?"
 #, fuzzy
 msgctxt "comic336#p3.2"
 msgid "Adding digits raises the number exponentially. In a 32-bit computer like the one we're in now, his limit would be over 4 billion."
-msgstr "Каждый новый разряд даёт рост по экспоненте. В 32-битном компьютере, как наш, предел — за 4 миллиарда."
+msgstr "Каждый разряд умножает число. В 32-битном компьютере, как наш, его предел — больше 4 миллиардов."
 
 #. comic336 panel p4
 #. slot: left bubble

@@ -84,7 +84,7 @@ msgstr "Зачем тогда мы его атаковали?"
 #, fuzzy
 msgctxt "comic271#p4.2"
 msgid "We destroyed the only known point where the Seer can manifest himself to communicate."
-msgstr "Мы стёрли единственное известное место, где Око являлось для общения."
+msgstr "Мы стёрли единственное известное место, где Око могло говорить."
 
 #. comic271 panel p5
 #. slot: left bubble
@@ -2394,7 +2394,7 @@ msgstr "Ладно, прошло."
 #, fuzzy
 msgctxt "comic300#p7.3"
 msgid "How 'bout a battle royale?"
-msgstr "Может, все против всех?"
+msgstr "Может, все на всех?"
 
 #. comic300 panel p7
 #. slot: right bubble
