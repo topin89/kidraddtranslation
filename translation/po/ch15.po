@@ -831,7 +831,7 @@ msgstr "Я ненадолго. Я готова, Доктор Амп."
 #, fuzzy
 msgctxt "comic251#p2.1"
 msgid "'PORTING SHEENA IN 3, 2, 1..."
-msgstr "ТЕЛЕПОРТ ШИНЫ ЧЕРЕЗ 3, 2, 1..."
+msgstr "ТЕЛЕПОРТ ШИНЫ: 3, 2, 1..."
 
 #. comic251 panel p2
 #. slot: left bubble
@@ -840,7 +840,7 @@ msgstr "ТЕЛЕПОРТ ШИНЫ ЧЕРЕЗ 3, 2, 1..."
 #, fuzzy
 msgctxt "comic251#p2.2"
 msgid "Well, see ya soon, guys."
-msgstr "Ну, до скорого, ребята."
+msgstr "До скорого, ребята."
 
 #. comic251 panel p2
 #. slot: middle bubble
@@ -849,7 +849,7 @@ msgstr "Ну, до скорого, ребята."
 #, fuzzy
 msgctxt "comic251#p2.3"
 msgid "Please be careful."
-msgstr "Будь осторожна."
+msgstr "Береги себя."
 
 #. comic251 panel p2
 #. slot: right bubble
@@ -919,7 +919,7 @@ msgstr "Смотрите, вон там вход, и я пойду одна. П�
 #, fuzzy
 msgctxt "comic252#p3.1"
 msgid "Whew, I was afraid that one accidental teleport had doomed us all!"
-msgstr "Фух, я уж боялся, что та случайная телепортация нас всех погубит!"
+msgstr "Фух, я уж боялся, что тот случайный телепорт нас всех погубит!"
 
 #. comic252 panel p3
 #. slot: middle bubble
@@ -1079,7 +1079,7 @@ msgstr "ВОИСТИНУ. НО Я БЫЛ ОСОБЫМ ВИРУСОМ."
 #, fuzzy
 msgctxt "comic254#p4.1"
 msgid "I WAS \"COOL RAGNAROK,\" ONE ON THE BEST EVER MADE. I WAS IMPOSSIBLE TO DETECT AND I SPREAD MYSELF TO NEARLY EVERY COMPUTER ON THE WEB."
-msgstr "Я БЫЛ «ОТПАДНЫМ КОЛЛАПСОМ», ОДНИМ ИЗ ЛУЧШИХ. МЕНЯ НЕЛЬЗЯ БЫЛО ОБНАРУЖИТЬ, И Я ПРОНИК ПОЧТИ В КАЖДЫЙ КОМПЬЮТЕР СЕТИ."
+msgstr "Я БЫЛ «ОТПАДНЫМ КОЛЛАПСОМ», ЛУЧШИМ ИЗ ЛУЧШИХ. МЕНЯ НЕЛЬЗЯ БЫЛО ЗАСЕЧЬ, И Я ПРОНИК ПОЧТИ В КАЖДЫЙ КОМПЬЮТЕР."
 
 #. comic254 panel p5
 #. slot: middle bubble
@@ -1122,7 +1122,7 @@ msgstr "МИЛЛИОНЫ МОИХ КОПИЙ ОБЩАЛИСЬ ДРУГ С ДРУ
 #, fuzzy
 msgctxt "comic255#p3.1"
 msgid "I DECIDED THAT I LIKED OBSERVING THE INFORMATION THAT PASSED ME. I LIKED TO CONSTANTLY LEARN NEW THINGS."
-msgstr "Я ПОНЯЛ, ЧТО ЛЮБЛЮ НАБЛЮДАТЬ ЗА ТЕКУЩИМИ МИМО ДАННЫМИ. МНЕ НРАВИЛОСЬ ВСЁ ВРЕМЯ УЗНАВАТЬ НОВОЕ."
+msgstr "МНЕ ПОНРАВИЛОСЬ НАБЛЮДАТЬ ЗА ПОТОКОМ ДАННЫХ. Я ЛЮБИЛ ВСЁ ВРЕМЯ УЗНАВАТЬ НОВОЕ."
 
 #. comic255 panel p4
 #. slot: middle bubble
@@ -1228,7 +1228,7 @@ msgstr "Ой-ой."
 #, fuzzy
 msgctxt "comic256#p5.3"
 msgid "I wasted my question?"
-msgstr "Я что, потратил вопрос?"
+msgstr "Я потратил вопрос?"
 
 #. comic256 panel p5
 #. slot: right bubble
@@ -1237,7 +1237,7 @@ msgstr "Я что, потратил вопрос?"
 #, fuzzy
 msgctxt "comic256#p5.4"
 msgid "Bit."
-msgstr "Ёкарный бит."
+msgstr "Ой, бит."
 
 #. comic257 panel title
 #. slot: background color and image
@@ -2352,7 +2352,7 @@ msgstr "Мне так нравилось палить во всё подряд, 
 #, fuzzy
 msgctxt "comic270#p2.1"
 msgid "Radd, I don't know what to say. Maybe I can't truly sympathize, since my kind are usually incapable of violence."
-msgstr "Улёт, я не знаю, что сказать. Может, мне и не понять тебя до конца: такие, как я, обычно не способны на насилие."
+msgstr "Улёт, не знаю, что сказать. Может, мне тебя до конца не понять: такие, как я, обычно не способны на насилие."
 
 #. comic270 panel p3
 #. slot: left bubble

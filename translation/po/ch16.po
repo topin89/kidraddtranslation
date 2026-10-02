@@ -84,7 +84,7 @@ msgstr "Зачем тогда мы его атаковали?"
 #, fuzzy
 msgctxt "comic271#p4.2"
 msgid "We destroyed the only known point where the Seer can manifest himself to communicate."
-msgstr "Мы уничтожили единственное известное место, где Око может явиться для общения."
+msgstr "Мы стёрли единственное известное место, где Око являлось для общения."
 
 #. comic271 panel p5
 #. slot: left bubble
@@ -233,7 +233,7 @@ msgstr "И вот мы нагло крадём концовку шутки у «
 #, fuzzy
 msgctxt "comic273#p4.2"
 msgid "You're gonna hurt me, aren't you?"
-msgstr "Ты сделаешь мне больно, да?"
+msgstr "Ты меня побьёшь, да?"
 
 #. comic273 panel p4
 #. slot: right bubble
@@ -242,7 +242,7 @@ msgstr "Ты сделаешь мне больно, да?"
 #, fuzzy
 msgctxt "comic273#p4.3"
 msgid "Be thankful sprites don't scar."
-msgstr "Радуйся, что спрайты без шрамов."
+msgstr "Радуйся, что у спрайтов нет шрамов."
 
 #. comic274 panel title
 #. slot: background color and image
@@ -2385,7 +2385,7 @@ msgstr "...На пять минут."
 #, fuzzy
 msgctxt "comic300#p7.2"
 msgid "Okay, I'm over it."
-msgstr "Ладно, отпустило."
+msgstr "Ладно, прошло."
 
 #. comic300 panel p7
 #. slot: middle bubble
@@ -2394,7 +2394,7 @@ msgstr "Ладно, отпустило."
 #, fuzzy
 msgctxt "comic300#p7.3"
 msgid "How 'bout a battle royale?"
-msgstr "Может, битву всех против всех?"
+msgstr "Может, все против всех?"
 
 #. comic300 panel p7
 #. slot: right bubble
@@ -2403,7 +2403,7 @@ msgstr "Может, битву всех против всех?"
 #, fuzzy
 msgctxt "comic300#p7.4"
 msgid "I'm <b>so</b> gonna win this one!"
-msgstr "Уж тут я <b>точно</b> выиграю!"
+msgstr "Тут я <b>точно</b> выиграю!"
 
 #. comic301 panel title
 #. slot: background color and image

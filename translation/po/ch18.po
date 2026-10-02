@@ -51,7 +51,7 @@ msgstr "«Меня бесит, что мы не знаем, какая игра 
 #, fuzzy
 msgctxt "comic315#p4.1"
 msgid "\"Not that Radd or Bogey really care.\""
-msgstr "«Не то чтобы Улёта или Бяку это парило»."
+msgstr "«Не то чтобы Улёта и Бяку это парило»."
 
 #. comic315 panel p4
 #. slot: left bubble
@@ -60,7 +60,7 @@ msgstr "«Не то чтобы Улёта или Бяку это парило».
 #, fuzzy
 msgctxt "comic315#p4.2"
 msgid "What kind of butts do you think I'll be kicking today?"
-msgstr "Как думаешь, чьи задницы я сегодня надеру?"
+msgstr "Кому я сегодня надеру зад?"
 
 #. comic315 panel p4
 #. slot: right bubble
@@ -69,7 +69,7 @@ msgstr "Как думаешь, чьи задницы я сегодня наде�
 #, fuzzy
 msgctxt "comic315#p4.3"
 msgid "I wonder if this folder has any dating sims?"
-msgstr "Интересно, тут есть симуляторы свиданий?"
+msgstr "А тут есть симуляторы свиданий?"
 
 #. comic316 panel title
 #. slot: background color and image
@@ -380,7 +380,7 @@ msgstr "Невозможно."
 #, fuzzy
 msgctxt "comic319#p2.1"
 msgid "Ordinarily, monsters never appear within city limits. So you're either A, an ultra-rare secret that'll probably give me tons of EXP and an item after battle..."
-msgstr "Обычно чудовища не появляются в городе. Так что ты либо А — ультраредкий секрет, за который мне, наверное, дадут кучу EXP и предмет после боя..."
+msgstr "Обычно чудовища не ходят в город. Так что ты либо А — ультраредкий секрет, за который мне дадут кучу EXP и предмет после боя..."
 
 #. comic319 panel p3
 #. slot: left bubble
@@ -503,7 +503,7 @@ msgstr "Это... сложно объяснить. Просто смирись."
 #, fuzzy
 msgctxt "comic320#p4.1"
 msgid "You guys are talking? Great, I <i>knew</i> this was a scripted battle!"
-msgstr "Вы разговариваете? Отлично, я <i>так и знал,</i> что это скриптовый бой!"
+msgstr "Вы болтаете? Отлично, я <i>так и знал,</i> что это скриптовый бой!"
 
 #. comic320 panel p4
 #. slot: left bubble
@@ -512,7 +512,7 @@ msgstr "Вы разговариваете? Отлично, я <i>так и зн�
 #, fuzzy
 msgctxt "comic320#p4.2"
 msgid "Don't worry, I'll kick your butt, just as soon as I figure out how."
-msgstr "Не бойся, я надеру тебе зад, как только пойму как."
+msgstr "Не бойся, надеру тебе зад, как только пойму как."
 
 #. comic321 panel title
 #. slot: background color and image
@@ -724,7 +724,7 @@ msgstr "Эм, почему?"
 #, fuzzy
 msgctxt "comic323#p3.2"
 msgid "I'm next-fastest, I guess. Here I go!"
-msgstr "Наверное, я вторая по скорости. Поехали!"
+msgstr "Я вторая по скорости. Поехали!"
 
 #. comic323 panel p5
 #. slot: left bubble
@@ -987,7 +987,7 @@ msgstr "Прям как в «Югио»."
 #, fuzzy
 msgctxt "comic326#p7.2"
 msgid "Not all talk is filler, Radd."
-msgstr "Не всякий разговор — филлер, Улёт."
+msgstr "Не всё — филлер, Улёт."
 
 #. comic327 panel title
 #. slot: background color and image
@@ -1404,7 +1404,7 @@ msgstr "Эм, ждать, может, долго."
 #, fuzzy
 msgctxt "comic331#p4.2"
 msgid "Good. Maybe now he'll learn that violence is never the answer."
-msgstr "Вот и хорошо. Может, теперь он поймёт, что насилие — не выход."
+msgstr "Вот и хорошо. Может, теперь поймёт, что насилие — не выход."
 
 #. comic331 panel p4
 #. slot: right bubble
@@ -1413,7 +1413,7 @@ msgstr "Вот и хорошо. Может, теперь он поймёт, чт
 #, fuzzy
 msgctxt "comic331#p4.3"
 msgid "Funny, it always is for <i>us</i>."
-msgstr "Странно, для <i>нас</i> оно всегда выход."
+msgstr "А для <i>нас</i> — всегда выход."
 
 #. comic332 panel title
 #. slot: background color and image
@@ -1818,7 +1818,7 @@ msgstr "<b>Настолько</b> больше?"
 #, fuzzy
 msgctxt "comic336#p3.2"
 msgid "Adding digits raises the number exponentially. In a 32-bit computer like the one we're in now, his limit would be over 4 billion."
-msgstr "С каждым разрядом число растёт экспоненциально. В 32-битном компьютере вроде нашего его предел был бы больше 4 миллиардов."
+msgstr "Каждый новый разряд даёт рост по экспоненте. В 32-битном компьютере, как наш, предел — за 4 миллиарда."
 
 #. comic336 panel p4
 #. slot: left bubble
