@@ -1467,7 +1467,7 @@ msgstr "«МОЯ ЛУЧШАЯ ПОЛОВИНА»"
 #, fuzzy
 msgctxt "comic372#p1.1"
 msgid "Let me off here, on top of the High Score."
-msgstr "Высади меня здесь, на табло рекорда."
+msgstr "Высади меня здесь, на «Рекорде»."
 
 #. comic372 panel p1
 #. slot: right bubble
@@ -1625,7 +1625,7 @@ msgstr "«РУКАМИ НЕ ТРОГАТЬ»"
 #, fuzzy
 msgctxt "comic374#p1.1"
 msgid "From atop the High Score, Radd and Sheena resume blasting their pixelated adversaries."
-msgstr "Стоя на табло рекорда, Улёт и Шина снова палят по пиксельным противникам."
+msgstr "Стоя на «Рекорде», Улёт и Шина снова палят по пиксельным противникам."
 
 #. comic374 panel p1
 #. slot: left bubble

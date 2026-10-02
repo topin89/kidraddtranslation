@@ -1602,7 +1602,7 @@ msgstr "По-моему, до «любой цены» мы дошли ещё п�
 #, fuzzy
 msgctxt "comic576#p4.2"
 msgid "Son of a bit..."
-msgstr "Сукин сы..."
+msgstr "Сукин би..."
 
 #. comic576 panel p4
 #. slot: insert ground "tiles" on this line
@@ -1610,7 +1610,7 @@ msgstr "Сукин сы..."
 #, fuzzy
 msgctxt "comic576#p4.3"
 msgid "Mmm, waffles."
-msgstr "М-м, сырники."
+msgstr "М-м, бисквиты."
 
 #. comic577 panel title
 #. slot: background color and image
