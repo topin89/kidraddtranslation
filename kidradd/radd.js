@@ -13,7 +13,8 @@ $(document).ready(function() {
 	$(document).keydown(keypress);
 	$('a[name]').addClass('panel');
 	$('a[name="title"]').addClass('visible');
-	if($('a[name="p1"]').length > 0)
+	// Any comic panel, not just p1: comic30 starts at p2 and showed stray panels without the cover.
+	if($('a[name]').filter(function() { return /^p\d+$/.test(this.name); }).length > 0)
 		$('body').prepend('<div id="cover"></div>');
 	if (document.cookie.indexOf("zoom=true") != -1 && document.URL.indexOf("comic") > -1 || document.URL.indexOf("flash601") > -1) {
 		zoom();
