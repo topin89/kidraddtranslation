@@ -76,7 +76,7 @@ msgstr "Не бойся, будет — когда мы найдём Улёта!
 #, fuzzy
 msgctxt "comic411#p4.1"
 msgid "Oh, that's right - The doofus kid'll solve everything..."
-msgstr "Ах да, точно — этот пацан-балбес всё решит..."
+msgstr "Ах да, точно — этот пацан-балбес всё решит…"
 
 #. comic411 panel p4
 #. slot: right bubble
@@ -109,7 +109,7 @@ msgstr "Так чем Улёт так опасен для Кристал?"
 #, fuzzy
 msgctxt "comic412#p1.2"
 msgid "Um, I don't know exactly..."
-msgstr "Э-э, точно не знаю..."
+msgstr "Э-э, точно не знаю…"
 
 #. comic412 panel p2
 #. slot: left bubble
@@ -127,7 +127,7 @@ msgstr "Почему-то не удивлён."
 #, fuzzy
 msgctxt "comic412#p2.2"
 msgid "Well, I overheard her mumble something about \"infinite power...\""
-msgstr "Ну, я подслушал, как она бормотала что-то про «бесконечную силу»..."
+msgstr "Ну, я подслушал, как она бормотала что-то про «бесконечную силу»…"
 
 #. comic412 panel p3
 #. slot: left bubble
@@ -161,7 +161,7 @@ msgstr "«Опять же, не удивлён»."
 #, fuzzy
 msgctxt "comic412#p4.2"
 msgid "\"I'd like to say 'winging it' has worked for me so far, but...\""
-msgstr "«Хотел бы я сказать, что „как-нибудь“ меня пока выручало, но...»"
+msgstr "«Хотел бы я сказать, что „как-нибудь“ меня пока выручало, но…»"
 
 #. comic413 panel title
 #. slot: background color and image
@@ -178,7 +178,7 @@ msgstr "«ОПАСНЫЕ СЛОВА»"
 #, fuzzy
 msgctxt "comic413#p1.1"
 msgid "Hello boys, I couldn't help but overhear you..."
-msgstr "Привет, ребята, я невольно подслушал ваш разговор..."
+msgstr "Привет, ребята, я невольно подслушал ваш разговор…"
 
 #. comic413 panel p2
 #. slot: left bubble
@@ -187,7 +187,7 @@ msgstr "Привет, ребята, я невольно подслушал ва�
 #, fuzzy
 msgctxt "comic413#p2.1"
 msgid "Gah! A Mod! A really hideous one..."
-msgstr "А-а! Модер! Да ещё какой страшный..."
+msgstr "А-а! Модер! Да ещё какой страшный…"
 
 #. comic413 panel p2
 #. slot: middle bubble
@@ -214,7 +214,7 @@ msgstr "Кто?"
 #, fuzzy
 msgctxt "comic413#p3.2"
 msgid "This is G.I. Guy, the founder and original leader of the Moderators!"
-msgstr "Это Джи-Ай Гай, основатель и первый лидер Модераторов!"
+msgstr "Это Воин, основатель и первый лидер Модераторов!"
 
 #. comic413 panel p3
 #. slot: right bubble
@@ -223,7 +223,7 @@ msgstr "Это Джи-Ай Гай, основатель и первый лиде
 #, fuzzy
 msgctxt "comic413#p3.3"
 msgid "Quite right..."
-msgstr "Совершенно верно..."
+msgstr "Совершенно верно…"
 
 #. comic413 panel p4
 #. slot: middle bubble
@@ -259,7 +259,7 @@ msgstr "Да ладно, я постоянно говорю «молодчик»
 #, fuzzy
 msgctxt "comic413#p5.3"
 msgid "Sigh, it's the skull face isn't it? It always is..."
-msgstr "Эх, это всё из-за черепа вместо лица, да? Вечно из-за него..."
+msgstr "Эх, это всё из-за черепа вместо лица, да? Вечно из-за него…"
 
 #. comic414 panel title
 #. slot: background color and image
@@ -276,7 +276,7 @@ msgstr "«КАК ВСЁ БУДЕТ?»"
 #, fuzzy
 msgctxt "comic414#p1.1"
 msgid "Listen up guys, here's the plan..."
-msgstr "Слушайте, ребята, вот план..."
+msgstr "Слушайте, ребята, вот план…"
 
 #. comic414 panel p2
 #. slot: middle bubble
@@ -293,7 +293,7 @@ msgstr "Глубокой ночью мы проберёмся обратно в 
 #, fuzzy
 msgctxt "comic414#p3.1"
 msgid "Q.B., I'll need you to forge a false security clearance. I.B., I'm relying on you to cut the power. Meanwhile, I'll be slipping past the primary security force, taking advantage of the guards' midnight change of shift..."
-msgstr "Кьюби, тебе нужно подделать пропуск службы безопасности. Ай-Би, на тебе — отключить питание. А я тем временем проскользну мимо основной охраны, воспользовавшись полуночной сменой караула..."
+msgstr "QB, тебе нужно подделать пропуск службы безопасности. Ай-Би, на тебе — отключить питание. А я тем временем проскользну мимо основной охраны, воспользовавшись полуночной сменой караула…"
 
 #. comic414 panel p4
 #. slot: right bubble
@@ -302,7 +302,7 @@ msgstr "Кьюби, тебе нужно подделать пропуск слу
 #, fuzzy
 msgctxt "comic414#p4.1"
 msgid "...<b>Or</b> we could just use the ship in my inventory."
-msgstr "...<b>Или</b> можно просто взять корабль из моего инвентаря."
+msgstr "…<b>Или</b> можно просто взять корабль из моего инвентаря."
 
 #. comic414 panel p5
 #. slot: left bubble
@@ -361,7 +361,7 @@ msgstr "Никакого."
 #, fuzzy
 msgctxt "comic415#p2.1"
 msgid "Nifty, we... <b>what?</b> No weapons? Why?"
-msgstr "Здорово, мы... <b>что?</b> Никакого оружия? Почему?"
+msgstr "Здорово, мы… <b>что?</b> Никакого оружия? Почему?"
 
 #. comic415 panel p2
 #. slot: right bubble
@@ -415,7 +415,7 @@ msgstr "Нет, мы как раз там, где надо."
 #, fuzzy
 msgctxt "comic415#p4.3"
 msgid "Ooh, this'll be <i>fun</i>..."
-msgstr "О-о, будет <i>весело</i>..."
+msgstr "О-о, будет <i>весело</i>…"
 
 #. comic416 panel title
 #. slot: background color and image
@@ -476,7 +476,7 @@ msgstr "Да ладно, покажи боевой дух спрайта-бой�
 #, fuzzy
 msgctxt "comic416#p4.1"
 msgid "\"Yeah, but in my game people only fought one-on-one...\""
-msgstr "«Да, но в моей игре дрались только один на один...»"
+msgstr "«Да, но в моей игре дрались только один на один…»"
 
 #. comic416 panel p4
 #. slot: narration (if any, else cut)
@@ -484,7 +484,7 @@ msgstr "«Да, но в моей игре дрались только один �
 #, fuzzy
 msgctxt "comic416#p4.2"
 msgid "\"Don't worry. Forget what you've heard about NPCs, cuz <i>this</i> one packs a whallop...\""
-msgstr "«Не бойся. Забудь, что тебе рассказывали про НПС, — <i>этот</i> бьёт будь здоров...»"
+msgstr "«Не бойся. Забудь, что тебе рассказывали про НПС, — <i>этот</i> бьёт будь здоров…»"
 
 #. comic416 panel p4
 #. slot: narration (if any, else cut)
@@ -492,7 +492,7 @@ msgstr "«Не бойся. Забудь, что тебе рассказывал�
 #, fuzzy
 msgctxt "comic416#p4.3"
 msgid "\"Here they come...\""
-msgstr "«Идут...»"
+msgstr "«Идут…»"
 
 #. comic417 panel title
 #. slot: background color and image
@@ -509,7 +509,7 @@ msgstr "«ЖИВЫМ ИЛИ МЁРТВЫМ»"
 #, fuzzy
 msgctxt "comic417#p1.1"
 msgid "What the? Captain QB? <i>GI Guy?</i>"
-msgstr "Что за? Капитан Кьюби? <i>Джи-Ай Гай?</i>"
+msgstr "Что за? Капитан QB? <i>Воин?</i>"
 
 #. comic417 panel p2
 #. slot: left bubble
@@ -518,7 +518,7 @@ msgstr "Что за? Капитан Кьюби? <i>Джи-Ай Гай?</i>"
 #, fuzzy
 msgctxt "comic417#p2.1"
 msgid "But you guys are dead! Or supposed to be..."
-msgstr "Но вы же мертвы! Или должны быть..."
+msgstr "Но вы же мертвы! Или должны быть…"
 
 #. comic417 panel p2
 #. slot: right bubble
@@ -563,7 +563,7 @@ msgstr "Кристал велела убить всех мертвецов."
 #, fuzzy
 msgctxt "comic417#p4.2"
 msgid "And it starts..."
-msgstr "Ну, понеслось..."
+msgstr "Ну, понеслось…"
 
 #. comic418 panel title
 #. slot: background color and image
@@ -647,7 +647,7 @@ msgstr "Стра - айк!"
 #, fuzzy
 msgctxt "comic419#p2.1"
 msgid "They're too powerful! We'll only win if we gang up on one at a time!<br><b>Get Captain QB!</b>"
-msgstr "Они слишком сильны! Победим, только если навалимся на одного разом!<br><b>Хватай капитана Кьюби!</b>"
+msgstr "Они слишком сильны! Победим, только если навалимся на одного разом!<br><b>Хватай капитана QB!</b>"
 
 #. comic419 panel p3
 #. slot: middle bubble
@@ -672,7 +672,7 @@ msgstr "Определённо больше пятидесяти."
 #, fuzzy
 msgctxt "comic419#p4.1"
 msgid "Good going, QB! Looks like we won."
-msgstr "Молодец, Кьюби! Кажется, победили."
+msgstr "Молодец, QB! Кажется, победили."
 
 #. comic419 panel p4
 #. slot: right bubble
@@ -681,7 +681,7 @@ msgstr "Молодец, Кьюби! Кажется, победили."
 #, fuzzy
 msgctxt "comic419#p4.2"
 msgid "We did? Uh, where'd GI go?"
-msgstr "Да? Э-э, а где Джи-Ай?"
+msgstr "Да? Э-э, а где Воин?"
 
 #. comic419 panel p5
 #. slot: left bubble
@@ -699,7 +699,7 @@ msgstr "Эй, Ай-Би! Сунешь одну из этих красоток к
 #, fuzzy
 msgctxt "comic419#p5.2"
 msgid "You're welcome, hmph. I'm charging you rent for it..."
-msgstr "Пожалуйста, хмф. С тебя арендная плата..."
+msgstr "Пожалуйста, хмф. С тебя арендная плата…"
 
 #. comic420 panel title
 #. slot: background color and image
@@ -716,7 +716,7 @@ msgstr "«СТРЕЛОЧНИК»"
 #, fuzzy
 msgctxt "comic420#p1.1"
 msgid "So, um, about the portal incident today..."
-msgstr "Так, э-э, насчёт сегодняшнего происшествия у портала..."
+msgstr "Так, э-э, насчёт сегодняшнего происшествия у портала…"
 
 #. comic420 panel p3
 #. slot: left bubble
@@ -741,7 +741,7 @@ msgstr "О, спасибо, звучит весело!"
 #, fuzzy
 msgctxt "comic420#p4.1"
 msgid "Aspirin..."
-msgstr "Аспирину..."
+msgstr "Аспирину…"
 
 #. comic420 panel p4
 #. slot: right bubble

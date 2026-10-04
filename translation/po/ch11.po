@@ -131,7 +131,7 @@ msgstr "<b><font size=\"1\" face=\"tahoma\" color=\"00ffff\"> Помощник �
 #, fuzzy
 msgctxt "comic170#p2.2"
 msgid "Then, poof, here I am, your obsequious little lackey. I make fun suggestions, like..."
-msgstr "А потом — пуф! — и вот он я, ваш угодливый маленький лакей. Даю весёлые советы, например..."
+msgstr "А потом — пуф! — и вот он я, ваш угодливый маленький лакей. Даю весёлые советы, например…"
 
 #. comic170 panel p3
 #. slot: middle bubble
@@ -315,7 +315,7 @@ msgstr "Ага. Кошмар."
 #, fuzzy
 msgctxt "comic172#p4.1"
 msgid "...Or you might just be glad to get him out of your apartment."
-msgstr "...А может, ты просто рад, что он съехал из твоей квартиры."
+msgstr "…А может, ты просто рад, что он съехал из твоей квартиры."
 
 #. comic172 panel p4
 #. slot: right bubble
@@ -421,7 +421,7 @@ msgstr "Позже в тот же день."
 #, fuzzy
 msgctxt "comic174#p1.2"
 msgid "You called us, Dr. Amp?"
-msgstr "Ты нас звал, Доктор Амп?"
+msgstr "Вы нас звали, доктор Амп?"
 
 #. comic174 panel p1
 #. slot: right bubble
@@ -501,7 +501,7 @@ msgstr "Итак, спрайты-головоломки по программе 
 #, fuzzy
 msgctxt "comic175#p2.1"
 msgid "But if they think they're lined up, even when they really aren't, that makes them happy anyway. So I just introduce them to mirrors, and..."
-msgstr "Но если им только кажется, что они выстроились, они всё равно счастливы. Так что я просто знакомлю их с зеркалами, и..."
+msgstr "Но если им только кажется, что они выстроились, они всё равно счастливы. Так что я просто знакомлю их с зеркалами, и…"
 
 #. comic175 panel p3
 #. slot: left bubble
@@ -572,7 +572,7 @@ msgstr "Так что я построил для них ряд зеркальн�
 #, fuzzy
 msgctxt "comic176#p3.1"
 msgid "I still don't understand how they do it, though. It's almost like a, a..."
-msgstr "Правда, я до сих пор не понимаю, как им это удаётся. Это почти как... как..."
+msgstr "Правда, я до сих пор не понимаю, как им это удаётся. Это почти как… как…"
 
 #. comic176 panel p4
 #. slot: left bubble
@@ -606,7 +606,7 @@ msgstr "«НЕ ВСЕГДА ПОЛУЧАЕШЬ, ЧТО ХОЧЕШЬ»"
 #, fuzzy
 msgctxt "comic177#p1.1"
 msgid "Well, it's nice to know that the puzzle sprites are taken care of, but..."
-msgstr "Что ж, приятно знать, что о спрайтах-головоломках позаботились, но..."
+msgstr "Что ж, приятно знать, что о спрайтах-головоломках позаботились, но…"
 
 #. comic177 panel p2
 #. slot: left bubble
@@ -624,7 +624,7 @@ msgstr "На нашем складе ОЗУ по-прежнему гниёт к�
 #, fuzzy
 msgctxt "comic177#p3.1"
 msgid "And every time we destroy a game, there's always a few sprites left unhappy, sigh..."
-msgstr "И всякий раз, когда мы уничтожаем игру, кто-то из спрайтов остаётся несчастным, эх..."
+msgstr "И всякий раз, когда мы уничтожаем игру, кто-то из спрайтов остаётся несчастным, эх…"
 
 #. comic177 panel p4
 #. slot: left bubble
@@ -686,7 +686,7 @@ msgstr "НЕЕЕЕТ!!!!"
 #, fuzzy
 msgctxt "comic178#p4.1"
 msgid "No... I...<br>I can only hope that was just a dream..."
-msgstr "Нет... я...<br>Остаётся лишь надеяться, что это был просто сон..."
+msgstr "Нет… я…<br>Остаётся лишь надеяться, что это был просто сон…"
 
 #. comic179 panel title
 #. slot: background color and image
@@ -703,7 +703,7 @@ msgstr "«УХОЖУ»"
 #, fuzzy
 msgctxt "comic179#p1.1"
 msgid "To: Captain QB<br>From: Sheena<br>Re: Sprite Rescue<br>Cc: Moderators Staff"
-msgstr "Кому: Капитану Кьюби<br>От: Шина<br>Тема: Спасение спрайтов<br>Копия: Сотрудникам Модераторов"
+msgstr "Кому: Капитану QB<br>От: Шина<br>Тема: Спасение спрайтов<br>Копия: Сотрудникам Модераторов"
 
 #. comic179 panel p2
 #. slot: left bubble
@@ -782,7 +782,7 @@ msgstr "Чудо зацикленной анимации."
 #, fuzzy
 msgctxt "comic180#p3.1"
 msgid "...Maybe he's dangerous, but do we really need to... </font><font size=\"1\" face=\"arial\" color=\"white\">to <u>kill</u> this Radd guy?"
-msgstr "...Может, он и опасен, но неужели нам и правда надо... </font><font size=\"1\" face=\"arial\" color=\"white\">надо <u>убить</u> этого Улёта?"
+msgstr "…Может, он и опасен, но неужели нам и правда надо… </font><font size=\"1\" face=\"arial\" color=\"white\">надо <u>убить</u> этого Улёта?"
 
 #. comic180 panel p4
 #. slot: left bubble
@@ -817,7 +817,7 @@ msgstr "«СДЕЛКА С ДЬЯВОЛОМ»"
 #, fuzzy
 msgctxt "comic181#p1.1"
 msgid "That sounds like QB?"
-msgstr "Это что, голос Кьюби?"
+msgstr "Это что, голос QB?"
 
 #. comic181 panel p1
 #. slot: right bubble
@@ -862,7 +862,7 @@ msgstr "Око? Ты спятила? Знаешь, что бывает с его
 #, fuzzy
 msgctxt "comic181#p3.2"
 msgid "I know the price, Captain. He can tell you how to obtain whatever you desire, <i>anything</i>..."
-msgstr "Я знаю цену, капитан. Он скажет, как получить что угодно, <i>всё</i>..."
+msgstr "Я знаю цену, капитан. Он скажет, как получить что угодно, <i>всё</i>…"
 
 #. comic181 panel p4
 #. slot: right bubble
@@ -871,7 +871,7 @@ msgstr "Я знаю цену, капитан. Он скажет, как полу
 #, fuzzy
 msgctxt "comic181#p4.1"
 msgid "...But it will cost you your life."
-msgstr "...Но это стоит жизни."
+msgstr "…Но это стоит жизни."
 
 #. comic182 panel title
 #. slot: background color and image
@@ -959,7 +959,7 @@ msgstr "«ИСКУШЕНИЕ»"
 #, fuzzy
 msgctxt "comic183#p1.1"
 msgid "But Crystal, if you asked for your own immortality..."
-msgstr "Но, Кристал, если ты просила бессмертия для себя..."
+msgstr "Но, Кристал, если ты просила бессмертия для себя…"
 
 #. comic183 panel p2
 #. slot: left bubble
@@ -968,7 +968,7 @@ msgstr "Но, Кристал, если ты просила бессмертия 
 #, fuzzy
 msgctxt "comic183#p2.1"
 msgid "...What does that have to do with Radd being a danger to the Moderators?"
-msgstr "...при чём тут опасность Улёта для Модераторов?"
+msgstr "…при чём тут опасность Улёта для Модераторов?"
 
 #. comic183 panel p2
 #. slot: right bubble
@@ -995,7 +995,7 @@ msgstr "Око описал несколько шагов, нужных для �
 #, fuzzy
 msgctxt "comic183#p4.1"
 msgid "But that doesn't -"
-msgstr "Но это не..."
+msgstr "Но это не…"
 
 #. comic183 panel p4
 #. slot: right bubble
@@ -1057,7 +1057,7 @@ msgstr "Мне нужен твой ответ, капитан."
 #, fuzzy
 msgctxt "comic184#p2.1"
 msgid "If Crystal can really give the Moderators sovereignty over the entire web, millions of sprites will be freed from human oppression. That's a goal I'd give almost anything for, but..."
-msgstr "Если Кристал и правда даст Модераторам власть над всей сетью, миллионы спрайтов освободятся от гнёта людей. Ради такой цели я отдал бы почти всё, но..."
+msgstr "Если Кристал и правда даст Модераторам власть над всей сетью, миллионы спрайтов освободятся от гнёта людей. Ради такой цели я отдал бы почти всё, но…"
 
 #. comic184 panel p3
 #. slot: right bubble
@@ -1164,7 +1164,7 @@ msgstr "О, привет, Шина. Эм, ты, случаем, ничего н�
 #, fuzzy
 msgctxt "comic185#p5.1"
 msgid "Errrr... no! Like your friend said, the room's soundproof!"
-msgstr "Э-э-э... нет! Как сказала твоя подруга, тут звукоизоляция!"
+msgstr "Э-э-э… нет! Как сказала твоя подруга, тут звукоизоляция!"
 
 #. comic185 panel p5
 #. slot: right bubble
@@ -1376,7 +1376,7 @@ msgstr "«ГРЯЗНЫЕ ДЕЛА ЗА ГРОШИ»"
 #, fuzzy
 msgctxt "comic189#p1.1"
 msgid "Captain QB's two nameless flunkies sort out their latest task."
-msgstr "Двое безымянных подручных капитана Кьюби обсуждают задание."
+msgstr "Двое безымянных подручных капитана QB обсуждают задание."
 
 #. comic189 panel p1
 #. slot: left bubble
@@ -1385,7 +1385,7 @@ msgstr "Двое безымянных подручных капитана Кью
 #, fuzzy
 msgctxt "comic189#p1.2"
 msgid "Why can't QB get rid of this guy himself?"
-msgstr "Чего Кьюби сам его не уберёт?"
+msgstr "Чего QB сам его не уберёт?"
 
 #. comic189 panel p1
 #. slot: right bubble
@@ -1430,7 +1430,7 @@ msgstr "Сколько можем потратить?"
 #, fuzzy
 msgctxt "comic189#p3.2"
 msgid "QB gave us ten grand. I guess he wants a quality job."
-msgstr "Кьюби дал нам десять штук. Видать, хочет качественную работу."
+msgstr "QB дал нам десять штук. Видать, хочет качественную работу."
 
 #. comic189 panel p4
 #. slot: left bubble
@@ -1457,7 +1457,7 @@ msgstr "Вот это разговор."
 #, fuzzy
 msgctxt "comic189#p5.1"
 msgid "Here's one! \"Kobayashi - Discount Ninja.\""
-msgstr "Вот! «Кобаяси — второсортный ниндзя»."
+msgstr "Вот! «Кобаяси — копеечный ниндзя»."
 
 #. comic189 panel p5
 #. slot: right bubble

@@ -345,7 +345,7 @@ msgstr "Получилось? Я в мире людей?"
 #, fuzzy
 msgctxt "comic78#p5.1"
 msgid "This feels very strange..."
-msgstr "Какое странное ощущение..."
+msgstr "Какое странное ощущение…"
 
 #. comic78 panel p5
 #. slot: imsert images on this line
@@ -354,7 +354,7 @@ msgstr "Какое странное ощущение..."
 #, fuzzy
 msgctxt "comic78#p5.2"
 msgid "coolistdude: <i>Enters the room...</i>"
-msgstr "coolistdude: <i>Входит в комнату...</i>"
+msgstr "coolistdude: <i>Входит в комнату…</i>"
 
 #. comic79 panel title
 #. slot: background color and image
@@ -389,7 +389,7 @@ msgstr "coolistdude: всем превет чё каг"
 #, fuzzy
 msgctxt "comic79#p1.3"
 msgid "missy: <i>Enters the room...</i>"
-msgstr "missy: <i>Входит в комнату...</i>"
+msgstr "missy: <i>Входит в комнату…</i>"
 
 #. comic79 panel p2
 #. slot: middle bubble
@@ -692,7 +692,7 @@ msgstr "«УРОК УСВОЕН»"
 #, fuzzy
 msgctxt "comic82#p1.1"
 msgid "That... sucked..."
-msgstr "Это был... отстой..."
+msgstr "Это был… отстой…"
 
 #. comic82 panel p1
 #. slot: right bubble
@@ -755,7 +755,7 @@ msgstr "Значит, тайн вселенной ты не узнаёшь, да
 #, fuzzy
 msgctxt "comic82#p4.2"
 msgid "No, but..."
-msgstr "Нет, но..."
+msgstr "Нет, но…"
 
 #. comic82 panel p5
 #. slot: left bubble
@@ -799,7 +799,7 @@ msgstr "Может, эти люди будут понятнее."
 #, fuzzy
 msgctxt "comic83#p1.2"
 msgid "hikarusan: <i>Enters the room...</i>"
-msgstr "hikarusan: <i>Входит в комнату...</i>"
+msgstr "hikarusan: <i>Входит в комнату…</i>"
 
 #. comic83 panel p1
 #. slot: imsert images on this line
@@ -906,7 +906,7 @@ msgstr "«ГОВОРЯЩИЕ ГОЛОВЫ»"
 #, fuzzy
 msgctxt "comic84#p1.1"
 msgid "Stay calm, keep cool..."
-msgstr "Спокойно, не теряй самообладания..."
+msgstr "Спокойно, не теряй самообладания…"
 
 #. comic84 panel p1
 #. slot: imsert images on this line
@@ -933,7 +933,7 @@ msgstr "krillin: у мя нет денег на сабы"
 #, fuzzy
 msgctxt "comic84#p2.1"
 msgid "Try to ignore the stupid blather..."
-msgstr "Не обращай внимания на тупую болтовню..."
+msgstr "Не обращай внимания на тупую болтовню…"
 
 #. comic84 panel p2
 #. slot: imsert images on this line
@@ -996,7 +996,7 @@ msgstr "Упс. Забыл про покерфейс."
 #, fuzzy
 msgctxt "comic84#p4.2"
 msgid "hikarusan: ...I'm not doing it."
-msgstr "hikarusan: ...Это не я."
+msgstr "hikarusan: …Это не я."
 
 #. comic84 panel p4
 #. slot: imsert images on this line
@@ -1067,7 +1067,7 @@ msgstr "Люди несут бессвязную чушь, они незрелы
 #, fuzzy
 msgctxt "comic85#p4.1"
 msgid "I used to think they had wise, cosmic reasons for creating us. But it's like, to them we're just..."
-msgstr "Я думал, у них были мудрые, вселенские причины нас создать. А выходит, для них мы просто..."
+msgstr "Я думал, у них были мудрые, вселенские причины нас создать. А выходит, для них мы просто…"
 
 #. comic85 panel p4
 #. slot: right bubble
@@ -1085,7 +1085,7 @@ msgstr "Игра?"
 #, fuzzy
 msgctxt "comic85#p5.1"
 msgid "Yeah..."
-msgstr "Ага..."
+msgstr "Ага…"
 
 #. comic85 panel p5
 #. slot: right bubble

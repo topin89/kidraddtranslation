@@ -816,7 +816,7 @@ msgstr "«ПРИГОТОВИТЬСЯ К УДАРУ»"
 #, fuzzy
 msgctxt "comic506#p1.1"
 msgid "Don't mislead them, GI: I didn't \"build\" Chimera Point. I just renovated it a little."
-msgstr "Не вводи их в заблуждение, Джи-Ай: я не «строил» Точку Химеры. Я её только слегка обновил."
+msgstr "Не вводи их в заблуждение, Воин: я не «строил» Точку Химеры. Я её только слегка обновил."
 
 #. comic506 panel p1
 #. slot: right bubble
@@ -1109,7 +1109,7 @@ msgstr "«УЛЫБАЙСЯ ДАЛЬШЕ»"
 #, fuzzy
 msgctxt "comic511#p1.1"
 msgid "The Chimera program was apparently an unfinished project of the human who made it: Some Game Wizard-style program for altering individual sprites."
-msgstr "Программа «Химера», видимо, была незаконченным проектом её создателя-человека: что-то вроде «Игрового Волшебника» для изменения отдельных спрайтов."
+msgstr "Химера, видимо, была незаконченным проектом её создателя-человека: что-то вроде «Игрового Волшебника» для изменения отдельных спрайтов."
 
 #. comic511 panel p2
 #. slot: narration (if any, else cut)
@@ -1384,7 +1384,7 @@ msgstr "«ПРЕДАТЕЛЬСТВО»"
 #, fuzzy
 msgctxt "comic515#p1.1"
 msgid "So Radd and GI set off in the stolen Mod cruiser."
-msgstr "И вот Улёт и Джи-Ай отправляются в путь на угнанном крейсере Модеров."
+msgstr "И вот Улёт и Воин отправляются в путь на угнанном крейсере Модеров."
 
 #. comic515 panel p1
 #. slot: left bubble
@@ -2201,7 +2201,7 @@ msgstr "Зная Улёта, они наверняка просто заблуд
 #, fuzzy
 msgctxt "comic528#p2.2"
 msgid "But GI's with him, and I don't think he'd lose the way."
-msgstr "Но с ним Джи-Ай, а он, думаю, дорогу не потеряет."
+msgstr "Но с ним Воин, а он, думаю, дорогу не потеряет."
 
 #. comic528 panel p4
 #. slot: left bubble
@@ -2343,7 +2343,7 @@ msgstr "Наверно, уже около полусуток."
 #, fuzzy
 msgctxt "comic530#p2.1"
 msgid "And now Radd and GI took a tracable stolen cruiser there too???"
-msgstr "А Улёт с Джи-Ай полетели туда на угнанном крейсере, который можно отследить???"
+msgstr "А Улёт с Воином полетели туда на угнанном крейсере, который можно отследить???"
 
 #. comic530 panel p2
 #. slot: right bubble
@@ -2441,7 +2441,7 @@ msgstr "Неловко. Ага…"
 #, fuzzy
 msgctxt "comic531#p4.1"
 msgid "Enough wasting time already! We gotta find Radd & GI and get outta here!"
-msgstr "Хватит терять время! Надо найти Улёта и Джи-Ай и сваливать!"
+msgstr "Хватит терять время! Надо найти Улёта и Воина и сваливать!"
 
 #. comic531 panel p4
 #. slot: right bubble
@@ -2581,7 +2581,7 @@ msgstr "Ну и что теперь?"
 #, fuzzy
 msgctxt "comic533#p1.2"
 msgid "Yeah, how do we find Radd and GI without a clue where they are?"
-msgstr "Да, как найти Улёта и Джи-Ай, если мы понятия не имеем, где они?"
+msgstr "Да, как найти Улёта и Воина, если мы понятия не имеем, где они?"
 
 #. comic533 panel p2
 #. slot: right bubble
@@ -2807,7 +2807,7 @@ msgstr "Он бы так не сделал!"
 #, fuzzy
 msgctxt "comic536#p3.1"
 msgid "Radd wouldn't. But maybe GI would."
-msgstr "Улёт бы не сделал. А вот Джи-Ай, может, и сделал бы."
+msgstr "Улёт бы не сделал. А вот Воин, может, и сделал бы."
 
 #. comic536 panel p3
 #. slot: right bubble
@@ -3113,7 +3113,7 @@ msgstr "УХ, ЭТО БЫЛО СЛИШКОМ БЛИЗКО К КРАЮ."
 #, fuzzy
 msgctxt "comic541#p6.1"
 msgid "THE ODDS OF RADD MEETING GI GUY WERE ORIGINALLY SO SMALL, I NEVER THOUGHT SUCH A DANGEROUS SCENARIO WOULD PLAY OUT, BUT..."
-msgstr "ШАНСЫ, ЧТО УЛЁТ ВСТРЕТИТ ДЖИ-АЙ ГАЯ, БЫЛИ ТАК МАЛЫ, ЧТО Я И НЕ ДУМАЛ, ЧТО РАЗЫГРАЕТСЯ ТАКОЙ ОПАСНЫЙ СЦЕНАРИЙ, НО…"
+msgstr "ШАНСЫ, ЧТО УЛЁТ ВСТРЕТИТ ВОИНА, БЫЛИ ТАК МАЛЫ, ЧТО Я И НЕ ДУМАЛ, ЧТО РАЗЫГРАЕТСЯ ТАКОЙ ОПАСНЫЙ СЦЕНАРИЙ, НО…"
 
 #. comic541 panel p7
 #. slot: middle bubble
@@ -3122,7 +3122,7 @@ msgstr "ШАНСЫ, ЧТО УЛЁТ ВСТРЕТИТ ДЖИ-АЙ ГАЯ, БЫЛ�
 #, fuzzy
 msgctxt "comic541#p7.1"
 msgid "BY A LARGE MEASURE OF LUCK, GI FORTUNATELY DIDN'T SUCCEED. WITH THAT CRISIS AVERTED, IT LOOKS LIKE RADD WILL CARRY ON."
-msgstr "ЛИШЬ ПО БОЛЬШОМУ ВЕЗЕНИЮ ДЖИ-АЙ НЕ ПРЕУСПЕЛ. КРИЗИС ПРЕДОТВРАЩЁН, И, ПОХОЖЕ, УЛЁТ ПОЙДЁТ ДАЛЬШЕ."
+msgstr "ЛИШЬ ПО БОЛЬШОМУ ВЕЗЕНИЮ ВОИН НЕ ПРЕУСПЕЛ. КРИЗИС ПРЕДОТВРАЩЁН, И, ПОХОЖЕ, УЛЁТ ПОЙДЁТ ДАЛЬШЕ."
 
 #. comic541 panel p8
 #. slot: middle bubble
@@ -3285,7 +3285,7 @@ msgstr "«НЕУДЕРЖИМЫЙ»"
 #, fuzzy
 msgctxt "comic544#p1.1"
 msgid "Wow, I can't believe that GI Guy was really so... unbalanced..."
-msgstr "Ух, не верится, что Джи-Ай Гай был таким… психом…"
+msgstr "Ух, не верится, что Воин был таким… психом…"
 
 #. comic544 panel p1
 #. slot: right bubble
@@ -3436,7 +3436,7 @@ msgstr "Но для большинства лучший путь где-то м�
 #, fuzzy
 msgctxt "comic545#p7.1"
 msgid "And nobody, not Crystal or GI or any other goof is gonna tell us otherwise. And... Sheena?"
-msgstr "И никто, ни Кристал, ни Джи-Ай, ни ещё какой балбес, не будет нам указывать. И… Шина?"
+msgstr "И никто, ни Кристал, ни Воин, ни ещё какой балбес, не будет нам указывать. И… Шина?"
 
 #. comic545 panel p7
 #. slot: right bubble

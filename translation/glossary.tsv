@@ -7,25 +7,25 @@
 \bGnarl\b	Отпад	Gnarl -> Отпад
 \bCool Ragnarok\b	Отпадн\w+ Коллапс	Cool Ragnarok -> Отпадный Коллапс
 \bC\.R\.	О\.Ко	C.R. -> О.Ко
-\bSeer\b	Ок[оа]	Seer -> Око
+\bSeer\b	Ок[оа]	Seer -> Око (masculine, as «he» in the comic: «Око сказал», «весь Око»)
 \bKobayashi\b	Кобаяси	Kobayashi -> Кобаяси (indeclinable)
-(?i)\bdiscount ninja\b	[Вв]торосортн\w* ниндзя	Discount Ninja -> второсортный ниндзя (Кобаяси — второсортный ниндзя)
+(?i)\bdiscount ninja\b	[Кк]опеечн\w* ниндзя	Discount Ninja -> копеечный ниндзя (Кобаяси — копеечный ниндзя)
 \bKielbasa\b	Кулебяси	Kielbasa (Radd's nickname) -> Кулебяси
 \bKid Radd\b	Ул[её]т-пар(ень|н)|УЛ[ЕЁ]Т-ПАР(ЕНЬ|Н)	Kid Radd (game title) -> «Улёт-парень» (provisional); only «парень» declines: Улёт-парню, об Улёт-парне
 # --- Provisional (chosen by Claude before the chapter 2-29 draft; user may change) ---
 \bMod(erator)?s?\b	[Мм]одер	Moderators / Mods -> Модераторы / Модеры (Mod HQ -> штаб Модеров)
-\bCaptain QB\b|\bQB\b	Кьюби	Captain QB -> Капитан Кьюби
-\bDr\. Amp	[Дд]октор\w* Амп	Dr. Amp / Dr. Ampersand -> Доктор Амп / Доктор Амперсанд
-\bGI Guy\b	Джи-Ай Га	GI Guy -> Джи-Ай Гай
+\bCaptain QB\b|\bQB\b	QB	Captain QB -> Капитан QB (kept in Latin for now)
+\bDr\. Amp	[Дд]октор\w* Амп	Dr. Amp -> доктор Амп (Amp = ампер, pun with Joule). Sheena: «вы» before leaving Hopetown (comic211), «ты» after; Radd always «ты»
+\bGI Guy\b|\bGI\b	Воин|ВОИН	GI Guy / GI -> Воин (provisional); IB calls him «Черепушка»
 \bCrystal\b	Кристал	Crystal -> Кристал
 \bEliot\b	Элиот	Eliot -> Элиот
 \bJulie\b	Джули	Julie -> Джули
 \bJoule\b	Джоул	Joule -> Джоуль
 \bBitty\b	Битти	Bitty -> Битти
-\bBenny\b	Бенни	Benny -> Бенни
-\bLucky Penny\b	Пенни	Lucky Penny -> Счастливица Пенни
+\bBenny\b	Бэнни	Benny DaBunny -> Зайка Бэнни
+\bLucky Penny\b	Монетк\w* на удачу	Lucky Penny (an item) -> «Монетка на удачу»
 \bIB\b	Ай-Би	IB -> Ай-Би
-\bChimera	[Хх]имер	Chimera / Chimera Point / Chimerization -> Химера / Точка Химеры / химеризация
+\bChimera	[Хх]имер	Chimera / Chimera Point / chimerization -> Химера (no «программа») / Точка Химеры / химеризация
 \bProtos\b	Протос	Protos -> Протос
 \bHopetown\b	Надеждинск	Hopetown -> Надеждинск
 \bMi'growsoft\b	Майгрософт	Mi'growsoft -> Майгрософт
@@ -33,3 +33,6 @@
 \bMega Radd	Мега-Ул[её]т	Mega Radd -> Мега-Улёт
 \bKoba\b	Коба	Koba (Kobayashi) -> Коба
 \bNPCs?\b	НПС|[Нн]еигров	NPC -> НПС / неигровой персонаж
+\bPlayland\b	Забав	Bunny and Chick Playland / Playland 2 -> «Забавы Зайки и Цыпочек» / «Забавы 2»
+\bDaedalus\b	Дедал	Old Daedalus -> Старик Дедал (cf. Малыш Икар)
+\bBludius\b	Бладиус	Bludius -> «Бладиус»

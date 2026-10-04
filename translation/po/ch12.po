@@ -78,7 +78,7 @@ msgstr "— последнее, что я сделаю?"
 #, fuzzy
 msgctxt "comic190#p5.2"
 msgid "It could be..."
-msgstr "Может, и будет..."
+msgstr "Может, и будет…"
 
 #. comic191 panel title
 #. slot: background color and image
@@ -104,7 +104,7 @@ msgstr "Кто там? Меня освобождают досрочно?"
 #, fuzzy
 msgctxt "comic191#p1.2"
 msgid "Something like that..."
-msgstr "Вроде того..."
+msgstr "Вроде того…"
 
 #. comic191 panel p2
 #. slot: left bubble
@@ -281,7 +281,7 @@ msgstr "Вижу, ты должным образом впечатлён, мал�
 #, fuzzy
 msgctxt "comic194#p1.2"
 msgid "Eh heh heh..."
-msgstr "Э-хе-хе..."
+msgstr "Э-хе-хе…"
 
 #. comic194 panel p2
 #. slot: narration (if any, else cut)
@@ -326,7 +326,7 @@ msgstr "Можешь приступать к трепету."
 #, fuzzy
 msgctxt "comic194#p4.2"
 msgid "I know I should be worried, but..."
-msgstr "Знаю, мне стоило бы волноваться, но..."
+msgstr "Знаю, мне стоило бы волноваться, но…"
 
 #. comic195 panel title
 #. slot: background color and image
@@ -388,7 +388,7 @@ msgstr "Сенсоры с наведением будут палить в теб
 #, fuzzy
 msgctxt "comic195#p4.1"
 msgid "And then there's the, uh... the flashing light thingy. It does nothing. Well, except to blow the machine up. I guess you can shoot at it, but I'd prefer that you didn't."
-msgstr "А ещё тут, э-э... мигающая лампочка. Она ничего не делает. Ну, разве что взрывает машину. В неё, наверное, можно стрелять, но я бы предпочёл, чтобы ты этого не делал."
+msgstr "А ещё тут, э-э… мигающая лампочка. Она ничего не делает. Ну, разве что взрывает машину. В неё, наверное, можно стрелять, но я бы предпочёл, чтобы ты этого не делал."
 
 #. comic195 panel p5
 #. slot: narration (if any, else cut)
@@ -441,7 +441,7 @@ msgstr "Не понимаю. Ты хочешь, чтобы я тебя побе�
 #, fuzzy
 msgctxt "comic196#p2.1"
 msgid "What? I, the great Kobayashi, discount ninja, have every intent of destroying you! How dare you make such an accusation?"
-msgstr "Что? Я, великий Кобаяси, второсортный ниндзя, твёрдо намерен тебя уничтожить! Да как ты смеешь меня в таком обвинять?"
+msgstr "Что? Я, великий Кобаяси, копеечный ниндзя, твёрдо намерен тебя уничтожить! Да как ты смеешь меня в таком обвинять?"
 
 #. comic196 panel p3
 #. slot: right bubble
@@ -468,7 +468,7 @@ msgstr "Когда Улёт красноречив, шрифт у него ст�
 #, fuzzy
 msgctxt "comic196#p5.1"
 msgid "They, uh, balance the chains."
-msgstr "Они, э-э... уравновешивают цепи."
+msgstr "Они, э-э… уравновешивают цепи."
 
 #. comic196 panel p5
 #. slot: middle bubble
@@ -606,7 +606,7 @@ msgstr "«НОВЫЙ НАСТРОЙ»"
 #, fuzzy
 msgctxt "comic199#p1.1"
 msgid "And so, inevitably..."
-msgstr "И вот, как и следовало ожидать..."
+msgstr "И вот, как и следовало ожидать…"
 
 #. comic199 panel p1
 #. slot: middle bubble
@@ -642,7 +642,7 @@ msgstr "Знаю! В следующий раз у меня будет <b>ДВЕ<
 #, fuzzy
 msgctxt "comic199#p4.2"
 msgid "Um..."
-msgstr "Эм..."
+msgstr "Эм…"
 
 #. comic199 panel p5
 #. slot: left bubble
@@ -906,7 +906,7 @@ msgstr "Значит, ты хладнокровный убийца?"
 #, fuzzy
 msgctxt "comic203#p2.2"
 msgid "Well, sort of..."
-msgstr "Ну, вроде того..."
+msgstr "Ну, вроде того…"
 
 #. comic203 panel p3
 #. slot: left bubble
@@ -924,7 +924,7 @@ msgstr "И сколько же людей ты убил?"
 #, fuzzy
 msgctxt "comic203#p3.2"
 msgid "Er... one half?"
-msgstr "Э-э... половину?"
+msgstr "Э-э… половину?"
 
 #. comic203 panel p4
 #. slot: left bubble
@@ -959,7 +959,7 @@ msgstr "«ВПОЛОВИНУ НЕ ТОТ, ЧТО ПРЕЖДЕ»"
 #, fuzzy
 msgctxt "comic204#p1.1"
 msgid "Listen up, Kielbasa..."
-msgstr "Слушай сюда, Кулебяси..."
+msgstr "Слушай сюда, Кулебяси…"
 
 #. comic204 panel p1
 #. slot: right bubble
@@ -1030,7 +1030,7 @@ msgstr "Забавно, что у Джонни это ответ на всё."
 #, fuzzy
 msgctxt "comic204#p5.2"
 msgid "not... the nards... again..."
-msgstr "только... не по яйцам... опять..."
+msgstr "только… не по яйцам… опять…"
 
 #. comic205 panel title
 #. slot: background color and image
@@ -1047,7 +1047,7 @@ msgstr "«НАМ ПО ПУТИ?»"
 #, fuzzy
 msgctxt "comic205#p1.1"
 msgid "You'll... pay..."
-msgstr "Ты... заплатишь..."
+msgstr "Ты… заплатишь…"
 
 #. comic205 panel p1
 #. slot: right bubble
@@ -1314,7 +1314,7 @@ msgstr "Но ты же Модер!"
 #, fuzzy
 msgctxt "comic208#p3.2"
 msgid "Not anymore I'm not! Look, it's a long story..."
-msgstr "Уже нет! Слушай, это долгая история..."
+msgstr "Уже нет! Слушай, это долгая история…"
 
 #. comic208 panel p4
 #. slot: narration (if any, else cut)
@@ -1403,7 +1403,7 @@ msgstr "В рубку. За мной!"
 #, fuzzy
 msgctxt "comic209#p2.1"
 msgid "So... you stole this ship from the Mods?"
-msgstr "Так... вы угнали этот корабль у Модеров?"
+msgstr "Так… вы угнали этот корабль у Модеров?"
 
 #. comic209 panel p2
 #. slot: right bubble
@@ -1430,7 +1430,7 @@ msgstr "Значит, вы угнали его у него?"
 #, fuzzy
 msgctxt "comic209#p3.2"
 msgid "No..."
-msgstr "Нет..."
+msgstr "Нет…"
 
 #. comic209 panel p4
 #. slot: left bubble
@@ -1448,7 +1448,7 @@ msgstr "Это он возглавляет нашу маленькую эксп�
 #, fuzzy
 msgctxt "comic209#p4.2"
 msgid "Uh oh..."
-msgstr "Ой-ой..."
+msgstr "Ой-ой…"
 
 #. comic209 panel p4
 #. slot: right bubble
@@ -1528,7 +1528,7 @@ msgstr "Но я спрайт-герой, а герои не бегут! Я не 
 #, fuzzy
 msgctxt "comic210#p4.2"
 msgid "Oh Radd..."
-msgstr "Ох, Улёт..."
+msgstr "Ох, Улёт…"
 
 #. comic210 panel p5
 #. slot: left bubble
@@ -1608,7 +1608,7 @@ msgstr "Выходим в сетевое пространство."
 #, fuzzy
 msgctxt "comic211#p3.2"
 msgid "Ooooh..."
-msgstr "Ооооо..."
+msgstr "Ооооо…"
 
 #. comic211 panel p4
 #. slot: left bubble
@@ -1759,7 +1759,7 @@ msgstr "«Сначала она навестила всеведущего Ока
 #, fuzzy
 msgctxt "comic213#p3.1"
 msgid "\"Soon afterward the Moderators' leader, GI Guy, suddenly disappeared. Captain QB has assumed leadership, but Crystal's always nearby, clearly pulling his strings.\""
-msgstr "«Вскоре после этого внезапно исчез лидер Модераторов, Джи-Ай Гай. Руководство взял на себя капитан Кьюби, но Кристал всегда рядом и явно дёргает его за ниточки»."
+msgstr "«Вскоре после этого внезапно исчез лидер Модераторов, Воин. Руководство взял на себя капитан QB, но Кристал всегда рядом и явно дёргает его за ниточки»."
 
 #. comic213 panel p4
 #. slot: left bubble
@@ -1768,7 +1768,7 @@ msgstr "«Вскоре после этого внезапно исчез лид�
 #, fuzzy
 msgctxt "comic213#p4.1"
 msgid "I don't know what her full plans are, but what's she's doing right now is terrible enough..."
-msgstr "Я не знаю всех её планов, но и того, что она делает сейчас, достаточно ужасно..."
+msgstr "Я не знаю всех её планов, но и того, что она делает сейчас, достаточно ужасно…"
 
 #. comic213 panel p4
 #. slot: main table end

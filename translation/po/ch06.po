@@ -176,7 +176,7 @@ msgstr "Приготовиться к переброске!"
 #, fuzzy
 msgctxt "comic87#p4.2"
 msgid "This'll take some getting used to..."
-msgstr "К этому придётся привыкнуть..."
+msgstr "К этому придётся привыкнуть…"
 
 #. comic88 panel title
 #. slot: background color and image
@@ -200,7 +200,7 @@ msgstr "Космос, бесконечный и необъятный."
 #, fuzzy
 msgctxt "comic88#p2.1"
 msgid "This is the setting of Bludius, the shooter game Sheena has entered."
-msgstr "Здесь происходит действие «Блудиуса» — стрелялки, в которую попала Шина."
+msgstr "Здесь происходит действие «Бладиуса» — стрелялки, в которую попала Шина."
 
 #. comic88 panel p3
 #. slot: narration (if any, else cut)
@@ -315,7 +315,7 @@ msgstr "«СВОБОДА ДЛЯ ВСЕХ»"
 #, fuzzy
 msgctxt "comic90#p1.1"
 msgid "Sheena quickly becomes a respected Moderator..."
-msgstr "Шина быстро становится уважаемым Модером..."
+msgstr "Шина быстро становится уважаемым Модером…"
 
 #. comic90 panel p1
 #. slot: left bubble
@@ -342,7 +342,7 @@ msgstr "Да ну, это моя работа."
 #, fuzzy
 msgctxt "comic90#p2.1"
 msgid "...Liberating sprites, whether they like it or not."
-msgstr "...Освобождая спрайтов, нравится им это или нет."
+msgstr "…Освобождая спрайтов, нравится им это или нет."
 
 #. comic90 panel p2
 #. slot: left bubble
@@ -392,7 +392,7 @@ msgstr "Э, то есть спасибо, что спасли меня."
 #, fuzzy
 msgctxt "comic90#p4.2"
 msgid "No... problem?"
-msgstr "Не... за что?"
+msgstr "Не… за что?"
 
 #. comic91 panel title
 #. slot: background color and image
@@ -436,7 +436,7 @@ msgstr "Зашибись — ровно 1000 баксов всего за нед
 #, fuzzy
 msgctxt "comic91#p2.2"
 msgid "Um..."
-msgstr "Эм..."
+msgstr "Эм…"
 
 #. comic91 panel p3
 #. slot: left bubble
@@ -640,7 +640,7 @@ msgstr "Пока, Бяка."
 #, fuzzy
 msgctxt "comic94#p2.1"
 msgid "And now for the most embarassing part of the day. I've got nowhere to crash for the night..."
-msgstr "А теперь самая унизительная часть дня. Мне негде переночевать..."
+msgstr "А теперь самая унизительная часть дня. Мне негде переночевать…"
 
 #. comic94 panel p3
 #. slot: left bubble
@@ -826,7 +826,7 @@ msgstr "играть игра!"
 #, fuzzy
 msgctxt "comic96#p4.2"
 msgid "Uh..."
-msgstr "Э-э..."
+msgstr "Э-э…"
 
 #. comic96 panel p4
 #. slot: middle bubble
@@ -897,7 +897,7 @@ msgstr "Нет. Поэтому и громоздятся друг на друг�
 #, fuzzy
 msgctxt "comic97#p3.1"
 msgid "The user moves them as they fall. When three of the same color touch... they annihilate each other."
-msgstr "Пользователь двигает их, пока они падают. Когда соприкасаются три одного цвета... они уничтожают друг друга."
+msgstr "Пользователь двигает их, пока они падают. Когда соприкасаются три одного цвета… они уничтожают друг друга."
 
 #. comic97 panel p4
 #. slot: left bubble
@@ -977,7 +977,7 @@ msgstr "Что? О, <b>НЕТ!!!</b>"
 #, fuzzy
 msgctxt "comic98#p3.1"
 msgid "Damn! Just by dumb luck, those poor sprites got themselves killed. Oh, the waste..."
-msgstr "Чёрт! По чистой случайности эти бедные спрайты погибли. Какая потеря..."
+msgstr "Чёрт! По чистой случайности эти бедные спрайты погибли. Какая потеря…"
 
 #. comic98 panel p4
 #. slot: left bubble
@@ -986,7 +986,7 @@ msgstr "Чёрт! По чистой случайности эти бедные �
 #, fuzzy
 msgctxt "comic98#p4.1"
 msgid "Wait a minute... Isn't that one of the same sprites again?"
-msgstr "Минутку... Это же опять один из тех же спрайтов?"
+msgstr "Минутку… Это же опять один из тех же спрайтов?"
 
 #. comic98 panel p4
 #. slot: middle bubble
@@ -1030,7 +1030,7 @@ msgstr "Набирать очки и исчезать этим создания�
 #, fuzzy
 msgctxt "comic99#p1.2"
 msgid "Maybe not..."
-msgstr "Может быть..."
+msgstr "Может быть…"
 
 #. comic99 panel p2
 #. slot: left bubble
@@ -1128,7 +1128,7 @@ msgstr "Согласен."
 #, fuzzy
 msgctxt "comic100#p3.1"
 msgid "However, you forget that when the portal closes, it'll destroy this game. ...And anyone who's inside."
-msgstr "Но ты забываешь, что, когда портал закроется, игра будет уничтожена. ...Вместе со всеми, кто внутри."
+msgstr "Но ты забываешь, что, когда портал закроется, игра будет уничтожена. …Вместе со всеми, кто внутри."
 
 #. comic100 panel p4
 #. slot: left bubble

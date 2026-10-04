@@ -67,7 +67,7 @@ msgstr "Ладно, платить за квартиру пополам не в�
 #, fuzzy
 msgctxt "comic101#p3.2"
 msgid "Oh, fine..."
-msgstr "Ох, ладно..."
+msgstr "Ох, ладно…"
 
 #. comic101 panel p4
 #. slot: left bubble
@@ -201,7 +201,7 @@ msgstr "А, ему просто тяжело дался выход из шкаф
 #, fuzzy
 msgctxt "comic102#p5.1"
 msgid "Wow. I really had no idea..."
-msgstr "Ого. Я понятия не имела..."
+msgstr "Ого. Я понятия не имела…"
 
 #. comic102 panel p5
 #. slot: middle bubble
@@ -281,7 +281,7 @@ msgstr "Как насчёт того, чтобы приютить одного �
 #, fuzzy
 msgctxt "comic103#p3.2"
 msgid "Uh..."
-msgstr "Э-э..."
+msgstr "Э-э…"
 
 #. comic103 panel p4
 #. slot: left bubble
@@ -352,7 +352,7 @@ msgstr "Эх."
 #, fuzzy
 msgctxt "comic104#p1.3"
 msgid "Er..."
-msgstr "Э-э..."
+msgstr "Э-э…"
 
 #. comic104 panel p2
 #. slot: left bubble
@@ -361,7 +361,7 @@ msgstr "Э-э..."
 #, fuzzy
 msgctxt "comic104#p2.1"
 msgid "They're very easy to care for! Just set them by stuff of their color, and it sorta makes them happy. (Not nearly like their game, though...)"
-msgstr "За ними очень легко ухаживать! Просто ставьте их рядом с вещами их цвета — это их вроде как радует. (Хотя до их игры, конечно, далеко...)"
+msgstr "За ними очень легко ухаживать! Просто ставьте их рядом с вещами их цвета — это их вроде как радует. (Хотя до их игры, конечно, далеко…)"
 
 #. comic104 panel p3
 #. slot: left bubble
@@ -432,7 +432,7 @@ msgstr "«ДЕЛИКАТНОСТЬ»"
 #, fuzzy
 msgctxt "comic105#p1.1"
 msgid "...So now these creatures are homeless, and it's kinda my fault."
-msgstr "...В общем, эти создания теперь бездомные, и это вроде как моя вина."
+msgstr "…В общем, эти создания теперь бездомные, и это вроде как моя вина."
 
 #. comic105 panel p1
 #. slot: middle bubble
@@ -557,7 +557,7 @@ msgstr "Ты <b>РЕХНУЛСЯ???</b> Хочешь, чтобы они <b>УМ�
 #, fuzzy
 msgctxt "comic106#p3.2"
 msgid "But... You said..."
-msgstr "Но... Ты же сама сказала..."
+msgstr "Но… Ты же сама сказала…"
 
 #. comic106 panel p4
 #. slot: left bubble
@@ -610,7 +610,7 @@ msgstr "Ну, зря сходила. Мальчикам спрайты-голо�
 #, fuzzy
 msgctxt "comic107#p2.1"
 msgid "I guess I'll just hafta leave the poor guys in storage with all the other useless sprites, sigh..."
-msgstr "Видно, придётся оставить бедняжек на складе со всеми прочими бесполезными спрайтами, эх..."
+msgstr "Видно, придётся оставить бедняжек на складе со всеми прочими бесполезными спрайтами, эх…"
 
 #. comic107 panel p3
 #. slot: left bubble
@@ -619,7 +619,7 @@ msgstr "Видно, придётся оставить бедняжек на ск
 #, fuzzy
 msgctxt "comic107#p3.1"
 msgid "Well, I suppose there's one more person I can turn to for help, but..."
-msgstr "Ну, есть ещё один человек, к кому можно обратиться за помощью, но..."
+msgstr "Ну, есть ещё один человек, к кому можно обратиться за помощью, но…"
 
 #. comic107 panel p5
 #. slot: narration (if any, else cut)
@@ -726,7 +726,7 @@ msgstr "Есть ли что-то, чего я не могу?"
 #, fuzzy
 msgctxt "comic108#p4.3"
 msgid "Truly brilliant..."
-msgstr "Поистине гениально..."
+msgstr "Поистине гениально…"
 
 #. comic109 panel title
 #. slot: background color and image
@@ -841,7 +841,7 @@ msgstr "Э, нет."
 #, fuzzy
 msgctxt "comic110#p2.2"
 msgid "Well then, I have no alternative..."
-msgstr "Что ж, тогда мне ничего не остаётся..."
+msgstr "Что ж, тогда мне ничего не остаётся…"
 
 #. comic110 panel p3
 #. slot: middle bubble
@@ -947,7 +947,7 @@ msgstr "«ЖАЛО»"
 #, fuzzy
 msgctxt "comic112#p1.1"
 msgid "Listen, fighting me would be..."
-msgstr "Слушай, драться со мной было бы..."
+msgstr "Слушай, драться со мной было бы…"
 
 #. comic112 panel p1
 #. slot: right bubble
@@ -992,7 +992,7 @@ msgstr "Опять моё жало не сработало. Эх."
 #, fuzzy
 msgctxt "comic112#p4.2"
 msgid "Uh, no comment..."
-msgstr "Э, без комментариев..."
+msgstr "Э, без комментариев…"
 
 #. comic113 panel title
 #. slot: background color and image
@@ -1009,7 +1009,7 @@ msgstr "«ЧТО ОНИ КУРИЛИ?»"
 #, fuzzy
 msgctxt "comic113#p1.1"
 msgid "Useless again..."
-msgstr "Снова бесполезна..."
+msgstr "Снова бесполезна…"
 
 #. comic113 panel p1
 #. slot: middle bubble
@@ -1027,7 +1027,7 @@ msgstr "Что тут происходит?"
 #, fuzzy
 msgctxt "comic113#p2.1"
 msgid "Dr. Amp? Sorry, I was, er, \"fighting\" your minion."
-msgstr "Доктор Амп? Извини, я тут, э-э, «сражалась» с твоим приспешником."
+msgstr "Доктор Амп? Извините, я тут, э-э, «сражалась» с вашим приспешником."
 
 #. comic113 panel p2
 #. slot: right bubble
@@ -1054,7 +1054,7 @@ msgstr "Зови меня «Джули»."
 #, fuzzy
 msgctxt "comic113#p3.2"
 msgid "Your, um, daughter is a bee?"
-msgstr "Твоя, эм, дочь — пчела?"
+msgstr "Ваша, эм, дочь — пчела?"
 
 #. comic113 panel p3
 #. slot: right bubble
@@ -1072,7 +1072,7 @@ msgstr "Видимо, да. Кто знает, что курили разраб�
 #, fuzzy
 msgctxt "comic113#p4.1"
 msgid "Do you like Blind Melon?"
-msgstr "Тебе нравится Blind Melon?"
+msgstr "Вам нравится Blind Melon?"
 
 #. comic113 panel p4
 #. slot: right bubble
@@ -1107,7 +1107,7 @@ msgstr "Шина объясняет свою проблему."
 #, fuzzy
 msgctxt "comic114#p1.2"
 msgid "Please Dr. Amp, can you help them?"
-msgstr "Пожалуйста, доктор Амп, ты можешь им помочь?"
+msgstr "Пожалуйста, доктор Амп, вы можете им помочь?"
 
 #. comic114 panel p1
 #. slot: right bubble
@@ -1116,7 +1116,7 @@ msgstr "Пожалуйста, доктор Амп, ты можешь им пом
 #, fuzzy
 msgctxt "comic114#p1.3"
 msgid "I'd like to, but... who's gonna pay for it?"
-msgstr "Хотел бы, но... кто за это заплатит?"
+msgstr "Хотел бы, но… кто за это заплатит?"
 
 #. comic114 panel p2
 #. slot: left bubble
@@ -1277,4 +1277,4 @@ msgstr "Видишь? В названии <b>моё</b> имя."
 #, fuzzy
 msgctxt "comic115#p4.2"
 msgid "You can't do this..."
-msgstr "Так нельзя..."
+msgstr "Так нельзя…"

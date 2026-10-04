@@ -166,7 +166,7 @@ msgstr "Не знаю. В киберпространстве, наверное."
 #, fuzzy
 msgctxt "comic57#p4.2"
 msgid "It's a lot to absorb..."
-msgstr "Столько всего сразу..."
+msgstr "Столько всего сразу…"
 
 #. comic57 panel p5
 #. slot: middle bubble
@@ -246,7 +246,7 @@ msgstr "Это ещё что такое?"
 #, fuzzy
 msgctxt "comic58#p4.2"
 msgid "They said it was an imported delicacy..."
-msgstr "Сказали, импортный деликатес..."
+msgstr "Сказали, импортный деликатес…"
 
 #. comic59 panel title
 #. slot: background color and image
@@ -272,7 +272,7 @@ msgstr "Девушка, что это за «еда» такая?"
 #, fuzzy
 msgctxt "comic59#p1.2"
 msgid "Why, of all the nerve..."
-msgstr "Ну, знаете ли, какая наглость..."
+msgstr "Ну, знаете ли, какая наглость…"
 
 #. comic59 panel p2
 #. slot: right bubble
@@ -334,7 +334,7 @@ msgstr "Ладно, похоже, придётся это попробовать
 #, fuzzy
 msgctxt "comic60#p1.2"
 msgid "I'll just take a small bite..."
-msgstr "Откушу кусочек..."
+msgstr "Откушу кусочек…"
 
 #. comic60 panel p2
 #. slot: left bubble
@@ -352,7 +352,7 @@ msgstr "Ну как?"
 #, fuzzy
 msgctxt "comic60#p2.2"
 msgid "Um..."
-msgstr "Эм..."
+msgstr "Эм…"
 
 #. comic60 panel p4
 #. slot: left bubble
@@ -387,7 +387,7 @@ msgstr "«УЛЕТЕЛ»"
 #, fuzzy
 msgctxt "comic61#p1.1"
 msgid "Hmm..."
-msgstr "Хм..."
+msgstr "Хм…"
 
 #. comic61 panel p1
 #. slot: right bubble
@@ -432,7 +432,7 @@ msgstr "Ух ты!"
 #, fuzzy
 msgctxt "comic61#p4.1"
 msgid "Groooovy..."
-msgstr "Ка-а-айф..."
+msgstr "Ка-а-айф…"
 
 #. comic61 panel p4
 #. slot: right bubble
@@ -458,7 +458,7 @@ msgstr "«ПОВТОРИ-КА»"
 #, fuzzy
 msgctxt "comic62#p1.1"
 msgid "Far out..."
-msgstr "Улё-ё-ётно..."
+msgstr "Улё-ё-ётно…"
 
 #. comic62 panel p1
 #. slot: right bubble
@@ -476,7 +476,7 @@ msgstr "Эй, глянь, какой битмап у <i>той</i> девчон�
 #, fuzzy
 msgctxt "comic62#p2.1"
 msgid "- - * ...huh?"
-msgstr "- - * ...а?"
+msgstr "- - * …а?"
 
 #. comic62 panel p2
 #. slot: right bubble
@@ -530,7 +530,7 @@ msgstr "Ноги-то у меня есть, разве нет?"
 #, fuzzy
 msgctxt "comic62#p4.3"
 msgid "I'll say..."
-msgstr "Ещё какие..."
+msgstr "Ещё какие…"
 
 #. comic63 panel title
 #. slot: background color and image
@@ -779,7 +779,7 @@ msgstr "Вообще-то это они меня попросили."
 #, fuzzy
 msgctxt "comic65#p4.1"
 msgid "Wha... dag... sonuva..."
-msgstr "Что... да как... ах ты ж..."
+msgstr "Что… да как… ах ты ж…"
 
 #. comic65 panel p4
 #. slot: middle bubble
@@ -859,7 +859,7 @@ msgstr "Конечно, ненавижу, но почему позвали те�
 #, fuzzy
 msgctxt "comic66#p3.2"
 msgid "And so diplomatic, too..."
-msgstr "И такой дипломатичный..."
+msgstr "И такой дипломатичный…"
 
 #. comic66 panel p4
 #. slot: left bubble
@@ -992,7 +992,7 @@ msgstr "«ПАДАЮЩАЯ ЗВЕЗДА»"
 #, fuzzy
 msgctxt "comic68#p1.1"
 msgid "But... I couldn't just hit a girl."
-msgstr "Но... я же не могу просто так ударить девушку."
+msgstr "Но… я же не могу просто так ударить девушку."
 
 #. comic68 panel p1
 #. slot: right bubble
@@ -1010,7 +1010,7 @@ msgstr "Я за равенство полов, так что <i>стреляй, 
 #, fuzzy
 msgctxt "comic68#p2.1"
 msgid "Sigh... Okay, but you asked for it."
-msgstr "Эх... Ладно, но ты сама напросилась."
+msgstr "Эх… Ладно, но ты сама напросилась."
 
 #. comic68 panel p2
 #. slot: right bubble
@@ -1071,7 +1071,7 @@ msgstr "«ЛУЧШИЙ ВЫСТРЕЛ»"
 #, fuzzy
 msgctxt "comic69#p1.1"
 msgid "I don't get it..."
-msgstr "Не понимаю..."
+msgstr "Не понимаю…"
 
 #. comic69 panel p1
 #. slot: right bubble
@@ -1328,7 +1328,7 @@ msgstr "Без нашего разрешения они вырвали нас и
 #, fuzzy
 msgctxt "comic72#p3.2"
 msgid "Uh, Radd..."
-msgstr "Э, Улёт..."
+msgstr "Э, Улёт…"
 
 #. comic72 panel p4
 #. slot: left bubble
@@ -1372,7 +1372,7 @@ msgstr "В игре я только стояла и ждала спасения.
 #, fuzzy
 msgctxt "comic73#p1.2"
 msgid "Oh..."
-msgstr "О..."
+msgstr "О…"
 
 #. comic73 panel p2
 #. slot: left bubble
@@ -1390,7 +1390,7 @@ msgstr "В игре спрайты вроде меня только и дела�
 #, fuzzy
 msgctxt "comic73#p2.2"
 msgid "But..."
-msgstr "Но..."
+msgstr "Но…"
 
 #. comic73 panel p3
 #. slot: right bubble

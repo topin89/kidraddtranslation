@@ -118,7 +118,7 @@ msgstr "Я МОГУ ДВИГАТЬСЯ!!!"
 #, fuzzy
 msgctxt "comic33#p5.2"
 msgid "Hero sprites are so friggin' helpless without their players..."
-msgstr "Спрайты-герои без игроков до чего ж беспомощные, блин..."
+msgstr "Спрайты-герои без игроков до чего ж беспомощные, блин…"
 
 #. comic34 panel title
 #. slot: background color and image
@@ -295,7 +295,7 @@ msgstr "Мы не «нападаем» на героя, нас просто ст
 #, fuzzy
 msgctxt "comic36#p3.1"
 msgid "But if you guys aren't stupid...<br>why do you...<br>well..."
-msgstr "Но если вы не тупые...<br>зачем вы...<br>ну..."
+msgstr "Но если вы не тупые…<br>зачем вы…<br>ну…"
 
 #. comic36 panel p4
 #. slot: left bubble
@@ -384,7 +384,7 @@ msgstr "Неважно. Ты не можешь нас тронуть и не п�
 #, fuzzy
 msgctxt "comic37#p4.1"
 msgid "But... <b>WHY?</b>"
-msgstr "Но... <b>ПОЧЕМУ?</b>"
+msgstr "Но… <b>ПОЧЕМУ?</b>"
 
 #. comic37 panel p4
 #. slot: middle bubble
@@ -517,7 +517,7 @@ msgstr "Ты кто?"
 #, fuzzy
 msgctxt "comic39#p1.2"
 msgid "I'm Captain QB, of the Moderators. I'm here to set you free!"
-msgstr "Я Капитан Кьюби из Модераторов. Я пришёл тебя освободить!"
+msgstr "Я Капитан QB из Модераторов. Я пришёл тебя освободить!"
 
 #. comic39 panel p2
 #. slot: left bubble
@@ -633,7 +633,7 @@ msgstr "Но почему тогда мы здесь? Раз мы здесь, и
 #, fuzzy
 msgctxt "comic40#p2.2"
 msgid "Not exactly..."
-msgstr "Не совсем..."
+msgstr "Не совсем…"
 
 #. comic40 panel p3
 #. slot: middle bubble
@@ -722,7 +722,7 @@ msgstr "Отстой! Представляешь? Не хочу, чтобы бы
 #, fuzzy
 msgctxt "comic41#p4.1"
 msgid "Actually, you're a video game character, so there's already tons of copies of..."
-msgstr "Ты же герой видеоигры, копий тебя и так уже тонны..."
+msgstr "Ты же герой видеоигры, копий тебя и так уже тонны…"
 
 #. comic41 panel p4
 #. slot: right bubble
@@ -766,7 +766,7 @@ msgstr "Конечно, пошли."
 #, fuzzy
 msgctxt "comic42#p1.3"
 msgid "W - wait..."
-msgstr "П-подождите..."
+msgstr "П-подождите…"
 
 #. comic42 panel p2
 #. slot: middle bubble
@@ -775,7 +775,7 @@ msgstr "П-подождите..."
 #, fuzzy
 msgctxt "comic42#p2.1"
 msgid "I've spent my whole life here... and the outside world, whatever that's like, sounds rather frightening. I need to think this over."
-msgstr "Я прожил здесь всю жизнь... а внешний мир, каким бы он ни был, звучит довольно пугающе. Мне надо всё обдумать."
+msgstr "Я прожил здесь всю жизнь… а внешний мир, каким бы он ни был, звучит довольно пугающе. Мне надо всё обдумать."
 
 #. comic42 panel p3
 #. slot: left bubble
@@ -820,7 +820,7 @@ msgstr "Круто, давай ещё раз!"
 #, fuzzy
 msgctxt "comic42#p5.2"
 msgid "Don't worry, I'm sure I will..."
-msgstr "Не волнуйся, наверняка придётся..."
+msgstr "Не волнуйся, наверняка придётся…"
 
 #. comic43 panel title
 #. slot: background color and image
@@ -837,7 +837,7 @@ msgstr "«НА СЛЕДУЮЩИЙ ДЕНЬ»"
 #, fuzzy
 msgctxt "comic43#p1.1"
 msgid "Oogh... Where am I?"
-msgstr "Ох-х... Где я?"
+msgstr "Ох-х… Где я?"
 
 #. comic43 panel p2
 #. slot: right bubble
@@ -917,7 +917,7 @@ msgstr "«НЕ ОГЛЯДЫВАЙСЯ»"
 #, fuzzy
 msgctxt "comic44#p1.1"
 msgid "You destroyed my world..."
-msgstr "Вы уничтожили мой мир..."
+msgstr "Вы уничтожили мой мир…"
 
 #. comic44 panel p1
 #. slot: right bubble
@@ -1006,7 +1006,7 @@ msgstr "«ПОЕЗДКА»"
 #, fuzzy
 msgctxt "comic45#p1.1"
 msgid "My world... go boom..."
-msgstr "Мой мир... сделал бум..."
+msgstr "Мой мир… сделал бум…"
 
 #. comic45 panel p1
 #. slot: right bubble
@@ -1024,7 +1024,7 @@ msgstr "Слушай, малыш, знаю, ты не ждал, что твою 
 #, fuzzy
 msgctxt "comic45#p2.1"
 msgid "Why... why did you do all this?"
-msgstr "Зачем... зачем вы всё это сделали?"
+msgstr "Зачем… зачем вы всё это сделали?"
 
 #. comic45 panel p2
 #. slot: right bubble
@@ -1042,7 +1042,7 @@ msgstr "Потому что это моя работа. Этим Модерат�
 #, fuzzy
 msgctxt "comic45#p3.1"
 msgid "...Moderators?"
-msgstr "...Модераторы?"
+msgstr "…Модераторы?"
 
 #. comic45 panel p3
 #. slot: right bubble
@@ -1060,7 +1060,7 @@ msgstr "Наша организация. Это наш штаб."
 #, fuzzy
 msgctxt "comic45#p4.1"
 msgid "I'm so confused..."
-msgstr "Я совсем запутался..."
+msgstr "Я совсем запутался…"
 
 #. comic45 panel p4
 #. slot: right bubble
@@ -1096,7 +1096,7 @@ msgstr "Люблю кататься!"
 #, fuzzy
 msgctxt "comic45#p5.3"
 msgid "Just keep your arms and legs... uh, your legs inside the vehicle."
-msgstr "Держите руки и ноги... э-э, ноги в вагончике."
+msgstr "Держите руки и ноги… э-э, ноги в вагончике."
 
 #. comic46 panel title
 #. slot: background color and image
@@ -1113,7 +1113,7 @@ msgstr "«ГЛУБИНА 13»"
 #, fuzzy
 msgctxt "comic46#p1.1"
 msgid "\"The Moderators organization was founded on bitdate 050499, by the heroic GI Guy.\""
-msgstr "«Организация Модераторов была основана в битдату 050499 героическим Джи-Ай Гаем»."
+msgstr "«Организация Модераторов была основана в битдату 050499 героическим Воином»."
 
 #. comic46 panel p1
 #. slot: left bubble
@@ -1140,7 +1140,7 @@ msgstr "Любое сходство с известными игрушками �
 #, fuzzy
 msgctxt "comic46#p2.1"
 msgid "\"GI Guy came from a horrible game called 'Doom Platoon,' in which he constantly fought. He longed to escape this captivity.\""
-msgstr "«Джи-Ай Гай был родом из ужасной игры „Взвод смерти“, где ему приходилось вечно сражаться. Он мечтал вырваться из этого плена»."
+msgstr "«Воин был родом из ужасной игры „Взвод смерти“, где ему приходилось вечно сражаться. Он мечтал вырваться из этого плена»."
 
 #. comic46 panel p2
 #. slot: left bubble
@@ -1167,7 +1167,7 @@ msgstr "Это точно! Р-р-рмяу!"
 #, fuzzy
 msgctxt "comic46#p3.1"
 msgid "\"Then one day, a faulty emulator set off a glitch in the ROM. Thus GI Guy found a portal that let him escape his game.\""
-msgstr "«Но однажды неисправный эмулятор вызвал глюк в ROM. Так Джи-Ай Гай нашёл портал, через который сбежал из своей игры»."
+msgstr "«Но однажды неисправный эмулятор вызвал глюк в ROM. Так Воин нашёл портал, через который сбежал из своей игры»."
 
 #. comic46 panel p3
 #. slot: left bubble
@@ -1194,7 +1194,7 @@ msgstr "Это называется «бог из машины»."
 #, fuzzy
 msgctxt "comic46#p4.1"
 msgid "\"Suddenly, GI Guy found himself alone and defenseless in the outside cyberworld.\""
-msgstr "«Внезапно Джи-Ай Гай оказался один, беззащитный, во внешнем киберпространстве»."
+msgstr "«Внезапно Воин оказался один, беззащитный, во внешнем киберпространстве»."
 
 #. comic46 panel p4
 #. slot: left bubble
@@ -1363,7 +1363,7 @@ msgstr "О, теперь вы свободны."
 #, fuzzy
 msgctxt "comic48#p3.1"
 msgid "...And do what?"
-msgstr "...И что делать?"
+msgstr "…И что делать?"
 
 #. comic48 panel p3
 #. slot: right bubble
@@ -1399,7 +1399,7 @@ msgstr "Обычно начинают с поиска работы."
 #, fuzzy
 msgctxt "comic48#p5.1"
 msgid "I have this sudden feeling of impending doom..."
-msgstr "У меня вдруг предчувствие неминуемой гибели..."
+msgstr "У меня вдруг предчувствие неминуемой гибели…"
 
 #. comic48 panel p5
 #. slot: middle bubble
@@ -1434,7 +1434,7 @@ msgstr "«ПЕРВЫЙ ШАГ»"
 #, fuzzy
 msgctxt "comic49#p1.1"
 msgid "So... um..."
-msgstr "Ну... эм..."
+msgstr "Ну… эм…"
 
 #. comic49 panel p1
 #. slot: right bubble
@@ -1452,7 +1452,7 @@ msgstr "Рядом можно оформить все бумаги и зарег
 #, fuzzy
 msgctxt "comic49#p2.1"
 msgid "Paperwork. Right..."
-msgstr "Бумаги. Ясно..."
+msgstr "Бумаги. Ясно…"
 
 #. comic49 panel p2
 #. slot: right bubble
@@ -1470,7 +1470,7 @@ msgstr "Там вас направят в бюро по трудоустройс
 #, fuzzy
 msgctxt "comic49#p3.1"
 msgid "Thanks. I guess..."
-msgstr "Спасибо. Наверное..."
+msgstr "Спасибо. Наверное…"
 
 #. comic49 panel p3
 #. slot: right bubble

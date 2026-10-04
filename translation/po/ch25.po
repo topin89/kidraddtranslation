@@ -1037,7 +1037,7 @@ msgstr "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SO
 #, fuzzy
 msgctxt "comic471#p1.1"
 msgid "Guess I should attack the one you're not controlling, huh GI?"
-msgstr "Мне, наверное, бить того, кем ты не управляешь, а, Джи-Ай?"
+msgstr "Мне, наверное, бить того, кем ты не управляешь, а, Воин?"
 
 #. comic471 panel p1
 #. slot: right bubble
@@ -1456,7 +1456,7 @@ msgstr "Помните: на кону, возможно, спасение наш
 #, fuzzy
 msgctxt "comic475#p3.2"
 msgid "\"Don't say that too loudly...\""
-msgstr "«Не говорите так громко…»"
+msgstr "«Не говори так громко…»"
 
 #. comic475 panel p4
 #. slot: left bubble
@@ -1927,7 +1927,7 @@ msgstr "<font color=\"ffffff\" face=\"arial\" size=\"2\"><b>&copy;199X SIMIAN SO
 #, fuzzy
 msgctxt "comic483#p1.1"
 msgid "See GI, ya just give him a Cookie, and he's all nice!"
-msgstr "Видишь, Джи-Ай, дашь ему Печеньку — и он добрый!"
+msgstr "Видишь, Воин, дашь ему Печеньку — и он добрый!"
 
 #. comic483 panel p1
 #. slot: middle bubble

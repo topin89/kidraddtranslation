@@ -493,7 +493,7 @@ msgstr "В такие минуты я вспоминаю, почему так л
 #, fuzzy
 msgctxt "comic431#p4.3"
 msgid "&lt;html&gt;<br>&lt;body&gt;<br>&lt;br&gt;<br>&lt;hr&gt;<br>&lt;h1&gt;<br>Old Daedalus"
-msgstr "&lt;html&gt;<br>&lt;body&gt;<br>&lt;br&gt;<br>&lt;hr&gt;<br>&lt;h1&gt;<br>Старый Дедал"
+msgstr "&lt;html&gt;<br>&lt;body&gt;<br>&lt;br&gt;<br>&lt;hr&gt;<br>&lt;h1&gt;<br>Старик Дедал"
 
 #. comic432 panel title
 #. slot: background color and image
@@ -528,7 +528,7 @@ msgstr "Даже так понятнее не становится, это ка�
 #, fuzzy
 msgctxt "comic432#p2.1"
 msgid "\"Old Daedalus: Walkthroughs! FAQs! Tips and Secrets!\" ...What does any of that mean?"
-msgstr "«Старый Дедал: Прохождения! FAQ! Советы и секреты!» …Что это всё значит?"
+msgstr "«Старик Дедал: Прохождения! FAQ! Советы и секреты!» …Что это всё значит?"
 
 #. comic432 panel p2
 #. slot: right bubble
@@ -1438,7 +1438,7 @@ msgstr "Вовремя, Шина! К нам тут как раз гости."
 #, fuzzy
 msgctxt "comic443#p4.1"
 msgid "<b>!!!</b> Captain? Itty Bitty? <b>GI Guy?</b>"
-msgstr "<b>!!!</b> Капитан? Итти Битти? <b>Джи-Ай Гай?</b>"
+msgstr "<b>!!!</b> Капитан? Итти Битти? <b>Воин?</b>"
 
 #. comic443 panel p4
 #. slot: right bubble

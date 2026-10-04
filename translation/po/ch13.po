@@ -42,7 +42,7 @@ msgstr "Например, сейчас очень популярен совер�
 #, fuzzy
 msgctxt "comic216#p4.1"
 msgid "What... the hell... was <b>THAT?</b>"
-msgstr "Что... чёрт возьми... это <b>БЫЛО?</b>"
+msgstr "Что… чёрт возьми… это <b>БЫЛО?</b>"
 
 #. comic216 panel p4
 #. slot: middle bubble
@@ -318,7 +318,7 @@ msgstr "А, точно. Вечно забываю."
 #, fuzzy
 msgctxt "comic219#p3.3"
 msgid "Take a look at this..."
-msgstr "Взгляните-ка..."
+msgstr "Взгляните-ка…"
 
 #. comic219 panel p4
 #. slot: left bubble
@@ -441,7 +441,7 @@ msgstr "Фу, я от вас заражаюсь лузерством."
 #, fuzzy
 msgctxt "comic219#p10.1"
 msgid "I... <i>sniff!</i> ...I never meant to hurt anyone. I just bumped into him and... <i>he died!</i>"
-msgstr "Я... <i>хнык!</i> ...Я не хотел зла. Я просто его задел, и... <i>он умер!</i>"
+msgstr "Я… <i>хнык!</i> …Я не хотел зла. Я просто его задел, и… <i>он умер!</i>"
 
 #. comic219 panel p10
 #. slot: right bubble
@@ -458,7 +458,7 @@ msgstr "Ещё одна напрасная трагедия. Когда мы н�
 #, fuzzy
 msgctxt "comic219#p11.1"
 msgid "Every year, over 500 sprites die by accidental contact.<br><br><br>If you're an \"enemy\" type sprite, please...<br><br>Be careful."
-msgstr "Каждый год более 500 спрайтов гибнут от случайного контакта.<br><br><br>Если вы спрайт типа «враг», пожалуйста...<br><br>Будьте осторожны."
+msgstr "Каждый год более 500 спрайтов гибнут от случайного контакта.<br><br><br>Если вы спрайт типа «враг», пожалуйста…<br><br>Будьте осторожны."
 
 #. comic219 panel p12
 #. slot: left bubble
@@ -502,7 +502,7 @@ msgstr "«ИЗВЕРЖЕНИЕ»"
 #, fuzzy
 msgctxt "comic220#p1.1"
 msgid "As one last bit of audience pandering, we're having another anime-style battle between Radd and Kobayashi. I'm sure it'll be... stereotypical."
-msgstr "И напоследок, чтобы ещё разок угодить публике, — очередная битва в стиле аниме между Улётом и Кобаяси. Уверен, это будет... стереотипно."
+msgstr "И напоследок, чтобы ещё разок угодить публике, — очередная битва в стиле аниме между Улётом и Кобаяси. Уверен, это будет… стереотипно."
 
 #. comic220 panel p2
 #. slot: left bubble
@@ -536,7 +536,7 @@ msgstr "А старина Коба теперь выглядит толковы�
 #, fuzzy
 msgctxt "comic220#p4.1"
 msgid "Help..."
-msgstr "Помогите..."
+msgstr "Помогите…"
 
 #. comic220 panel p4
 #. slot: right bubble
@@ -553,7 +553,7 @@ msgstr "Вставай, Улёт. Ты победишь."
 #, fuzzy
 msgctxt "comic220#p5.1"
 msgid "But... he's like a thousand times more powerful than me."
-msgstr "Но... он раз в тысячу сильнее меня."
+msgstr "Но… он раз в тысячу сильнее меня."
 
 #. comic220 panel p5
 #. slot: right bubble
@@ -607,7 +607,7 @@ msgstr "Список вариантов. Их сотни, так что выби
 #, fuzzy
 msgctxt "comic220#p9.1"
 msgid "Wow, so many ways to do the same thing. Alright, I'll just pick one at random..."
-msgstr "Ух ты, столько способов сделать одно и то же. Ладно, выберу наугад..."
+msgstr "Ух ты, столько способов сделать одно и то же. Ладно, выберу наугад…"
 
 #. comic220 panel p10
 #. slot: left bubble
@@ -687,7 +687,7 @@ msgstr "Довольно мрачный юмор."
 #, fuzzy
 msgctxt "comic220#p15.1"
 msgid "Every year, over 500 universes are destroyed when someone abuses the power of cheese.<br><br>So if you use cheese,<br>please...<br><br>Be careful."
-msgstr "Каждый год более 500 вселенных гибнут из-за того, что кто-то злоупотребляет силой сыра.<br><br>Так что если вы пользуетесь сыром,<br>пожалуйста...<br><br>Будьте осторожны."
+msgstr "Каждый год более 500 вселенных гибнут из-за того, что кто-то злоупотребляет силой сыра.<br><br>Так что если вы пользуетесь сыром,<br>пожалуйста…<br><br>Будьте осторожны."
 
 #. comic220 panel p15
 #. slot: imsert images on this line

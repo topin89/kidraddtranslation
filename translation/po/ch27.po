@@ -369,7 +369,7 @@ msgstr "Внимание! Следующие утверждения могут �
 #, fuzzy
 msgctxt "comic549#title.2"
 msgid "QB's Conspiracy Corner"
-msgstr "Уголок заговоров Кьюби"
+msgstr "Уголок заговоров QB"
 
 #. comic549 panel p1
 #. slot: right bubble
@@ -405,7 +405,7 @@ msgstr "Очень часто — растянуть объяснения. Ра�
 #, fuzzy
 msgctxt "comic549#p4.1"
 msgid "Here's where the conspiracy comes in:<br>I, Captain QB, have uncovered a far-reaching plot against otaku everywhere! Pay attention!"
-msgstr "Тут-то и начинается заговор:<br>Я, Капитан Кьюби, раскрыл масштабный заговор против отаку всего мира! Слушайте внимательно!"
+msgstr "Тут-то и начинается заговор:<br>Я, Капитан QB, раскрыл масштабный заговор против отаку всего мира! Слушайте внимательно!"
 
 #. comic549 panel p5
 #. slot: middle bubble
@@ -459,7 +459,7 @@ msgstr "Зрители будут смотреть передачу из одн�
 #, fuzzy
 msgctxt "comic549#p10.1"
 msgid "Thanks QB, that was... informative.<br>I think."
-msgstr "Спасибо, Кьюби, это было… познавательно.<br>Наверно."
+msgstr "Спасибо, QB, это было… познавательно.<br>Наверно."
 
 #. comic549 panel p10
 #. slot: right bubble
@@ -503,7 +503,7 @@ msgstr "<font color=\"ffffff\" class=\"rundschrift\" face=\"VAG Rundschrift D, a
 #, fuzzy
 msgctxt "comic550#p1.1"
 msgid "Today I'd like to provide a rebuttal to yesterday's highly inaccurate depiction of shonen anime. That QB has no idea what he's talking about."
-msgstr "Сегодня я хотел бы опровергнуть вчерашнее крайне неточное изображение сёнэн-аниме. Этот Кьюби понятия не имеет, о чём говорит."
+msgstr "Сегодня я хотел бы опровергнуть вчерашнее крайне неточное изображение сёнэн-аниме. Этот QB понятия не имеет, о чём говорит."
 
 #. comic550 panel p2
 #. slot: middle bubble

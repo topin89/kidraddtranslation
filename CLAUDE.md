@@ -14,11 +14,16 @@ See README.md for layout and workflow. Key rules:
 
 ## Translation style
 
-- Names (fixed, in glossary.tsv): Radd → Улёт, Sheena → Шина, Bogey → Бяка, Gnarl → Отпад,
-  Cool Ragnarok / C.R. / Seer → Отпадный Коллапс / О.Ко / Око, Kobayashi the Discount Ninja →
-  Кобаяси — второсортный ниндзя, Kielbasa (Radd's nickname) → Кулебяси,
+- Names (fixed, in glossary.tsv; full list in translation/NAMES.md): Radd → Улёт, Sheena → Шина,
+  Bogey → Бяка, Gnarl → Отпад, Cool Ragnarok / C.R. / Seer → Отпадный Коллапс / О.Ко / Око
+  (masculine, as «he» in the comic: «Око сказал»), Kobayashi the Discount Ninja →
+  Кобаяси — копеечный ниндзя, Kielbasa (Radd's nickname) → Кулебяси, Captain QB → Капитан QB,
+  GI Guy → Воин, Benny DaBunny → Зайка Бэнни, Lucky Penny → «Монетка на удачу»,
   Kid Radd (the game) → «Улёт-парень» (provisional; «Улёт» stays fixed, only «парень» declines: «Улёт-парню», «об Улёт-парне»;
   the hero's own name «Улёт» declines normally: «Улёта», «Улёту»). Use ё in Улёт.
+- Addressing Dr. Amp: Sheena says «вы» until they leave Hopetown (comic211), «ты» after;
+  Radd never says «вы» to anyone.
+- Open naming questions live in translation/TODO.md.
 - Tone: 90s cool-speak, but per character and context-dependent. When unsure, go neutral;
   the user polishes later.
 - Russian typography: «ёлочки» for quotes, em dash — for dialogue breaks, … for ellipsis.

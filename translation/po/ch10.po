@@ -148,7 +148,7 @@ msgstr "Стой, не могу!"
 #, fuzzy
 msgctxt "comic155#p2.1"
 msgid "I don't have your money. It was a credit transfer, remember, so I can't undo it right away. But maybe I can make it up to you with this..."
-msgstr "У меня нет твоих денег. Это был кредитный перевод, помнишь? Его так сразу не отменишь. Но, может, я заглажу вину вот этим..."
+msgstr "У меня нет твоих денег. Это был кредитный перевод, помнишь? Его так сразу не отменишь. Но, может, я заглажу вину вот этим…"
 
 #. comic155 panel p3
 #. slot: left bubble
@@ -157,7 +157,7 @@ msgstr "У меня нет твоих денег. Это был кредитны
 #, fuzzy
 msgctxt "comic155#p3.1"
 msgid "Is that..."
-msgstr "Это что..."
+msgstr "Это что…"
 
 #. comic155 panel p3
 #. slot: right bubble
@@ -166,7 +166,7 @@ msgstr "Это что..."
 #, fuzzy
 msgctxt "comic155#p3.2"
 msgid "The code to Playland 2. Much more fun, I promise"
-msgstr "Код от «Игроландии 2». Там гораздо веселее, обещаю"
+msgstr "Код от «Забав 2». Там гораздо веселее, обещаю"
 
 #. comic155 panel p4
 #. slot: left bubble
@@ -210,7 +210,7 @@ msgstr "«ЯД»"
 #, fuzzy
 msgctxt "comic156#p1.1"
 msgid "Playland 2, here I come! Sweetness!"
-msgstr "«Игроландия 2», я иду! Кайф!"
+msgstr "«Забавы 2», я иду! Кайф!"
 
 #. comic156 panel p2
 #. slot: right bubble
@@ -228,7 +228,7 @@ msgstr "Блин, скорей бы туда! Поглощу-ка код пря�
 #, fuzzy
 msgctxt "comic156#p4.1"
 msgid "Som<b>e</b>thing's... not rIg<i>h</i>t."
-msgstr "Чт<b>о</b>-то... не тА<i>к</i>."
+msgstr "Чт<b>о</b>-то… не тА<i>к</i>."
 
 #. comic157 panel title
 #. slot: background color and image
@@ -245,7 +245,7 @@ msgstr "«СБОЙ»"
 #, fuzzy
 msgctxt "comic157#p1.1"
 msgid "What's hap<b>p</b>ening to me? I feEl sick..."
-msgstr "Что со мн<b>о</b>й? Мне пЛохо..."
+msgstr "Что со мн<b>о</b>й? Мне пЛохо…"
 
 #. comic157 panel p2
 #. slot: middle bubble
@@ -307,7 +307,7 @@ msgstr "МНЕ НуЖна <b>п</b>омощь - - нО оТт кОгО?,?"
 #, fuzzy
 msgctxt "comic158#p2.1"
 msgid "Mayyybe the Mo<b>der</b>ators? But <i>I don't think</i> i can rEAach theM in t!me..."
-msgstr "Мооожет, к Мо<b>дер</b>аторам? Но <i>вряд ли</i> я усПЕю дО ниХ вОвр!мя..."
+msgstr "Мооожет, к Мо<b>дер</b>аторам? Но <i>вряд ли</i> я усПЕю дО ниХ вОвр!мя…"
 
 #. comic158 panel p3
 #. slot: right bubble
@@ -413,7 +413,7 @@ msgstr "«КОНЕЦ»"
 #, fuzzy
 msgctxt "comic160#p1.1"
 msgid "I'm... disintegrating..."
-msgstr "Я... распадаюсь..."
+msgstr "Я… распадаюсь…"
 
 #. comic160 panel p2
 #. slot: middle bubble
@@ -422,7 +422,7 @@ msgstr "Я... распадаюсь..."
 #, fuzzy
 msgctxt "comic160#p2.1"
 msgid "I don't think my body exists anymore...<br>...and my mind's fading too..."
-msgstr "Кажется, тела у меня больше нет...<br>...и разум тоже угасает..."
+msgstr "Кажется, тела у меня больше нет…<br>…и разум тоже угасает…"
 
 #. comic160 panel p3
 #. slot: middle bubble
@@ -431,7 +431,7 @@ msgstr "Кажется, тела у меня больше нет...<br>...и р�
 #, fuzzy
 msgctxt "comic160#p3.1"
 msgid "...nothing...<br>...left..."
-msgstr "...ничего...<br>...не осталось..."
+msgstr "…ничего…<br>…не осталось…"
 
 #. comic160 panel p4
 #. slot: middle bubble
@@ -439,7 +439,7 @@ msgstr "...ничего...<br>...не осталось..."
 #, fuzzy
 msgctxt "comic160#p4.1"
 msgid "...is this...<br>...hell..."
-msgstr "...неужели это...<br>...ад..."
+msgstr "…неужели это…<br>…ад…"
 
 #. comic161 panel title
 #. slot: background color and image
@@ -455,7 +455,7 @@ msgstr "«ПОТЕРЯННАЯ ДУША»"
 #, fuzzy
 msgctxt "comic161#p2.1"
 msgid "Radd..."
-msgstr "Улёт..."
+msgstr "Улёт…"
 
 #. comic161 panel p3
 #. slot: middle bubble
@@ -519,7 +519,7 @@ msgstr "<font size=\"2\" face=\"arial\" color=\"blue\">Бяка? Ты тоже �
 #, fuzzy
 msgctxt "comic162#p3.1"
 msgid "<font size=\"2\" face=\"arial\" color=\"blue\">Well, since I'm dead and all...</font><br><br><font size=\"2\" face=\"arial\" color=\"green\">What? Dead? You're not dead.</font>"
-msgstr "<font size=\"2\" face=\"arial\" color=\"blue\">Ну, раз уж я умер и всё такое...</font><br><br><font size=\"2\" face=\"arial\" color=\"green\">Что? Умер? Ты не умер.</font>"
+msgstr "<font size=\"2\" face=\"arial\" color=\"blue\">Ну, раз уж я умер и всё такое…</font><br><br><font size=\"2\" face=\"arial\" color=\"green\">Что? Умер? Ты не умер.</font>"
 
 #. comic162 panel p4
 #. slot: middle bubble
@@ -554,7 +554,7 @@ msgstr "Все твои друзья — тупицы?"
 #, fuzzy
 msgctxt "comic162#p5.3"
 msgid "You have no idea..."
-msgstr "Не то слово..."
+msgstr "Не то слово…"
 
 #. comic163 panel title
 #. slot: background color and image
@@ -589,7 +589,7 @@ msgstr "Просто читай по сценарию, Улёт."
 #, fuzzy
 msgctxt "comic163#p2.2"
 msgid "Sorry. Ahem, Merry Christmas and may Santa bring you lots of presents. Ho, ho... ho?"
-msgstr "Простите. Кхм, счастливого Рождества, и пусть Санта принесёт вам кучу подарков. Хо, хо... хо?"
+msgstr "Простите. Кхм, счастливого Рождества, и пусть Санта принесёт вам кучу подарков. Хо, хо… хо?"
 
 #. comic163 panel p3
 #. slot: left bubble
@@ -828,7 +828,7 @@ msgstr "И вот друзья принесли тебя сюда, а я уда�
 #, fuzzy
 msgctxt "comic166#p3.1"
 msgid "Wow Bogey, I - I can't thank you enough. And Sheena, well, it's great to know that you really do care."
-msgstr "Ух ты, Бяка, я... я даже не знаю, как тебя благодарить. А Шина... здорово знать, что я тебе правда небезразличен."
+msgstr "Ух ты, Бяка, я… я даже не знаю, как тебя благодарить. А Шина… здорово знать, что я тебе правда небезразличен."
 
 #. comic166 panel p3
 #. slot: right bubble

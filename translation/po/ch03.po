@@ -42,7 +42,7 @@ msgstr "Э, это щекотливая тема. Пройдём со мной, 
 #, fuzzy
 msgctxt "comic50#p2.1"
 msgid "Minor enemy sprites aren't usually very useful as workers. They often lack mobility, motivation, ...and hands. There's just not a lot you guys can do."
-msgstr "Мелкие вражеские спрайты обычно не слишком полезны как работники. Им часто не хватает подвижности, мотивации... и рук. Вы мало что умеете."
+msgstr "Мелкие вражеские спрайты обычно не слишком полезны как работники. Им часто не хватает подвижности, мотивации… и рук. Вы мало что умеете."
 
 #. comic50 panel p3
 #. slot: middle bubble
@@ -241,7 +241,7 @@ msgstr "Здесь нет скрытого текста."
 #, fuzzy
 msgctxt "comic54#p3.2"
 msgid "Wait a minute..."
-msgstr "Минуточку..."
+msgstr "Минуточку…"
 
 #. comic54 panel p4
 #. slot: narration (if any, else cut)
@@ -259,7 +259,7 @@ msgstr "Здесь нет скрытого текста."
 #, fuzzy
 msgctxt "comic54#p4.2"
 msgid "This is... <b>boring!</b>"
-msgstr "Это же... <b>скучно!</b>"
+msgstr "Это же… <b>скучно!</b>"
 
 #. comic55 panel title
 #. slot: background color and image
@@ -303,7 +303,7 @@ msgstr "Здесь нет скрытого текста."
 #, fuzzy
 msgctxt "comic55#p2.2"
 msgid "But... I'm blocked in!"
-msgstr "Но... меня зажали!"
+msgstr "Но… меня зажали!"
 
 #. comic55 panel p3
 #. slot: narration (if any, else cut)

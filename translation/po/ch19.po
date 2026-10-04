@@ -23,7 +23,7 @@ msgstr "«КТО ЖЕ ЭТО?»"
 #, fuzzy
 msgctxt "comic340#p1.1"
 msgid "Scene change to... Mod HQ?"
-msgstr "Новая сцена... штаб Модеров?"
+msgstr "Новая сцена… штаб Модеров?"
 
 #. comic340 panel p1
 #. slot: left bubble
@@ -48,7 +48,7 @@ msgstr "Политические соперники: устранены.<br>Зл
 #, fuzzy
 msgctxt "comic340#p3.1"
 msgid "I control this server and many others. I am currently the most powerful authority in the cyberworld. And yet I cannot rest, knowing that none of it is permanent..."
-msgstr "Я контролирую этот сервер и многие другие. Сейчас я — самая могущественная власть в киберпространстве. И всё же я не знаю покоя, ведь всё это не навсегда..."
+msgstr "Я контролирую этот сервер и многие другие. Сейчас я — самая могущественная власть в киберпространстве. И всё же я не знаю покоя, ведь всё это не навсегда…"
 
 #. comic340 panel p4
 #. slot: right bubble
@@ -57,7 +57,7 @@ msgstr "Я контролирую этот сервер и многие друг
 #, fuzzy
 msgctxt "comic340#p4.1"
 msgid "No, my kingdom can never be guaranteed to last until I have reached Chimera Point, and until Radd is dead. The first task is inevitable, but the second, ergh, will it forever elude me?"
-msgstr "Нет, моё царство не будет прочным, пока я не достигну Точки Химеры и пока Улёт жив. Первое неизбежно, но второе... эх, неужели оно так и будет от меня ускользать?"
+msgstr "Нет, моё царство не будет прочным, пока я не достигну Точки Химеры и пока Улёт жив. Первое неизбежно, но второе… эх, неужели оно так и будет от меня ускользать?"
 
 #. comic340 panel p5
 #. slot: middle bubble
@@ -66,7 +66,7 @@ msgstr "Нет, моё царство не будет прочным, пока �
 #, fuzzy
 msgctxt "comic340#p5.1"
 msgid "Excuse me..."
-msgstr "Простите..."
+msgstr "Простите…"
 
 #. comic340 panel p6
 #. slot: middle bubble
@@ -75,7 +75,7 @@ msgstr "Простите..."
 #, fuzzy
 msgctxt "comic340#p6.1"
 msgid "...Perhaps <b>I</b> can help."
-msgstr "...Возможно, <b>я</b> смогу помочь."
+msgstr "…Возможно, <b>я</b> смогу помочь."
 
 #. comic341 panel title
 #. slot: background color and image
@@ -172,7 +172,7 @@ msgstr "«ЛОЖНАЯ СУДЬБА»"
 #, fuzzy
 msgctxt "comic342#p1.1"
 msgid "I remember you. Aren't you?..."
-msgstr "Я тебя помню. Ты ведь?..."
+msgstr "Я тебя помню. Ты ведь?…"
 
 #. comic342 panel p1
 #. slot: right bubble
@@ -279,7 +279,7 @@ msgstr "Так что ответь на вопрос. Как <b>ты</b> най�
 #, fuzzy
 msgctxt "comic343#p2.2"
 msgid "Well, it's a curious power I've got..."
-msgstr "Ну, есть у меня одна любопытная способность..."
+msgstr "Ну, есть у меня одна любопытная способность…"
 
 #. comic343 panel p3
 #. slot: narration (if any, else cut)
@@ -315,7 +315,7 @@ msgstr "Какая ирония: эта моя сила, похоже, стал�
 #, fuzzy
 msgctxt "comic343#p5.2"
 msgid "Yeah, much stronger. Have some more irony..."
-msgstr "Ага, гораздо сильнее. Держи ещё иронии..."
+msgstr "Ага, гораздо сильнее. Держи ещё иронии…"
 
 #. comic344 panel title
 #. slot: background color and image
@@ -454,7 +454,7 @@ msgstr "Зашибись! Ты не пожалеешь."
 #, fuzzy
 msgctxt "comic345#p3.1"
 msgid "But <b>first</b>... I've got to test your mettle. Besides, I can't let you go unpunished for barging in here uninvited."
-msgstr "Но <b>сначала</b>... я должна тебя испытать. К тому же нельзя оставлять безнаказанным того, кто вломился сюда без приглашения."
+msgstr "Но <b>сначала</b>… я должна тебя испытать. К тому же нельзя оставлять безнаказанным того, кто вломился сюда без приглашения."
 
 #. comic345 panel p3
 #. slot: insert ground "tiles" on this line
@@ -462,7 +462,7 @@ msgstr "Но <b>сначала</b>... я должна тебя испытать.
 #, fuzzy
 msgctxt "comic345#p3.2"
 msgid "She's scaaaaarry..."
-msgstr "Она стра-а-а-ашная..."
+msgstr "Она стра-а-а-ашная…"
 
 #. comic345 panel p4
 #. slot: left bubble
@@ -506,7 +506,7 @@ msgstr "Полегче, может, обойдёмся по-цивилизова
 #, fuzzy
 msgctxt "comic346#p1.2"
 msgid "Let me think about that -- <b>No.</b>"
-msgstr "Дай подумать... <b>Нет.</b>"
+msgstr "Дай подумать… <b>Нет.</b>"
 
 #. comic346 panel p2
 #. slot: left bubble
@@ -583,7 +583,7 @@ msgstr "«НЕ НАДО ТУДА»"
 #, fuzzy
 msgctxt "comic347#p1.1"
 msgid "Well, at very least you're good at dodging..."
-msgstr "Что ж, уворачиваться ты хотя бы умеешь..."
+msgstr "Что ж, уворачиваться ты хотя бы умеешь…"
 
 #. comic347 panel p2
 #. slot: middle bubble
@@ -592,7 +592,7 @@ msgstr "Что ж, уворачиваться ты хотя бы умеешь...
 #, fuzzy
 msgctxt "comic347#p2.1"
 msgid "...Though your aim could use a little work."
-msgstr "...Хотя целишься так себе."
+msgstr "…Хотя целишься так себе."
 
 #. comic347 panel p3
 #. slot: middle bubble
@@ -617,7 +617,7 @@ msgstr "Вся пафосность здесь исключительно нам
 #, fuzzy
 msgctxt "comic347#p5.1"
 msgid "You know you have no..."
-msgstr "Ты же знаешь, что у тебя нет..."
+msgstr "Ты же знаешь, что у тебя нет…"
 
 #. comic347 panel p5
 #. slot: right bubble
@@ -676,7 +676,7 @@ msgstr "Но ты, кажется, стоишь на месте. Ты вообщ
 #, fuzzy
 msgctxt "comic348#p3.2"
 msgid "Uh..."
-msgstr "Э-э..."
+msgstr "Э-э…"
 
 #. comic348 panel p6
 #. slot: left bubble
@@ -827,7 +827,7 @@ msgstr "Слишком хорошо знаю таких. Навечно прив
 #, fuzzy
 msgctxt "comic350#p4.1"
 msgid "But who knows, maybe he'll get what he wants, and save me the trouble..."
-msgstr "Но кто знает, может, он добьётся своего и избавит меня от хлопот..."
+msgstr "Но кто знает, может, он добьётся своего и избавит меня от хлопот…"
 
 #. comic351 panel title
 #. slot: background color and image
@@ -880,7 +880,7 @@ msgstr "То, что мы больше не берём тебя в игры, в�
 #, fuzzy
 msgctxt "comic351#p4.1"
 msgid "In fact, I'm sure that you'll continue to make worthy contributions to our efforts, like that time when you... uh... or when you... well, I'm sure you've done <b>something.</b> Probably."
-msgstr "Наоборот, я уверен, ты и дальше будешь вносить достойный вклад в наше дело — как тогда, когда ты... э-э... или когда ты... ну, я уверен, ты <b>что-то</b> сделал. Наверное."
+msgstr "Наоборот, я уверен, ты и дальше будешь вносить достойный вклад в наше дело — как тогда, когда ты… э-э… или когда ты… ну, я уверен, ты <b>что-то</b> сделал. Наверное."
 
 #. comic351 panel p5
 #. slot: left bubble
@@ -969,7 +969,7 @@ msgstr "«Эй! Не оскорбляй моего Улёта»."
 #, fuzzy
 msgctxt "comic352#p4.1"
 msgid "But now <b>I'm</b> the useless one, while Radd's out doing the important stuff. And hitting on Sheena while he's at it..."
-msgstr "А теперь бесполезный — <b>я,</b> а Улёт занимается важными делами. И заодно клеится к Шине..."
+msgstr "А теперь бесполезный — <b>я,</b> а Улёт занимается важными делами. И заодно клеится к Шине…"
 
 #. comic352 panel p4
 #. slot: right bubble
@@ -978,7 +978,7 @@ msgstr "А теперь бесполезный — <b>я,</b> а Улёт зан
 #, fuzzy
 msgctxt "comic352#p4.2"
 msgid "What? He <b>wouldn't!</b> But if <i>Sheena</i> tries anything..."
-msgstr "Что? Он <b>не стал бы!</b> Но если <i>Шина</i> что-нибудь попробует..."
+msgstr "Что? Он <b>не стал бы!</b> Но если <i>Шина</i> что-нибудь попробует…"
 
 #. comic352 panel p5
 #. slot: left bubble
@@ -996,4 +996,4 @@ msgstr "Знаешь, ты стала лучше слушать, чем в пр�
 #, fuzzy
 msgctxt "comic352#p5.2"
 msgid "If that Sheena weren't invincible, I'd... <b>Argh!!!</b>"
-msgstr "Не будь эта Шина неуязвимой, я бы... <b>Арргх!!!</b>"
+msgstr "Не будь эта Шина неуязвимой, я бы… <b>Арргх!!!</b>"

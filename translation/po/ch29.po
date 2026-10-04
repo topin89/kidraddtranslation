@@ -32,7 +32,7 @@ msgstr "Ну вот, теперь самое трудное: хоть как-т�
 #, fuzzy
 msgctxt "comic590#p2.1"
 msgid "\"Sheena, QB and Amp are trying to re-create the Moderators with slightly less totalitarian tendencies. There's plenty of job openings, most of which are being grabbed by NPCs.\""
-msgstr "«Шина, Кьюби и Амп пытаются воссоздать Модераторов — с чуть менее тоталитарными замашками. Вакансий полно, и большую часть разбирают НПС»."
+msgstr "«Шина, QB и Амп пытаются воссоздать Модераторов — с чуть менее тоталитарными замашками. Вакансий полно, и большую часть разбирают НПС»."
 
 #. comic590 panel p3
 #. slot: right bubble
@@ -41,7 +41,7 @@ msgstr "«Шина, Кьюби и Амп пытаются воссоздать �
 #, fuzzy
 msgctxt "comic590#p3.1"
 msgid "Which reminds me, I should find a job myself. I guess I can no longer leech off of... Bogey..."
-msgstr "Кстати, мне бы тоже найти работу. Похоже, жить за счёт... Бяки... я больше не смогу..."
+msgstr "Кстати, мне бы тоже найти работу. Похоже, жить за счёт… Бяки… я больше не смогу…"
 
 #. comic590 panel p4
 #. slot: right bubble
@@ -50,7 +50,7 @@ msgstr "Кстати, мне бы тоже найти работу. Похоже
 #, fuzzy
 msgctxt "comic590#p4.1"
 msgid "It's all so futile. Despite how much we want to change, it seems we're still destined to play out our roles. Heroes being heroes, villains being villains... and little minor enemy sprites existing for the sole purpose of being killed."
-msgstr "Всё так бессмысленно. Как бы мы ни хотели измениться, нам, похоже, суждено играть свои роли. Герои — героями, злодеи — злодеями... а мелкие вражеские спрайты живут лишь затем, чтобы их убивали."
+msgstr "Всё так бессмысленно. Как бы мы ни хотели измениться, нам, похоже, суждено играть свои роли. Герои — героями, злодеи — злодеями… а мелкие вражеские спрайты живут лишь затем, чтобы их убивали."
 
 #. comic590 panel p5
 #. slot: right bubble
@@ -59,7 +59,7 @@ msgstr "Всё так бессмысленно. Как бы мы ни хотел
 #, fuzzy
 msgctxt "comic590#p5.1"
 msgid "Our natures are so hard to change that this peace can only be temporary. I can almost hear GI Guy cursing me, \"Fool! You know it was for nothing. Sooner or later, the fighting will start again.\""
-msgstr "Нашу природу так трудно изменить, что этот мир может быть только временным. Так и слышу, как Джи-Ай Гай проклинает меня: «Глупец! Ты же знаешь, всё было зря. Рано или поздно бои начнутся снова»."
+msgstr "Нашу природу так трудно изменить, что этот мир может быть только временным. Так и слышу, как Воин проклинает меня: «Глупец! Ты же знаешь, всё было зря. Рано или поздно бои начнутся снова»."
 
 #. comic591 panel title
 #. slot: background color and image
@@ -101,7 +101,7 @@ msgstr "Ну, что новенького?"
 #, fuzzy
 msgctxt "comic591#p2.2"
 msgid "I'm kind of worried about Radd lately. He's been taking Bogey's death rather hard..."
-msgstr "Я что-то волнуюсь за Улёта. Он очень тяжело переживает смерть Бяки..."
+msgstr "Я что-то волнуюсь за Улёта. Он очень тяжело переживает смерть Бяки…"
 
 #. comic591 panel p3
 #. slot: left bubble
@@ -119,7 +119,7 @@ msgstr "А ты нет?"
 #, fuzzy
 msgctxt "comic591#p3.2"
 msgid "Well, I... Okay, I'm not exactly great either..."
-msgstr "Ну, я... Ладно, мне тоже не очень-то хорошо..."
+msgstr "Ну, я… Ладно, мне тоже не очень-то хорошо…"
 
 #. comic591 panel p4
 #. slot: right bubble
@@ -128,7 +128,7 @@ msgstr "Ну, я... Ладно, мне тоже не очень-то хорош�
 #, fuzzy
 msgctxt "comic591#p4.1"
 msgid "But somehow I've got to convince him that life must go on... Even if I'm not sure why... If only I knew a way to cheer him up..."
-msgstr "Но как-то я должна убедить его, что жизнь продолжается... Даже если сама не понимаю зачем... Если б я только знала, как его подбодрить..."
+msgstr "Но как-то я должна убедить его, что жизнь продолжается… Даже если сама не понимаю зачем… Если б я только знала, как его подбодрить…"
 
 #. comic591 panel p6
 #. slot: left bubble
@@ -190,7 +190,7 @@ msgstr "Может, я уже изменился. Ох, Бяка, убивать
 #, fuzzy
 msgctxt "comic592#p3.1"
 msgid "If only we were back in our game, where such violence was so easily undone..."
-msgstr "Вот если бы мы вернулись в нашу игру, где всё насилие так легко отменялось..."
+msgstr "Вот если бы мы вернулись в нашу игру, где всё насилие так легко отменялось…"
 
 #. comic592 panel p4
 #. slot: middle bubble
@@ -208,7 +208,7 @@ msgstr "Глупцы! Это лишь игровая смерть! Я буду �
 #, fuzzy
 msgctxt "comic592#p5.1"
 msgid "Most of the time when sprites battle, they're just playing with each others' programming... Live or die, no code is actually damaged."
-msgstr "Обычно, когда спрайты дерутся, они просто играют с программами друг друга... Жив ты или мёртв — код не повреждается."
+msgstr "Обычно, когда спрайты дерутся, они просто играют с программами друг друга… Жив ты или мёртв — код не повреждается."
 
 #. comic592 panel p6
 #. slot: left bubble
@@ -235,7 +235,7 @@ msgstr "Ну, он поправился."
 #, fuzzy
 msgctxt "comic592#p7.1"
 msgid "No, it can't be... Do I dare raise my hopes one more time?..."
-msgstr "Нет, не может быть... Неужели я посмею надеяться ещё раз?.."
+msgstr "Нет, не может быть… Неужели я посмею надеяться ещё раз?.."
 
 #. comic593 panel title
 #. slot: background color and image
@@ -252,7 +252,7 @@ msgstr "«ЛУЧШЕ БЫ ТЫ НЕ СПРАШИВАЛ»"
 #, fuzzy
 msgctxt "comic593#p1.1"
 msgid "Dr. Amp, I think I figured something out. ...But somehow I think you already know. Bogey isn't really dead, is he?"
-msgstr "Доктор Амп, кажется, я кое-что понял. ...Но вы, по-моему, это уже знаете. Бяка ведь не умер по-настоящему?"
+msgstr "Доктор Амп, кажется, я кое-что понял. …Но ты, по-моему, это уже знаешь. Бяка ведь не умер по-настоящему?"
 
 #. comic593 panel p1
 #. slot: right bubble
@@ -288,7 +288,7 @@ msgstr "Очень проницательно, ты прав. Код Бяки и
 #, fuzzy
 msgctxt "comic593#p3.1"
 msgid "But if you knew this, why didn't you try to do something?"
-msgstr "Но если вы это знали, почему ничего не сделали?"
+msgstr "Но если ты это знал, почему ничего не сделал?"
 
 #. comic593 panel p3
 #. slot: right bubble
@@ -306,7 +306,7 @@ msgstr "Потому что не могу. Никто из нас не може�
 #, fuzzy
 msgctxt "comic593#p4.1"
 msgid "But you're the king of that sort of miracle shullbit!!!"
-msgstr "Но вы же король всей этой чудесной хренобити!!!"
+msgstr "Но ты же король всей этой чудесной хренобити!!!"
 
 #. comic593 panel p4
 #. slot: right bubble
@@ -367,7 +367,7 @@ msgstr "Как призрак, спрайт так и бродит среди н
 #, fuzzy
 msgctxt "comic594#p5.1"
 msgid "That... stupid... lucky... sunova..."
-msgstr "Вот же... дурацкий... везучий... сукин..."
+msgstr "Вот же… дурацкий… везучий… сукин…"
 
 #. comic594 panel p5
 #. slot: right bubble
@@ -376,7 +376,7 @@ msgstr "Вот же... дурацкий... везучий... сукин..."
 #, fuzzy
 msgctxt "comic594#p5.2"
 msgid "Er... what?"
-msgstr "Э-э... что?"
+msgstr "Э-э… что?"
 
 #. comic594 panel p6
 #. slot: left bubble
@@ -454,7 +454,7 @@ msgstr "Да, <i>если</i> бы ROM можно было перезапуст�
 #, fuzzy
 msgctxt "comic595#p3.1"
 msgid "Uh... Now that you mention it..."
-msgstr "Э-э... И правда..."
+msgstr "Э-э… И правда…"
 
 #. comic595 panel p3
 #. slot: right bubble
@@ -499,7 +499,7 @@ msgstr "<font size=\"2\" face=\"tahoma\" color=\"00ffff\"><img width=\"10\" heig
 #, fuzzy
 msgctxt "comic595#p5.1"
 msgid "So you're saying... that there really is no way for us to bring Bogey back?"
-msgstr "То есть вы хотите сказать... что вернуть Бяку и правда никак нельзя?"
+msgstr "То есть ты хочешь сказать… что вернуть Бяку и правда никак нельзя?"
 
 #. comic595 panel p5
 #. slot: right bubble
@@ -516,7 +516,7 @@ msgstr "Мне жаль, Улёт. Такое под силу только лю�
 #, fuzzy
 msgctxt "comic595#p6.1"
 msgid "Dr. Amp, after all that I've been through, I can't give up now. \"Impossible\" is meaningless anymore. If only a human can save Bogey, then a human will. In fact, I know just who to talk to..."
-msgstr "Доктор Амп, после всего, что было, я не сдамся. «Невозможно» больше ничего не значит. Если Бяку может спасти только человек — его спасёт человек. И я знаю, с кем поговорить..."
+msgstr "Доктор Амп, после всего, что было, я не сдамся. «Невозможно» больше ничего не значит. Если Бяку может спасти только человек — его спасёт человек. И я знаю, с кем поговорить…"
 
 #. comic596 panel title
 #. slot: background color and image
@@ -532,7 +532,7 @@ msgstr "«МГНОВЕННАЯ КАРМА»"
 #, fuzzy
 msgctxt "comic596#p1.1"
 msgid "Somewhere in the real world, a human surfs his favorite websites..."
-msgstr "Где-то в реальном мире человек бродит по любимым сайтам..."
+msgstr "Где-то в реальном мире человек бродит по любимым сайтам…"
 
 #. comic596 panel p3
 #. slot: begin voice bubbles (cut td's bgcolor when empty)
@@ -699,7 +699,7 @@ msgstr "Невероятно."
 #, fuzzy
 msgctxt "comic598#p3.1"
 msgid "Maybe it's cuz it's two in the morning and I've had a few too many beers, but... Man, this is crazy. I think I believe you."
-msgstr "Может, это потому, что сейчас два часа ночи и я выпил лишнего пива, но... Блин, это безумие. Кажется, я тебе верю."
+msgstr "Может, это потому, что сейчас два часа ночи и я выпил лишнего пива, но… Блин, это безумие. Кажется, я тебе верю."
 
 #. comic598 panel p3
 #. slot: insert ground "tiles" on this line
@@ -716,7 +716,7 @@ msgstr "У меня честное лицо."
 #, fuzzy
 msgctxt "comic598#p4.1"
 msgid "<font face=\"verdana\" size=\"1\" color=\"ff0000\"><br><b>enlightened1: </b> You don't have any face, from here at least. But it's like there's some bizarre connection between us... I feel like I really know you.</font><br> <font face=\"verdana\" size=\"1\" color=\"0000ff\"><br><b>Radd: </b> Of course. We used to form a great partnership.</font>"
-msgstr "<font face=\"verdana\" size=\"1\" color=\"ff0000\"><br><b>enlightened1: </b> Отсюда у тебя никакого лица нет. Но между нами будто какая-то странная связь... Мне кажется, я правда тебя знаю.</font><br> <font face=\"verdana\" size=\"1\" color=\"0000ff\"><br><b>Улёт: </b> Конечно. Мы ведь были отличными партнёрами.</font>"
+msgstr "<font face=\"verdana\" size=\"1\" color=\"ff0000\"><br><b>enlightened1: </b> Отсюда у тебя никакого лица нет. Но между нами будто какая-то странная связь… Мне кажется, я правда тебя знаю.</font><br> <font face=\"verdana\" size=\"1\" color=\"0000ff\"><br><b>Улёт: </b> Конечно. Мы ведь были отличными партнёрами.</font>"
 
 #. comic598 panel p5
 #. slot: middle bubble
@@ -813,7 +813,7 @@ msgstr "«ПЕРВЫЙ ШАГ»"
 #, fuzzy
 msgctxt "comic600#p1.1"
 msgid "Radd... I don't have any answers to give you. None that are any more certain than personal beliefs, anyway. If I had such answers - if any human did - things would be rather different."
-msgstr "Улёт... У меня нет для тебя ответов. По крайней мере, таких, что были бы надёжнее личных убеждений. Будь у меня такие ответы — будь они хоть у кого-то из людей, — всё было бы совсем иначе."
+msgstr "Улёт… У меня нет для тебя ответов. По крайней мере, таких, что были бы надёжнее личных убеждений. Будь у меня такие ответы — будь они хоть у кого-то из людей, — всё было бы совсем иначе."
 
 #. comic600 panel p1
 #. slot: insert ground "tiles" on this line
@@ -830,7 +830,7 @@ msgstr "Я так и думал. Прости, должен был спроси�
 #, fuzzy
 msgctxt "comic600#p2.1"
 msgid "<b>enlightened1: </b> I guess in a sense, we humans have our own \"programming,\" and some of it ain't pretty.<br><br>We seem to have natural tendencies toward violence, bigotry, xenophobia... and genocide."
-msgstr "<b>enlightened1: </b> Наверное, в каком-то смысле у нас, людей, тоже есть своё «программирование», и местами оно неприглядное.<br><br>У нас, похоже, врождённая тяга к насилию, нетерпимости, ксенофобии... и геноциду."
+msgstr "<b>enlightened1: </b> Наверное, в каком-то смысле у нас, людей, тоже есть своё «программирование», и местами оно неприглядное.<br><br>У нас, похоже, врождённая тяга к насилию, нетерпимости, ксенофобии… и геноциду."
 
 #. comic600 panel p3
 #. slot: middle bubble
@@ -875,7 +875,7 @@ msgstr "Потому что мы <i>должны.</i> Если есть хоть
 #, fuzzy
 msgctxt "comic600#p5.1"
 msgid "For now, I can't save humanity, or perhaps even myself, but if I can<br>save your friend... well, that'll be one small step towards bettering this<br>world. It's a long road toward that<br>goal, but all journeys are traveled one step at a time, aren't they?"
-msgstr "Пока я не могу спасти человечество, а может, даже себя, но если я могу<br>спасти твоего друга... что ж, это будет маленький шаг к тому, чтобы этот<br>мир стал лучше. До цели долгий<br>путь, но любой путь проходят шаг за шагом, разве нет?"
+msgstr "Пока я не могу спасти человечество, а может, даже себя, но если я могу<br>спасти твоего друга… что ж, это будет маленький шаг к тому, чтобы этот<br>мир стал лучше. До цели долгий<br>путь, но любой путь проходят шаг за шагом, разве нет?"
 
 #. comic600 panel p6
 #. slot: middle bubble
@@ -884,7 +884,7 @@ msgstr "Пока я не могу спасти человечество, а мо
 #, fuzzy
 msgctxt "comic600#p6.1"
 msgid "I think I understand... Well, maybe not. But thanks."
-msgstr "Кажется, я понимаю... Ну, может, и нет. Но спасибо."
+msgstr "Кажется, я понимаю… Ну, может, и нет. Но спасибо."
 
 #. comic600 panel p6
 #. slot: insert ground "tiles" on this line

@@ -157,7 +157,7 @@ msgstr "Ой, расслабься. Это же просто обнимашки.
 #, fuzzy
 msgctxt "comic393#p2.1"
 msgid "But that was... Bogey!"
-msgstr "Но это был... Бяка!"
+msgstr "Но это был… Бяка!"
 
 #. comic393 panel p2
 #. slot: right bubble
@@ -237,7 +237,7 @@ msgstr "Почему? Тут есть колония спрайтов?"
 #, fuzzy
 msgctxt "comic394#p2.1"
 msgid "Negative. But..."
-msgstr "Никак нет. Но..."
+msgstr "Никак нет. Но…"
 
 #. comic394 panel p2
 #. slot: right bubble
@@ -264,7 +264,7 @@ msgstr "Да, люди много отсюда качают. Похоже, по�
 #, fuzzy
 msgctxt "comic394#p3.2"
 msgid "Maybe, but you've gotta be wrong about it being uninhabited."
-msgstr "Может быть, но насчёт необитаемости вы точно ошибаетесь."
+msgstr "Может быть, но насчёт необитаемости ты точно ошибаешься."
 
 #. comic394 panel p4
 #. slot: left bubble
@@ -317,7 +317,7 @@ msgstr "«ВРЕЖЬСЯ В МЕНЯ»"
 #, fuzzy
 msgctxt "comic395#p1.1"
 msgid "It's like it was waiting for us..."
-msgstr "Он будто нас поджидал..."
+msgstr "Он будто нас поджидал…"
 
 #. comic395 panel p1
 #. slot: middle bubble
@@ -335,7 +335,7 @@ msgstr "Он стреляет?"
 #, fuzzy
 msgctxt "comic395#p1.3"
 msgid "No, but..."
-msgstr "Нет, но..."
+msgstr "Нет, но…"
 
 #. comic395 panel p2
 #. slot: left bubble
@@ -368,7 +368,7 @@ msgstr "Поздно!"
 #, fuzzy
 msgctxt "comic395#p3.1"
 msgid "Uh, this is... different."
-msgstr "Э-э, это что-то... новенькое."
+msgstr "Э-э, это что-то… новенькое."
 
 #. comic395 panel p3
 #. slot: middle bubble
@@ -413,7 +413,7 @@ msgstr "Да это всего лишь мой тупой братец. Блин
 #, fuzzy
 msgctxt "comic395#p5.2"
 msgid "Jerks. No one appreciates a good entrance anymore..."
-msgstr "Козлы. Никто больше не ценит эффектного появления..."
+msgstr "Козлы. Никто больше не ценит эффектного появления…"
 
 #. comic396 panel title
 #. slot: background color and image
@@ -537,7 +537,7 @@ msgstr "Но с чего тебе вдруг так приспичило нас 
 #, fuzzy
 msgctxt "comic397#p2.2"
 msgid "C'mon Radd, you know the answer to that..."
-msgstr "Да ладно, Улёт, ты же знаешь ответ..."
+msgstr "Да ладно, Улёт, ты же знаешь ответ…"
 
 #. comic397 panel p3
 #. slot: middle bubble
@@ -572,7 +572,7 @@ msgstr "Ребята, нам с Отпадом надо поговорить н�
 #, fuzzy
 msgctxt "comic397#p5.2"
 msgid "Yikes. Did the temperature just drop in here?..."
-msgstr "Ой. Тут что, похолодало?..."
+msgstr "Ой. Тут что, похолодало?…"
 
 #. comic398 panel title
 #. slot: background color and image
@@ -624,7 +624,7 @@ msgstr "Ну, нам надо поговорить там, где побольш
 #, fuzzy
 msgctxt "comic398#p3.1"
 msgid "Oh no... No, no, no <b>no NO!!!</b><br>Hell no, I won't allow this!"
-msgstr "О нет... Нет, нет, нет, <b>нет, НЕТ!!!</b><br>Чёрта с два, я этого не допущу!"
+msgstr "О нет… Нет, нет, нет, <b>нет, НЕТ!!!</b><br>Чёрта с два, я этого не допущу!"
 
 #. comic398 panel p4
 #. slot: left bubble
@@ -642,7 +642,7 @@ msgstr "Я <b>не</b> дам вам поубивать друг друга, х�
 #, fuzzy
 msgctxt "comic398#p4.2"
 msgid "Sh-Sheena!..."
-msgstr "Ш-Шина!..."
+msgstr "Ш-Шина!…"
 
 #. comic398 panel p4
 #. slot: right bubble
@@ -677,7 +677,7 @@ msgstr "Шина, не переживай. Со мной всё будет в п
 #, fuzzy
 msgctxt "comic399#p1.2"
 msgid "You... You self-centered jerk..."
-msgstr "Ты... Ты эгоистичный болван..."
+msgstr "Ты… Ты эгоистичный болван…"
 
 #. comic399 panel p2
 #. slot: left bubble
@@ -704,7 +704,7 @@ msgstr "А, точно. Ну, всё равно доверься мне. Я то
 #, fuzzy
 msgctxt "comic399#p3.1"
 msgid "But... this is freakin' <b>NUTS!!!</b>"
-msgstr "Но... это же полный <b>БРЕД!!!</b>"
+msgstr "Но… это же полный <b>БРЕД!!!</b>"
 
 #. comic399 panel p3
 #. slot: right bubble
@@ -722,7 +722,7 @@ msgstr "Похоже на то, но всё будет нормально. До 
 #, fuzzy
 msgctxt "comic399#p4.1"
 msgid "<i>Sniff...</i> Idiot... I'll never understand him..."
-msgstr "<i>Шмыг...</i> Идиот... Никогда его не пойму..."
+msgstr "<i>Шмыг…</i> Идиот… Никогда его не пойму…"
 
 #. comic399 panel p4
 #. slot: right bubble
@@ -814,7 +814,7 @@ msgstr "«РАЗМЫТО»"
 #, fuzzy
 msgctxt "comic401#p1.1"
 msgid "Let me tell you a little story, Radd. It begins where our old game ended..."
-msgstr "Позволь рассказать тебе одну историю, Улёт. Она начинается там, где кончилась наша старая игра..."
+msgstr "Позволь рассказать тебе одну историю, Улёт. Она начинается там, где кончилась наша старая игра…"
 
 #. comic401 panel p2
 #. slot: middle bubble
@@ -831,7 +831,7 @@ msgstr "Когда меня выпустили на «свободу» в киб
 #, fuzzy
 msgctxt "comic401#p3.1"
 msgid "Sure, I followed the same routine as everyone else, got a job, and tried to be \"civilized.\" But it all seemed so... pointless."
-msgstr "Конечно, я жил как все: нашёл работу, пытался быть «цивилизованным». Но всё это казалось таким... бессмысленным."
+msgstr "Конечно, я жил как все: нашёл работу, пытался быть «цивилизованным». Но всё это казалось таким… бессмысленным."
 
 #. comic401 panel p4
 #. slot: middle bubble
@@ -881,7 +881,7 @@ msgstr "Даже если один из нас умрёт, я <i>должен</i
 #, fuzzy
 msgctxt "comic402#p4.1"
 msgid "Sigh... As much as I'd like to say no, Gnarl, I think I do understand..."
-msgstr "Эх... Как бы мне ни хотелось сказать «нет», Отпад, кажется, я понимаю..."
+msgstr "Эх… Как бы мне ни хотелось сказать «нет», Отпад, кажется, я понимаю…"
 
 #. comic403 panel title
 #. slot: background color and image
@@ -898,7 +898,7 @@ msgstr "«ПОДДАТЬСЯ»"
 #, fuzzy
 msgctxt "comic403#p1.1"
 msgid "...Because I'm a player character, a \"hero.\" My programming is different from yours, but I too have felt the desire to follow it."
-msgstr "...Потому что я — персонаж игрока, «герой». Моя программа не такая, как твоя, но мне тоже хотелось ей следовать."
+msgstr "…Потому что я — персонаж игрока, «герой». Моя программа не такая, как твоя, но мне тоже хотелось ей следовать."
 
 #. comic403 panel p2
 #. slot: middle bubble
@@ -916,7 +916,7 @@ msgstr "Меня задумали пустой оболочкой, просто 
 #, fuzzy
 msgctxt "comic403#p3.1"
 msgid "\"And unsurprisingly, that's pretty much what I continued to do when I left the game. I lacked ambition, and didn't know what to do without a human taking the wheel. Like you, I just did... what I do. Nothing.\""
-msgstr "«И неудивительно, что примерно этим я и продолжал заниматься, когда ушёл из игры. У меня не было цели, и я не знал, что делать без человека за рулём. Как и ты, я просто делал... то, что делаю. Ничего»."
+msgstr "«И неудивительно, что примерно этим я и продолжал заниматься, когда ушёл из игры. У меня не было цели, и я не знал, что делать без человека за рулём. Как и ты, я просто делал… то, что делаю. Ничего»."
 
 #. comic403 panel p4
 #. slot: right bubble
@@ -959,7 +959,7 @@ msgstr "«СНОВА И СНОВА»"
 #, fuzzy
 msgctxt "comic404#p1.1"
 msgid "Oh, for crying out loud... This is ridiculous!"
-msgstr "Ох, ну сколько можно... Это смешно!"
+msgstr "Ох, ну сколько можно… Это смешно!"
 
 #. comic404 panel p2
 #. slot: middle bubble
@@ -1011,7 +1011,7 @@ msgstr "Заряжаешься, а? Круто. Пока ты не стреля�
 #, fuzzy
 msgctxt "comic405#p2.1"
 msgid "Hey! What the?..."
-msgstr "Эй! Что за?..."
+msgstr "Эй! Что за?…"
 
 #. comic405 panel p2
 #. slot: right bubble
@@ -1020,7 +1020,7 @@ msgstr "Эй! Что за?..."
 #, fuzzy
 msgctxt "comic405#p2.2"
 msgid "You can't hit me, Gnarl. Even if you weren't using the same stupid firing patterns, I've improved a lot since the old days. ...Unlike you."
-msgstr "Тебе в меня не попасть, Отпад. Даже если бы ты не стрелял по тем же дурацким схемам, я сильно прокачался со старых времён. ...В отличие от тебя."
+msgstr "Тебе в меня не попасть, Отпад. Даже если бы ты не стрелял по тем же дурацким схемам, я сильно прокачался со старых времён. …В отличие от тебя."
 
 #. comic405 panel p3
 #. slot: left bubble
@@ -1056,7 +1056,7 @@ msgstr "Самую малость преувеличено."
 #, fuzzy
 msgctxt "comic405#p4.1"
 msgid "You... You were <b>holding back???</b>"
-msgstr "Ты... Ты <b>сдерживался???</b>"
+msgstr "Ты… Ты <b>сдерживался???</b>"
 
 #. comic405 panel p4
 #. slot: right bubble
@@ -1073,7 +1073,7 @@ msgstr "Ещё как. Если я правильно помню, у тебя 10
 #, fuzzy
 msgctxt "comic405#p5.1"
 msgid "So I should be powered up enough right... about... <b>NOW!</b>"
-msgstr "Значит, я должен зарядиться как раз... примерно... <b>СЕЙЧАС!</b>"
+msgstr "Значит, я должен зарядиться как раз… примерно… <b>СЕЙЧАС!</b>"
 
 #. comic406 panel title
 #. slot: background color and image
@@ -1089,7 +1089,7 @@ msgstr "«ПОЧУВСТВУЙ ЖАР»"
 #, fuzzy
 msgctxt "comic406#p1.1"
 msgid "Owwwwch... What was <b>that?</b>"
-msgstr "Ой-ё-ё-ёй... Что это <b>было?</b>"
+msgstr "Ой-ё-ё-ёй… Что это <b>было?</b>"
 
 #. comic406 panel p1
 #. slot: right bubble
@@ -1106,7 +1106,7 @@ msgstr "999 очков урона. У тебя осталось всего 1 HP.
 #, fuzzy
 msgctxt "comic406#p2.1"
 msgid "But, how did you... no, <b>why</b> did you do that?"
-msgstr "Но как ты... нет, <b>зачем</b> ты это сделал?"
+msgstr "Но как ты… нет, <b>зачем</b> ты это сделал?"
 
 #. comic406 panel p2
 #. slot: right bubble
@@ -1151,7 +1151,7 @@ msgstr "Да, но не забывай: <b>я</b> умею превращать�
 #, fuzzy
 msgctxt "comic406#p6.1"
 msgid "Well, I can..."
-msgstr "Ну, умею же..."
+msgstr "Ну, умею же…"
 
 #. comic406 panel p6
 #. slot: right bubble
@@ -1213,7 +1213,7 @@ msgstr "Вообще-то, по идее, он атакует."
 #, fuzzy
 msgctxt "comic407#p3.1"
 msgid "Five minutes later..."
-msgstr "Пять минут спустя..."
+msgstr "Пять минут спустя…"
 
 #. comic407 panel p3
 #. slot: left bubble
@@ -1231,7 +1231,7 @@ msgstr "Сдаюсь! Да убей ты меня уже!"
 #, fuzzy
 msgctxt "comic407#p3.3"
 msgid "Kill you? Dear brother, that would be too easy..."
-msgstr "Убить тебя? Дорогой братец, это было бы слишком просто..."
+msgstr "Убить тебя? Дорогой братец, это было бы слишком просто…"
 
 #. comic407 panel p4
 #. slot: middle bubble
@@ -1239,7 +1239,7 @@ msgstr "Убить тебя? Дорогой братец, это было бы �
 #, fuzzy
 msgctxt "comic407#p4.1"
 msgid "...You're going to suffer!"
-msgstr "...Ты будешь страдать!"
+msgstr "…Ты будешь страдать!"
 
 #. comic408 panel title
 #. slot: background color and image
@@ -1265,7 +1265,7 @@ msgstr "Прости, Отпад, но тебе придётся боротьс�
 #, fuzzy
 msgctxt "comic408#p1.2"
 msgid "But..."
-msgstr "Но..."
+msgstr "Но…"
 
 #. comic408 panel p2
 #. slot: middle bubble
@@ -1309,7 +1309,7 @@ msgstr "У тебя никогда не будет «настоящей» бит
 #, fuzzy
 msgctxt "comic408#p6.1"
 msgid "You can't do that to me! It's... it's too cruel..."
-msgstr "Так нельзя! Это... слишком жестоко..."
+msgstr "Так нельзя! Это… слишком жестоко…"
 
 #. comic408 panel p6
 #. slot: right bubble
@@ -1385,7 +1385,7 @@ msgstr "Бывай, Отпад. Удачи на твоём пути, каким 
 #, fuzzy
 msgctxt "comic409#p5.2"
 msgid "It can't be true..."
-msgstr "Не может быть..."
+msgstr "Не может быть…"
 
 #. comic410 panel title
 #. slot: background color and image
@@ -1420,7 +1420,7 @@ msgstr "«Ну, последние пару часов он сидел там, �
 #, fuzzy
 msgctxt "comic410#p2.1"
 msgid "Guys, I'm sorry about all this. Really. I..."
-msgstr "Ребята, простите за всё это. Правда. Я..."
+msgstr "Ребята, простите за всё это. Правда. Я…"
 
 #. comic410 panel p2
 #. slot: middle bubble
@@ -1438,7 +1438,7 @@ msgstr "Всё нормально, чувак."
 #, fuzzy
 msgctxt "comic410#p3.1"
 msgid "I guess I thought that if life didn't have a simple, direct purpose it wasn't... I don't know. Maybe I couldn't face that the answers weren't that easy."
-msgstr "Наверное, я думал, что если у жизни нет простой, ясной цели, то она не... не знаю. Может, я просто не мог признать, что ответы не так просты."
+msgstr "Наверное, я думал, что если у жизни нет простой, ясной цели, то она не… не знаю. Может, я просто не мог признать, что ответы не так просты."
 
 #. comic410 panel p4
 #. slot: left bubble
@@ -1465,7 +1465,7 @@ msgstr "Тебе не обязательно от нас уходить."
 #, fuzzy
 msgctxt "comic410#p5.1"
 msgid "Yeah, I do. Hanging around with you guys might be too much like the ol' game, and I need to figure out who I am on my own before I can chill with you guys again. So... off I go. And... thanks."
-msgstr "Да нет, обязательно. С вами всё может слишком напоминать старую игру, а мне надо сперва самому понять, кто я, и уж потом снова с вами тусоваться. Так что... я пошёл. И... спасибо."
+msgstr "Да нет, обязательно. С вами всё может слишком напоминать старую игру, а мне надо сперва самому понять, кто я, и уж потом снова с вами тусоваться. Так что… я пошёл. И… спасибо."
 
 #. comic410 panel p6
 #. slot: left bubble

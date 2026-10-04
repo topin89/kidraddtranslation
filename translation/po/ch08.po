@@ -247,7 +247,7 @@ msgstr "Глупость какая."
 #, fuzzy
 msgctxt "comic118#p4.1"
 msgid "But don't worry ladies, we didn't forget about you. Prepare yourself for a peek at the hottest male bod in the strip..."
-msgstr "Но не волнуйтесь, дамы, о вас мы не забыли. Приготовьтесь взглянуть на самое горячее мужское тело в комиксе..."
+msgstr "Но не волнуйтесь, дамы, о вас мы не забыли. Приготовьтесь взглянуть на самое горячее мужское тело в комиксе…"
 
 #. comic118 panel p5
 #. slot: middle bubble
@@ -256,7 +256,7 @@ msgstr "Но не волнуйтесь, дамы, о вас мы не забыл
 #, fuzzy
 msgctxt "comic118#p5.1"
 msgid "...Bogey in a speedo!"
-msgstr "...Бяка в плавках!"
+msgstr "…Бяка в плавках!"
 
 #. comic118 panel p5
 #. slot: right bubble
