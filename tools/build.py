@@ -89,7 +89,17 @@ def load_notes():
 
 # ----------------------------------------------------------------- assets
 
-def copy_if_newer(src, dst):
+def copy_if_newer(src, dst, link=False):
+    if link:  # symlink instead of copying (scratch builds); never write through a link
+        if os.path.islink(dst) and os.readlink(dst) == src:
+            return False
+        if os.path.lexists(dst):
+            os.unlink(dst)
+        os.makedirs(os.path.dirname(dst), exist_ok=True)
+        os.symlink(src, dst)
+        return True
+    if os.path.islink(dst):
+        os.unlink(dst)
     try:
         s, d = os.stat(src), os.stat(dst)
         if s.st_size == d.st_size and int(s.st_mtime) <= int(d.st_mtime):
@@ -101,14 +111,14 @@ def copy_if_newer(src, dst):
     return True
 
 
-def copy_assets(comic_names):
+def copy_assets(comic_names, link=False):
     n = 0
     for root, dirs, files in os.walk(K.SRC):
         rel = os.path.relpath(root, K.SRC)
         for f in files:
             if rel == '.' and (f in SKIP_ASSETS or f[:-4] in comic_names):
                 continue
-            n += copy_if_newer(os.path.join(root, f), os.path.join(K.OUT, rel, f))
+            n += copy_if_newer(os.path.join(root, f), os.path.join(K.OUT, rel, f), link)
     for root, dirs, files in os.walk(K.OVERLAY):
         rel = os.path.relpath(root, K.OVERLAY)
         for f in files:
@@ -172,11 +182,16 @@ def build_page(page, pages_tr, ui_tr, notes, ui_js):
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('--strict', action='store_true', help='skip fuzzy (unreviewed) translations')
+    ap.add_argument('--out', help='output directory (default: ru/)')
+    ap.add_argument('--link-assets', action='store_true',
+                    help='symlink assets instead of copying (fast scratch builds)')
     args = ap.parse_args()
+    if args.out:
+        K.OUT = os.path.abspath(args.out)
 
     pages = K.comic_pages()
     os.makedirs(K.OUT, exist_ok=True)
-    copied = copy_assets(set(pages))
+    copied = copy_assets(set(pages), args.link_assets)
     anim = write_anim_table()
     pages_tr, ui_tr = load_translations(args.strict)
     notes = load_notes()

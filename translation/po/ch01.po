@@ -209,7 +209,7 @@ msgstr "Да поняли они уже."
 #, fuzzy
 msgctxt "comic3#p3.1"
 msgid "Or, if the player decides to run Radd into a bottomless pit..."
-msgstr "Или, если игрок решит направить Улёта прямиком в бездонную пропасть..."
+msgstr "Или, если игрок решит направить Улёта прямиком в бездонную пропасть…"
 
 #. comic3 panel p3
 #. slot: middle bubble
@@ -225,7 +225,7 @@ msgstr "В детстве я пересмотрел кучу мультиков 
 #, fuzzy
 msgctxt "comic3#p4.1"
 msgid "...Radd will follow this suicidal command."
-msgstr "...Улёт выполнит и этот самоубийственный приказ."
+msgstr "…Улёт выполнит и этот самоубийственный приказ."
 
 #. comic3 panel p4
 #. slot: middle bubble
@@ -470,7 +470,7 @@ msgstr "Если держать её десять секунд, я выдам м
 #, fuzzy
 msgctxt "comic7#p5.1"
 msgid "So... why 255?"
-msgstr "Так... а почему 255?"
+msgstr "Так… а почему 255?"
 
 #. comic7 panel p5
 #. slot: middle bubble
@@ -565,7 +565,7 @@ msgstr "Путешествие Улёта продолжается."
 #, fuzzy
 msgctxt "comic9#p1.2"
 msgid "Sigh..."
-msgstr "Эх..."
+msgstr "Эх…"
 
 #. comic9 panel p2
 #. slot: middle bubble
@@ -592,7 +592,7 @@ msgstr "Нет, не сюда! Ты тут уже пробовал!"
 #, fuzzy
 msgctxt "comic9#p4.1"
 msgid "Man, it's gonna be a long game..."
-msgstr "Блин, это будет долгая игра..."
+msgstr "Блин, это будет долгая игра…"
 
 #. comic9 panel p4
 #. slot: bubble "stems"
@@ -699,7 +699,7 @@ msgstr "Осторожнее, Улёт, ты начинаешь рассужда
 #, fuzzy
 msgctxt "comic10#p5.2"
 msgid "I mean... This is bogus! Uncool! Non-gnarly! Or something..."
-msgstr "В смысле... Это отстой! Некруто! Неотпадно! Или типа того..."
+msgstr "В смысле… Это отстой! Некруто! Неотпадно! Или типа того…"
 
 #. comic11 panel title
 #. slot: background color and image
@@ -716,7 +716,7 @@ msgstr "«ЧЕГО ТЫ ОТ МЕНЯ ХОЧЕШЬ»"
 #, fuzzy
 msgctxt "comic11#p1.1"
 msgid "Radd continues in game after game..."
-msgstr "Улёт проходит игру за игрой..."
+msgstr "Улёт проходит игру за игрой…"
 
 #. comic11 panel p1
 #. slot: middle bubble
@@ -761,7 +761,7 @@ msgstr "Зашибись! Интересно, что дальше?"
 #, fuzzy
 msgctxt "comic11#p4.1"
 msgid "This is just wrong..."
-msgstr "Это просто неправильно..."
+msgstr "Это просто неправильно…"
 
 #. comic11 panel p4
 #. slot: bubble "stems"
@@ -939,7 +939,7 @@ msgstr "Бред, но любая атака, от яблок до топоро�
 #, fuzzy
 msgctxt "comic13#p5.1"
 msgid "And so..."
-msgstr "И поэтому..."
+msgstr "И поэтому…"
 
 #. comic13 panel p5
 #. slot: left bubble
@@ -998,7 +998,7 @@ msgstr "Так что теперь Улёт и игрок — что-то вро
 #, fuzzy
 msgctxt "comic14#p3.2"
 msgid "Uh... but I still like chicks, okay?"
-msgstr "Э-э... но мне всё ещё нравятся девчонки, лады?"
+msgstr "Э-э… но мне всё ещё нравятся девчонки, лады?"
 
 #. comic14 panel p4
 #. slot: narration (if any, else cut)
@@ -1007,7 +1007,7 @@ msgstr "Э-э... но мне всё ещё нравятся девчонки, л
 #, fuzzy
 msgctxt "comic14#p4.1"
 msgid "...The player being the more mature partner, of course."
-msgstr "...Причём игрок, конечно, более зрелый партнёр."
+msgstr "…Причём игрок, конечно, более зрелый партнёр."
 
 #. comic14 panel p4
 #. slot: left bubble
@@ -1024,7 +1024,7 @@ msgstr "Я серьёзно! Мы просто друзья!"
 #, fuzzy
 msgctxt "comic15#title.1"
 msgid "\"I DID IT ALL FOR THE...\""
-msgstr "«Я ВСЁ ЭТО РАДИ...»"
+msgstr "«Я ВСЁ ЭТО РАДИ…»"
 
 #. comic15 panel p1
 #. slot: narration (if any, else cut)
@@ -1042,7 +1042,7 @@ msgstr "УРОВЕНЬ ПРОЙДЕН!"
 #, fuzzy
 msgctxt "comic15#p1.2"
 msgid "All right! Could this be...?"
-msgstr "Йес! Неужели это...?"
+msgstr "Йес! Неужели это…?"
 
 #. comic15 panel p2
 #. slot: middle bubble
@@ -1109,7 +1109,7 @@ msgstr "Очень смешно."
 #, fuzzy
 msgctxt "comic16#title.1"
 msgid "\"HE AIN'T HEAVY...\""
-msgstr "«ОН НЕ ТЯЖЁЛЫЙ...»"
+msgstr "«ОН НЕ ТЯЖЁЛЫЙ…»"
 
 #. comic16 panel p1
 #. slot: left bubble
@@ -1136,7 +1136,7 @@ msgstr "Вообще-то я мало что о нём знаю. Интерес�
 #, fuzzy
 msgctxt "comic16#p2.2"
 msgid "Radd... I am your..."
-msgstr "Улёт... Я твой..."
+msgstr "Улёт… Я твой…"
 
 #. comic16 panel p3
 #. slot: right bubble
@@ -1145,7 +1145,7 @@ msgstr "Улёт... Я твой..."
 #, fuzzy
 msgctxt "comic16#p3.1"
 msgid "...brother. I'm your evil <i>older brother.</i>"
-msgstr "...брат. Я твой злой <i>старший брат.</i>"
+msgstr "…брат. Я твой злой <i>старший брат.</i>"
 
 #. comic16 panel p4
 #. slot: left bubble
@@ -1225,7 +1225,7 @@ msgstr "Размечтался. Ты же знаешь: моя работа — 
 #, fuzzy
 msgctxt "comic17#p4.1"
 msgid "Just like it's my job to kill you. ...Repeatedly."
-msgstr "А моя работа — убивать тебя. ...Раз за разом."
+msgstr "А моя работа — убивать тебя. …Раз за разом."
 
 #. comic17 panel p5
 #. slot: left bubble
@@ -1278,7 +1278,7 @@ msgstr "Может быть. Но сперва я попробую перема�
 #, fuzzy
 msgctxt "comic18#p2.1"
 msgid "Um, okay..."
-msgstr "Эм, ладно..."
+msgstr "Эм, ладно…"
 
 #. comic18 panel p2
 #. slot: right bubble
@@ -1305,7 +1305,7 @@ msgstr "И снова убого."
 #, fuzzy
 msgctxt "comic18#p3.2"
 msgid "You have the urge to do some accounting..."
-msgstr "Тебя охватывает желание заняться бухгалтерией..."
+msgstr "Тебя охватывает желание заняться бухгалтерией…"
 
 #. comic18 panel p4
 #. slot: left bubble
@@ -1314,7 +1314,7 @@ msgstr "Тебя охватывает желание заняться бухга
 #, fuzzy
 msgctxt "comic18#p4.1"
 msgid "...I have the urge to do some accounting."
-msgstr "...Меня охватывает желание заняться бухгалтерией."
+msgstr "…Меня охватывает желание заняться бухгалтерией."
 
 #. comic18 panel p4
 #. slot: right bubble
@@ -1340,7 +1340,7 @@ msgstr "«ВЫРВАТЬСЯ НА СВОБОДУ»"
 #, fuzzy
 msgctxt "comic19#p1.1"
 msgid "...Where is the looseleaf paper?"
-msgstr "...Где бумага для скоросшивателя?"
+msgstr "…Где бумага для скоросшивателя?"
 
 #. comic19 panel p1
 #. slot: middle bubble
@@ -1367,7 +1367,7 @@ msgstr "Что ты сделал с Улётом???"
 #, fuzzy
 msgctxt "comic19#p2.1"
 msgid "Must... collate..."
-msgstr "Надо... подшить..."
+msgstr "Надо… подшить…"
 
 #. comic19 panel p2
 #. slot: middle bubble
@@ -1394,7 +1394,7 @@ msgstr "Ах ты <i>изверг!</i> Сопротивляйся, Улёт!"
 #, fuzzy
 msgctxt "comic19#p3.1"
 msgid "Need... toner..."
-msgstr "Нужен... тонер..."
+msgstr "Нужен… тонер…"
 
 #. comic19 panel p3
 #. slot: middle bubble
@@ -1439,7 +1439,7 @@ msgstr "«Жми на кнопки»? Это ещё что, чёрт возьм�
 #, fuzzy
 msgctxt "comic19#p4.3"
 msgid "I dunno, really..."
-msgstr "Сама не знаю..."
+msgstr "Сама не знаю…"
 
 #. comic20 panel title
 #. slot: background color and image
@@ -1492,7 +1492,7 @@ msgstr "Вообще-то это была моя самая слабая ата�
 #, fuzzy
 msgctxt "comic20#p4.1"
 msgid "Oh, crap..."
-msgstr "Ой, блин..."
+msgstr "Ой, блин…"
 
 #. comic20 panel p4
 #. slot: right bubble
@@ -1553,7 +1553,7 @@ msgstr "Цыц! Я тут вообще-то побеждаю!"
 #, fuzzy
 msgctxt "comic21#p3.3"
 msgid "Ack..."
-msgstr "Ай..."
+msgstr "Ай…"
 
 #. comic22 panel title
 #. slot: background color and image
@@ -1570,7 +1570,7 @@ msgstr "«ПЕ-ПЕ-ПЕРЕМЕНЫ»"
 #, fuzzy
 msgctxt "comic22#p1.1"
 msgid "Ow..."
-msgstr "Ой..."
+msgstr "Ой…"
 
 #. comic22 panel p1
 #. slot: middle bubble
@@ -1597,7 +1597,7 @@ msgstr "Именно."
 #, fuzzy
 msgctxt "comic22#p2.1"
 msgid "My kidney..."
-msgstr "Моя почка..."
+msgstr "Моя почка…"
 
 #. comic22 panel p2
 #. slot: middle bubble
@@ -1624,7 +1624,7 @@ msgstr "Эм, тебе не кажется, что битва была подо�
 #, fuzzy
 msgctxt "comic22#p3.1"
 msgid "Must... transform..."
-msgstr "Пора... меняться..."
+msgstr "Пора… меняться…"
 
 #. comic22 panel p3
 #. slot: middle bubble
@@ -1642,7 +1642,7 @@ msgstr "Кто улётный — тот и крутой."
 #, fuzzy
 msgctxt "comic22#p3.3"
 msgid "I mean, maybe that wasn't the boss's..."
-msgstr "Может, это была ещё не последняя..."
+msgstr "Может, это была ещё не последняя…"
 
 #. comic22 panel p4
 #. slot: left bubble
@@ -1669,7 +1669,7 @@ msgstr "Ой-ё!"
 #, fuzzy
 msgctxt "comic22#p4.3"
 msgid "...final form."
-msgstr "...форма босса."
+msgstr "…форма босса."
 
 #. comic23 panel title
 #. slot: background color and image
@@ -1685,7 +1685,7 @@ msgstr "«У ДЖЕЙНИ ЕСТЬ ПУШКА»"
 #, fuzzy
 msgctxt "comic23#p1.1"
 msgid "Radd's evil brother Gnarl has just transformed into his ultimate mode: the Gnarlborg 2000. (...Yeah, I know, just go with it.)"
-msgstr "Злой брат Улёта, Отпад, только что превратился в свою высшую форму — Отпадборг 2000. (...Да-да, знаю, просто смиритесь.)"
+msgstr "Злой брат Улёта, Отпад, только что превратился в свою высшую форму — Отпадборг 2000. (…Да-да, знаю, просто смиритесь.)"
 
 #. comic23 panel p2
 #. slot: left bubble
@@ -1694,7 +1694,7 @@ msgstr "Злой брат Улёта, Отпад, только что превр
 #, fuzzy
 msgctxt "comic23#p2.1"
 msgid "And now, dear brother, you shall learn true pain..."
-msgstr "А теперь, дорогой брат, ты узнаешь, что такое настоящая боль..."
+msgstr "А теперь, дорогой брат, ты узнаешь, что такое настоящая боль…"
 
 #. comic23 panel p2
 #. slot: right bubble
@@ -1757,7 +1757,7 @@ msgstr "У-у, ты за это заплатишь!"
 #, fuzzy
 msgctxt "comic23#p5.2"
 msgid "Hmph, well at least you got one big gun..."
-msgstr "Хм, ну хоть одна большая пушка у тебя есть..."
+msgstr "Хм, ну хоть одна большая пушка у тебя есть…"
 
 #. comic24 panel title
 #. slot: background color and image
@@ -1792,7 +1792,7 @@ msgstr "Ой-ой."
 #, fuzzy
 msgctxt "comic24#p2.1"
 msgid "No use running..."
-msgstr "Бежать бесполезно..."
+msgstr "Бежать бесполезно…"
 
 #. comic24 panel p2
 #. slot: middle bubble
@@ -1907,7 +1907,7 @@ msgstr "А стоило бы, так что будь благодарен."
 #, fuzzy
 msgctxt "comic25#p5.1"
 msgid "*Cough, cough.* Thank you..."
-msgstr "*Кхе-кхе.* Спасибо..."
+msgstr "*Кхе-кхе.* Спасибо…"
 
 #. comic25 panel p5
 #. slot: right bubble
@@ -1950,7 +1950,7 @@ msgstr "Так держать! Уклоняйся и заряжай!"
 #, fuzzy
 msgctxt "comic26#p2.1"
 msgid "It's like a DVD! Sort of..."
-msgstr "Прямо как DVD! Ну, почти..."
+msgstr "Прямо как DVD! Ну, почти…"
 
 #. comic26 panel p3
 #. slot: left bubble
@@ -1994,7 +1994,7 @@ msgstr "Я сделал это! Я победил!"
 #, fuzzy
 msgctxt "comic27#p1.2"
 msgid "Sonuva..."
-msgstr "Ах ты ж..."
+msgstr "Ах ты ж…"
 
 #. comic27 panel p2
 #. slot: narration (if any, else cut)
@@ -2003,7 +2003,7 @@ msgstr "Ах ты ж..."
 #, fuzzy
 msgctxt "comic27#p2.1"
 msgid "(Cue ending sequence...)"
-msgstr "(Включаем финальную заставку...)"
+msgstr "(Включаем финальную заставку…)"
 
 #. comic27 panel p2
 #. slot: left bubble
@@ -2021,7 +2021,7 @@ msgstr "Я так долго мечтал об этом дне! Поцелуй �
 #, fuzzy
 msgctxt "comic27#p2.3"
 msgid "Uh, I hardly know you..."
-msgstr "Эм, я тебя почти не знаю..."
+msgstr "Эм, я тебя почти не знаю…"
 
 #. comic27 panel p2
 #. slot: insert ground "tiles" on this line
@@ -2066,7 +2066,7 @@ msgstr "Как будто у тебя был выбор, эх. Ладно, по�
 #, fuzzy
 msgctxt "comic27#p3.4"
 msgid "THANKS TO KID RADD"
-msgstr "СПАСИБО УЛЁТУ-ПАРНЮ"
+msgstr "СПАСИБО УЛЁТ-ПАРНЮ"
 
 #. comic27 panel p4
 #. slot: narration (if any, else cut)
@@ -2093,7 +2093,7 @@ msgstr "Пять секунд? А что будет через пять секу
 #, fuzzy
 msgctxt "comic27#p4.3"
 msgid "You'll see..."
-msgstr "Сам увидишь..."
+msgstr "Сам увидишь…"
 
 #. comic27 panel p4
 #. slot: insert ground "tiles" on this line
@@ -2110,7 +2110,7 @@ msgstr "КОНЕЦ"
 #, fuzzy
 msgctxt "comic27#p5.1"
 msgid "That Radd is one bad mutha..."
-msgstr "Этот Улёт — крутой сукин с..."
+msgstr "Этот Улёт — крутой сукин с…"
 
 #. comic27 panel p5
 #. slot: left bubble
@@ -2196,7 +2196,7 @@ msgstr "Значит, простой у меня бывает, даже когд
 #, fuzzy
 msgctxt "comic28#p4.1"
 msgid "It's strange but... I always thought the game was a test for me. I assumed when I won it'd be over; maybe I'd pass to a higher plane of existence or something."
-msgstr "Странно, но... Я всегда думал, что игра — это испытание для меня. Думал, когда выиграю, всё закончится; может, я перейду на высший уровень бытия или типа того."
+msgstr "Странно, но… Я всегда думал, что игра — это испытание для меня. Думал, когда выиграю, всё закончится; может, я перейду на высший уровень бытия или типа того."
 
 #. comic28 panel p5
 #. slot: narration (if any, else cut)
@@ -2257,7 +2257,7 @@ msgstr "Привет, я снова пришёл надрать тебе зад!
 #, fuzzy
 msgctxt "comic29#p2.3"
 msgid "Rrgh..."
-msgstr "Р-р-р..."
+msgstr "Р-р-р…"
 
 #. comic29 panel p3
 #. slot: narration (if any, else cut)
@@ -2293,7 +2293,7 @@ msgstr "Нет."
 #, fuzzy
 msgctxt "comic29#p3.4"
 msgid "THANKS TO KID RADD"
-msgstr "СПАСИБО УЛЁТУ-ПАРНЮ"
+msgstr "СПАСИБО УЛЁТ-ПАРНЮ"
 
 #. comic29 panel p4
 #. slot: narration (if any, else cut)
@@ -2334,7 +2334,7 @@ msgstr "«ЖЕСТОКАЯ ИГРА»"
 #, fuzzy
 msgctxt "comic30#p2.1"
 msgid "The player wins yet again..."
-msgstr "Игрок снова побеждает..."
+msgstr "Игрок снова побеждает…"
 
 #. comic30 panel p2
 #. slot: left bubble
@@ -2352,7 +2352,7 @@ msgstr "Ну давай, разве я не заслужил поцелуй?"
 #, fuzzy
 msgctxt "comic30#p2.3"
 msgid "Sigh, Radd..."
-msgstr "Эх, Улёт..."
+msgstr "Эх, Улёт…"
 
 #. comic30 panel p2
 #. slot: insert ground "tiles" on this line
@@ -2397,7 +2397,7 @@ msgstr "Улёт, это заранее запрограммированная �
 #, fuzzy
 msgctxt "comic30#p3.4"
 msgid "THANKS TO KID RADD"
-msgstr "СПАСИБО УЛЁТУ-ПАРНЮ"
+msgstr "СПАСИБО УЛЁТ-ПАРНЮ"
 
 #. comic30 panel p4
 #. slot: narration (if any, else cut)
@@ -2441,7 +2441,7 @@ msgstr "КОНЕЦ"
 #, fuzzy
 msgctxt "comic30#p5.1"
 msgid "That Radd is still one bad mutha..."
-msgstr "Этот Улёт — всё ещё крутой сукин с..."
+msgstr "Этот Улёт — всё ещё крутой сукин с…"
 
 #. comic30 panel p5
 #. slot: left bubble
@@ -2536,4 +2536,4 @@ msgstr "Играю я хорошо или плохо — ничего не ме�
 #, fuzzy
 msgctxt "comic31#p5.1"
 msgid "But even knowing that... the game's better than the void. It sure gets lonely here..."
-msgstr "Но даже зная это... игра лучше, чем пустота. Тут так одиноко..."
+msgstr "Но даже зная это… игра лучше, чем пустота. Тут так одиноко…"

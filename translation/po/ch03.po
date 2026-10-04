@@ -12,300 +12,339 @@ msgstr ""
 #. comic50 panel title
 #. slot: background color and image
 #: kidradd/comic50.htm:36
+#, fuzzy
 msgctxt "comic50#title.1"
 msgid "\"WALK OF LIFE\""
-msgstr ""
+msgstr "«ЖИЗНЕННЫЙ ПУТЬ»"
 
 #. comic50 panel p1
 #. slot: left bubble
 #. images: bogeytalk.gif, qbstand.gif
 #: kidradd/comic50.htm:77
+#, fuzzy
 msgctxt "comic50#p1.1"
 msgid "What kind of job can I get?"
-msgstr ""
+msgstr "Какую работу я могу получить?"
 
 #. comic50 panel p1
 #. slot: right bubble
 #. images: bogeytalk.gif, qbstand.gif
 #: kidradd/comic50.htm:81
+#, fuzzy
 msgctxt "comic50#p1.2"
 msgid "Um, that's a touchy subject. Come with me, please."
-msgstr ""
+msgstr "Э, это щекотливая тема. Пройдём со мной, пожалуйста."
 
 #. comic50 panel p2
 #. slot: middle bubble
 #. images: qbhead.gif
 #: kidradd/comic50.htm:136
+#, fuzzy
 msgctxt "comic50#p2.1"
 msgid "Minor enemy sprites aren't usually very useful as workers. They often lack mobility, motivation, ...and hands. There's just not a lot you guys can do."
-msgstr ""
+msgstr "Мелкие вражеские спрайты обычно не слишком полезны как работники. Им часто не хватает подвижности, мотивации… и рук. Вы мало что умеете."
 
 #. comic50 panel p3
 #. slot: middle bubble
 #. images: qbhead2.gif
 #: kidradd/comic50.htm:187
+#, fuzzy
 msgctxt "comic50#p3.1"
 msgid "So out of kindness </font><font size=\"1\" face=\"arial\">(and so we wouldn't have to look at you)</font><font size=\"2\" face=\"arial\"> we set aside a place for you guys. Sort of an enemy sprite preserve."
-msgstr ""
+msgstr "Поэтому по доброте душевной </font><font size=\"1\" face=\"arial\">(и чтобы на вас не смотреть)</font><font size=\"2\" face=\"arial\"> мы отвели для вас особое место. Что-то вроде заповедника вражеских спрайтов."
 
 #. comic50 panel p5
 #. slot: left bubble
 #. images: bogeytalk.gif, qbtalk2.gif
 #: kidradd/comic50.htm:290
+#, fuzzy
 msgctxt "comic50#p5.1"
 msgid "Sign me up!"
-msgstr ""
+msgstr "Запишите меня!"
 
 #. comic50 panel p5
 #. slot: right bubble
 #. images: bogeytalk.gif, qbtalk2.gif
 #: kidradd/comic50.htm:294
+#, fuzzy
 msgctxt "comic50#p5.2"
 msgid "My pleasure."
-msgstr ""
+msgstr "С удовольствием."
 
 #. comic51 panel title
 #. slot: background color and image
 #: kidradd/comic51.htm:36
+#, fuzzy
 msgctxt "comic51#title.1"
 msgid "\"RUN WITH THE PACK\""
-msgstr ""
+msgstr "«ВМЕСТЕ СО СТАЕЙ»"
 
 #. comic51 panel p1
 #. slot: narration (if any, else cut)
 #: kidradd/comic51.htm:73
+#, fuzzy
 msgctxt "comic51#p1.1"
 msgid "Bogey joins his siblings on the enemy sprite preserve."
-msgstr ""
+msgstr "Бяка присоединяется к своим братьям в заповеднике вражеских спрайтов."
 
 #. comic51 panel p3
 #. slot: narration (if any, else cut)
 #. images: bgbump4.gif
 #: kidradd/comic51.htm:183
+#, fuzzy
 msgctxt "comic51#p3.1"
 msgid "No hidden text here."
-msgstr ""
+msgstr "Здесь нет скрытого текста."
 
 #. comic51 panel p4
 #. slot: narration (if any, else cut)
 #. images: bgsmile.gif
 #: kidradd/comic51.htm:237
+#, fuzzy
 msgctxt "comic51#p4.1"
 msgid "No hidden text here."
-msgstr ""
+msgstr "Здесь нет скрытого текста."
 
 #. comic51 panel p4
 #. slot: left bubble
 #. images: bgsmile.gif
 #: kidradd/comic51.htm:243
+#, fuzzy
 msgctxt "comic51#p4.2"
 msgid "This is the life!"
-msgstr ""
+msgstr "Вот это жизнь!"
 
 #. comic52 panel title
 #. slot: background color and image
 #: kidradd/comic52.htm:36
+#, fuzzy
 msgctxt "comic52#title.1"
 msgid "\"BADFINGER\""
-msgstr ""
+msgstr "«BADFINGER»"
 
 #. comic52 panel p1
 #. slot: narration (if any, else cut)
 #: kidradd/comic52.htm:73
+#, fuzzy
 msgctxt "comic52#p1.1"
 msgid "Day 2 for Bogey on the enemy sprite preserve."
-msgstr ""
+msgstr "Второй день Бяки в заповеднике вражеских спрайтов."
 
 #. comic52 panel p3
 #. slot: narration (if any, else cut)
 #. images: bgbump4.gif
 #: kidradd/comic52.htm:183
+#, fuzzy
 msgctxt "comic52#p3.1"
 msgid "No hidden text here."
-msgstr ""
+msgstr "Здесь нет скрытого текста."
 
 #. comic52 panel p4
 #. slot: narration (if any, else cut)
 #. images: bgsmile.gif
 #: kidradd/comic52.htm:237
+#, fuzzy
 msgctxt "comic52#p4.1"
 msgid "No hidden text here."
-msgstr ""
+msgstr "Здесь нет скрытого текста."
 
 #. comic52 panel p4
 #. slot: left bubble
 #. images: bgsmile.gif
 #: kidradd/comic52.htm:243
+#, fuzzy
 msgctxt "comic52#p4.2"
 msgid "It's like an orgy!"
-msgstr ""
+msgstr "Прямо оргия какая-то!"
 
 #. comic53 panel title
 #. slot: background color and image
 #: kidradd/comic53.htm:36
+#, fuzzy
 msgctxt "comic53#title.1"
 msgid "\"RENDEZVOUS\""
-msgstr ""
+msgstr "«РАНДЕВУ»"
 
 #. comic53 panel p1
 #. slot: narration (if any, else cut)
 #: kidradd/comic53.htm:73
+#, fuzzy
 msgctxt "comic53#p1.1"
 msgid "Day 3 for Bogey on the enemy sprite preserve."
-msgstr ""
+msgstr "Третий день Бяки в заповеднике вражеских спрайтов."
 
 #. comic53 panel p3
 #. slot: narration (if any, else cut)
 #. images: bgbump4.gif
 #: kidradd/comic53.htm:183
+#, fuzzy
 msgctxt "comic53#p3.1"
 msgid "No hidden text here."
-msgstr ""
+msgstr "Здесь нет скрытого текста."
 
 #. comic53 panel p4
 #. slot: narration (if any, else cut)
 #. images: bgbump4.gif
 #: kidradd/comic53.htm:237
+#, fuzzy
 msgctxt "comic53#p4.1"
 msgid "No hidden text here."
-msgstr ""
+msgstr "Здесь нет скрытого текста."
 
 #. comic53 panel p4
 #. slot: left bubble
 #. images: bgbump4.gif
 #: kidradd/comic53.htm:243
+#, fuzzy
 msgctxt "comic53#p4.2"
 msgid "Have I met you somewhere?"
-msgstr ""
+msgstr "Мы раньше не встречались?"
 
 #. comic54 panel title
 #. slot: background color and image
 #: kidradd/comic54.htm:36
+#, fuzzy
 msgctxt "comic54#title.1"
 msgid "\"DRAW THE LINE\""
-msgstr ""
+msgstr "«ПОДВЕДЁМ ЧЕРТУ»"
 
 #. comic54 panel p1
 #. slot: narration (if any, else cut)
 #: kidradd/comic54.htm:73
+#, fuzzy
 msgctxt "comic54#p1.1"
 msgid "Yep, Bogey is still on the enemy sprite preserve."
-msgstr ""
+msgstr "Да, Бяка всё ещё в заповеднике вражеских спрайтов."
 
 #. comic54 panel p2
 #. slot: narration (if any, else cut)
 #. images: bgbump4.gif
 #: kidradd/comic54.htm:132
+#, fuzzy
 msgctxt "comic54#p2.1"
 msgid "No hidden text here."
-msgstr ""
+msgstr "Здесь нет скрытого текста."
 
 #. comic54 panel p3
 #. slot: narration (if any, else cut)
 #. images: bgbump4.gif
 #: kidradd/comic54.htm:185
+#, fuzzy
 msgctxt "comic54#p3.1"
 msgid "No hidden text here."
-msgstr ""
+msgstr "Здесь нет скрытого текста."
 
 #. comic54 panel p3
 #. slot: left bubble
 #. images: bgbump4.gif
 #: kidradd/comic54.htm:191
+#, fuzzy
 msgctxt "comic54#p3.2"
 msgid "Wait a minute..."
-msgstr ""
+msgstr "Минуточку…"
 
 #. comic54 panel p4
 #. slot: narration (if any, else cut)
 #. images: bgwhoopsb.gif
 #: kidradd/comic54.htm:239
+#, fuzzy
 msgctxt "comic54#p4.1"
 msgid "No hidden text here."
-msgstr ""
+msgstr "Здесь нет скрытого текста."
 
 #. comic54 panel p4
 #. slot: left bubble
 #. images: bgwhoopsb.gif
 #: kidradd/comic54.htm:245
+#, fuzzy
 msgctxt "comic54#p4.2"
 msgid "This is... <b>boring!</b>"
-msgstr ""
+msgstr "Это же… <b>скучно!</b>"
 
 #. comic55 panel title
 #. slot: background color and image
 #: kidradd/comic55.htm:36
+#, fuzzy
 msgctxt "comic55#title.1"
 msgid "\"JUMP\""
-msgstr ""
+msgstr "«ПРЫГАЙ»"
 
 #. comic55 panel p1
 #. slot: narration (if any, else cut)
 #. images: bgwhoopsa.gif
 #: kidradd/comic55.htm:73
+#, fuzzy
 msgctxt "comic55#p1.1"
 msgid "No hidden text here."
-msgstr ""
+msgstr "Здесь нет скрытого текста."
 
 #. comic55 panel p1
 #. slot: left bubble
 #. images: bgwhoopsa.gif
 #: kidradd/comic55.htm:79
+#, fuzzy
 msgctxt "comic55#p1.2"
 msgid "Hey, I don't wanna be here anymore."
-msgstr ""
+msgstr "Эй, я больше не хочу здесь быть."
 
 #. comic55 panel p2
 #. slot: narration (if any, else cut)
 #. images: bgwhoopsa.gif
 #: kidradd/comic55.htm:132
+#, fuzzy
 msgctxt "comic55#p2.1"
 msgid "No hidden text here."
-msgstr ""
+msgstr "Здесь нет скрытого текста."
 
 #. comic55 panel p2
 #. slot: left bubble
 #. images: bgwhoopsa.gif
 #: kidradd/comic55.htm:138
+#, fuzzy
 msgctxt "comic55#p2.2"
 msgid "But... I'm blocked in!"
-msgstr ""
+msgstr "Но… меня зажали!"
 
 #. comic55 panel p3
 #. slot: narration (if any, else cut)
 #. images: bgwhoopsb.gif
 #: kidradd/comic55.htm:185
+#, fuzzy
 msgctxt "comic55#p3.1"
 msgid "No hidden text here."
-msgstr ""
+msgstr "Здесь нет скрытого текста."
 
 #. comic55 panel p3
 #. slot: left bubble
 #. images: bgwhoopsb.gif
 #: kidradd/comic55.htm:191
+#, fuzzy
 msgctxt "comic55#p3.2"
 msgid "HOW DO I GET OUT OF HERE???"
-msgstr ""
+msgstr "КАК ОТСЮДА ВЫБРАТЬСЯ???"
 
 #. comic55 panel p4
 #. slot: middle bubble
 #: kidradd/comic55.htm:245
+#, fuzzy
 msgctxt "comic55#p4.1"
 msgid "Dude, just<br>jump out."
-msgstr ""
+msgstr "Чувак, просто<br>выпрыгни."
 
 #. comic55 panel p5
 #. slot: left bubble
 #. images: bogeywalk.gif, raddwalk.gif, sidewalkw.gif
 #: kidradd/comic55.htm:298
+#, fuzzy
 msgctxt "comic55#p5.1"
 msgid "I'll never get used to this \"3-D\" crap."
-msgstr ""
+msgstr "Никогда не привыкну к этой «3D»-фигне."
 
 #. comic55 panel p5
 #. slot: right bubble
 #. images: bogeywalk.gif, raddwalk.gif, sidewalkw.gif
 #: kidradd/comic55.htm:302
+#, fuzzy
 msgctxt "comic55#p5.2"
 msgid "Tell me about it."
-msgstr ""
+msgstr "И не говори."

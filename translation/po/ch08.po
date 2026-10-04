@@ -12,361 +12,407 @@ msgstr ""
 #. comic116 panel title
 #. slot: background color and image
 #: kidradd/comic116.htm:36
+#, fuzzy
 msgctxt "comic116#title.1"
 msgid "\"THE WALL\""
-msgstr ""
+msgstr "«СТЕНА»"
 
 #. comic116 panel p1
 #. slot: narration (if any, else cut)
 #. images: bogeytable3.gif
 #: kidradd/comic116.htm:73
+#, fuzzy
 msgctxt "comic116#p1.1"
 msgid "Welcome to Fourth Wall Week!"
-msgstr ""
+msgstr "Добро пожаловать на Неделю четвёртой стены!"
 
 #. comic116 panel p1
 #. slot: middle bubble
 #. images: bogeytable3.gif
 #: kidradd/comic116.htm:81
+#, fuzzy
 msgctxt "comic116#p1.2"
 msgid "Since Radd so rudely shattered the fourth wall last week, we've decided to keep it broken for now, and just have some fun this week."
-msgstr ""
+msgstr "Раз уж Улёт на прошлой неделе так грубо разрушил четвёртую стену, мы решили пока её не чинить и просто повеселиться."
 
 #. comic116 panel p2
 #. slot: left bubble
 #. images: raddright.gif, bogeytalk2.gif
 #: kidradd/comic116.htm:137
+#, fuzzy
 msgctxt "comic116#p2.1"
 msgid "Fourth what?"
-msgstr ""
+msgstr "Четвёртой чего?"
 
 #. comic116 panel p2
 #. slot: right bubble
 #. images: raddright.gif, bogeytalk2.gif
 #: kidradd/comic116.htm:141
+#, fuzzy
 msgctxt "comic116#p2.2"
 msgid "\"Fourth wall.\" It means we're breaking the rules of storytelling, and we're aware of the readers at home."
-msgstr ""
+msgstr "«Четвёртой стены». Это значит, мы нарушаем правила повествования и знаем о читателях по ту сторону экрана."
 
 #. comic116 panel p3
 #. slot: left bubble
 #. images: raddstand.gif, bogeystand2.gif
 #: kidradd/comic116.htm:190
+#, fuzzy
 msgctxt "comic116#p3.1"
 msgid "I don't get it."
-msgstr ""
+msgstr "Не понимаю."
 
 #. comic116 panel p3
 #. slot: right bubble
 #. images: raddstand.gif, bogeystand2.gif
 #: kidradd/comic116.htm:194
+#, fuzzy
 msgctxt "comic116#p3.2"
 msgid "There's nothing to \"get.\" Just say something to the folks out there."
-msgstr ""
+msgstr "Тут нечего «понимать». Просто скажи что-нибудь людям по ту сторону."
 
 #. comic116 panel p4
 #. slot: left bubble
 #. images: raddwink.gif, bogeysigh.gif
 #: kidradd/comic116.htm:245
+#, fuzzy
 msgctxt "comic116#p4.1"
 msgid "Hey everybody! Can someone lend me a twenty?"
-msgstr ""
+msgstr "Привет всем! Кто-нибудь одолжит двадцатку?"
 
 #. comic116 panel p4
 #. slot: right bubble
 #. images: raddwink.gif, bogeysigh.gif
 #: kidradd/comic116.htm:249
+#, fuzzy
 msgctxt "comic116#p4.2"
 msgid "Never mind."
-msgstr ""
+msgstr "Проехали."
 
 #. comic117 panel title
 #. slot: background color and image
 #: kidradd/comic117.htm:36
+#, fuzzy
 msgctxt "comic117#title.1"
 msgid "\"LOVE IS BLIND\""
-msgstr ""
+msgstr "«ЛЮБОВЬ СЛЕПА»"
 
 #. comic117 panel p1
 #. slot: narration (if any, else cut)
 #. images: raddstare.gif
 #: kidradd/comic117.htm:73
+#, fuzzy
 msgctxt "comic117#p1.1"
 msgid "Fourth Wall Week continues!"
-msgstr ""
+msgstr "Неделя четвёртой стены продолжается!"
 
 #. comic117 panel p1
 #. slot: middle bubble
 #. images: raddstare.gif
 #: kidradd/comic117.htm:81
+#, fuzzy
 msgctxt "comic117#p1.2"
 msgid "During this week's event, I'd like to take the opportunity to talk about my relationship with Sheena."
-msgstr ""
+msgstr "Пользуясь случаем, я хотел бы поговорить о своих отношениях с Шиной."
 
 #. comic117 panel p2
 #. slot: left bubble
 #. images: raddtable3.gif
 #: kidradd/comic117.htm:136
+#, fuzzy
 msgctxt "comic117#p2.1"
 msgid "Am I a lucky S.O.B. or what? It's painfully obvious that I'm destined to end up with that chick."
-msgstr ""
+msgstr "Ну не везучий ли я сукин сын? До боли очевидно, что мне суждено быть с этой девчонкой."
 
 #. comic117 panel p3
 #. slot: middle bubble
 #. images: raddrock.gif, sheenamad2.gif, bg3.gif
 #: kidradd/comic117.htm:188
+#, fuzzy
 msgctxt "comic117#p3.1"
 msgid "First off, we seem to hate other. All you anime fans know what that old cliche means."
-msgstr ""
+msgstr "Во-первых, мы вроде как ненавидим друг друга. Все анимешники знают, что означает это старое клише."
 
 #. comic117 panel p4
 #. slot: left bubble
 #. images: raddtable.gif, shead.gif
 #: kidradd/comic117.htm:238
+#, fuzzy
 msgctxt "comic117#p4.1"
 msgid "Plus, she's the only eligible female in the strip, and I'm the lead male character. Who else would I go with?"
-msgstr ""
+msgstr "К тому же она единственная свободная девушка в комиксе, а я — главный герой. С кем ещё мне быть?"
 
 #. comic117 panel p5
 #. slot: middle bubble
 #. images: rheadjoy.gif
 #: kidradd/comic117.htm:292
+#, fuzzy
 msgctxt "comic117#p5.1"
 msgid "Face it, it's only a matter of time before I'm on the receiving end of muchas smoochas. Heh heh!"
-msgstr ""
+msgstr "Признайте, это лишь вопрос времени — скоро меня ждут чмоки-чмоки. Хе-хе!"
 
 #. comic117 panel p6
 #. slot: left bubble
 #. images: raddstare.gif, bogeyhug.gif
 #: kidradd/comic117.htm:343
+#, fuzzy
 msgctxt "comic117#p6.1"
 msgid "Unless, of course, the writer of this strip is more warped than I'd thought."
-msgstr ""
+msgstr "Если только автор этого комикса не ещё более чокнутый, чем я думал."
 
 #. comic117 panel p6
 #. slot: right bubble
 #. images: raddstare.gif, bogeyhug.gif
 #: kidradd/comic117.htm:347
+#, fuzzy
 msgctxt "comic117#p6.2"
 msgid "You're sooooo cute!"
-msgstr ""
+msgstr "Ты тако-о-ой милашка!"
 
 #. comic118 panel title
 #. slot: background color and image
 #: kidradd/comic118.htm:36
+#, fuzzy
 msgctxt "comic118#title.1"
 msgid "\"CENTERFOLD\""
-msgstr ""
+msgstr "«РАЗВОРОТ»"
 
 #. comic118 panel p1
 #. slot: narration (if any, else cut)
 #. images: raddblink.gif
 #: kidradd/comic118.htm:73
+#, fuzzy
 msgctxt "comic118#p1.1"
 msgid "More Fourth Wall Week hilarity!"
-msgstr ""
+msgstr "Неделя четвёртой стены — веселье продолжается!"
 
 #. comic118 panel p1
 #. slot: left bubble
 #. images: raddblink.gif
 #: kidradd/comic118.htm:79
+#, fuzzy
 msgctxt "comic118#p1.2"
 msgid "And now, as a publicity stunt, here's something you've all been dying to see!"
-msgstr ""
+msgstr "А теперь, ради рекламы, — то, что вы все до смерти хотели увидеть!"
 
 #. comic118 panel p1
 #. slot: middle bubble
 #. images: raddblink.gif
 #: kidradd/comic118.htm:81
+#, fuzzy
 msgctxt "comic118#p1.3"
 msgid "\"All?\""
-msgstr ""
+msgstr "«Все»?"
 
 #. comic118 panel p2
 #. slot: left bubble
 #. images: raddrock.gif
 #: kidradd/comic118.htm:137
+#, fuzzy
 msgctxt "comic118#p2.1"
 msgid "Well, three or four of you anyway. I now proudly present - -"
-msgstr ""
+msgstr "Ну, трое-четверо из вас точно. С гордостью представляю - -"
 
 #. comic118 panel p2
 #. slot: middle bubble
 #. images: raddrock.gif
 #: kidradd/comic118.htm:139
+#, fuzzy
 msgctxt "comic118#p2.2"
 msgid "Oh brother."
-msgstr ""
+msgstr "О боже."
 
 #. comic118 panel p3
 #. slot: middle bubble
 #. images: sheenaswim.gif, floor2.gif
 #: kidradd/comic118.htm:192
+#, fuzzy
 msgctxt "comic118#p3.1"
 msgid "- - Sheena in swimwear!"
-msgstr ""
+msgstr "- - Шину в купальнике!"
 
 #. comic118 panel p3
 #. slot: right bubble
 #. images: sheenaswim.gif, floor2.gif
 #: kidradd/comic118.htm:194
+#, fuzzy
 msgctxt "comic118#p3.2"
 msgid "This is stupid."
-msgstr ""
+msgstr "Глупость какая."
 
 #. comic118 panel p4
 #. slot: left bubble
 #. images: raddwink.gif
 #: kidradd/comic118.htm:244
+#, fuzzy
 msgctxt "comic118#p4.1"
 msgid "But don't worry ladies, we didn't forget about you. Prepare yourself for a peek at the hottest male bod in the strip..."
-msgstr ""
+msgstr "Но не волнуйтесь, дамы, о вас мы не забыли. Приготовьтесь взглянуть на самое горячее мужское тело в комиксе…"
 
 #. comic118 panel p5
 #. slot: middle bubble
 #. images: bogeyswim.gif, floor2.gif
 #: kidradd/comic118.htm:297
+#, fuzzy
 msgctxt "comic118#p5.1"
 msgid "...Bogey in a speedo!"
-msgstr ""
+msgstr "…Бяка в плавках!"
 
 #. comic118 panel p5
 #. slot: right bubble
 #. images: bogeyswim.gif, floor2.gif
 #: kidradd/comic118.htm:299
+#, fuzzy
 msgctxt "comic118#p5.2"
 msgid "This is almost as embarassing as it is painful."
-msgstr ""
+msgstr "Это почти так же унизительно, как и больно."
 
 #. comic119 panel title
 #. slot: background color and image
 #: kidradd/comic119.htm:55
+#, fuzzy
 msgctxt "comic119#title.1"
 msgid "\"SAMURAI\""
-msgstr ""
+msgstr "«САМУРАЙ»"
 
 #. comic119 panel p1
 #. slot: middle bubble
 #. images: sheenastare.gif
 #: kidradd/comic119.htm:98
+#, fuzzy
 msgctxt "comic119#p1.1"
 msgid "Since our game was destroyed, we at Kid Radd have not provided many exciting action sequences lately. But we can remedy that."
-msgstr ""
+msgstr "С тех пор как нашу игру уничтожили, мы в «Улёт-парне» не баловали вас захватывающим экшеном. Но это можно исправить."
 
 #. comic119 panel p2
 #. slot: middle bubble
 #. images: sheenablink.gif
 #: kidradd/comic119.htm:155
+#, fuzzy
 msgctxt "comic119#p2.1"
 msgid "To supply you with some purely gratuitous violence, Radd and Bogey shall now have a Kurosawa-style sword duel. Enjoy!"
-msgstr ""
+msgstr "Чтобы обеспечить вас совершенно беспричинным насилием, Улёт и Бяка сейчас сразятся на мечах в стиле Куросавы. Наслаждайтесь!"
 
 #. comic119 panel p3
 #. slot: insert ground "tiles" on this line
 #: kidradd/comic119.htm:217
+#, fuzzy
 msgctxt "comic119#p3.1"
 msgid "Pseudo-widescreen makes anything cool."
-msgstr ""
+msgstr "Псевдоширокий экран делает крутым что угодно."
 
 #. comic119 panel p4
 #. slot: right bubble
 #. images: duelend.gif
 #: kidradd/comic119.htm:261
+#, fuzzy
 msgctxt "comic119#p4.1"
 msgid "Next time, maybe we'll train them first."
-msgstr ""
+msgstr "В следующий раз, может, сначала их потренируем."
 
 #. comic119 panel p4
 #. slot: insert ground "tiles" on this line
 #. images: duelend.gif
 #: kidradd/comic119.htm:270
+#, fuzzy
 msgctxt "comic119#p4.2"
 msgid "Where's my other leg?"
-msgstr ""
+msgstr "Где моя вторая нога?"
 
 #. comic119 panel p4
 #. slot: insert ground "tiles" on this line
 #. images: duelend.gif
 #: kidradd/comic119.htm:270
+#, fuzzy
 msgctxt "comic119#p4.3"
 msgid "A ass is you."
-msgstr ""
+msgstr "Ты есть задница."
 
 #. comic120 panel title
 #. slot: background color and image
 #: kidradd/comic120.htm:50
+#, fuzzy
 msgctxt "comic120#title.1"
 msgid "\"PARTY LIKE IT'S 1989\""
-msgstr ""
+msgstr "«ТУСИМ, КАК В 1989-М»"
 
 #. comic120 panel p1
 #. slot: narration (if any, else cut)
 #. images: raddblink.gif
 #: kidradd/comic120.htm:87
+#, fuzzy
 msgctxt "comic120#p1.1"
 msgid "Fourth Wall Week finale!"
-msgstr ""
+msgstr "Финал Недели четвёртой стены!"
 
 #. comic120 panel p1
 #. slot: middle bubble
 #. images: raddblink.gif
 #: kidradd/comic120.htm:95
+#, fuzzy
 msgctxt "comic120#p1.2"
 msgid "To finish the week, I've declared this the Radd Dance Party! Click 'next' to <b>start the music! </b></font><font size=\"1\" face=\"arial\"> (Unless you're at work and don't wanna make noise, I suppose.)</font>"
-msgstr ""
+msgstr "В завершение недели объявляю Улётную дискотеку! Жмите «next», чтобы <b>включить музыку! </b></font><font size=\"1\" face=\"arial\"> (Если только вы не на работе и не боитесь шуметь.)</font>"
 
 #. comic120 panel p2
 #. slot: narration (if any, else cut)
 #. images: sdance1.gif, raddrock.gif, bdance1.gif, a.gif, b.gif, x.gif, y.gif
 #: kidradd/comic120.htm:146
+#, fuzzy
 msgctxt "comic120#p2.1"
 msgid "Click the red buttons to dance!<br>Click 'next' to quit."
-msgstr ""
+msgstr "Жмите красные кнопки, чтобы танцевать!<br>Жмите «next», чтобы выйти."
 
 #. comic120 panel p3
 #. slot: narration (if any, else cut)
 #. images: sheenawalk.gif, raddwalk2.gif, bogeywalk.gif, a.gif, b.gif, x.gif, y.gif
 #: kidradd/comic120.htm:199
+#, fuzzy
 msgctxt "comic120#p3.1"
 msgid "Click the red buttons to dance!<br>Click 'next' to quit."
-msgstr ""
+msgstr "Жмите красные кнопки, чтобы танцевать!<br>Жмите «next», чтобы выйти."
 
 #. comic120 panel p4
 #. slot: narration (if any, else cut)
 #. images: sdance2.gif, raddspin.gif, bdance2.gif, a.gif, b.gif, x.gif, y.gif
 #: kidradd/comic120.htm:252
+#, fuzzy
 msgctxt "comic120#p4.1"
 msgid "Click the red buttons to dance!<br>Click 'next' to quit."
-msgstr ""
+msgstr "Жмите красные кнопки, чтобы танцевать!<br>Жмите «next», чтобы выйти."
 
 #. comic120 panel p5
 #. slot: narration (if any, else cut)
 #. images: sheenawalk2.gif, raddwalk.gif, bogeywalk2.gif, a.gif, b.gif, x.gif, y.gif
 #: kidradd/comic120.htm:305
+#, fuzzy
 msgctxt "comic120#p5.1"
 msgid "Click the red buttons to dance!<br>Click 'next' to quit."
-msgstr ""
+msgstr "Жмите красные кнопки, чтобы танцевать!<br>Жмите «next», чтобы выйти."
 
 #. comic120 panel p6
 #. slot: left bubble
 #. images: sheenastare.gif, raddstare2.gif, bogeysigh.gif
 #: kidradd/comic120.htm:362
+#, fuzzy
 msgctxt "comic120#p6.1"
 msgid "Wow, that was a short party."
-msgstr ""
+msgstr "Ого, короткая вышла вечеринка."
 
 #. comic120 panel p6
 #. slot: right bubble
 #. images: sheenastare.gif, raddstare2.gif, bogeysigh.gif
 #: kidradd/comic120.htm:366
+#, fuzzy
 msgctxt "comic120#p6.2"
 msgid "I guess the reader's John Ashcroft."
-msgstr ""
+msgstr "Видимо, наш читатель — Джон Эшкрофт."
 
 #. comic120 panel p6
 #. slot: insert ground "tiles" on this line
 #. images: sheenastare.gif, raddstare2.gif, bogeysigh.gif
 #: kidradd/comic120.htm:375
+#, fuzzy
 msgctxt "comic120#p6.3"
 msgid "Next week: Plot! I promise!"
-msgstr ""
+msgstr "На следующей неделе: сюжет! Честно!"

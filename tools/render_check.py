@@ -54,11 +54,19 @@ def main():
     ap.add_argument('pages', nargs='*')
     ap.add_argument('--all', action='store_true')
     ap.add_argument('--tolerance', type=int, default=1, help='pixels of growth to ignore')
+    ap.add_argument('--out', help='built Russian site to check (default: ru/)')
+    ap.add_argument('--chapters', help='only pages of these chapters, e.g. "2,3,5"')
     args = ap.parse_args()
+    if args.out:
+        K.OUT = os.path.abspath(args.out)
 
     from playwright.sync_api import sync_playwright
 
     pages = args.pages or (K.comic_pages() if args.all else translated_pages())
+    if args.chapters:
+        want = {int(c) for c in args.chapters.split(',')}
+        chs = K.chapters()
+        pages = [p for p in pages if K.chapter_of(p, chs) in want]
     if not pages:
         print('No translated pages yet.')
         return
