@@ -15,7 +15,7 @@ See README.md for layout and workflow. Key rules:
 ## Translation style
 
 - Names (fixed, in glossary.tsv; full list in translation/NAMES.md): Radd → Улёт, Sheena → Шина,
-  Bogey → Бяка, Gnarl → Отпад, Cool Ragnarok / C.R. / Seer → Отпадный Коллапс / О.Ко / Око
+  Bogey → Бяка (male: masculine agreement — «бродячий Бяка», «Бяка сказал»), Gnarl → Отпад, Cool Ragnarok / C.R. / Seer → Отпадный Коллапс / О.Ко / Око
   (masculine, as «he» in the comic: «Око сказал»), Kobayashi the Discount Ninja →
   Кобаяси — копеечный ниндзя, Kielbasa (Radd's nickname) → Кулебяси, Captain QB → Капитан QB,
   GI Guy → Воин, Benny DaBunny → Зайка Бэнни, Lucky Penny → «Монетка на удачу»,

@@ -82,7 +82,7 @@ msgstr "Что происходит? Почему я не двигаюсь?"
 #, fuzzy
 msgctxt "comic33#p2.1"
 msgid "Oh no, a stray Bogey! C'mon player, aren't you gonna make me shoot or jump or something?"
-msgstr "О нет, бродячая Бяка! Ну же, игрок, заставь меня стрелять, прыгать или типа того!"
+msgstr "О нет, бродячий Бяка! Ну же, игрок, заставь меня стрелять, прыгать или типа того!"
 
 #. comic33 panel p3
 #. slot: middle bubble

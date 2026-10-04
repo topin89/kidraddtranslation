@@ -3,7 +3,7 @@
 # Russian patterns are stems so any case form passes (Шина/Шины/Шину...). Patterns are case-sensitive.
 \bRadd\b	Ул[её]т	Radd -> Улёт (writing «Улет» without ё is tolerated by the check)
 \bSheena\b	Шин	Sheena -> Шина
-\bBogey\b	Бяк	Bogey -> Бяка
+\bBogey\b	Бяк	Bogey -> Бяка (male: masculine agreement — «бродячий Бяка», «Бяка сказал»)
 \bGnarl\b	Отпад	Gnarl -> Отпад
 \bCool Ragnarok\b	Отпадн\w+ Коллапс	Cool Ragnarok -> Отпадный Коллапс
 \bC\.R\.	О\.Ко	C.R. -> О.Ко

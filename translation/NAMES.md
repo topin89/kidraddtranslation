@@ -13,7 +13,7 @@ place that doesn't match the glossary.
 | Kid Radd (the game) | «Улёт-парень» | fixed | «Улёт» stays fixed: Улёт-парню, об Улёт-парне |
 | Kielbasa (Radd's nickname) | Кулебяси | fixed | comic204; also the Keilbasi/Keilbasa spellings |
 | Sheena | Шина | fixed | |
-| Bogey / Bogeys | Бяка / Бяки | fixed | |
+| Bogey / Bogeys | Бяка / Бяки | fixed | male: masculine agreement («бродячий Бяка», «Бяка сказал») |
 | Gnarl | Отпад | fixed | |
 | Gnarlborg 2000 | Отпадборг 2000 | prov. | comic23 |
 | Cool Ragnarok / C.R. / Seer | Отпадный Коллапс / О.Ко / Око | fixed | masculine throughout, as the comic says «he»: «Око сказал», «весь Око» |
